@@ -3,7 +3,7 @@ from collections import defaultdict
 
 def parse_line(number, text, ddct):
     for i, char in enumerate(text):
-        if char not in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789":
+        if char not in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789,>:-’“.”+/éçãâàôõúë={}*'<>~ê?óñ[]íÁÂüá();‘!":
             ddct[char] += [(number, text[i - 5:i + 20])]
 
 ddct = defaultdict(list)
