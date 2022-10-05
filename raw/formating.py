@@ -1,31 +1,26 @@
 from collections import defaultdict
 
 
-def blocking(number, text, ddct):
-    print(text)
-    for concept, line in enumerate(text):
-        print(concept, line)
-        line.split(":")
-        for lang in line:
-            ddct[lang] = []
+def block(number, text, ddct):
+    #print(text)
+    concept_entries = []
+    line_list = text.split(":")
+    #print(line_list)
+    for entry in line_list:
+        #print(entry)
+        concept_entries.append(entry)
+        print(concept_entries)
 
 ddct = defaultdict(list)
 text = open('raw_oliveira.txt', 'r', encoding="utf8").read()
 text = text.split("\n")
+#print(text)
 for l in text:
     start = l.split(".")[0]
-    blocking(start, l, ddct)
+    block(start, l, ddct)
 
 
-def parse(doc):
-    for line in doc:
-        concept_entries = []
-        line_list = line.split(":")
-        print(line_list)
-        for entry in line_list:
-            print(entry)
-            concept_entries.append(entry)
-        print(concept_entries)
+
 
 
 # parse(text)
