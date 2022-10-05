@@ -15,6 +15,18 @@ for l in text:
     blocking(start, l, ddct)
 
 
+def parse(doc):
+    for line in doc:
+        concept_entries = []
+        line_list = line.split(":")
+        print(line_list)
+        for entry in line_list:
+            print(entry)
+            concept_entries.append(entry)
+        print(concept_entries)
+
+
+parse(text)
 
 
 
