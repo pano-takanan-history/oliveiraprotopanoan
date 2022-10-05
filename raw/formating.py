@@ -2,7 +2,9 @@ from collections import defaultdict
 
 
 def blocking(number, text, ddct):
+    print(text)
     for concept, line in enumerate(text):
+        print(concept, line)
         line.split(":")
         for lang in line:
             ddct[lang] = []
@@ -26,7 +28,7 @@ def parse(doc):
         print(concept_entries)
 
 
-parse(text)
+# parse(text)
 
 
 
