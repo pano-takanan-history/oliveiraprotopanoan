@@ -9,7 +9,12 @@ def block(number, text, ddct):
     for entry in line_list:
         #print(entry)
         concept_entries.append(entry)
-        print(concept_entries)
+        header = concept_entries[0]
+        for i in concept_entries:
+            blocks = zip(header, concept_entries[i])
+            print(blocks)
+
+
 
 ddct = defaultdict(list)
 text = open('raw_oliveira.txt', 'r', encoding="utf8").read()
