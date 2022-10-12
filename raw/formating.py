@@ -7,21 +7,38 @@ def block(number, text, ddct):
     line_list = text.split(":")
     # print(line_list)
     # print(number)
-    identifier = line_list[0]
-    #print(identifier)
-    entry_list = []
-    for line in line_list:
+    idf = line_list[0]
+    #print(idf)
+    rest = line_list[1:]
+    #print(rest)
+    for entry in rest:
+        #print(entry)
+        lang = [x for x in entry.split() if x]
+        #print(lang)
+        lng = lang[0]
+        #print(lng)
+        new_entry = " ".join(entry.split(" ")[1:])
+        #print(new_entry)
+        #lang = [x for x in entry.split() if x]
+        #print(lang)
+        print("Language: {0} | entry: {1}".format(lng, new_entry))
+
+
+
+    #entry_list = []
+
+    #for line in line_list:
         #print(line)
-        if line == identifier:
-            protoform = line.split("‘")[0]
-            protoform = protoform.split("(")[0]
+    #    if line == idf:
+     #       protoform = line.split("‘")[0]
+      #      protoform = protoform.split("(")[0]
             #print(protoform)
-            pass
-        else:
-            lang = line.split(" ")
+       #     pass
+        #else:
+         #   lang = line.split(" ")
             #print(lang)
-            while ("" in lang):
-                lang.remove("")
+          #  while ("" in lang):
+           #     lang.remove("")
                 #print(lang)
 
 
