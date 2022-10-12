@@ -18,13 +18,16 @@ def block(number, text, ddct):
         lng = lang[0]
         #print(lng)
         new_entry1 = " ".join(entry.split(" ")[1:])
-        print(entry.split(" "))
+        #print(entry.split(" "))
+        #print(new_entry1)
         new_entry2 = " ".join(entry.split(" ")[2:])
-        #print(new_entry)
-        #lang = [x for x in entry.split() if x]
-        #print(lang)
-        # print("Language: {0} | entry: {1}".format(lng, new_entry))
-        print("Language: {0} | entry: {1}".format(lng, new_entry2))
+        #print(new_entry2)
+        #print("Language: {0} | entry: {1}".format(lng, new_entry))
+        #print("Language: {0} | entry: {1}".format(lng, new_entry2))
+        concepts = new_entry2[new_entry2.find("‘") + 1:new_entry2.find("’")]
+        print(concepts)
+        # source = line[line.find("(") + 1:line.find(")")]
+
 
 
     #entry_list = []
