@@ -17,12 +17,14 @@ def block(number, text, ddct):
         #print(lang)
         lng = lang[0]
         #print(lng)
-        new_entry = " ".join(entry.split(" ")[1:])
+        new_entry1 = " ".join(entry.split(" ")[1:])
+        print(entry.split(" "))
+        new_entry2 = " ".join(entry.split(" ")[2:])
         #print(new_entry)
         #lang = [x for x in entry.split() if x]
         #print(lang)
-        print("Language: {0} | entry: {1}".format(lng, new_entry))
-
+        # print("Language: {0} | entry: {1}".format(lng, new_entry))
+        print("Language: {0} | entry: {1}".format(lng, new_entry2))
 
 
     #entry_list = []
