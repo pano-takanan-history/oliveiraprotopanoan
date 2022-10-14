@@ -13,7 +13,6 @@ def block(number, text, ddct):
     #print(rest)
     for entry in rest:
         #print(entry)
-        #print(entry)
         lang = [x for x in entry.split() if x]
         #print(lang)
         lng = lang[0]
@@ -22,6 +21,7 @@ def block(number, text, ddct):
         #print(entry.split(" "))
         #print(new_entry1)
         new_entry2 = " ".join(entry.split(" ")[2:])
+        #print(new_entry2)
         #if "‘" in new_entry2:
             #print("true:", new_entry2)
             #pass
@@ -32,9 +32,12 @@ def block(number, text, ddct):
         concepts = new_entry2[new_entry2.find("‘") + 1:new_entry2.find("’")]
         if not "‘" in new_entry2:
             concepts = ''
-        print(concepts)
-
-        # source = line[line.find("(") + 1:line.find(")")]
+        #print(concepts)
+        new_entry3 = [x for x in new_entry2 if x not in concepts]
+        #print(new_entry3)
+        #forms = " ".join(new_entry3.split(" ")[0:])
+        #print(forms)
+        #print("Language: {0} | entry: {1} | concept: {2}".format(lng, new_entry3, concepts))
 
 
 
