@@ -35,9 +35,9 @@ def block(number, text, ddct):
         #print(concepts)
         new_entry3 = [x for x in new_entry2 if x not in concepts]
         #print(new_entry3)
-        #forms = " ".join(new_entry3.split(" ")[0:])
+        forms = "".join(new_entry3)
         #print(forms)
-        #print("Language: {0} | entry: {1} | concept: {2}".format(lng, new_entry3, concepts))
+        print("Language: {0} | entry: {1} | concept: {2}".format(lng, forms, concepts))
 
 
 
