@@ -13,6 +13,7 @@ def block(number, text, ddct):
     #print(rest)
     for entry in rest:
         #print(entry)
+        #print(entry)
         lang = [x for x in entry.split() if x]
         #print(lang)
         lng = lang[0]
@@ -21,11 +22,10 @@ def block(number, text, ddct):
         #print(entry.split(" "))
         #print(new_entry1)
         new_entry2 = " ".join(entry.split(" ")[2:])
-        #print(new_entry2)
-        if new_entry2.find("‘"):
-            pass
+        if "‘" in new_entry2:
+            print("true:", new_entry2)
         else:
-            print(new_entry2)
+            print("false:", new_entry2)
         #print("Language: {0} | entry: {1}".format(lng, new_entry))
         #print("Language: {0} | entry: {1}".format(lng, new_entry2))
         concepts = new_entry2[new_entry2.find("‘") + 1:new_entry2.find("’")]
