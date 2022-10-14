@@ -22,14 +22,17 @@ def block(number, text, ddct):
         #print(entry.split(" "))
         #print(new_entry1)
         new_entry2 = " ".join(entry.split(" ")[2:])
-        if "‘" in new_entry2:
-            print("true:", new_entry2)
-        else:
-            print("false:", new_entry2)
+        #if "‘" in new_entry2:
+            #print("true:", new_entry2)
+            #pass
+        #else:
+            #print("false:", new_entry2)
         #print("Language: {0} | entry: {1}".format(lng, new_entry))
         #print("Language: {0} | entry: {1}".format(lng, new_entry2))
         concepts = new_entry2[new_entry2.find("‘") + 1:new_entry2.find("’")]
-        #print(concepts)
+        if not "‘" in new_entry2:
+            concepts = ''
+        print(concepts)
 
         # source = line[line.find("(") + 1:line.find(")")]
 
