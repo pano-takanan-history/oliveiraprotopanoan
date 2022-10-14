@@ -30,17 +30,20 @@ def block(number, text, ddct):
         #print("Language: {0} | entry: {1}".format(lng, new_entry))
         #print("Language: {0} | entry: {1}".format(lng, new_entry2))
         concepts = new_entry2[new_entry2.find("‘") + 1:new_entry2.find("’")]
-        # if not "‘" in new_entry2:
-        #     concepts = ''
+        if not "‘" in new_entry2:
+            concepts = ''
         # print(concepts)
-        print(new_entry2)
+        #print(new_entry2)
         for x in new_entry2:
             if x in concepts:
                 print(x)
-        new_entry3 = [x for x in new_entry2 if x in concepts]
+                pass
+        if "o" in concepts:
+            print("This statement deletes any o you might encounter")
+        new_entry3 = [x for x in new_entry2 if x not in concepts]
         forms = "".join(new_entry3)
         # print(forms)
-        # print("Language: {0} | entry: {1} | concept: {2}".format(lng, forms, concepts))
+        print("Language: {0} | entry: {1} | concept: {2}".format(lng, forms, concepts))
 
 
 
