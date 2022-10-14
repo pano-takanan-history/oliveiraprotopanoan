@@ -18,17 +18,9 @@ def block(number, text, ddct):
         lng = lang[0]
         #print(lng)
         new_entry1 = " ".join(entry.split(" ")[1:])
-        #print(entry.split(" "))
-        #print(new_entry1)
         new_entry2 = " ".join(entry.split(" ")[2:])
-        #print(new_entry2)
-        #if "‘" in new_entry2:
-            #print("true:", new_entry2)
-            #pass
-        #else:
-            #print("false:", new_entry2)
-        #print("Language: {0} | entry: {1}".format(lng, new_entry))
-        #print("Language: {0} | entry: {1}".format(lng, new_entry2))
+        new_entry3 = list(new_entry2.split(" "))
+        #print(new_entry3)
         concepts = new_entry2[new_entry2.find("‘") + 1:new_entry2.find("’")]
         if not "‘" in new_entry2:
             concepts = ''
@@ -37,20 +29,14 @@ def block(number, text, ddct):
         #concepts_2 = " ".join(concepts.split())
         #print(type(concepts_2))
         #print(concepts_2)
-        #for x in new_entry2:
-         #   if x in concepts:
-          #     print(x)
-        #        pass
-        #if "o" in concepts:
-            #print("This statement deletes any o you might encounter")
-        new_entry3 = [x for x in new_entry2 if x not in concepts_2]
+        new_entry4 = [x for x in new_entry3 if x not in concepts_2]
         #forms = list(new_entry3.split(" "))
-        #forms = " ".join(new_entry3.split())
-        #print(type(new_entry3))
-        #print(new_entry3)
+        #forms = "".join(new_entry3)
+        #print(type(new_entry4))
+        #print(new_entry4)
         #forms = list(new_entry3.split())
         #print(type(forms))
-        #print(forms)
+       # print(forms)
         #print("Language: {0} | entry: {1} | concept: {2}".format(lng, forms, concepts_2))
 
 
