@@ -33,7 +33,7 @@ def block(number, text, ddct):
         if not "‘" in new_entry2:
             concepts = ''
         #print(concepts)
-        concepts_2 = list(concepts.split())
+        concepts_2 = list(concepts.split(" "))
         #concepts_2 = " ".join(concepts.split())
         #print(type(concepts_2))
         #print(concepts_2)
@@ -44,7 +44,10 @@ def block(number, text, ddct):
         #if "o" in concepts:
             #print("This statement deletes any o you might encounter")
         new_entry3 = [x for x in new_entry2 if x not in concepts_2]
+        #forms = list(new_entry3.split(" "))
+        #forms = " ".join(new_entry3.split())
         #print(type(new_entry3))
+        #print(new_entry3)
         #forms = list(new_entry3.split())
         #print(type(forms))
         #print(forms)
