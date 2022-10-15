@@ -43,31 +43,38 @@ with open("raw_oliveira-mod.txt") as f:
                     bad_entry = False
                     language = entry[:entry.index(" ")]
                     erest = entry[entry.index(" "):].strip()
-                    if "‘" in erest:
-                        try:
-                            form, concept = erest.split("‘")
-                            form = form.strip()
-                            concept = concept.strip()
-                        except:
-                            bad_entries += [(idx, entry)]
-                            bad_entry = True
+                    if "," in erest:
+                        erests = [x.strip() for x in erest.split(",")]
                     else:
-                        form = erest
-                        concept = pconcept
-                    if not bad_entry:
-                        print(idx, language, form, concept)
+                        erests = [erest]
+                    for erest in erests:
+                        if "‘" in erest:
+                            try:
+                                form, concept = erest.split("‘")
+                                form = form.strip()
+                                concept = concept.strip()
+                            except:
+                                bad_entries += [(idx, entry)]
+                                bad_entry = True
+                        else:
+                            form = erest
+                            concept = pconcept
+                        if not bad_entry:
+                            print(idx, language, form, concept)
 
-                    
+                        
 print("")
 
 # print out bad lines
-print("# Found {0} lines without spaces".format(len(bad_lines)))
+print("# Found {0} lines without spaces\n".format(len(bad_lines)))
+print("Number | Line\n--- | ---")
 for i, line in enumerate(bad_lines):
-    print("- {0:5} || {1}".format(i+1, line))
+    print("{0:5} | {1}".format(i+1, line))
 print("")
-print("# Found {0} entries with individual problematic entries".format(
+print("# Found {0} entries with individual problematic entries\n".format(
     len(bad_entries)))
+print("Number | Line ID | Entry\n--- | --- | ---")
 for i, (a, b) in enumerate(bad_entries):
-    print("- {0:5} || {1:20} || {2}".format(i+1, a, b))
+    print("{0} | {1:20} | {2}".format(i+1, a, b))
 
 
