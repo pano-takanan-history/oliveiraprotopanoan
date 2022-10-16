@@ -120,9 +120,9 @@ with open("raw_oliveira-mod.txt") as f:
                                         form,
                                         uncertainty,
                                         tokens,
-                                        note, 
+                                        note.strip("(").strip(")"), 
                                         pform,
-                                        pconcept, 
+                                        pconcept.replace(";;", ","), 
                                         entry
                                         ]
                                 print(idx, language, form, concept)
