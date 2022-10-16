@@ -1,21 +1,23 @@
 import re
 from collections import OrderedDict
+from lingpy import *
 
-
-with open("replacements.txt") as f:
+# load and apply replacements file
+with open("replacements.tsv") as f:
     rep = {}
     for line in f.readlines():
         a, b = line.split("\t")
         if a != "CHAR":
             rep[eval('"'+a+'"')] = b.strip()
 
+# load languages to check entries
 with open("../etc/languages.tsv") as f:
     langs = {}
     for row in f:
         ents = row.split("\t")
         langs[ents[1]] = ents[0]
 
-# load the data
+# load the data and parse it directly
 bad_lines = []
 bad_entries = []
 oid = 1
@@ -26,14 +28,14 @@ with open("raw_oliveira-mod.txt") as f:
         # get first parts with indices
         idx, rest = line[:line.index(".")], line[line.index(".")+1:].strip()
         
-        # we ignore lines that are difficult (two so far)
+        # we ignore lines that are difficult, with multiple proto-forms (two so far)
         if idx.startswith("!"):
             pass
         else:
             # start by separating proto-forms
             proto, rest = rest[:line.index(" : ")-3].strip(), rest[rest.index(" : ")+3:]
 
-            # proto-form and cocept
+            # proto-form and concept
             if "‘" in proto:
                 pform, pconcept = proto.strip()[:-1].split("‘")
                 pconcept = pconcept.strip().strip("’")
@@ -70,19 +72,59 @@ with open("raw_oliveira-mod.txt") as f:
                                     else:
                                         if "’" in concept:
                                             note = concept.split("’")[1]
+                                            concept = concept.split("’")[0]
                                         else:
                                             note = ""
                                 except:
                                     bad_entries += [(idx, entry)]
                                     bad_entry = True
                             else:
-                                form = erest
-                                concept = "**"+pconcept
-                                note = ""
+                                if "(" in erest and ")" in erest:
+                                    try:
+                                        form, note = erest.split("(")
+                                        note = note.strip(")")
+                                    except:
+                                        bad_entries += [(idx, entry)]
+                                        bad_entry = True
+                                else:
+                                    form = erest
+                                    concept = "!!"+pconcept
+                                    note = ""
                             if not bad_entry:
-                                data[oid] = [idx, langs[language], form, concept,
-                                        note, pform,
-                                        pconcept, entry]
+                                try:
+                                    tokens = " ".join(ipa2tokens(form))
+                                except:
+                                    tokens = ""
+                                # form uncertainty
+                                if form.startswith("**"):
+                                    form = form[2:]
+                                    uncertainty = "1"
+                                else:
+                                    uncertainty = ""
+                                # concept from base form
+                                if concept.startswith("!!"):
+                                    concept = concept[2:]
+                                    from_base = "1"
+                                else:
+                                    from_base = ""
+                                if concept.startswith("**"):
+                                    concept = concept[2:]
+                                    concept_uncertain = "1"
+                                else:
+                                    concept_uncertain = ""
+
+                                data[oid] = ["§"+idx, langs[language], language, 
+                                        concept.replace(";;", ","),
+                                        from_base,
+                                        concept_uncertain,
+                                        form,
+                                        uncertainty,
+                                        tokens,
+                                        note, 
+                                        pform,
+                                        pconcept, 
+                                        entry
+                                        ]
                                 print(idx, language, form, concept)
                                 oid += 1
                     else:
@@ -104,8 +146,24 @@ for i, (a, b) in enumerate(bad_entries):
     print("{0} | {1:20} | {2}".format(i+1, a, b))
 
 with open("parsed-entries.tsv", "w") as f:
+    f.write("\t".join([
+        "ID",
+        "IDX",
+        "DOCULECT",
+        "DOCULECTID",
+        "CONCEPT",
+        "CONCEPT_FROM_PROTO",
+        "CONCEPT_ADDED",
+        "VALUE",
+        "VALUE_UNCERTAIN",
+        "TOKENS",
+        "NOTE",
+        "PROTOFORM",
+        "PROTOCONCEPT",
+        "ENTRY_IN_SOURCE"
+        ])+"\n")
     for idx, vals in data.items():
-        if vals[2].strip() in ["--", "--"] or not vals[2].strip():
+        if vals[6].strip() in ["--"] or not vals[6].strip():
             pass
         else:
             f.write(str(idx)+"\t"+"\t".join(vals)+"\n")
