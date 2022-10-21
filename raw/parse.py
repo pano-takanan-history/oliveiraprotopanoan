@@ -3,7 +3,7 @@ from collections import OrderedDict
 from lingpy import *
 
 # load and apply replacements file
-with open("replacements.tsv") as f:
+with open("replacements.tsv", encoding="utf8") as f:
     rep = {}
     for line in f.readlines():
         a, b = line.split("\t")
@@ -21,7 +21,7 @@ with open("../etc/languages.tsv") as f:
 bad_lines = []
 bad_entries = []
 oid = 1
-with open("raw_oliveira-mod.txt") as f:
+with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
     data = OrderedDict()
     for line in f:
         line = "".join([rep.get(c, c) for c in line])
