@@ -1,6 +1,7 @@
 import re
 from collections import OrderedDict
 from lingpy import *
+import codecs
 
 # load and apply replacements file
 with open("replacements.tsv", encoding="utf8") as f:
@@ -11,7 +12,7 @@ with open("replacements.tsv", encoding="utf8") as f:
             rep[eval('"'+a+'"')] = b.strip()
 
 # load languages to check entries
-with open("../etc/languages.tsv") as f:
+with codecs.open("../etc/languages.tsv", "r", "utf-8") as f:
     langs = {}
     for row in f:
         ents = row.split("\t")
@@ -145,7 +146,7 @@ print("Number | Line ID | Entry\n--- | --- | ---")
 for i, (a, b) in enumerate(bad_entries):
     print("{0} | {1:20} | {2}".format(i+1, a, b))
 
-with open("parsed-entries.tsv", "w") as f:
+with codecs.open("parsed-entries2.tsv", "w", "utf-8") as f:
     f.write("\t".join([
         "ID",
         "IDX",
