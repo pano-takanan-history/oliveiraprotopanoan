@@ -84,7 +84,6 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                     bad_entry = True
                             else:
                                 if "(" in erest and ")" in erest:
-                                    #print(erest)
                                     try:
                                         form, note = erest.split("(")
                                         note = note.strip(")")
@@ -93,6 +92,8 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         bad_entry = True
                                 else:
                                     form = erest
+                                    if "1,2,3,4,5,6,7,8,9" in form:
+                                        print(form)
                                     concept = "!!"+pconcept
                                     note = ""
                             if not bad_entry:
