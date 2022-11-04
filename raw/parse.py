@@ -28,6 +28,9 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
         line = "".join([rep.get(c, c) for c in line])
         # get first parts with indices
         idx, rest = line[:line.index(".")], line[line.index(".")+1:].strip()
+
+        #if "(también" in line:
+            #print(line)
         
         # we ignore lines that are difficult, with multiple proto-forms (two so far)
         if idx.startswith("!"):
@@ -46,7 +49,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
             else:
                 # take concept declared previously
                 pform = proto.strip()
-            print(idx, pform, pconcept)
+            #print(idx, pform, pconcept)
             # split entries now to get individual entries here with regexes
             for entry in rest.split(" : "):
                 if (":" in entry and not "::" in entry) or not " " in entry:
@@ -81,6 +84,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                     bad_entry = True
                             else:
                                 if "(" in erest and ")" in erest:
+                                    #print(erest)
                                     try:
                                         form, note = erest.split("(")
                                         note = note.strip(")")
@@ -126,7 +130,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         pconcept.replace(";;", ","), 
                                         entry
                                         ]
-                                print(idx, language, form, concept)
+                                #print(idx, language, form, concept)
                                 oid += 1
                     else:
                         bad_entries += [(idx, entry)]
