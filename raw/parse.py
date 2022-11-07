@@ -21,6 +21,7 @@ with codecs.open("../etc/languages.tsv", "r", "utf-8") as f:
 # load the data and parse it directly
 bad_lines = []
 bad_entries = []
+bracket_count = 0
 oid = 1
 with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
     data = OrderedDict()
@@ -131,6 +132,9 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         pconcept.replace(";;", ","), 
                                         entry
                                         ]
+                                if "[" in form:
+                                    print(form)
+                                    bracket_count += 1
                                 #print(idx, language, form, concept)
                                 oid += 1
                     else:
@@ -174,3 +178,4 @@ with codecs.open("parsed-entries2.tsv", "w", "utf-8") as f:
         else:
             f.write(str(idx)+"\t"+"\t".join(vals)+"\n")
         
+print(bracket_count)
