@@ -93,8 +93,8 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         bad_entry = True
                                 else:
                                     form = erest
-                                    if "1,2,3,4,5,6,7,8,9" in form:
-                                        print(form)
+                                    # if "1,2,3,4,5,6,7,8,9" in form:
+                                    #     print(form)
                                     concept = "!!"+pconcept
                                     note = ""
                             if not bad_entry:
@@ -120,6 +120,13 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                 else:
                                     concept_uncertain = ""
 
+                                if re.search("[A-Z]*, [0-9]{4}", note):
+                                    source = re.sub(r'(\(|\)|^\s)', '', note)
+                                    # print(source)
+                                    note = ""
+                                else:
+                                    source=""
+
                                 data[oid] = ["§"+idx, langs[language], language, 
                                         concept.replace(";;", ","),
                                         from_base,
@@ -127,20 +134,21 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         form,
                                         uncertainty,
                                         tokens,
-                                        note.strip("(").strip(")"), 
+                                        note.strip("(").strip(")"),
+                                        source,
                                         pform,
-                                        pconcept.replace(";;", ","), 
+                                        pconcept.replace(";;", ","),
                                         entry
                                         ]
-                                if "[" in form:
-                                    print(form)
-                                    bracket_count += 1
-                                #print(idx, language, form, concept)
+                                # if "(" in note:
+                                #     print(note)
+                                #     bracket_count += 1
+                                # print(idx, language, form, concept)
                                 oid += 1
                     else:
                         bad_entries += [(idx, entry)]
 
-                        
+
 print("")
 
 # print out bad lines
@@ -168,6 +176,7 @@ with codecs.open("parsed-entries2.tsv", "w", "utf-8") as f:
         "VALUE_UNCERTAIN",
         "TOKENS",
         "NOTE",
+        "SOURCE",
         "PROTOFORM",
         "PROTOCONCEPT",
         "ENTRY_IN_SOURCE"
@@ -177,5 +186,5 @@ with codecs.open("parsed-entries2.tsv", "w", "utf-8") as f:
             pass
         else:
             f.write(str(idx)+"\t"+"\t".join(vals)+"\n")
-        
+
 print(bracket_count)
