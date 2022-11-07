@@ -121,11 +121,14 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                     concept_uncertain = ""
 
                                 if re.search("[A-Z]*, [0-9]{4}", note):
-                                    source = re.sub(r'(\(|\)|^\s)', '', note)
-                                    # print(source)
-                                    note = ""
+                                    if re.search("[a-z]", note):
+                                        pass
+                                    else:
+                                        source = re.sub(r'(\(|\)|^\s)', '', note)
+                                        # print(source)
+                                        note = ""
                                 else:
-                                    source=""
+                                    source = ""
 
                                 data[oid] = ["§"+idx, langs[language], language, 
                                         concept.replace(";;", ","),
