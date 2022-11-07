@@ -21,7 +21,7 @@ with codecs.open("../etc/languages.tsv", "r", "utf-8") as f:
 # load the data and parse it directly
 bad_lines = []
 bad_entries = []
-bracket_count = 0
+#bracket_count = 0
 oid = 1
 with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
     data = OrderedDict()
@@ -57,6 +57,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                     bad_entries += [(idx, entry)]
                 else:
                     entry = entry.replace("::", ":")
+                    #print(entry)
                     bad_entry = False
                     language = entry[:entry.index(" ")]
                     if language in langs:
@@ -65,6 +66,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                             erests = [x.strip() for x in erest.split(",")]
                         else:
                             erests = [erest]
+                            #print(erest)
                         for erest in erests:
                             erest = erest.replace(";;", ",")
                             if "‘" in erest:
@@ -87,14 +89,19 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                 if "(" in erest and ")" in erest:
                                     try:
                                         form, note = erest.split("(")
+                                        #print(form)
                                         note = note.strip(")")
+                                        print(note)
+                                        if note.isupper():
+                                            source = note.split(")")[1]
+                                            note = note.split(")")[0]
+                                            print(source)
                                     except:
                                         bad_entries += [(idx, entry)]
                                         bad_entry = True
                                 else:
                                     form = erest
-                                    if "1,2,3,4,5,6,7,8,9" in form:
-                                        print(form)
+                                    #print(form)
                                     concept = "!!"+pconcept
                                     note = ""
                             if not bad_entry:
@@ -132,9 +139,9 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         pconcept.replace(";;", ","), 
                                         entry
                                         ]
-                                if "[" in form:
-                                    print(form)
-                                    bracket_count += 1
+                                #if "[" in form:
+                                    #print(form)
+                                    #bracket_count += 1
                                 #print(idx, language, form, concept)
                                 oid += 1
                     else:
@@ -178,4 +185,4 @@ with codecs.open("parsed-entries2.tsv", "w", "utf-8") as f:
         else:
             f.write(str(idx)+"\t"+"\t".join(vals)+"\n")
         
-print(bracket_count)
+#print(bracket_count)
