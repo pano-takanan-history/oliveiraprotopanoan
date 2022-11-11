@@ -15,7 +15,7 @@ with open("../etc/languages.tsv") as f:
     langs = {}
     for row in f:
         ents = row.split("\t")
-        langs[ents[1]] = ents[0]
+        langs[ents[2]] = ents[1]
 
 # load the data and parse it directly
 bad_lines = []
