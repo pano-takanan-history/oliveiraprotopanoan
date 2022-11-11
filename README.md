@@ -35,20 +35,26 @@ If synonyms occurred, we tokenize the first form. However, the following words a
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 31%](https://img.shields.io/badge/Concepticon-31%25-red.svg "Concepticon: 31%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![BIPA: 48%](https://img.shields.io/badge/BIPA-48%25-red.svg "BIPA: 48%")
+![CLTS SoundClass: 48%](https://img.shields.io/badge/CLTS%20SoundClass-48%25-red.svg "CLTS SoundClass: 48%")
 
 - **Varieties:** 19
-- **Concepts:** 2,438
-- **Lexemes:** 6,947
+- **Concepts:** 2,439
+- **Lexemes:** 6,934
 - **Sources:** 0
-- **Synonymy:** 1.09
-- **Cognacy:** 6,947 cognates in 517 cognate sets (1 singletons)
+- **Synonymy:** 1.10
+- **Cognacy:** 6,934 cognates in 517 cognate sets (1 singletons)
 - **Cognate Diversity:** -0.43
+- **Invalid lexemes:** 0
+- **Tokens:** 35,073
+- **Segments:** 162 (85 BIPA errors, 85 CLTS sound class errors, 77 CLTS modified)
+- **Inventory size (avg):** 49.58
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 6947/6947 (100.00%)
+- Entries missing sources: 6934/6934 (100.00%)
 
 # Contributors
 

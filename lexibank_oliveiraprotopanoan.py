@@ -31,7 +31,11 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
-    form_spec = FormSpec(separators="~;,/", missing_data=["--"], first_form_only=True)
+    form_spec = FormSpec(
+            separators="~;,/", 
+            missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
+            replacements=[(" ", "_")],
+            first_form_only=True)
 
     def cmd_makecldf(self, args):
         # add bib
