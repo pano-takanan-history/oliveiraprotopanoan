@@ -35,7 +35,8 @@ class Dataset(BaseDataset):
             separators="~;,/", 
             missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
             replacements=[(" ", "_")],
-            first_form_only=True)
+            first_form_only=True
+            )
 
     def cmd_makecldf(self, args):
         # add bib
@@ -48,7 +49,7 @@ class Dataset(BaseDataset):
             idx = slug(concept["SPANISH"])
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept["SPANISH"], # TODO must be translated to ENGLISH later!
+                    Name=concept["SPANISH"],  # TODO must be translated to ENGLISH later!
                     Spanish_Gloss=concept["SPANISH"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
@@ -82,7 +83,5 @@ class Dataset(BaseDataset):
                         lexeme=lexeme,
                         Cognateset_ID=entry["IDX"][1:],
                         Cognate_Detection_Method="expert",
-                        #TODO Source="Oliveira" # add bibtex key here
+                        Source="Oliveira2014"
                         )
-
-
