@@ -1,6 +1,7 @@
 import re
 from collections import OrderedDict
 from lingpy import *
+import codecs
 
 # load and apply replacements file
 with open("replacements.tsv", encoding="utf8") as f:
@@ -11,7 +12,7 @@ with open("replacements.tsv", encoding="utf8") as f:
             rep[eval('"'+a+'"')] = b.strip()
 
 # load languages to check entries
-with open("../etc/languages.tsv") as f:
+with codecs.open("../etc/languages.tsv", "r", "utf-8") as f:
     langs = {}
     for row in f:
         ents = row.split("\t")
@@ -20,6 +21,7 @@ with open("../etc/languages.tsv") as f:
 # load the data and parse it directly
 bad_lines = []
 bad_entries = []
+#bracket_count = 0
 oid = 1
 with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
     data = OrderedDict()
@@ -27,6 +29,9 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
         line = "".join([rep.get(c, c) for c in line])
         # get first parts with indices
         idx, rest = line[:line.index(".")], line[line.index(".")+1:].strip()
+
+        #if "(también" in line:
+            #print(line)
         
         # we ignore lines that are difficult, with multiple proto-forms (two so far)
         if idx.startswith("!"):
@@ -45,13 +50,14 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
             else:
                 # take concept declared previously
                 pform = proto.strip()
-            print(idx, pform, pconcept)
+            #print(idx, pform, pconcept)
             # split entries now to get individual entries here with regexes
             for entry in rest.split(" : "):
                 if (":" in entry and not "::" in entry) or not " " in entry:
                     bad_entries += [(idx, entry)]
                 else:
                     entry = entry.replace("::", ":")
+                    #print(entry)
                     bad_entry = False
                     language = entry[:entry.index(" ")]
                     if language in langs:
@@ -60,6 +66,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                             erests = [x.strip() for x in erest.split(",")]
                         else:
                             erests = [erest]
+                            #print(erest)
                         for erest in erests:
                             erest = erest.replace(";;", ",")
                             if "‘" in erest:
@@ -82,12 +89,19 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                 if "(" in erest and ")" in erest:
                                     try:
                                         form, note = erest.split("(")
+                                        #print(form)
                                         note = note.strip(")")
+                                        print(note)
+                                        if note.isupper():
+                                            source = note.split(")")[1]
+                                            note = note.split(")")[0]
+                                            print(source)
                                     except:
                                         bad_entries += [(idx, entry)]
                                         bad_entry = True
                                 else:
                                     form = erest
+                                    #print(form)
                                     concept = "!!"+pconcept
                                     note = ""
                             if not bad_entry:
@@ -125,7 +139,10 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         pconcept.replace(";;", ","), 
                                         entry
                                         ]
-                                print(idx, language, form, concept)
+                                #if "[" in form:
+                                    #print(form)
+                                    #bracket_count += 1
+                                #print(idx, language, form, concept)
                                 oid += 1
                     else:
                         bad_entries += [(idx, entry)]
@@ -145,7 +162,7 @@ print("Number | Line ID | Entry\n--- | --- | ---")
 for i, (a, b) in enumerate(bad_entries):
     print("{0} | {1:20} | {2}".format(i+1, a, b))
 
-with open("parsed-entries.tsv", "w") as f:
+with codecs.open("parsed-entries2.tsv", "w", "utf-8") as f:
     f.write("\t".join([
         "ID",
         "IDX",
@@ -168,3 +185,4 @@ with open("parsed-entries.tsv", "w") as f:
         else:
             f.write(str(idx)+"\t"+"\t".join(vals)+"\n")
         
+#print(bracket_count)
