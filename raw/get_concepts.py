@@ -1,10 +1,9 @@
-from collections import defaultdict
-from lingpy import *
+from lingpy import Wordlist
 from pysem.glosses import to_concepticon
 
-wl = Wordlist("parsed-entries.tsv")
+wl = Wordlist("parsed-entries2.tsv")
 
-with open("../etc/concepts.tsv", "w") as f:
+with open("../etc/concepts.tsv", "w", encoding="utf8") as f:
     f.write("NUMER\tSPANISH\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\tProto-Concept\n")
 
     proto_concepts = []
@@ -14,7 +13,7 @@ with open("../etc/concepts.tsv", "w") as f:
 
     for i, concept in enumerate(wl.concepts):
         if concept in proto_concepts:
-            is_proto = 1
+            PP = 1
             mapped = to_concepticon([{"gloss": concept}], language="es")
 
             if mapped[concept]:
@@ -23,4 +22,4 @@ with open("../etc/concepts.tsv", "w") as f:
             cid, cgl, is_proto = "", "", ""
 
         # print(wl.concepts[i])
-        f.write("{0}\t{1}\t{2}\t{3}\t{4}\n".format(i+1, concept, cid, cgl, is_proto))
+        f.write("{0}\t{1}\t{2}\t{3}\t{4}\n".format(i+1, concept, cid, cgl, PP))

@@ -17,11 +17,13 @@ class CustomLanguage(Language):
 class CustomConcept(Concept):
     Spanish_Gloss = attr.ib(default=None)
 
+
 @attr.s
 class CustomLexeme(Lexeme):
     UncertainCognacy = attr.ib(default=None)
     Concept_From_Proto = attr.ib(default=None)
     Paragraph = attr.ib(default=None)
+    # Source = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
 
 
@@ -63,17 +65,19 @@ class Dataset(BaseDataset):
 
         # read in data
         data = self.raw_dir.read_csv(
-            "parsed-entries.tsv", delimiter="\t", dicts=True
+            "parsed-entries2.tsv", delimiter="\t", dicts=True
         )
         # add data
         visited = set()
         for entry in pb(data, desc="cldfify", total=len(data)):
+            # print(entry)
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[entry["DOCULECTID"]],
                     Parameter_ID=concepts[entry["CONCEPT"].strip()],
                     Value=entry["VALUE"],
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Comment=entry["NOTE"],
+                    # Source=entry["SOURCE"],
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
                     Paragraph=entry["IDX"],
                     Cognacy=entry["IDX"][1:],
