@@ -124,8 +124,9 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                     if re.search("[a-z]", note):
                                         pass
                                     else:
-                                        source = re.sub(r'(\(|\)|^\s)', '', note)
-                                        #print(source)
+                                        source = re.sub(r'(\(|\)|,|\s|\.)', '', note)
+                                        source = re.sub(r'([A-Z]+);([A-Z]+)', '\\1', source)
+                                        # print(source)
                                         note = ""
                                 else:
                                     source = ""
