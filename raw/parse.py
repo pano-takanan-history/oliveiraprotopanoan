@@ -50,7 +50,26 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
             else:
                 # take concept declared previously
                 pform = proto.strip()
-            #print(idx, pform, pconcept)
+            print(idx, pform, pconcept)
+
+            proto_tokens = " ".join(ipa2tokens(pform))
+            data[oid] = ["§"+idx, 
+                "Proto-Panoan",
+                "Proto", 
+                pconcept.replace(";;", ","),
+                "",  # added from proto - not relevant
+                "",
+                pform.replace("*", ""),  # Value
+                "",  # Uncertainty
+                proto_tokens,  # Tokens
+                "",  # Note
+                "Oliveira2012",  # Source
+                pform.replace("*", ""),  # pform
+                pconcept.replace(";;", ","),  #pconcept
+                proto  # whole entry
+                ]
+            oid += 1
+
             # split entries now to get individual entries here with regexes
             for entry in rest.split(" : "):
                 if (":" in entry and not "::" in entry) or not " " in entry:
