@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "3e2d027",
+            "dc:created": "8711080",
             "dc:title": "Repository"
         },
         {
@@ -140,6 +140,10 @@
                     {
                         "datatype": "string",
                         "name": "EntryInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Variants"
                     }
                 ],
                 "foreignKeys": [

@@ -5,118 +5,116 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 5013 | ✓ | ✓ |
-| i | 3584 | ✓ | ✓ |
-| n | 2771 | ✓ | ✓ |
-| ɨ | 2269 | ✓ | ✓ |
-| o | 2146 | ✓ | ✓ |
-| k | 1942 | ✓ | ✓ |
-| <?> | 1775 | ? | ? |
-| m | 1249 | ✓ | ✓ |
-| p | 1209 | ✓ | ✓ |
-| t | 1205 | ✓ | ✓ |
-| ʂ | 1197 | ✓ | ✓ |
-| u | 1159 | ✓ | ✓ |
-| _ | 830 | ✓ | ✓ |
-| w | 666 | ✓ | ✓ |
-| s | 656 | ✓ | ✓ |
-| β | 599 | ✓ | ✓ |
-| ʔ | 537 | ✓ | ✓ |
-| ʃ | 532 | ✓ | ✓ |
-| r | 484 | ✓ | ✓ |
-| <<[>> | 460 | ? | ? |
-| <<]>> | 455 | ? | ? |
-| tʃ | 421 | ✓ | ✓ |
-| y | 418 | ✓ | ✓ |
-| h | 381 | ✓ | ✓ |
+| a | 4811 | ✓ | ✓ |
+| i | 3422 | ✓ | ✓ |
+| n | 2683 | ✓ | ✓ |
+| ɨ | 2197 | ✓ | ✓ |
+| o | 2120 | ✓ | ✓ |
+| k | 1863 | ✓ | ✓ |
+| <?> | 1768 | ? | ? |
+| m | 1196 | ✓ | ✓ |
+| t | 1169 | ✓ | ✓ |
+| ʂ | 1161 | ✓ | ✓ |
+| p | 1158 | ✓ | ✓ |
+| u | 1015 | ✓ | ✓ |
+| w | 649 | ✓ | ✓ |
+| s | 630 | ✓ | ✓ |
+| β | 588 | ✓ | ✓ |
+| _ | 550 | ✓ | ✓ |
+| ʔ | 532 | ✓ | ✓ |
+| ʃ | 508 | ✓ | ✓ |
+| r | 476 | ✓ | ✓ |
+| y | 402 | ✓ | ✓ |
+| tʃ | 401 | ✓ | ✓ |
 | ɸ | 368 | ✓ | ✓ |
 | á | 366 | ✓ | ✓ |
-| ts | 297 | ✓ | ✓ |
-| ã | 296 | ✓ | ✓ |
-| b | 284 | ✓ | ✓ |
+| h | 354 | ✓ | ✓ |
+| ts | 288 | ✓ | ✓ |
+| ã | 286 | ✓ | ✓ |
 | í | 267 | ✓ | ✓ |
-| d | 251 | ✓ | ✓ |
-| i᷈ | 182 | ? | ? |
+| b | 256 | ✓ | ✓ |
+| d | 224 | ✓ | ✓ |
+| <<[>> | 185 | ? | ? |
+| <<]>> | 185 | ? | ? |
+| i᷈ | 178 | ? | ? |
 | ó | 174 | ✓ | ✓ |
-| ɾ | 164 | ✓ | ✓ |
-| e | 131 | ✓ | ✓ |
+| ɾ | 154 | ✓ | ✓ |
 | ɨ́ | 131 | ✓ | ✓ |
+| e | 115 | ✓ | ✓ |
 | x | 104 | ✓ | ✓ |
-| õ | 103 | ✓ | ✓ |
+| õ | 101 | ✓ | ✓ |
 | aa | 78 | ✓ | ✓ |
-| kʷ | 64 | ✓ | ✓ |
+| kʷ | 62 | ✓ | ✓ |
 | ã́ | 60 | ✓ | ✓ |
-| l | 58 | ✓ | ✓ |
 | <<ɽ>> | 54 | ? | ? |
-| ɨ᷈ | 52 | ? | ? |
-| v | 48 | ✓ | ✓ |
-| ii | 47 | ✓ | ✓ |
+| ɨ᷈ | 49 | ? | ? |
+| ii | 46 | ✓ | ✓ |
 | oo | 42 | ✓ | ✓ |
+| v | 41 | ✓ | ✓ |
 | ṍ | 38 | ✓ | ✓ |
-| <<ˈ>> | 36 | ? | ? |
-| f | 34 | ✓ | ✓ |
-| u᷈ | 31 | ? | ? |
+| l | 37 | ✓ | ✓ |
+| f | 33 | ✓ | ✓ |
+| <<ˈ>> | 31 | ? | ? |
+| u᷈ | 28 | ? | ? |
 | ɨɨ | 26 | ✓ | ✓ |
 | c | 20 | ✓ | ✓ |
-| j | 18 | ✓ | ✓ |
-| ũ | 18 | ✓ | ✓ |
 | <<:>> | 17 | ? | ? |
-| <<᷈>> | 17 | ? | ? |
+| j | 17 | ✓ | ✓ |
+| ũ | 16 | ✓ | ✓ |
+| <<᷈>> | 15 | ? | ? |
 | óʂ | 15 | ? | ? |
 | ɔɔ | 15 | ✓ | ✓ |
 | <<ɦ>> | 14 | ? | ? |
 | <<ɯ>> | 14 | ? | ? |
 | ɬ | 14 | ✓ | ✓ |
-| <<ɐ>> | 13 | ? | ? |
 | ɲ | 13 | ✓ | ✓ |
-| ʈʂ | 13 | ✓ | ✓ |
-| <???> | 12 | ? | ? |
+| <<ɐ>> | 11 | ? | ? |
 | <<ə>> | 11 | ? | ? |
+| ʈʂ | 11 | ✓ | ✓ |
 | ɔ | 10 | ✓ | ✓ |
-| nn | 8 | ? | ? |
-| ˈi᷈ | 8 | ? | ? |
+| <???> | 8 | ? | ? |
 | <<ĭ>> | 7 | ? | ? |
+| nn | 7 | ? | ? |
 | <<̄>> | 6 | ? | ? |
 | ns | 6 | ? | ? |
+| ˈi᷈ | 6 | ? | ? |
 | <<ī>> | 5 | ? | ? |
 | a᷈ | 5 | ? | ? |
 | nʃ | 5 | ? | ? |
 | t᷈ | 5 | ? | ? |
 | áá | 5 | ✓ | ✓ |
 | ú | 5 | ✓ | ✓ |
+| ɐ᷈ | 5 | ? | ? |
 | <<ā>> | 4 | ? | ? |
-| <<ă>> | 4 | ? | ? |
 | <<ŋ>> | 4 | ? | ? |
-| <<ʊ>> | 4 | ? | ? |
+| <<́>> | 4 | ? | ? |
 | <<̃>> | 4 | ? | ? |
-| <<͡>> | 4 | ? | ? |
 | ãã | 4 | ✓ | ✓ |
 | ós | 4 | ? | ? |
 | ów | 4 | ? | ? |
 | ń | 4 | ? | ? |
-| <<+>> | 3 | ? | ? |
-| <<́>> | 3 | ? | ? |
+| ʊ | 4 | ✓ | ✓ |
 | <<̆>> | 3 | ? | ? |
-| <<>> | 3 | ? | ? |
+| <<͡>> | 3 | ? | ? |
 | ch | 3 | ? | ? |
 | ee | 3 | ✓ | ✓ |
-| kk | 3 | ✓ | ✓ |
-| nw | 3 | ? | ? |
 | z | 3 | ✓ | ✓ |
+| ă | 3 | ✓ | ✓ |
 | ʔw | 3 | ? | ? |
 | <<!>> | 2 | ? | ? |
+| <<+>> | 2 | ? | ? |
 | <<>>> | 2 | ? | ? |
+| <<ă>> | 2 | ? | ? |
 | <<ĩ>> | 2 | ? | ? |
 | <<ɞ>> | 2 | ? | ? |
 | <<ỹ>> | 2 | ? | ? |
+| <<>> | 2 | ? | ? |
 | <<>> | 2 | ? | ? |
-| _́ | 2 | ? | ? |
 | t́ | 2 | ? | ? |
 | xw | 2 | ? | ? |
 | é | 2 | ✓ | ✓ |
 | í᷈ | 2 | ? | ? |
 | óʃ | 2 | ? | ? |
-| ɐ᷈ | 2 | ? | ? |
 | ɨ᷈ɨ᷈ | 2 | ? | ? |
 | ʔs | 2 | ? | ? |
 | ʔʂ | 2 | ? | ? |
@@ -126,11 +124,15 @@
 | <<ū>> | 1 | ? | ? |
 | <<ɜ>> | 1 | ? | ? |
 | <<ɤ>> | 1 | ? | ? |
+| <<ʊ>> | 1 | ? | ? |
 | <<ʒ>> | 1 | ? | ? |
+| _́ | 1 | ? | ? |
 | cc | 1 | ✓ | ✓ |
 | g | 1 | ✓ | ✓ |
+| kk | 1 | ✓ | ✓ |
 | k᷈ | 1 | ? | ? |
 | ll | 1 | ? | ? |
+| nw | 1 | ? | ? |
 | nʂ | 1 | ? | ? |
 | o᷈ | 1 | ? | ? |
 | rr | 1 | ? | ? |
@@ -144,7 +146,6 @@
 | ësh | 1 | ? | ? |
 | íí | 1 | ✓ | ✓ |
 | óó | 1 | ✓ | ✓ |
-| ă | 1 | ✓ | ✓ |
 | ś | 1 | ? | ? |
 | ū | 1 | ✓ | ✓ |
 | ɐ̄᷈ | 1 | ? | ? |
@@ -153,7 +154,6 @@
 | ɞ | 1 | ✓ | ✓ |
 | ɨ́ɨ́ | 1 | ✓ | ✓ |
 | ɨ᷈᷈ | 1 | ? | ? |
-| ʊ | 1 | ✓ | ✓ |
 | ʐ | 1 | ✓ | ✓ |
 | ˈtʃh | 1 | ? | ? |
 | β̄ | 1 | ? | ? |
@@ -176,7 +176,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------------------------|:--------------|:------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------|
+|:---------------------------------------------------|:--------------|:------------------------------------|:----------------|:--------------------------------------------------------------|
 | Amawaka-antatapirusterrestris-2 | Amawaka | antatapirusterrestris | áá_I | áá _ <s> <?> </s> |
 | Amawaka-fazermatar-1 | Amawaka | fazermatar | ʔa- | ʔ a <s> <?> </s> |
 | Amawaka-macaxeiramandioca-2 | Amawaka | macaxeiramandioca | Atsa_I | <s> <?> </s> ts a _ <s> <?> </s> |
@@ -214,11 +214,10 @@
 | Kapanawa-tipodeveneno-1 | Kapanawa | tipodeveneno | ʔaˈʂan- | ʔ a ʂ a n <s> <?> </s> |
 | Kapanawa-tomarbeber-1 | Kapanawa | tomarbeber | ʔaʔ-kin | ʔ a ʔ <s> <?> </s> k i n |
 | Kapanawa-yo-1 | Kapanawa | yo | ʔɨ- | ʔ ɨ <s> <?> </s> |
-| Katukina-antatapirusterrestris-1 | Katukina | antatapirusterrestris | awa_[awˈa] | a w a _ <s> <<[>> </s> a w a <s> <<]>> </s> |
 | Katukina-grande-1 | Katukina | grande | ani-pa | a n i <s> <?> </s> p a |
 | Kaxarari-antatapirusterrestris-1 | Kaxarari | antatapirusterrestris | [awaˈtʃa] | <s> <???> </s> |
 | Kaxarari-fazermatar-1 | Kaxarari | fazermatar | a- | a <s> <?> </s> |
-| Kaxarari-grande-1 | Kaxarari | grande | lakihani_[lakiɦaˈi] | l a k i h a n i _ <s> <<[>> </s> l a k i <s> <<ɦ>> </s> a <s> <<ˈ>> </s> i <s> <<]>> </s> |
+| Kaxarari-grande-1 | Kaxarari | grande | lakiɦaˈi | l a k i <s> <<ɦ>> </s> a i |
 | Kaxinawa-bebermucho-1 | Kaxinawa | bebermucho | aya- | a y a <s> <?> </s> |
 | Kaxinawa-capivara-1 | Kaxinawa | capivara | amɨ᷈ | a m <s> ɨ᷈ </s> |
 | Kaxinawa-fazermatar-1 | Kaxinawa | fazermatar | a- | a <s> <?> </s> |
@@ -240,7 +239,7 @@
 | Marinawa-tipodeveneno-1 | Marinawa | tipodeveneno | ˈaʂã- | a ʂ ã <s> <?> </s> |
 | Marubo-bebertragar-1 | Marubo | bebertragar | a-ki᷈ | a <s> <?> </s> k <s> i᷈ </s> |
 | Marubo-fazermatar-1 | Marubo | fazermatar | a- | a <s> <?> </s> |
-| Marubo-grande-1 | Marubo | grande | ani_[ˈɐ᷈ni-] | a n i _ <s> <<[>> </s> <s> <<ˈ>> </s> <s> <<ɐ>> </s> <s> <<᷈>> </s> n i <s> <?> </s> <s> <<]>> </s> |
+| Marubo-grande-1 | Marubo | grande | ˈɐ᷈ni- | <s> <<ˈ>> </s> <s> <<ɐ>> </s> <s> <<᷈>> </s> n i <s> <?> </s> |
 | Marubo-jacaregrande-1 | Marubo | jacaregrande | kapɨtɨ-wã | k a p ɨ t ɨ <s> <?> </s> w ã |
 | Marubo-mulher-1 | Marubo | mulher | aˈi᷈vɞ | a <s> ˈi᷈ </s> v ɞ |
 | Marubo-mulheresposa-1 | Marubo | mulheresposa | ai᷈ | a <s> i᷈ </s> |
@@ -260,6 +259,7 @@
 | Proto-Panoan-sufixodeconcordanciadointransitivo-1 | Proto-Panoan | sufixodeconcordanciadointransitivo | -ʔaʂ | <s> <?> </s> ʔ a ʂ |
 | Proto-Panoan-tipodeveneno-1 | Proto-Panoan | tipodeveneno | ʔaʂ[an]- | ʔ a ʂ <s> <<[>> </s> a n <s> <<]>> </s> <s> <?> </s> |
 | Proto-Panoan-tragar-1 | Proto-Panoan | tragar | ʔaya- | ʔ a y a <s> <?> </s> |
+| Shanenawa-grande-1 | Shanenawa | grande | ɨwa-pa | ɨ w a <s> <?> </s> p a |
 | Sharanawa-antatapirusterrestris-2 | Sharanawa | antatapirusterrestris | awa-pan | a w a <s> <?> </s> p a n |
 | Sharanawa-fazermatar-1 | Sharanawa | fazermatar | a- | a <s> <?> </s> |
 | Sharanawa-tragar-1 | Sharanawa | tragar | aya-i | a y a <s> <?> </s> i |

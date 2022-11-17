@@ -31,9 +31,9 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 - **Cognacy:** 7,314 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
-- **Tokens:** 36,184
+- **Tokens:** 34,080
 - **Segments:** 154 (79 BIPA errors, 79 CLTS sound class errors, 75 CLTS modified)
-- **Inventory size (avg):** 42.35
+- **Inventory size (avg):** 41.10
 
 ## Possible Improvements:
 

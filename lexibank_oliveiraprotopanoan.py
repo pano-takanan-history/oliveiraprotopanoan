@@ -25,6 +25,7 @@ class CustomLexeme(Lexeme):
     Paragraph = attr.ib(default=None)
     # Source = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
+    Variants = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -68,14 +69,23 @@ class Dataset(BaseDataset):
             "parsed-entries2.tsv", delimiter="\t", dicts=True
         )
         # add data
-        visited = set()
         for entry in pb(data, desc="cldfify", total=len(data)):
-            # print(entry)
+            if " [" in entry["VALUE"]:
+                phon = entry["VALUE"].split(" [")[1:]
+                value = phon[0].strip("] ~")
+                variants = (str(phon[1]).strip("] ~") if len(phon) > 1 else "")
+                # print(variants)
+
+            else:
+                value = entry["VALUE"]
+                variants = ""
+
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[entry["DOCULECTID"]],
                     Parameter_ID=concepts[entry["CONCEPT"].strip()],
-                    Value=entry["VALUE"],
+                    Value=value,
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
+                    Variants=variants,
                     Comment=entry["NOTE"],
                     # Source=entry["SOURCE"],
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
