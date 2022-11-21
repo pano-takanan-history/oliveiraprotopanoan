@@ -1,5 +1,6 @@
-import pathlib
 import attr
+from collections import defaultdict
+import pathlib
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
@@ -23,7 +24,7 @@ class CustomLexeme(Lexeme):
     UncertainCognacy = attr.ib(default=None)
     Concept_From_Proto = attr.ib(default=None)
     Paragraph = attr.ib(default=None)
-    # Source = attr.ib(default=None)
+    Source = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
     Variants = attr.ib(default=None)
 
@@ -45,6 +46,14 @@ class Dataset(BaseDataset):
         # add bib
         args.writer.add_sources()
         args.log.info("added sources")
+
+        # Add replacement table for sources
+        rep_table = self.raw_dir.read_csv(
+            "source_replacements.tsv", delimiter="\t", dicts=True
+        )
+        sources = defaultdict()
+        for source in rep_table:
+            sources[source["old"]] = source["new"]
 
         # add concept
         concepts = {}
@@ -68,6 +77,7 @@ class Dataset(BaseDataset):
         data = self.raw_dir.read_csv(
             "parsed-entries2.tsv", delimiter="\t", dicts=True
         )
+
         # add data
         for entry in pb(data, desc="cldfify", total=len(data)):
             if " [" in entry["VALUE"]:
