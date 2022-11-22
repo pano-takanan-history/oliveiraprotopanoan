@@ -70,11 +70,12 @@ class Dataset(BaseDataset):
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                     ID=idx,
-                    Proto_ID=concept["PROTO_ID"],
                     Name=concept["GLOSS"],  # TODO must be translated to ENGLISH later!
                     Gloss=concept["GLOSS"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    Proto_ID=concept["PROTO_ID"],
+                    Proto_Concept=concept["PROTO_CONCEPT"]
                     )
             concepts[concept["GLOSS"]] = idx
 
@@ -89,10 +90,10 @@ class Dataset(BaseDataset):
                 idx = slug(concept["GLOSS"])
                 args.writer.add_concept(
                     ID=idx,
-                    Proto_ID=concept["PROTO_ID"],
-                    Proto_Concept=concept["PROTO_CONCEPT"],
                     Name=concept["GLOSS"],
-                    Gloss=concept["GLOSS"]
+                    Gloss=concept["GLOSS"],
+                    Proto_ID=concept["PROTO_ID"],
+                    Proto_Concept=concept["PROTO_CONCEPT"]
                     )
                 concepts[concept["GLOSS"]] = idx
 

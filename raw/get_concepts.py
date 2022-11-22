@@ -6,13 +6,13 @@ wl = Wordlist("parsed-entries2.tsv")
 
 other_concepts = [[
     "NUMBER",
-    "PROTO_ID",
     "GLOSS",
+    "PROTO_ID",
     "PROTO_CONCEPT"
     ]]
 
 with open("../etc/proto_concepts.tsv", "w", encoding="utf8") as f:
-    f.write("NUMBER\tPROTO_ID\tGLOSS\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\n")
+    f.write("NUMBER\tGLOSS\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\tPROTO_ID\tPROTO_CONCEPT\n")
 
     for i in wl:
         ID = wl[i, "IDX"]
@@ -28,13 +28,13 @@ with open("../etc/proto_concepts.tsv", "w", encoding="utf8") as f:
             else:
                 cid, cgl = "", ""
 
-            f.write(f"{i+1}\t{ID}\t{concept}\t{cid}\t{cgl}\n")
+            f.write(f"{i+1}\t{concept}\t{cid}\t{cgl}\t{ID}\t{PP}\n")
 
         # Other concepts
         else:
-            pc = wl[i, "protoconcept"]
+            PP = 0
             other_concepts.append([
-                i+1, ID, concept, pc
+                i+1, concept, ID, PP
             ])
 
 with open("../etc/other_concepts.tsv", "w", encoding="utf8") as file:
