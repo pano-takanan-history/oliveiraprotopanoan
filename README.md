@@ -18,7 +18,7 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 
 
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 15%](https://img.shields.io/badge/Concepticon-15%25-red.svg "Concepticon: 15%")
+![Concepticon: 40%](https://img.shields.io/badge/Concepticon-40%25-red.svg "Concepticon: 40%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 49%](https://img.shields.io/badge/BIPA-49%25-red.svg "BIPA: 49%")
 ![CLTS SoundClass: 49%](https://img.shields.io/badge/CLTS%20SoundClass-49%25-red.svg "CLTS SoundClass: 49%")

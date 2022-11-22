@@ -1,25 +1,42 @@
+import csv
 from lingpy import Wordlist
 from pysem.glosses import to_concepticon
 
 wl = Wordlist("parsed-entries2.tsv")
 
-with open("../etc/concepts.tsv", "w", encoding="utf8") as f:
-    f.write("NUMER\tSPANISH\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\tProto-Concept\n")
+other_concepts = [[
+    "NUMBER",
+    "PROTO_ID",
+    "GLOSS",
+    "PROTO_CONCEPT"
+    ]]
 
-    proto_concepts = []
+with open("../etc/proto_concepts.tsv", "w", encoding="utf8") as f:
+    f.write("NUMBER\tPROTO_ID\tGLOSS\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\n")
+
     for i in wl:
-        if wl[i, "protoconcept"] not in proto_concepts:
-            proto_concepts.append(wl[i, "protoconcept"])
+        ID = wl[i, "IDX"]
+        concept = wl[i, "concept"]
 
-    for i, concept in enumerate(wl.concepts):
-        if concept in proto_concepts:
+        # Proto-Concepts
+        if wl[i, "doculect"] == "Proto-Panoan":
             PP = 1
-            mapped = to_concepticon([{"gloss": concept}], language="es")
+            mapped = to_concepticon([{"gloss": concept}], language="pt")
 
             if mapped[concept]:
                 cid, cgl = mapped[concept][0][:2]
-        else:
-            cid, cgl, is_proto = "", "", ""
+            else:
+                cid, cgl = "", ""
 
-        # print(wl.concepts[i])
-        f.write("{0}\t{1}\t{2}\t{3}\t{4}\n".format(i+1, concept, cid, cgl, PP))
+            f.write(f"{i+1}\t{ID}\t{concept}\t{cid}\t{cgl}\n")
+
+        # Other concepts
+        else:
+            pc = wl[i, "protoconcept"]
+            other_concepts.append([
+                i+1, ID, concept, pc
+            ])
+
+with open("../etc/other_concepts.tsv", "w", encoding="utf8") as file:
+    writer = csv.writer(file, delimiter="\t")
+    writer.writerows(other_concepts)

@@ -16,7 +16,9 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomConcept(Concept):
-    Spanish_Gloss = attr.ib(default=None)
+    Gloss = attr.ib(default=None)
+    Proto_Concept = attr.ib(default=None)
+    Proto_ID = attr.ib(default=None)
 
 
 @attr.s
@@ -57,16 +59,43 @@ class Dataset(BaseDataset):
 
         # add concept
         concepts = {}
-        for concept in self.concepts:
-            idx = slug(concept["SPANISH"])
+
+        # Proto Concepts
+        proto_concepts = self.etc_dir.read_csv(
+            "proto_concepts.tsv",
+            delimiter="\t",
+            dicts=True
+            )
+        for concept in proto_concepts:
+            idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept["SPANISH"],  # TODO must be translated to ENGLISH later!
-                    Spanish_Gloss=concept["SPANISH"],
+                    Proto_ID=concept["PROTO_ID"],
+                    Name=concept["GLOSS"],  # TODO must be translated to ENGLISH later!
+                    Gloss=concept["GLOSS"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
-            concepts[concept["SPANISH"]] = idx
+            concepts[concept["GLOSS"]] = idx
+
+        # Other Concepts
+        other_concepts = self.etc_dir.read_csv(
+            "other_concepts.tsv",
+            delimiter="\t",
+            dicts=True
+            )
+        for concept in other_concepts:
+            if concept["GLOSS"] not in concepts:
+                idx = slug(concept["GLOSS"])
+                args.writer.add_concept(
+                    ID=idx,
+                    Proto_ID=concept["PROTO_ID"],
+                    Proto_Concept=concept["PROTO_CONCEPT"],
+                    Name=concept["GLOSS"],
+                    Gloss=concept["GLOSS"]
+                    )
+                concepts[concept["GLOSS"]] = idx
+
         args.log.info("added concepts")
 
         # add language
@@ -97,7 +126,7 @@ class Dataset(BaseDataset):
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Variants=variants,
                     Comment=entry["NOTE"],
-                    Source=entry["SOURCE"],
+                    # Source=entry["SOURCE"],
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
                     Paragraph=entry["IDX"],
                     Cognacy=entry["IDX"][1:],

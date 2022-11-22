@@ -245,10 +245,10 @@
 | Marubo-mulheresposa-1 | Marubo | mulheresposa | ai᷈ | a <s> i᷈ </s> |
 | Marubo-mulheresposa-2 | Marubo | mulheresposa | aˈi᷈ | a <s> ˈi᷈ </s> |
 | Marubo-tartaruga-1 | Marubo | tartaruga | ʃawɨwɐ᷈ | ʃ a w ɨ w <s> ɐ᷈ </s> |
-| MattisList-atodepassarvenenonasetadazarabatana-1 | MattisList | atodepassarvenenonasetadazarabatana | aʂ-kin | a ʂ <s> <?> </s> k i n |
-| MattisList-beber-1 | MattisList | beber | ak-kin | a k <s> <?> </s> k i n |
-| MattisList-fazermatar-1 | MattisList | fazermatar | ak- | a k <s> <?> </s> |
-| MattisList-mandioca-1 | MattisList | mandioca | Atsa | <s> <?> </s> ts a |
+| Matis-atodepassarvenenonasetadazarabatana-1 | Matis | atodepassarvenenonasetadazarabatana | aʂ-kin | a ʂ <s> <?> </s> k i n |
+| Matis-beber-1 | Matis | beber | ak-kin | a k <s> <?> </s> k i n |
+| Matis-fazermatar-1 | Matis | fazermatar | ak- | a k <s> <?> </s> |
+| Matis-mandioca-1 | Matis | mandioca | Atsa | <s> <?> </s> ts a |
 | Mayoruna-fazermatar-1 | Mayoruna | fazermatar | ak- | a k <s> <?> </s> |
 | Poyanawa-mulheresposa-1 | Poyanawa | mulheresposa | awi᷈ | a w <s> i᷈ </s> |
 | Proto-Panoan-antatapirusterrestris-1 | Proto-Panoan | antatapirusterrestris | ʔawaɽ | ʔ a w a <s> <<ɽ>> </s> |

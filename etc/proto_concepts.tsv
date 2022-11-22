@@ -1,0 +1,518 @@
+NUMBER	PROTO_ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
+2	§1	fazer,  matar	1417	KILL
+22	§2	macaxeira,  mandioca	925	CASSAVA
+43	§3	capivara	314	CAPYBARA
+65	§4	grande	1202	BIG
+88	§5	paca (Cuniculus paca)	316	PACA
+111	§6	sufixo de concordância do intransitivo		
+119	§7	tipo de veneno		
+141	§8	anta (Tapirus terrestris)	312	TAPIR
+165	§9	mulher,  esposa	962	WOMAN
+191	§9a	mulher,  esposa	962	WOMAN
+196	§10	tragar		
+218	§11	yo		
+225	§12	grande	1202	BIG
+254	§13	piolho	1392	LOUSE
+275	§14	lago	624	LAKE
+300	§15	dono		
+321	§16	esp. de pásaro		
+344	§17	quente,  calor	1286	HOT
+368	§18	abraçar,  segurar nos braços	928	EMBRACE
+389	§18a	seguir llevando en los brazos (provavelmente uma reduplicação do verbo em 18.)		
+395	§18b	subir	568	RISE (MOVE UPWARDS)
+417	§19	criação,  animal doméstico		
+443	§20	dar	1447	GIVE
+467	§21	esp. de onça		
+491	§22	esp. de peixe (esp. da fam. Loricariidae)		
+512	§23	dor,  doer	1783	PAIN
+538	§24	japu (esp. de pássaro da fam. Icteridae)		
+558	§25	macaco preto (esp. de macaco da fam Atelidae)		
+580	§26	correr	1519	RUN
+602	§27	muito	1198	MANY
+624	§28	urubu rei		
+646	§29	pesado	1210	HEAVY
+668	§30	arraia	1910	STINGRAY
+694	§31	esp. de carrapato		
+720	§32	chuva	658	RAIN (PRECIPITATION)
+745	§33	olhar	1819	LOOK
+768	§34	tossir	879	COUGH
+791	§35	conhecer,  aprender	504	LEARN
+813	§36	água fresca (lit. líquido novo)		
+836	§37	rir	1355	LAUGH
+857	§38	dormir	1585	SLEEP
+880	§39	lua	1313	MOON
+906	§40	sombra	1388	SHADE
+929	§41	chupar,  sugar	1421	SUCK
+950	§42	ele,  esse	1211	HE
+979	§43	correr,  fugir	1519	RUN
+1000	§44	esp. de garça		
+1021	§45	pisar		
+1043	§46	língua	1205	TONGUE
+1063	§47	vomitar	1278	VOMIT
+1083	§48	nome	1405	NAME
+1105	§49	mutum (da esp. da fam. Cracidae)	315	CURASSOW
+1129	§50	abertura		
+1150	§51	esse tanto		
+1175	§52	3a pessoa do plural		
+1196	§53	que,  o que		
+1222	§54	seu, sua, dele,  dela	2274	YOUR (PLURAL)
+1243	§55	caminho,  picada	2252	PATH
+1264	§56	noite,  escuro	1233	NIGHT
+1285	§57	tela		
+1304	§58	roçado	429	SWIDDEN FIELD
+1326	§59	filho,  criança	1304	CHILD (YOUNG HUMAN)
+1348	§60	espuma	1768	FOAM
+1369	§61	plantar	1486	PLANT (SOMETHING)
+1394	§62	sol	1343	SUN
+1415	§63	ovo	744	EGG
+1436	§64	cochichar	55	WHISPER
+1458	§65	doce	717	SWEET
+1478	§66	esp. de peixe		
+1500	§67	papagaio (esp. da fam. Psittacidae)	882	PARROT
+1522	§68	surubim (Pseudoplatyatoma coruscans)		
+1545	§69	trazer, buscar	692	BRING
+1567	§70	comitativo		
+1600	§71	comitativo		
+1620	§72	esquecer,  perder	1523	FORGET
+1641	§73	lágrima	1651	TEAR (OF EYE)
+1664	§74	ondas		
+1686	§75	testa,  cara	123	FOREHEAD
+1711	§76	marido,  macho	1200	HUSBAND
+1733	§77	varón (probablemente *βɨnɨ + -βo,  juego 77 y 96)		
+1753	§78	esp. de árvore (segundo SHELL (1975 [1965]) Savia Pegajosa) (da fam. Phyllanthaceae)		
+1778	§79	olho	1248	EYE
+1802	§80	cortar	1432	CUT
+1823	§81	sobrancelhas (?)	1173	EYEBROW
+1844	§82	sobrancelhas	1173	EYEBROW
+1867	§83	esp. de sapo		
+1888	§84	fino,  raso	2308	THIN
+1911	§85	sopa,  caldo		
+1931	§86	rosto,  cara (prefixo parte do corpo)	1560	FACE
+1952	§87	pegar	855	SEIZE
+1974	§88	pele,  couro	763	SKIN
+1996	§89	esp.degarça		
+2017	§90	carapanã		
+2040	§91	fruto		
+2062	§92	marimbondo,  caba		
+2083	§93	buriti (Mauritia vinifera Mart.)		
+2103	§94	goiaba(?)		
+2125	§95	pluralizador		
+2145	§96	esp. de picapau (da fam. Picidae)		
+2167	§97	tipo de caixa		
+2187	§98	esp. de palmeira		
+2209	§99	toco,  tronco	241	TREE STUMP
+2231	§100	esp. de peixe (da fam. Pimelodidae)		
+2252	§101	esp. de peixe (da fam. Pimelodidae)		
+2274	§102	esp. de árvore (embaúba?)		
+2297	§103	esp. de árvore (embaúba?)		
+2299	§104	esp. de abelha		
+2321	§105	pelo,  cabelo	2648	HAIR (HEAD)
+2347	§106	insecto		
+2367	§107	esp. de lontra		
+2388	§108	cabeça	1256	HEAD
+2413	§109	sentar (sentar-se)	1416	SIT
+2439	§110	esp. de peixe		
+2461	§111	soluço,  soluçar	162	HICCOUGH
+2482	§112	cigarra	2353	CICADA
+2503	§113	carvão,  brasa	2658	COAL
+2526	§114	carvão,  brasa	2658	COAL
+2530	§115	quem	1235	WHO
+2554	§116	pegar,  agarrar com a mão	855	SEIZE
+2577	§117	picar, dar agulhada, ferrar, injetar, furar	398	PIERCE
+2599	§118	amassar, bater,  golpear	274	KNEAD
+2619	§119	mentir	601	LIE (MISLEAD)
+2639	§120	esp.demolusco		
+2660	§121	grilo,  gafanhoto	607	GRASSHOPPER
+2680	§122	martim pescardor		
+2701	§123	esp. de veado		
+2722	§124	fogo	221	FIRE
+2745	§125	cinza (lit. pó (poeira) de fogo)		
+2769	§126	guiar (uma canoa) por trás		
+2789	§127	parte posterior		
+2813	§128	lavar,  lavar-se	1453	WASH
+2836	§129	tela,  roupa	1895	CLOTHES
+2856	§130	duro,  forte	1884	HARD
+2876	§131	líquido,  água	948	WATER
+2899	§132	tigre de agua, nutria		
+2924	§133	deixar,  largar		
+2944	§134	esp. de palmeira		
+2964	§135	bilhar,  queimar	2102	BURN
+2988	§136	semente	714	SEED
+3011	§137	entrar	749	ENTER
+3033	§138	esp. de formiga		
+3057	§139	esp. de formiga		
+3080	§140	sangue	946	BLOOD
+3102	§141	rabo	1220	TAIL
+3123	§142	ver,  olhar	1409	SEE
+3144	§143	ver,  olhar	1409	SEE
+3167	§144	urinar,  urina	592	PISS
+3189	§145	esp. de árvore e também seu fruto (segundo SHELL (1975 [1965]),  seria o Zapote)		
+3210	§146	árvore (gen.),  pau (gen.)	906	TREE
+3232	§147	ouvir, escutar,  entender	1408	HEAR
+3253	§148	borda,  lábios	478	LIP
+3273	§149	jacu (esp. de pássaro)	437	GUAN
+3293	§150	desejar		
+3315	§151	chamar	1084	CALL
+3336	§152	tipo de banco		
+3358	§153	desenhar,  pintar	2001	PAINTING
+3380	§154	barba	678	BEARD
+3403	§155	ponta,  extremo		
+3431	§156	ensartar		
+3453	§157	lábios	478	LIP
+3477	§158	barba	678	BEARD
+3499	§159	esp. de arara		
+3522	§160	costas	1291	BACK
+3544	§161	parente		
+3566	§162	tipo de cesto		
+3587	§163	abacaxi	2440	PINEAPPLE
+3612	§164	onça	1250	JAGUAR
+3639	§165	esp. de cobra		
+3660	§166	esp. de arara		
+3681	§167	relâmpago	1654	LIGHTNING
+3702	§168	arco	994	BOW
+3723	§169	quatipuru		
+3744	§170	jacaré	1857	CROCODILE
+3769	§171	cará		
+3790	§172	lenha	10	FIREWOOD
+3811	§173	querer	1784	WANT
+3847	§174	morcego	1793	BAT
+3873	§175	costas (prefixo parte do corpo)	1291	BACK
+3896	§176	costurar	1457	SEW
+3917	§177	vasilha,  prato	480	PLATE
+3938	§178	duro,  forte	1884	HARD
+3961	§179	pedaço,  caco		
+3985	§180	grosso,  espesso	1244	THICK
+4005	§181	tipo de panela		
+4029	§182	terminar,  acabar	1766	FINISH
+4052	§183	sufixo locativo ablativo		
+4074	§184	buraco,  orifício	1667	HOLE
+4096	§185	coxa	471	UPPER LEG (THIGH)
+4118	§186	fumaça	778	SMOKE (EXHAUST)
+4143	§187	ferver	792	BOIL (OF LIQUID)
+4164	§188	mandíbula		
+4188	§189	irmão da mãe		
+4210	§190	vaga-lume	206	FIREFLY
+4233	§191	irmão da mãe		
+4253	§192	ingerir alimentos moles		
+4275	§193	ingerir alimentos moles		
+4278	§194	nambu		
+4299	§195	esp. de fungo		
+4321	§196	pus	1808	PUS
+4343	§197	valor		
+4367	§198	cinza,  acinzentado	646	ASH
+4389	§199	cedro		
+4410	§200	cujubim		
+4431	§201	sufixo verbal causativo		
+4451	§202	morro,  colina		
+4472	§203	esp. de peixe		
+4492	§204	frio	1287	COLD
+4513	§205	varrer	230	SWEEP
+4534	§206	chifre de animal		
+4554	§207	terra	1228	EARTH (SOIL)
+4576	§208	na terra,  por terra		
+4595	§209a	enterrar	1719	BURY
+4605	§209	faixa para a cabeça,  chapéu		
+4626	§210	rato	1490	RAT
+4646	§211	pedra,  rocha	857	STONE
+4669	§212	piranha (esp. de peixe)	317	PIRANHA
+4693	§213	esperar		
+4714	§214	sobre, encima,  acima	57	ATOP
+4736	§215	metal		
+4755	§216	banana	868	BANANA
+4780	§217	sentir saudade		
+4803	§218	subir (um morro)	705	GO UP (ASCEND)
+4824	§219	camarão	2349	SHRIMP
+4845	§220	cabeça	1256	HEAD
+4868	§221	barro,  poeira	2	DUST
+4894	§222	esp.deplanta		
+4914	§223	cutia (esp. de roedor)	313	AGOUTI
+4936	§224	esp. de cabaça		
+4957	§225	areia	671	SAND
+4979	§226	pedra	857	STONE
+4999	§227	urucum (a árvore e o seu fruto)	349	ACHIOTE
+5019	§228	encima,  cume	1741	ABOVE
+5042	§229	cortar o cabelo		
+5066	§230	chifre de animal		
+5088	§231	golpear a cabeça		
+5110	§232	morrer	1494	DIE
+5129	§233	esp. de formiga		
+5150	§234	torcer, girar,  mover em círculos	3199	TWIST (AROUND)
+5171	§235	tocar, mexer com a mão,  tatear	1892	TOUCH
+5193	§236	molhar,  molhado	1726	WET
+5216	§237	mão	1277	HAND
+5237	§238	unha da mão		
+5267	§239	mão	1277	HAND
+5289	§240	mão direita	2183	RIGHT HAND
+5309	§241	encontrar,  procurar	1831	MEET
+5329	§242	engatinhar		
+5350	§243	dedo	1303	FINGER
+5371	§244	barreiro,  canamã		
+5391	§245	tu, você	1215	THOU
+5411	§246a	vocês,  vós	1213	YOU
+5422	§247	pamonha		
+5443	§248	anzol	1074	FISHHOOK
+5463	§249	veneno,  amargo	887	BITTER
+5483	§250	espinho	124	THORN
+5505	§251	ninho	539	NEST
+5527	§252	esp. de preguiça (macaco)		
+5547	§253	céu	1732	SKY
+5571	§254	esp. de mosquito		
+5592	§255	cupim	883	TERMITE
+5613	§256	soñar		
+5634	§257	abaixo, embaixo,  sob		
+5657	§258	carne	2259	FLESH
+5680	§259	jenipapo		
+5701	§260	colocar dentro,  submergir		
+5724	§261	dentro,  no centro	1606	INSIDE
+5747	§262	banhar-se,  tomar banho	138	BATHE
+5769	§263	largo	1243	WIDE
+5789	§264	morder	1403	BITE
+5808	§265	estrangeiro		
+5829	§266	arco íris		
+5850	§267	capoeira,  roça abandonada		
+5872	§268	jacamim (esp. de pássaro)		
+5893	§269	unir,  juntar		
+5913	§270	amarrar	1917	TIE
+5934	§271	esp. de pássaro (Shell (1975 [1965] o descreve como shansho)		
+5955	§272	día		
+5975	§273	ficar em pé	1442	STAND
+5999	§274	mata,  floresta	420	FOREST
+6024	§275	brisa		
+6046	§276	lacraia,  escorpião	1538	SCORPION
+6067	§277	escurtar,  ouvir	1408	HEAR
+6088	§278	arrastar		
+6109	§279	suar		
+6130	§280	suar		
+6150	§281	aborrecer-se		
+6171	§282	vento	960	WIND
+6195	§283	nós,  nos	1212	WE
+6206	§284	profundo		
+6227	§285	esp. de caramujo		
+6248	§286	minhoca	2350	EARTHWORM
+6273	§287	esp. de caramujo		
+6293	§288	gostoso,  delicioso		
+6313	§289	amar,  gostar	923	LOVE
+6335	§290	apagar		
+6357	§291	nadar	1439	SWIM
+6378	§292	nadar	1439	SWIM
+6383	§293	pato	1360	DUCK
+6406	§294	canoa	1970	CANOE
+6426	§295	voar	1441	FLY (MOVE THROUGH AIR)
+6447	§296	vir,  chegar	1446	COME
+6468	§297	flor	239	FLOWER
+6491	§298	garra,  unha	1258	FINGERNAIL
+6514	§299	fala, voz,  palavra	1599	WORD
+6535	§300	respirar	1407	BREATHE
+6556	§301	coração	1223	HEART
+6578	§302	esconder	602	HIDE (CONCEAL)
+6599	§303	homem,  humano	1554	MAN
+6620	§304	esp. de queixada (porco do mato)		
+6641	§305	vermelho	156	RED
+6668	§306	branco	1335	WHITE
+6689	§307	lavar	1453	WASH
+6710	§308	embebedar-se, bêbado,  embriagado	1463	DRUNK
+6735	§309	surdo	996	DEAF
+6759	§310	ouvido (provavelmente paβi (orelha) + n (gen.) + kini (buraco) = buraco da orelha)		
+6784	§311	esp. de taboca (bambu)		
+6804	§312	cair	1280	FALL
+6833	§313	esp. de tatu		
+6854	§314	enfeite de orelha,  brinco	770	EARRING
+6876	§315	pai	1217	FATHER
+6907	§316	enganar		
+6928	§317	rio	666	RIVER
+6948	§319	amarelo	1424	YELLOW
+6970	§320	novo, fresco, cru	1231	NEW
+6990	§321	rama del árbol		
+7010	§322	surdo	996	DEAF
+7032	§323	abanar		
+7053	§324	podre	1728	ROTTEN
+7073	§325	asa,  pena	1257	WING
+7096	§326	comer	1336	EAT
+7119	§327	sobrinho,  filho da irmã	1063	NEPHEW
+7142	§328	flecha	977	ARROW
+7165	§329	periquito		
+7186	§330	beija-flor	1589	HUMMINGBIRD
+7207	§331	esp. de tucano		
+7228	§332	fedido,  fedor		
+7249	§333	esp. de cobra		
+7271	§334	bolsapequena(?)		
+7291	§335	esteira	195	MAT
+7312	§336	pequeno	1246	SMALL
+7332	§337	comida (coisa de comer)	256	FOOD
+7353	§338	fezes	675	FAECES (EXCREMENT)
+7374	§339	esp. de tubérculo (inhame?)		
+7395	§340	irmã ou irmão do sexo oposto		
+7417	§341	intestino,  barriga	1251	BELLY
+7438	§342	veia	1924	VEIN
+7459	§343	esp. de coruja		
+7480	§344	esp. de preguiça		
+7500	§345	tornozelo	803	ANKLE
+7522	§346	jogar,  abandonar	1413	PLAY
+7543	§347	poeira	2	DUST
+7566	§348	braço	1673	ARM
+7591	§349	braço	1673	ARM
+7611	§350	remédio,  medicina tradicional	1372	MEDICINE
+7634	§351	ter medo,  assustar-se	1419	FEAR (BE AFRAID)
+7655	§352	dois	1498	TWO
+7677	§353	envergonhar-se,  ter vergonha		
+7698	§354	rótula,  joelho	1371	KNEE
+7718	§355	temer		
+7738	§356	deitar-se	215	LIE DOWN
+7760	§357	cobrir,  envolver	761	COVER
+7781	§358	pelo do corpo		
+7801	§359	joelho	1371	KNEE
+7825	§360	matar	1417	KILL
+7846	§361	ponta,  cabeceira do rio		
+7872	§362	para frente,  para cima (no rio)		
+7895	§363	buraco do nariz,  narina	1178	NOSTRIL
+7920	§364	moer	1033	GRIND
+7941	§365	septo nasal		
+7962	§366	tombar		
+7983	§367	instrumento musical		
+8005	§368	igual, do mesmo jeito,  também		
+8038	§369	esp. de macaco		
+8059	§370	fio,  corda	1218	ROPE
+8083	§371	fio		
+8105	§372	guariba (esp. de macaco), mono aullador	433	HOWLER MONKEY
+8127	§373	machado	677	AXE
+8148	§374	tabaco	974	TOBACCO
+8171	§375	cobra	730	SNAKE
+8193	§376	fazer dieta,  jejum		
+8216	§377	levantar,  suspender		
+8236	§378	esp. de peixe		
+8259	§379	esp. de peixe		
+8264	§380	vestir roupa		
+8285	§381	vestir roupa		
+8308	§382	quati	2389	COATI (COATIMUNDI)
+8328	§383	bom,  bonito	1035	GOOD
+8349	§384	peito (prefixo parte do corpo)	1592	CHEST
+8372	§385	esp. de planta		
+8391	§386	esp. de aranha		
+8412	§387	pensar	2271	THINK
+8435	§388	esp. de macaco		
+8456	§389	pium (esp.demosca)		
+8477	§390	macaco sagui		
+8499	§391	claridade		
+8522	§392	tamanduá	181	ANTEATER
+8544	§393	cortar	1432	CUT
+8565	§394	bocejar	1028	YAWN
+8587	§395	casca de árvore,  pele	763	SKIN
+8609	§396	quente	1286	HOT
+8630	§397	cunhada, esposa,  prima cruzada	1199	WIFE
+8649	§398	osso	1394	BONE
+8673	§399	algodão	1850	COTTON
+8693	§400	pilão,  pedra	857	STONE
+8716	§401	esp. de cabaça		
+8740	§402	esp. de arara		
+8760	§403	jabuti	895	TORTOISE
+8781	§404	canadeaçúcar(?)		
+8801	§405	canadeaçúcar(?)		
+8823	§406	debulhar o milho		
+8843	§407	esp. de palmeira		
+8865	§408	esp. de lagartixa		
+8887	§409	esp. de lagartixa		
+8909	§410	esp. de lagarta		
+8930	§411	esp. de árvore		
+8951	§412	gordura,  óleo	323	FAT (ORGANIC SUBSTANCE)
+8974	§413	velho	1229	OLD
+8997	§414	dente,  bico (de ave)	1380	TOOTH
+9018	§415	urubu	1185	VULTURE
+9038	§416	cheirar	1586	SMELL (PERCEIVE)
+9059	§417	teto (feito de palha)		
+9082	§418	benefactivo		
+9104	§419	sufixo de concordancia transitiva		
+9124	§420	assar	1962	ROAST (SOMETHING)
+9145	§421	agulha	1382	NEEDLE (FOR SEWING)
+9166	§422	coçar,  coceira		
+9188	§423	gordo	1279	FAT (OBESE)
+9210	§424	casa	1252	HOUSE
+9230	§425	descascar	275	PEEL
+9251	§426	esp. de tucano grande		
+9272	§427	pequeno	1246	SMALL
+9293	§428	pelar-se,  mudar de pele		
+9314	§429	seios,  leite	635	MILK
+9335	§430	verde, nãomaduro	1425	GREEN
+9356	§431	mamão	2445	PAPAYA
+9377	§432	mamão	2445	PAPAYA
+9398	§433	peito	1592	CHEST
+9420	§434	menina,  moça	77	YOUNG WOMAN
+9444	§435	rato	1490	RAT
+9469	§436	pé	1301	FOOT
+9492	§437	tapiri,  casa temporária		
+9513	§438	fígado	1224	LIVER
+9534	§439	amendoim	595	GROUNDNUT (PEANUT)
+9555	§440	bochecha	1730	CHEEK
+9577	§441	bochecha	1730	CHEEK
+9599	§442	esp. de palmeira		
+9622	§443	ponte,  plataforma	1011	BRIDGE
+9643	§444	raiz	670	ROOT
+9664	§445	pau velho,  pau podre		
+9685	§446	rodar		
+9708	§447	roupa	1895	CLOTHES
+9728	§448	tipodecesto		
+9748	§449	sal	1274	SALT
+9756	§450	pauzada (amontoado de tronco que desce no rio)		
+9776	§451	taboca utilizada para fazer flechas		
+9798	§452	quebrar		
+9820	§453	zarabatana	432	BLOWGUN
+9841	§454	broto		
+9863	§455	pescoço	1333	NECK
+9889	§456	esp. de gavião		
+9910	§457	pomo de adão		
+9932	§458	nominalizador de instrumento		
+9952	§459	bater,  golpear	1433	HIT
+9976	§460	espingarda	3948	SHOTGUN
+10001	§461	coador		
+10022	§462	engravidar,  dar a luz		
+10047	§463	esp.derãousapo		
+10067	§464	azul escuro		
+10087	§465	verruga		
+10108	§466	fazer	813	DO
+10117	§467	fazer	813	DO
+10137	§468	água,  rio	948	WATER
+10158	§469	esp. depeixe		
+10179	§470	pupunha	3919	PEACH PALM
+10200	§471	esp. de abóbora		
+10221	§472	esp.demacaco		
+10241	§473	varrer,  ciscar	230	SWEEP
+10261	§474	erva		
+10284	§475	teia de aranha	1065	SPIDER WEB
+10305	§476	algodão	1850	COTTON
+10327	§477	sufixo verbal imperativo		
+10348	§478	igarapé (?)		
+10368	§479	outro	197	OTHER
+10388	§480	um (numeral)	1493	ONE
+10411	§481	canela,  parte inferior da perna		
+10432	§482	cheiro		
+10452	§483a	remar	1849	ROW
+10472	§483b	remo	3137	OAR
+10492	§484	remo	3137	OAR
+10513	§485	borduna,  bastão		
+10535	§486	passar		
+10556	§487	pantorrilha		
+10576	§488	negro		
+10597	§489	estrela	1430	STAR
+10622	§490	com,  empossede		
+10643	§491	esp. de carrapato		
+10666	§492	cidade,  assentamento	1391	TOWN
+10688	§493	sufixo negativo		
+10718	§494	escuro,  noite	1233	NIGHT
+10739	§495	machado	677	AXE
+10761	§496	peixe	227	FISH
+10782	§497	tarde	1807	AFTERNOON
+10802	§498	esp. de queixada (porco do mato)		
+10824	§499	esp. de tatu		
+10848	§500	dizer,  falar	1458	SAY
+10870	§501	animal	619	ANIMAL
+10892	§502	calor,  quente	1286	HOT
+10913	§502a	ter febre,  esquentar-se		
+10935	§503	feiticeiro		
+10957	§504	esp. de pimenta		
+10978	§505	perguntar	1309	ASK (INQUIRE)
+10999	§506	esp.depeixe		
+11020	§507	fio, linha,  corda	1218	ROPE
+11042	§508	roubar	713	STEAL
+11064	§509	gente,  corpo humano	683	PERSON
+11088	§510	crescer	479	GROW
+11109	§511	espírito		
+11133	§512	mulher, velha	962	WOMAN
