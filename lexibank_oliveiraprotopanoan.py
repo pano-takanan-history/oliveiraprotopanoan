@@ -26,7 +26,7 @@ class CustomLexeme(Lexeme):
     UncertainCognacy = attr.ib(default=None)
     Concept_From_Proto = attr.ib(default=None)
     Paragraph = attr.ib(default=None)
-    Source = attr.ib(default=None)
+    # Source = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
     Variants = attr.ib(default=None)
 
@@ -45,7 +45,6 @@ class Dataset(BaseDataset):
             )
 
     def cmd_makecldf(self, args):
-        # add bib
         args.writer.add_sources()
         args.log.info("added sources")
 
@@ -70,7 +69,6 @@ class Dataset(BaseDataset):
                     Proto_Concept=concept["PROTO_CONCEPT"]
                     )
             concepts[(concept["GLOSS"], concept["PROTO_ID"])] = idx
-        # print(concepts)
         # Other Concepts
         other_concepts = self.etc_dir.read_csv(
             "other_concepts.tsv",
@@ -105,7 +103,6 @@ class Dataset(BaseDataset):
                 phon = entry["VALUE"].split(" [")[1:]
                 value = phon[0].strip("] ~")
                 variants = (str(phon[1]).strip("] ~") if len(phon) > 1 else "")
-                # print(variants)
 
             else:
                 value = entry["VALUE"]
@@ -118,7 +115,7 @@ class Dataset(BaseDataset):
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Variants=variants,
                     Comment=entry["NOTE"],
-                    # Source=entry["SOURCE"],
+                    Source=entry["SOURCE"],
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
                     Paragraph=entry["IDX"],
                     Cognacy=entry["IDX"][1:],
