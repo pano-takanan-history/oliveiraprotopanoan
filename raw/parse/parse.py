@@ -1,4 +1,5 @@
 import re
+from csvw.dsv import UnicodeDictReader
 from collections import OrderedDict
 import codecs
 from lingpy import *
@@ -10,6 +11,18 @@ with open("replacements.tsv", encoding="utf8") as f:
         a, b = line.split("\t")
         if a != "CHAR":
             rep[eval('"'+a+'"')] = b.strip()
+
+
+concept_replace = {}
+with UnicodeDictReader("concept_replacements.tsv", delimiter='\t') as reader:
+    for line in reader:
+        concept_replace[line["OLD"]] = line["NEW"]
+
+source_replace = {}
+with UnicodeDictReader("source_replacements.tsv", delimiter='\t') as reader:
+    for line in reader:
+        # print(line)
+        source_replace[line["OLD"]] = line["NEW"]
 
 # load languages to check entries
 with codecs.open("../../etc/languages.tsv", "r", "utf-8") as f:
@@ -25,6 +38,7 @@ bad_entries = []
 oid = 1
 with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
     data = OrderedDict()
+    additional_comments = []
     for line in f:
         line = "".join([rep.get(c, c) for c in line])
         # get first parts with indices
@@ -33,9 +47,10 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
         # if "(también" in line:
         #     print(line)
 
-        # we ignore lines that are difficult, with multiple proto-forms (two so far)
+        # we ignore lines that are difficult
         if idx.startswith("!"):
-            pass
+            additional_comments.append(line)
+
         else:
             # start by separating proto-forms
             proto, rest = rest[:line.index(" : ")-3].strip(), rest[rest.index(" : ")+3:]
@@ -58,15 +73,22 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                 proto_conc = pconcept
                 concept_uncertain = "0"
 
+            proto_conc = re.sub("  ", " ", proto_conc)
+            proto_conc = proto_conc.replace(";;", ",")
+            pform = pform.replace("*", "")
+
+            if proto_conc in concept_replace:
+                proto_conc = concept_replace[proto_conc]
+
             proto_tokens = " ".join(ipa2tokens(pform))
             data[oid] = [
                 "§"+idx,
                 "Proto-Panoan",
                 "Proto",
-                proto_conc.replace(";;", ","),
+                proto_conc,
                 "",  # added from proto - not relevant
                 concept_uncertain,
-                pform.replace("*", ""),  # Value
+                pform,  # Value
                 "",  # Uncertainty
                 proto_tokens,  # Tokens
                 "",  # Note
@@ -146,6 +168,7 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                 else:
                                     concept_uncertain = ""
 
+                                # Compile sources from notes
                                 if re.search("[A-Z]*, [0-9]{4}", note):
                                     if re.search("[a-z]", note):
                                         pass
@@ -154,15 +177,26 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         source = re.sub(r'([A-Z]+);([A-Z]+)', '\\1', source)
                                         # print(source)
                                         note = ""
+                                    # replace sources through replacement table
+                                    if source in source_replace:
+                                        source = source_replace[source]
+                                        print(source)
                                 else:
                                     source = ""
                                     # print(note)
+
+                                concept = re.sub("  ", " ", concept)
+                                concept = re.sub("^ ", "", concept)
+                                concept = concept.replace(";;", ",")
+
+                                if concept in concept_replace:
+                                    concept = concept_replace[concept]
 
                                 data[oid] = [
                                     "§"+idx,
                                     langs[language],
                                     language,
-                                    concept.replace(";;", ","),
+                                    concept,
                                     from_base,
                                     concept_uncertain,
                                     form,
@@ -221,4 +255,7 @@ with codecs.open("../parsed-entries2.tsv", "w", "utf-8") as f:
         else:
             f.write(str(idx)+"\t"+"\t".join(vals)+"\n")
 
+
+with open('../additional_comments.txt', 'w', encoding="utf8") as file:
+    file.write('\n'.join(str(i) for i in additional_comments))
 # print(bracket_count)

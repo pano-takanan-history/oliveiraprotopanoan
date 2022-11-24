@@ -1,518 +1,518 @@
-NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	PROTO_ID	PROTO_CONCEPT
-2	fazer,  matar	1417	KILL	§1	1
-22	macaxeira,  mandioca	925	CASSAVA	§2	1
-43	capivara	314	CAPYBARA	§3	1
-65	grande	1202	BIG	§4	1
-88	paca (Cuniculus paca)	316	PACA	§5	1
-111	sufixo de concordância do intransitivo			§6	1
-119	tipo de veneno			§7	1
-141	anta (Tapirus terrestris)	312	TAPIR	§8	1
-165	mulher,  esposa	962	WOMAN	§9	1
-191	mulher,  esposa	962	WOMAN	§9a	1
-196	tragar			§10	1
-218	yo			§11	1
-225	grande	1202	BIG	§12	1
-254	piolho	1392	LOUSE	§13	1
-275	lago	624	LAKE	§14	1
-300	dono			§15	1
-321	esp. de pásaro			§16	1
-344	quente,  calor	1286	HOT	§17	1
-368	abraçar,  segurar nos braços	928	EMBRACE	§18	1
-389	seguir llevando en los brazos (provavelmente uma reduplicação do verbo em 18.)			§18a	1
-395	subir	705	GO UP (ASCEND)	§18b	1
-417	criação,  animal doméstico			§19	1
-443	dar	1447	GIVE	§20	1
-467	esp. de onça			§21	1
-491	esp. de peixe (esp. da fam. Loricariidae)			§22	1
-512	dor,  doer	1783	PAIN	§23	1
-538	japu (esp. de pássaro da fam. Icteridae)			§24	1
-558	macaco preto (esp. de macaco da fam Atelidae)			§25	1
-580	correr	1519	RUN	§26	1
-602	muito	1198	MANY	§27	1
-624	urubu rei			§28	1
-646	pesado	1210	HEAVY	§29	1
-668	arraia	1910	STINGRAY	§30	1
-694	esp. de carrapato			§31	1
-720	chuva	658	RAIN (PRECIPITATION)	§32	1
-745	olhar	1819	LOOK	§33	1
-768	tossir	879	COUGH	§34	1
-791	conhecer,  aprender	504	LEARN	§35	1
-813	água fresca (lit. líquido novo)			§36	1
-836	rir	1355	LAUGH	§37	1
-857	dormir	1585	SLEEP	§38	1
-880	lua	1313	MOON	§39	1
-906	sombra	1388	SHADE	§40	1
-929	chupar,  sugar	1421	SUCK	§41	1
-950	ele,  esse	1211	HE	§42	1
-979	correr,  fugir	1519	RUN	§43	1
-1000	esp. de garça			§44	1
-1021	pisar			§45	1
-1043	língua	1205	TONGUE	§46	1
-1063	vomitar	1278	VOMIT	§47	1
-1083	nome	1405	NAME	§48	1
-1105	mutum (da esp. da fam. Cracidae)	315	CURASSOW	§49	1
-1129	abertura			§50	1
-1150	esse tanto			§51	1
-1175	3a pessoa do plural			§52	1
-1196	que,  o que			§53	1
-1222	seu, sua, dele,  dela	2274	YOUR (PLURAL)	§54	1
-1243	caminho,  picada	2252	PATH	§55	1
-1264	noite,  escuro	1233	NIGHT	§56	1
-1285	tela			§57	1
-1304	roçado	429	SWIDDEN FIELD	§58	1
-1326	filho,  criança	1304	CHILD (YOUNG HUMAN)	§59	1
-1348	espuma	1768	FOAM	§60	1
-1369	plantar	1486	PLANT (SOMETHING)	§61	1
-1394	sol	1343	SUN	§62	1
-1415	ovo	744	EGG	§63	1
-1436	cochichar	55	WHISPER	§64	1
-1458	doce	717	SWEET	§65	1
-1478	esp. de peixe			§66	1
-1500	papagaio (esp. da fam. Psittacidae)	882	PARROT	§67	1
-1522	surubim (Pseudoplatyatoma coruscans)			§68	1
-1545	trazer, buscar	692	BRING	§69	1
-1567	comitativo			§70	1
-1600	comitativo			§71	1
-1620	esquecer,  perder	1523	FORGET	§72	1
-1641	lágrima	1651	TEAR (OF EYE)	§73	1
-1664	ondas			§74	1
-1686	testa,  cara	123	FOREHEAD	§75	1
-1711	marido,  macho	1200	HUSBAND	§76	1
-1733	varón (probablemente *βɨnɨ + -βo,  juego 77 y 96)			§77	1
-1753	esp. de árvore (segundo SHELL (1975 [1965]) Savia Pegajosa) (da fam. Phyllanthaceae)			§78	1
-1778	olho	1248	EYE	§79	1
-1802	cortar	1432	CUT	§80	1
-1823	sobrancelhas (?)	1173	EYEBROW	§81	1
-1844	sobrancelhas	1173	EYEBROW	§82	1
-1867	esp. de sapo			§83	1
-1888	fino,  raso	2308	THIN	§84	1
-1911	sopa,  caldo			§85	1
-1931	rosto,  cara (prefixo parte do corpo)	1560	FACE	§86	1
-1952	pegar	855	SEIZE	§87	1
-1974	pele,  couro	763	SKIN	§88	1
-1996	esp.degarça			§89	1
-2017	carapanã			§90	1
-2040	fruto			§91	1
-2062	marimbondo,  caba			§92	1
-2083	buriti (Mauritia vinifera Mart.)			§93	1
-2103	goiaba(?)			§94	1
-2125	pluralizador			§95	1
-2145	esp. de picapau (da fam. Picidae)			§96	1
-2167	tipo de caixa			§97	1
-2187	esp. de palmeira			§98	1
-2209	toco,  tronco	241	TREE STUMP	§99	1
-2231	esp. de peixe (da fam. Pimelodidae)			§100	1
-2252	esp. de peixe (da fam. Pimelodidae)			§101	1
-2274	esp. de árvore (embaúba?)			§102	1
-2297	esp. de árvore (embaúba?)			§103	1
-2299	esp. de abelha			§104	1
-2321	pelo,  cabelo	2648	HAIR (HEAD)	§105	1
-2347	insecto			§106	1
-2367	esp. de lontra			§107	1
-2388	cabeça	1256	HEAD	§108	1
-2413	sentar (sentar-se)	1416	SIT	§109	1
-2439	esp. de peixe			§110	1
-2461	soluço,  soluçar	162	HICCOUGH	§111	1
-2482	cigarra	2353	CICADA	§112	1
-2503	carvão,  brasa	2658	COAL	§113	1
-2526	carvão,  brasa	2658	COAL	§114	1
-2530	quem	1235	WHO	§115	1
-2554	pegar,  agarrar com a mão	855	SEIZE	§116	1
-2577	picar, dar agulhada, ferrar, injetar, furar	398	PIERCE	§117	1
-2599	amassar, bater,  golpear	274	KNEAD	§118	1
-2619	mentir	601	LIE (MISLEAD)	§119	1
-2639	esp.demolusco			§120	1
-2660	grilo,  gafanhoto	607	GRASSHOPPER	§121	1
-2680	martim pescardor			§122	1
-2701	esp. de veado			§123	1
-2722	fogo	221	FIRE	§124	1
-2745	cinza (lit. pó (poeira) de fogo)			§125	1
-2769	guiar (uma canoa) por trás			§126	1
-2789	parte posterior			§127	1
-2813	lavar,  lavar-se	1453	WASH	§128	1
-2836	tela,  roupa	1895	CLOTHES	§129	1
-2856	duro,  forte	1884	HARD	§130	1
-2876	líquido,  água	948	WATER	§131	1
-2899	tigre de agua, nutria			§132	1
-2924	deixar,  largar			§133	1
-2944	esp. de palmeira			§134	1
-2964	bilhar,  queimar	2102	BURN	§135	1
-2988	semente	714	SEED	§136	1
-3011	entrar	749	ENTER	§137	1
-3033	esp. de formiga			§138	1
-3057	esp. de formiga			§139	1
-3080	sangue	946	BLOOD	§140	1
-3102	rabo	1220	TAIL	§141	1
-3123	ver,  olhar	1409	SEE	§142	1
-3144	ver,  olhar	1409	SEE	§143	1
-3167	urinar,  urina	592	PISS	§144	1
-3189	esp. de árvore e também seu fruto (segundo SHELL (1975 [1965]),  seria o Zapote)			§145	1
-3210	árvore (gen.),  pau (gen.)	906	TREE	§146	1
-3232	ouvir, escutar,  entender	1408	HEAR	§147	1
-3253	borda,  lábios	478	LIP	§148	1
-3273	jacu (esp. de pássaro)	437	GUAN	§149	1
-3293	desejar			§150	1
-3315	chamar	1084	CALL	§151	1
-3336	tipo de banco			§152	1
-3358	desenhar,  pintar	3194	PAINT (SOMETHING) OR PAINTING	§153	1
-3380	barba	678	BEARD	§154	1
-3403	ponta,  extremo			§155	1
-3431	ensartar			§156	1
-3453	lábios	478	LIP	§157	1
-3477	barba	678	BEARD	§158	1
-3499	esp. de arara			§159	1
-3522	costas	1291	BACK	§160	1
-3544	parente			§161	1
-3566	tipo de cesto			§162	1
-3587	abacaxi	2440	PINEAPPLE	§163	1
-3612	onça	1250	JAGUAR	§164	1
-3639	esp. de cobra			§165	1
-3660	esp. de arara			§166	1
-3681	relâmpago	1654	LIGHTNING	§167	1
-3702	arco	994	BOW	§168	1
-3723	quatipuru			§169	1
-3744	jacaré	2438	CAIMAN	§170	1
-3769	cará			§171	1
-3790	lenha	10	FIREWOOD	§172	1
-3811	querer	1784	WANT	§173	1
-3847	morcego	1793	BAT	§174	1
-3873	costas (prefixo parte do corpo)	1291	BACK	§175	1
-3896	costurar	1457	SEW	§176	1
-3917	vasilha,  prato	480	PLATE	§177	1
-3938	duro,  forte	1884	HARD	§178	1
-3961	pedaço,  caco			§179	1
-3985	grosso,  espesso	1244	THICK	§180	1
-4005	tipo de panela			§181	1
-4029	terminar,  acabar	1766	FINISH	§182	1
-4052	sufixo locativo ablativo			§183	1
-4074	buraco,  orifício	1667	HOLE	§184	1
-4096	coxa	471	UPPER LEG (THIGH)	§185	1
-4118	fumaça	778	SMOKE (EXHAUST)	§186	1
-4143	ferver	792	BOIL (OF LIQUID)	§187	1
-4164	mandíbula			§188	1
-4188	irmão da mãe			§189	1
-4210	vaga-lume	206	FIREFLY	§190	1
-4233	irmão da mãe			§191	1
-4253	ingerir alimentos moles			§192	1
-4275	ingerir alimentos moles			§193	1
-4278	nambu			§194	1
-4299	esp. de fungo			§195	1
-4321	pus	1808	PUS	§196	1
-4343	valor			§197	1
-4367	cinza,  acinzentado	646	ASH	§198	1
-4389	cedro			§199	1
-4410	cujubim			§200	1
-4431	sufixo verbal causativo			§201	1
-4451	morro,  colina			§202	1
-4472	esp. de peixe			§203	1
-4492	frio	1287	COLD	§204	1
-4513	varrer	230	SWEEP	§205	1
-4534	chifre de animal			§206	1
-4554	terra	1228	EARTH (SOIL)	§207	1
-4576	na terra,  por terra			§208	1
-4595	enterrar	1719	BURY	§209a	1
-4605	faixa para a cabeça,  chapéu			§209	1
-4626	rato	1490	RAT	§210	1
-4646	pedra,  rocha	857	STONE	§211	1
-4669	piranha (esp. de peixe)	317	PIRANHA	§212	1
-4693	esperar			§213	1
-4714	sobre, encima,  acima	57	ATOP	§214	1
-4736	metal			§215	1
-4755	banana	868	BANANA	§216	1
-4780	sentir saudade			§217	1
-4803	subir (um morro)	568	RISE (MOVE UPWARDS)	§218	1
-4824	camarão	2349	SHRIMP	§219	1
-4845	cabeça	1256	HEAD	§220	1
-4868	barro,  poeira	2	DUST	§221	1
-4894	esp.deplanta			§222	1
-4914	cutia (esp. de roedor)	313	AGOUTI	§223	1
-4936	esp. de cabaça			§224	1
-4957	areia	671	SAND	§225	1
-4979	pedra	857	STONE	§226	1
-4999	urucum (a árvore e o seu fruto)	349	ACHIOTE	§227	1
-5019	encima,  cume	1741	ABOVE	§228	1
-5042	cortar o cabelo			§229	1
-5066	chifre de animal			§230	1
-5088	golpear a cabeça			§231	1
-5110	morrer	1494	DIE	§232	1
-5129	esp. de formiga			§233	1
-5150	torcer, girar,  mover em círculos	3199	TWIST (AROUND)	§234	1
-5171	tocar, mexer com a mão,  tatear	1892	TOUCH	§235	1
-5193	molhar,  molhado	1726	WET	§236	1
-5216	mão	1277	HAND	§237	1
-5237	unha da mão			§238	1
-5267	mão	1277	HAND	§239	1
-5289	mão direita	2183	RIGHT HAND	§240	1
-5309	encontrar,  procurar	1831	MEET	§241	1
-5329	engatinhar			§242	1
-5350	dedo	1303	FINGER	§243	1
-5371	barreiro,  canamã			§244	1
-5391	tu, você	1215	THOU	§245	1
-5411	vocês,  vós	1213	YOU	§246a	1
-5422	pamonha			§247	1
-5443	anzol	1074	FISHHOOK	§248	1
-5463	veneno,  amargo	887	BITTER	§249	1
-5483	espinho	124	THORN	§250	1
-5505	ninho	539	NEST	§251	1
-5527	esp. de preguiça (macaco)			§252	1
-5547	céu	1732	SKY	§253	1
-5571	esp. de mosquito			§254	1
-5592	cupim	883	TERMITE	§255	1
-5613	soñar			§256	1
-5634	abaixo, embaixo,  sob			§257	1
-5657	carne	2259	FLESH	§258	1
-5680	jenipapo			§259	1
-5701	colocar dentro,  submergir			§260	1
-5724	dentro,  no centro	1606	INSIDE	§261	1
-5747	banhar-se,  tomar banho	138	BATHE	§262	1
-5769	largo	1243	WIDE	§263	1
-5789	morder	1403	BITE	§264	1
-5808	estrangeiro			§265	1
-5829	arco íris			§266	1
-5850	capoeira,  roça abandonada			§267	1
-5872	jacamim (esp. de pássaro)			§268	1
-5893	unir,  juntar			§269	1
-5913	amarrar	1917	TIE	§270	1
-5934	esp. de pássaro (Shell (1975 [1965] o descreve como shansho)			§271	1
-5955	día			§272	1
-5975	ficar em pé	1442	STAND	§273	1
-5999	mata,  floresta	420	FOREST	§274	1
-6024	brisa			§275	1
-6046	lacraia,  escorpião	1538	SCORPION	§276	1
-6067	escurtar,  ouvir	1408	HEAR	§277	1
-6088	arrastar			§278	1
-6109	suar			§279	1
-6130	suar			§280	1
-6150	aborrecer-se			§281	1
-6171	vento	960	WIND	§282	1
-6195	nós,  nos	1212	WE	§283	1
-6206	profundo			§284	1
-6227	esp. de caramujo			§285	1
-6248	minhoca	2350	EARTHWORM	§286	1
-6273	esp. de caramujo			§287	1
-6293	gostoso,  delicioso			§288	1
-6313	amar,  gostar	923	LOVE	§289	1
-6335	apagar			§290	1
-6357	nadar	1439	SWIM	§291	1
-6378	nadar	1439	SWIM	§292	1
-6383	pato	1360	DUCK	§293	1
-6406	canoa	1970	CANOE	§294	1
-6426	voar	1441	FLY (MOVE THROUGH AIR)	§295	1
-6447	vir,  chegar	1446	COME	§296	1
-6468	flor	239	FLOWER	§297	1
-6491	garra,  unha	1258	FINGERNAIL	§298	1
-6514	fala, voz,  palavra	1363	VOICE	§299	1
-6535	respirar	1407	BREATHE	§300	1
-6556	coração	1223	HEART	§301	1
-6578	esconder	602	HIDE (CONCEAL)	§302	1
-6599	homem,  humano	1554	MAN	§303	1
-6620	esp. de queixada (porco do mato)			§304	1
-6641	vermelho	156	RED	§305	1
-6668	branco	1335	WHITE	§306	1
-6689	lavar	1453	WASH	§307	1
-6710	embebedar-se, bêbado,  embriagado	1463	DRUNK	§308	1
-6735	surdo	996	DEAF	§309	1
-6759	ouvido (provavelmente paβi (orelha) + n (gen.) + kini (buraco) = buraco da orelha)			§310	1
-6784	esp. de taboca (bambu)			§311	1
-6804	cair	1280	FALL	§312	1
-6833	esp. de tatu			§313	1
-6854	enfeite de orelha,  brinco	770	EARRING	§314	1
-6876	pai	1217	FATHER	§315	1
-6907	enganar			§316	1
-6928	rio	666	RIVER	§317	1
-6948	amarelo	1424	YELLOW	§319	1
-6970	novo, fresco, cru	1231	NEW	§320	1
-6990	rama del árbol			§321	1
-7010	surdo	996	DEAF	§322	1
-7032	abanar			§323	1
-7053	podre	1728	ROTTEN	§324	1
-7073	asa,  pena	1201	FEATHER	§325	1
-7096	comer	1336	EAT	§326	1
-7119	sobrinho,  filho da irmã	1063	NEPHEW	§327	1
-7142	flecha	977	ARROW	§328	1
-7165	periquito			§329	1
-7186	beija-flor	1589	HUMMINGBIRD	§330	1
-7207	esp. de tucano			§331	1
-7228	fedido,  fedor			§332	1
-7249	esp. de cobra			§333	1
-7271	bolsapequena(?)			§334	1
-7291	esteira	195	MAT	§335	1
-7312	pequeno	1246	SMALL	§336	1
-7332	comida (coisa de comer)	256	FOOD	§337	1
-7353	fezes	675	FAECES (EXCREMENT)	§338	1
-7374	esp. de tubérculo (inhame?)			§339	1
-7395	irmã ou irmão do sexo oposto			§340	1
-7417	intestino,  barriga	1251	BELLY	§341	1
-7438	veia	1924	VEIN	§342	1
-7459	esp. de coruja			§343	1
-7480	esp. de preguiça			§344	1
-7500	tornozelo	803	ANKLE	§345	1
-7522	jogar,  abandonar	1456	THROW	§346	1
-7543	poeira	2	DUST	§347	1
-7566	braço	1673	ARM	§348	1
-7591	braço	1673	ARM	§349	1
-7611	remédio,  medicina tradicional	1372	MEDICINE	§350	1
-7634	ter medo,  assustar-se	1419	FEAR (BE AFRAID)	§351	1
-7655	dois	1498	TWO	§352	1
-7677	envergonhar-se,  ter vergonha			§353	1
-7698	rótula,  joelho	1371	KNEE	§354	1
-7718	temer			§355	1
-7738	deitar-se	215	LIE DOWN	§356	1
-7760	cobrir,  envolver	761	COVER	§357	1
-7781	pelo do corpo			§358	1
-7801	joelho	1371	KNEE	§359	1
-7825	matar	1417	KILL	§360	1
-7846	ponta,  cabeceira do rio			§361	1
-7872	para frente,  para cima (no rio)			§362	1
-7895	buraco do nariz,  narina	1178	NOSTRIL	§363	1
-7920	moer	1033	GRIND	§364	1
-7941	septo nasal			§365	1
-7962	tombar			§366	1
-7983	instrumento musical			§367	1
-8005	igual, do mesmo jeito,  também			§368	1
-8038	esp. de macaco			§369	1
-8059	fio,  corda	1218	ROPE	§370	1
-8083	fio			§371	1
-8105	guariba (esp. de macaco), mono aullador	433	HOWLER MONKEY	§372	1
-8127	machado	677	AXE	§373	1
-8148	tabaco	974	TOBACCO	§374	1
-8171	cobra	730	SNAKE	§375	1
-8193	fazer dieta,  jejum			§376	1
-8216	levantar,  suspender			§377	1
-8236	esp. de peixe			§378	1
-8259	esp. de peixe			§379	1
-8264	vestir roupa			§380	1
-8285	vestir roupa			§381	1
-8308	quati	2389	COATI (COATIMUNDI)	§382	1
-8328	bom,  bonito	1035	GOOD	§383	1
-8349	peito (prefixo parte do corpo)	1592	CHEST	§384	1
-8372	esp. de planta			§385	1
-8391	esp. de aranha			§386	1
-8412	pensar	2271	THINK	§387	1
-8435	esp. de macaco			§388	1
-8456	pium (esp.demosca)			§389	1
-8477	macaco sagui			§390	1
-8499	claridade			§391	1
-8522	tamanduá	181	ANTEATER	§392	1
-8544	cortar	1432	CUT	§393	1
-8565	bocejar	1028	YAWN	§394	1
-8587	casca de árvore,  pele	763	SKIN	§395	1
-8609	quente	1286	HOT	§396	1
-8630	cunhada, esposa,  prima cruzada	1199	WIFE	§397	1
-8649	osso	1394	BONE	§398	1
-8673	algodão	1850	COTTON	§399	1
-8693	pilão,  pedra	857	STONE	§400	1
-8716	esp. de cabaça			§401	1
-8740	esp. de arara			§402	1
-8760	jabuti	3949	RED-FOOTED TORTOISE	§403	1
-8781	canadeaçúcar(?)			§404	1
-8801	canadeaçúcar(?)			§405	1
-8823	debulhar o milho			§406	1
-8843	esp. de palmeira			§407	1
-8865	esp. de lagartixa			§408	1
-8887	esp. de lagartixa			§409	1
-8909	esp. de lagarta			§410	1
-8930	esp. de árvore			§411	1
-8951	gordura,  óleo	323	FAT (ORGANIC SUBSTANCE)	§412	1
-8974	velho	406	OLD MAN	§413	1
-8997	dente,  bico (de ave)	1380	TOOTH	§414	1
-9018	urubu	1185	VULTURE	§415	1
-9038	cheirar	1586	SMELL (PERCEIVE)	§416	1
-9059	teto (feito de palha)			§417	1
-9082	benefactivo			§418	1
-9104	sufixo de concordancia transitiva			§419	1
-9124	assar	1962	ROAST (SOMETHING)	§420	1
-9145	agulha	1382	NEEDLE (FOR SEWING)	§421	1
-9166	coçar,  coceira			§422	1
-9188	gordo	1279	FAT (OBESE)	§423	1
-9210	casa	1252	HOUSE	§424	1
-9230	descascar	275	PEEL	§425	1
-9251	esp. de tucano grande			§426	1
-9272	pequeno	1246	SMALL	§427	1
-9293	pelar-se,  mudar de pele			§428	1
-9314	seios,  leite	635	MILK	§429	1
-9335	verde, nãomaduro	1425	GREEN	§430	1
-9356	mamão	2445	PAPAYA	§431	1
-9377	mamão	2445	PAPAYA	§432	1
-9398	peito	1592	CHEST	§433	1
-9420	menina,  moça	77	YOUNG WOMAN	§434	1
-9444	rato	1490	RAT	§435	1
-9469	pé	1301	FOOT	§436	1
-9492	tapiri,  casa temporária			§437	1
-9513	fígado	1224	LIVER	§438	1
-9534	amendoim	595	GROUNDNUT (PEANUT)	§439	1
-9555	bochecha	1730	CHEEK	§440	1
-9577	bochecha	1730	CHEEK	§441	1
-9599	esp. de palmeira			§442	1
-9622	ponte,  plataforma	1011	BRIDGE	§443	1
-9643	raiz	670	ROOT	§444	1
-9664	pau velho,  pau podre			§445	1
-9685	rodar			§446	1
-9708	roupa	1895	CLOTHES	§447	1
-9728	tipodecesto			§448	1
-9748	sal	1274	SALT	§449	1
-9756	pauzada (amontoado de tronco que desce no rio)			§450	1
-9776	taboca utilizada para fazer flechas			§451	1
-9798	quebrar			§452	1
-9820	zarabatana	432	BLOWGUN	§453	1
-9841	broto			§454	1
-9863	pescoço	1333	NECK	§455	1
-9889	esp. de gavião			§456	1
-9910	pomo de adão			§457	1
-9932	nominalizador de instrumento			§458	1
-9952	bater,  golpear	1433	HIT	§459	1
-9976	espingarda	3948	SHOTGUN	§460	1
-10001	coador			§461	1
-10022	engravidar,  dar a luz			§462	1
-10047	esp.derãousapo			§463	1
-10067	azul escuro			§464	1
-10087	verruga			§465	1
-10108	fazer	813	DO	§466	1
-10117	fazer	813	DO	§467	1
-10137	água,  rio	948	WATER	§468	1
-10158	esp. depeixe			§469	1
-10179	pupunha	3919	PEACH PALM	§470	1
-10200	esp. de abóbora			§471	1
-10221	esp.demacaco			§472	1
-10241	varrer,  ciscar	230	SWEEP	§473	1
-10261	erva			§474	1
-10284	teia de aranha	1065	SPIDER WEB	§475	1
-10305	algodão	1850	COTTON	§476	1
-10327	sufixo verbal imperativo			§477	1
-10348	igarapé (?)			§478	1
-10368	outro	197	OTHER	§479	1
-10388	um (numeral)	1493	ONE	§480	1
-10411	canela,  parte inferior da perna			§481	1
-10432	cheiro			§482	1
-10452	remar	1849	ROW	§483a	1
-10472	remo	3137	OAR	§483b	1
-10492	remo	3137	OAR	§484	1
-10513	borduna,  bastão			§485	1
-10535	passar			§486	1
-10556	pantorrilha			§487	1
-10576	negro			§488	1
-10597	estrela	1430	STAR	§489	1
-10622	com,  empossede			§490	1
-10643	esp. de carrapato			§491	1
-10666	cidade,  assentamento	1391	TOWN	§492	1
-10688	sufixo negativo			§493	1
-10718	escuro,  noite	1233	NIGHT	§494	1
-10739	machado	677	AXE	§495	1
-10761	peixe	227	FISH	§496	1
-10782	tarde	1807	AFTERNOON	§497	1
-10802	esp. de queixada (porco do mato)			§498	1
-10824	esp. de tatu			§499	1
-10848	dizer,  falar	1458	SAY	§500	1
-10870	animal	619	ANIMAL	§501	1
-10892	calor,  quente	1286	HOT	§502	1
-10913	ter febre,  esquentar-se			§502a	1
-10935	feiticeiro			§503	1
-10957	esp. de pimenta			§504	1
-10978	perguntar	1309	ASK (INQUIRE)	§505	1
-10999	esp.depeixe			§506	1
-11020	fio, linha,  corda	1218	ROPE	§507	1
-11042	roubar	713	STEAL	§508	1
-11064	gente,  corpo humano	683	PERSON	§509	1
-11088	crescer	479	GROW	§510	1
-11109	espírito			§511	1
-11133	mulher, velha	962	WOMAN	§512	1
+GLOSS	ENGLISH	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	PROTO_ID	PROTO_CONCEPT
+fazer, matar	to make, to kill				§1	1
+macaxeira, mandioca	manioc, cassava		925	CASSAVA	§2	1
+capivara	cabybara		314	CAPYBARA	§3	1
+grande	big		1202	BIG	§4	1
+paca (Cuniculus paca)	paca		316	PACA	§5	1
+sufixo de concordância do intransitivo	intransitive suffix of concordance				§6	1
+tipo de veneno	type of venom				§7	1
+anta (Tapirus terrestris)	tapir		312	TAPIR	§8	1
+mulher, esposa	women, wife				§9	1
+mulher, esposa	women, wife				§9a	1
+tragar	to devour				§10	1
+yo	I		1209	I	§11	1
+grande	big		1202	BIG	§12	1
+piolho	louse		1392	LOUSE	§13	1
+lago	lake		624	LAKE	§14	1
+dono	owner		1036	OWNER	§15	1
+esp. de pásaro	species of bird				§16	1
+quente, calor	hot, heat				§17	1
+abraçar, segurar nos braços	embrace, hold in arms		928	EMBRACE	§18	1
+seguir llevando en los brazos	keep holding in arms	 provavelmente uma reduplicação do verbo em 18			§18a	1
+subir	to go up		705	GO UP (ASCEND)	§18b	1
+criação, animal doméstico	breeding, domestic animal				§19	1
+dar	to give		1447	GIVE	§20	1
+esp. de onça	species of jaguar				§21	1
+esp. de peixe (esp. da fam. Loricariidae)	species of fish (Loricariidae)				§22	1
+dor, doer	pain, to hurt				§23	1
+japu (esp. de pássaro da fam. Icteridae)	japu (bird of fam. Icteridae)				§24	1
+macaco preto (esp. de macaco da fam Atelidae)	black macaw				§25	1
+correr	to run		1519	RUN	§26	1
+muito	many		1198	MANY	§27	1
+urubu rei	urubu rei				§28	1
+pesado	heavy		1210	HEAVY	§29	1
+arraia	stingray		1910	STINGRAY	§30	1
+esp. de carrapato	species of tick				§31	1
+chuva	rain		658	RAIN (PRECIPITATION)	§32	1
+olhar	to look		1819	LOOK	§33	1
+tossir	to cough		879	COUGH	§34	1
+conhecer, aprender	to learn		504	LEARN	§35	1
+água fresca (lit. líquido novo)	fresh water				§36	1
+rir	to laugh		1355	LAUGH	§37	1
+dormir	to sleep		1585	SLEEP	§38	1
+lua	moon		1313	MOON	§39	1
+sombra	shade		1388	SHADE	§40	1
+chupar, sugar	to suck		1421	SUCK	§41	1
+ele, esse	he		1211	HE	§42	1
+correr, fugir	to run		1519	RUN	§43	1
+esp. de garça	species of heron				§44	1
+pisar	to step		2065	STEP (VERB)	§45	1
+língua	tongue		1205	TONGUE	§46	1
+vomitar	to vomit		1278	VOMIT	§47	1
+nome	name		1405	NAME	§48	1
+mutum (da esp. da fam. Cracidae)	curassow		315	CURASSOW	§49	1
+abertura	opening				§50	1
+esse tanto	that much				§51	1
+3a pessoa do plural	third person plural				§52	1
+que, o que	what		1236	WHAT	§53	1
+seu, sua, dele, dela	his, her, of him, of her		2092	HIS OR HER	§54	1
+caminho, picada	way, path		2252	PATH	§55	1
+noite, escuro	night, dark				§56	1
+tela	cloth				§57	1
+roçado	swidden field for agriculture		429	SWIDDEN FIELD	§58	1
+filho, criança	child		1304	CHILD (YOUNG HUMAN)	§59	1
+espuma	foam		1768	FOAM	§60	1
+plantar	to plant		1486	PLANT (SOMETHING)	§61	1
+sol	sun		1343	SUN	§62	1
+ovo	egg		744	EGG	§63	1
+cochichar	to whisper		55	WHISPER	§64	1
+doce	sweet		717	SWEET	§65	1
+esp. de peixe	species of fish				§66	1
+papagaio (esp. da fam. Psittacidae)	parrot		882	PARROT	§67	1
+surubim (Pseudoplatyatoma coruscans)	surubim				§68	1
+trazer, buscar	to bring, to search				§69	1
+comitativo	comitative				§70	1
+comitativo	comitative				§71	1
+esquecer, perder	to forget, to lose				§72	1
+lágrima	tear		1651	TEAR (OF EYE)	§73	1
+ondas	waves		978	WAVE	§74	1
+testa, cara	forehead, face				§75	1
+marido, macho	husband, man				§76	1
+varón	man	(probablemente *βɨnɨ + -βo, juego 77 y 96)	2106	MALE PERSON	§77	1
+esp. de árvore (da fam. Phyllanthaceae)	species of tree (Phyllanthaceae)	(segundo SHELL (1975 [1965]) Savia Pegajosa) 			§78	1
+olho	eye		1248	EYE	§79	1
+cortar	to cut		1432	CUT	§80	1
+sobrancelhas	eyebrow	(?)	1173	EYEBROW	§81	1
+sobrancelhas	eyebrow		1173	EYEBROW	§82	1
+esp. de sapo	species of frog				§83	1
+fino, raso	thin, fine		2308	THIN	§84	1
+sopa, caldo	soup, broth		1547	SOUP	§85	1
+rosto, cara	face	(prefixo parte do corpo)	1560	FACE	§86	1
+pegar	to catch		702	CATCH	§87	1
+pele, couro	skin, leather		763	SKIN	§88	1
+esp. de garça	species of heron				§89	1
+carapanã	mosquito		1509	MOSQUITO	§90	1
+fruto	fruit		1507	FRUIT	§91	1
+marimbondo, caba	marimbondo, caba				§92	1
+buriti (Mauritia vinifera Mart.)	miriti palm		3811	MIRITI PALM	§93	1
+goiaba	guava	(?)			§94	1
+pluralizador	pluralizer				§95	1
+esp. de picapau (da fam. Picidae)	species of picapau (Picidae)				§96	1
+tipo de caixa	type of box				§97	1
+esp. de palmeira	species of palm				§98	1
+toco, tronco	tree stump		241	TREE STUMP	§99	1
+esp. de peixe (da fam. Pimelodidae)	species of fish (Pimelididae)				§100	1
+esp. de peixe (da fam. Pimelodidae)	species of fish (Pimelididae)				§101	1
+esp. de árvore (embaúba?)	species of tree				§102	1
+esp. de árvore (embaúba?)	species of tree				§103	1
+esp. de abelha	species of bee				§104	1
+pelo, cabelo	hair		1040	HAIR	§105	1
+insecto	insect		620	INSECT	§106	1
+esp. de lontra	species of otter				§107	1
+cabeça	head		1256	HEAD	§108	1
+sentar (sentar-se)	to sit		1416	SIT	§109	1
+esp. de peixe	species of fish				§110	1
+soluço, soluçar	hiccough, to hiccup		162	HICCOUGH	§111	1
+cigarra	cicada		2353	CICADA	§112	1
+carvão, brasa	amber, coal				§113	1
+carvão, brasa	amber, coal				§114	1
+quem	who		1235	WHO	§115	1
+pegar, agarrar com a mão	to catch, to graph with one's hand		855	SEIZE	§116	1
+picar, dar agulhada, ferrar, injetar, furar	poke, pierce, inject, drill				§117	1
+amassar, bater, golpear	knead, hit, strike				§118	1
+mentir	to lie		601	LIE (MISLEAD)	§119	1
+esp. de molusco	species of mollusc				§120	1
+grilo, gafanhoto	grasshopper		607	GRASSHOPPER	§121	1
+martim pescardor	martim pescardor				§122	1
+esp. de veado	species of deer				§123	1
+fogo	fire		221	FIRE	§124	1
+cinza (lit. pó (poeira) de fogo)	fire powder				§125	1
+guiar (uma canoa) por trás	to drive from behind				§126	1
+parte posterior	back part		2323	BACK (PART)	§127	1
+lavar, lavar-se	to wash, to wash oneself		1453	WASH	§128	1
+tela, roupa	cloth, clothes		1895	CLOTHES	§129	1
+duro, forte	hard, strong		1884	HARD	§130	1
+líquido, água	liquid, water		58	LIQUID	§131	1
+tigre de agua, nutria	otter		15	OTTER	§132	1
+deixar, largar	to leave, to go away		1752	LEAVE	§133	1
+esp. de palmeira	species of palm				§134	1
+bilhar, queimar	to burn		2102	BURN	§135	1
+semente	seed		714	SEED	§136	1
+entrar	to enter		749	ENTER	§137	1
+esp. de formiga	species of ant				§138	1
+esp. de formiga	species of ant				§139	1
+sangue	blood		946	BLOOD	§140	1
+rabo	tail		1220	TAIL	§141	1
+ver, olhar	to see, to look		1409	SEE	§142	1
+ver, olhar	to see, to look		1409	SEE	§143	1
+urinar, urina	urine, to urinate				§144	1
+esp. de árvore e também seu fruto	species of tree and it's fruit	(segundo SHELL (1975 [1965]), seria o Zapote)			§145	1
+árvore (gen.), pau (gen.)	tree, stick				§146	1
+ouvir, escutar, entender	to hear, to listen, to understand		1408	HEAR	§147	1
+borda, lábios	edge, lips				§148	1
+jacu (esp. de pássaro)	jacu (species of bird)		437	GUAN	§149	1
+desejar	to desire		2117	DESIRE	§150	1
+chamar	to call		1084	CALL	§151	1
+tipo de banco	type of bank				§152	1
+desenhar, pintar	to design, to paint				§153	1
+barba	beard		678	BEARD	§154	1
+ponta, extremo	tip, end point		2992	TIP (OF OBJECT)	§155	1
+ensartar	to string together				§156	1
+lábios	lips		478	LIP	§157	1
+barba	beard		678	BEARD	§158	1
+esp. de arara	species of arara				§159	1
+costas	back		1291	BACK	§160	1
+parente	relatives		1644	RELATIVES	§161	1
+tipo de cesto	type of basket				§162	1
+abacaxi	pineapple		2440	PINEAPPLE	§163	1
+onça	jaguar		1250	JAGUAR	§164	1
+esp. de cobra	species of snake				§165	1
+esp. de arara	species of arara				§166	1
+relâmpago	lightning		1654	LIGHTNING	§167	1
+arco	bow		994	BOW	§168	1
+quatipuru	squirrel		1628	SQUIRREL	§169	1
+jacaré	caiman		2438	CAIMAN	§170	1
+cará	yam		410	YAM	§171	1
+lenha	firewood		10	FIREWOOD	§172	1
+querer	to want		1784	WANT	§173	1
+morcego	bat		1793	BAT	§174	1
+costas (prefixo parte do corpo)	back (body-part prefix)				§175	1
+costurar	to sew		1457	SEW	§176	1
+vasilha, prato	bowl, plate				§177	1
+duro, forte	hard, strong		1884	HARD	§178	1
+pedaço, caco	piece, shard		594	PIECE	§179	1
+grosso, espesso	think		1244	THICK	§180	1
+tipo de panela	type of pot				§181	1
+terminar, acabar	to finish, to end		1766	FINISH	§182	1
+sufixo locativo ablativo	locative ablative suffix				§183	1
+buraco, orifício	hole		1667	HOLE	§184	1
+coxa	thigh		471	UPPER LEG (THIGH)	§185	1
+fumaça	smoke		778	SMOKE (EXHAUST)	§186	1
+ferver	to boil		792	BOIL (OF LIQUID)	§187	1
+mandíbula	jaw		798	JAW	§188	1
+irmão da mãe	maternal aunt		2693	MATERNAL AUNT (MOTHER'S SISTER)	§189	1
+vaga-lume	firefly		206	FIREFLY	§190	1
+irmão da mãe	maternal uncle		2692	MATERNAL UNCLE (MOTHER'S BROTHER)	§191	1
+ingerir alimentos moles	ingest soft food				§192	1
+ingerir alimentos moles	ingest soft food				§193	1
+nambu	tinamou		3921	TINAMOU	§194	1
+esp. de fungo	species of funghi				§195	1
+pus	pus		1808	PUS	§196	1
+valor	value				§197	1
+cinza, acinzentado	ash, gray		646	ASH	§198	1
+cedro	cedrela odorata		3929	BRAZILIAN CEDAR (Cedrela odorata)	§199	1
+cujubim	cujubim				§200	1
+sufixo verbal causativo	verbal causative suffix				§201	1
+morro, colina	hill		614	HILL	§202	1
+esp. de peixe	species of fish				§203	1
+frio	cold		1287	COLD	§204	1
+varrer	to sweep		230	SWEEP	§205	1
+chifre de animal	animal horn		1393	HORN (ANATOMY)	§206	1
+terra	earth		1228	EARTH (SOIL)	§207	1
+na terra, por terra	on earth				§208	1
+enterrar	to bury		1719	BURY	§209a	1
+faixa para a cabeça, chapéu	headbelt, hat		2130	HEADGEAR	§209	1
+rato	rat		1490	RAT	§210	1
+pedra, rocha	stone		857	STONE	§211	1
+piranha (esp. de peixe)	piranha		317	PIRANHA	§212	1
+esperar	to wait		1590	WAIT (FOR)	§213	1
+sobre, encima, acima	above		1741	ABOVE	§214	1
+metal	metal		2244	METAL	§215	1
+banana	banana		868	BANANA	§216	1
+sentir saudade	to feel longing		2328	MISS (SOMEBODY)	§217	1
+subir (um morro)	ascend		705	GO UP (ASCEND)	§218	1
+camarão	shrimp		2349	SHRIMP	§219	1
+cabeça	head		1256	HEAD	§220	1
+barro, poeira	clay, dust				§221	1
+esp. de planta	species of plant				§222	1
+cutia (esp. de roedor)	cutia (species of rodent)		313	AGOUTI	§223	1
+esp. de cabaça	species of gourd				§224	1
+areia	sand		671	SAND	§225	1
+pedra	stone		857	STONE	§226	1
+urucum (a árvore e o seu fruto)	achiote		349	ACHIOTE	§227	1
+encima, cume	atop		57	ATOP	§228	1
+cortar o cabelo	to cut hair		2155	CUT (WITH SCISSORS)	§229	1
+chifre de animal	animal horn		1393	HORN (ANATOMY)	§230	1
+golpear a cabeça	to hit oneself's head				§231	1
+morrer	to die		1494	DIE	§232	1
+esp. de formiga	species of ant				§233	1
+torcer, girar, mover em círculos	to twist, to turn, to move in circles		3199	TWIST (AROUND)	§234	1
+tocar, mexer com a mão, tatear	to touch, to stir with a hand, to grope		1892	TOUCH	§235	1
+molhar, molhado	to wet, wet				§236	1
+mão	hand		1277	HAND	§237	1
+unha da mão	fingernail		1258	FINGERNAIL	§238	1
+mão	hand		1277	HAND	§239	1
+mão direita	right hand		2183	RIGHT HAND	§240	1
+encontrar, procurar	to meet		1831	MEET	§241	1
+engatinhar	to crawl		96	CRAWL	§242	1
+dedo	finger		1303	FINGER	§243	1
+barreiro, canamã	clay pit				§244	1
+tu, você	you (sg.)		1215	THOU	§245	1
+vocês, vós	you (pl.)		1213	YOU	§246a	1
+pamonha	pamonha				§247	1
+anzol	fishhook		1074	FISHHOOK	§248	1
+veneno, amargo	poison, bitter				§249	1
+espinho	thorn		124	THORN	§250	1
+ninho	nest		539	NEST	§251	1
+esp. de preguiça (macaco)	species of macaw				§252	1
+céu	sky		1732	SKY	§253	1
+esp. de mosquito	species of mosquito				§254	1
+cupim	termite		883	TERMITE	§255	1
+soñar	dream		2374	DREAM	§256	1
+abaixo, embaixo, sob	below, under		1485	BELOW OR UNDER	§257	1
+carne	meat		634	MEAT	§258	1
+jenipapo	genipa		3920	GENIPA	§259	1
+colocar dentro, submergir	to put inside, to dive				§260	1
+dentro, no centro	inside, in the center		1606	INSIDE	§261	1
+banhar-se, tomar banho	to bathe, to take a bath		138	BATHE	§262	1
+largo	wide		1243	WIDE	§263	1
+morder	to bite		1403	BITE	§264	1
+estrangeiro	stranger		791	STRANGER	§265	1
+arco íris	rainbow		1733	RAINBOW	§266	1
+capoeira, roça abandonada	abandoned rock				§267	1
+jacamim (esp. de pássaro)	jacamim (species of bord)				§268	1
+unir, juntar	to join, to gather		7	GATHER	§269	1
+amarrar	to tie		1917	TIE	§270	1
+esp. de pássaro	species of bird	(Shell (1975 [1965] o descreve como shansho)			§271	1
+día	day		1225	DAY (NOT NIGHT)	§272	1
+ficar em pé	to stand		1442	STAND	§273	1
+mata, floresta	forest		420	FOREST	§274	1
+brisa	breeze				§275	1
+lacraia, escorpião	centipede, scorpion				§276	1
+escurtar, ouvir	to listen, to hear		1408	HEAR	§277	1
+arrastar	to drag		2030	DRAG	§278	1
+suar	to sweat		126	SWEAT (PERSPIRE)	§279	1
+suar	to sweat		126	SWEAT (PERSPIRE)	§280	1
+aborrecer-se	to get bored				§281	1
+vento	wind		960	WIND	§282	1
+nós, nos	we		1212	WE	§283	1
+profundo	deep		1593	DEEP	§284	1
+esp. de caramujo	species of snail				§285	1
+minhoca	earthworm		2350	EARTHWORM	§286	1
+esp. de caramujo	species of snail				§287	1
+gostoso, delicioso	tasty, delicious		1813	TASTY	§288	1
+amar, gostar	to love, to like		923	LOVE	§289	1
+apagar	to extinguish		127	EXTINGUISH	§290	1
+nadar	to swim		1439	SWIM	§291	1
+nadar	to swim		1439	SWIM	§292	1
+pato	duck		1360	DUCK	§293	1
+canoa	canoe		1970	CANOE	§294	1
+voar	to fly		1441	FLY (MOVE THROUGH AIR)	§295	1
+vir, chegar	to come, to arrive		1387	ARRIVE	§296	1
+flor	flower		239	FLOWER	§297	1
+garra, unha	claw		72	CLAW	§298	1
+fala, voz, palavra	voice		1363	VOICE	§299	1
+respirar	to breathe		1407	BREATHE	§300	1
+coração	heart		1223	HEART	§301	1
+esconder	to hide		602	HIDE (CONCEAL)	§302	1
+homem, humano	human		683	PERSON	§303	1
+esp. de queixada (porco do mato)	species of pig				§304	1
+vermelho	red		156	RED	§305	1
+branco	white		1335	WHITE	§306	1
+lavar	to wash		1453	WASH	§307	1
+embebedar-se, bêbado, embriagado	to get drunk, drunk				§308	1
+surdo	deaf		996	DEAF	§309	1
+ouvido	hole of ear	(provavelmente paβi (orelha) + n (gen.) + kini (buraco) = buraco da orelha)	3891	EARHOLE	§310	1
+esp. de taboca (bambu)	species of bamboo				§311	1
+cair	to fall		1280	FALL	§312	1
+esp. de tatu	species of armadillo				§313	1
+enfeite de orelha, brinco	ear ornament, earring		770	EARRING	§314	1
+pai	father		1217	FATHER	§315	1
+enganar	to deceive		3230	DECEIVE	§316	1
+rio	river		666	RIVER	§317	1
+amarelo	yellow		1424	YELLOW	§319	1
+novo, fresco, cru	new, fresh, raw				§320	1
+rama del árbol	branch of tree		1531	BRANCH	§321	1
+surdo	deaf		996	DEAF	§322	1
+abanar	to fan		360	FAN (ACTION)	§323	1
+podre	rotten		1728	ROTTEN	§324	1
+asa, pena	wing, feather				§325	1
+comer	to eat		1336	EAT	§326	1
+sobrinho, filho da irmã	nephew		1063	NEPHEW	§327	1
+flecha	arrow		977	ARROW	§328	1
+periquito	parakeet		886	PARAKEET	§329	1
+beija-flor	hummingbird		1589	HUMMINGBIRD	§330	1
+esp. de tucano	species of tucan				§331	1
+fedido, fedor	bad smell, stench		3704	ODOR (SMELL)	§332	1
+esp. de cobra	species of cobra				§333	1
+bolsa pequena	small bag	(?)			§334	1
+esteira	mat		195	MAT	§335	1
+pequeno	small		1246	SMALL	§336	1
+comida (coisa de comer)	food		256	FOOD	§337	1
+fezes	faeces		675	FAECES (EXCREMENT)	§338	1
+esp. de tubérculo (inhame?)	species of tubercole				§339	1
+irmã ou irmão do sexo oposto	sibling of the other sex				§340	1
+intestino, barriga	intestines, belly				§341	1
+veia	vein		1924	VEIN	§342	1
+esp. de coruja	species of owl				§343	1
+esp. de preguiça	species of sloth				§344	1
+tornozelo	ankle		803	ANKLE	§345	1
+jogar, abandonar	to play, to abandon				§346	1
+poeira	dust		2	DUST	§347	1
+braço	arm		1673	ARM	§348	1
+braço	arm		1673	ARM	§349	1
+remédio, medicina tradicional	medicine		1372	MEDICINE	§350	1
+ter medo, assustar-se	to fear, to be afraid		1419	FEAR (BE AFRAID)	§351	1
+dois	two		1498	TWO	§352	1
+envergonhar-se, ter vergonha	to be ashamed, to feel ashamed				§353	1
+rótula, joelho	kneecap, knee				§354	1
+temer	to feat		1419	FEAR (BE AFRAID)	§355	1
+deitar-se	to lie down		215	LIE DOWN	§356	1
+cobrir, envolver	to cover, to embrace		761	COVER	§357	1
+pelo do corpo	body hair		189	HAIR (BODY)	§358	1
+joelho	knee		1371	KNEE	§359	1
+matar	to kill		1417	KILL	§360	1
+ponta, cabeceira do rio	tip, headwaters of river		2672	HEADWATERS	§361	1
+para frente, para cima (no rio)	in front of, above the river				§362	1
+buraco do nariz, narina	nose hole, nostril		1178	NOSTRIL	§363	1
+moer	to grind		1033	GRIND	§364	1
+septo nasal	nasal septum				§365	1
+tombar	to fall		1280	FALL	§366	1
+instrumento musical	music instrument				§367	1
+igual, do mesmo jeito, também	same, of the same way, also				§368	1
+esp. de macaco	species of macaw				§369	1
+fio, corda	thread, rope				§370	1
+fio	thread		1161	THREAD	§371	1
+guariba (esp. de macaco), mono aullador	guariba (species of macaw), howler monkey				§372	1
+machado	axe		677	AXE	§373	1
+tabaco	tobacco		974	TOBACCO	§374	1
+cobra	snake		730	SNAKE	§375	1
+fazer dieta, jejum	to make a diet, to fast		3331	FASTING	§376	1
+levantar, suspender	to lift, to suspend				§377	1
+esp. de peixe	species of fish				§378	1
+esp. de peixe	species of fish				§379	1
+vestir roupa	to wear clothes		976	WEAR	§380	1
+vestir roupa	to wear clothes		976	WEAR	§381	1
+quati	coati		2389	COATI (COATIMUNDI)	§382	1
+bom, bonito	good, well		1035	GOOD	§383	1
+peito (prefixo parte do corpo)	chest (body-part prefix)				§384	1
+esp. de planta	species of plant				§385	1
+esp. de aranha	species of spider				§386	1
+pensar	to think		2271	THINK	§387	1
+esp. de macaco	species of macaw				§388	1
+pium (esp.demosca)	pium (species of fly)				§389	1
+macaco sagui	sagui macaw				§390	1
+claridade	clarity				§391	1
+tamanduá	anteater		181	ANTEATER	§392	1
+cortar	to cut		1432	CUT	§393	1
+bocejar	to yawn		1028	YAWN	§394	1
+casca de árvore, pele	bark of tree, skin				§395	1
+quente	hot		1286	HOT	§396	1
+cunhada, esposa, prima cruzada	sister-in-law, wife, cross-cousin				§397	1
+osso	bone		1394	BONE	§398	1
+algodão	cotton		1850	COTTON	§399	1
+pilão, pedra	pestle, stone		857	STONE	§400	1
+esp. de cabaça	species of gourd				§401	1
+esp. de arara	species of macaw				§402	1
+jabuti	jabuti		3949	RED-FOOTED TORTOISE	§403	1
+cana de açúcar	sugar cane	(?)	146	SUGAR CANE	§404	1
+cana de açúcar	sugar cane	(?)	146	SUGAR CANE	§405	1
+debulhar o milho	to thresh the corn				§406	1
+esp. de palmeira	species of palm				§407	1
+esp. de lagartixa	species of lizard				§408	1
+esp. de lagartixa	species of lizard				§409	1
+esp. de lagarta	species of caterpillar				§410	1
+esp. de árvore	species of tree				§411	1
+gordura, óleo	fat, oil		323	FAT (ORGANIC SUBSTANCE)	§412	1
+velho	old		1229	OLD	§413	1
+dente, bico (de ave)	tooth, beak of bird				§414	1
+urubu	vulture		1185	VULTURE	§415	1
+cheirar	to smell		1586	SMELL (PERCEIVE)	§416	1
+teto (feito de palha)	roof made of straw		769	ROOF	§417	1
+benefactivo	benefactive				§418	1
+sufixo de concordancia transitiva	transitive concordance suffix				§419	1
+assar	to roast		1962	ROAST (SOMETHING)	§420	1
+agulha	needle		1382	NEEDLE (FOR SEWING)	§421	1
+coçar, coceira	itch, to itch		148	ITCH	§422	1
+gordo	fat		1279	FAT (OBESE)	§423	1
+casa	house		1252	HOUSE	§424	1
+descascar	to peel		275	PEEL	§425	1
+esp. de tucano grande	species of large tucan				§426	1
+pequeno	small		1246	SMALL	§427	1
+pelar-se, mudar de pele	to peel oneself, to change skin				§428	1
+seios, leite	breasts, milk		2129	BREAST OR MILK	§429	1
+verde, nãomaduro	green, unripe		1958	UNRIPE	§430	1
+mamão	papaya		2445	PAPAYA	§431	1
+mamão	papaya		2445	PAPAYA	§432	1
+peito	chest		1592	CHEST	§433	1
+menina, moça	young woman		77	YOUNG WOMAN	§434	1
+rato	rat		1490	RAT	§435	1
+pé	foot		1301	FOOT	§436	1
+tapiri, casa temporária	tapiri, temporary home				§437	1
+fígado	liver		1224	LIVER	§438	1
+amendoim	groundnut		595	GROUNDNUT (PEANUT)	§439	1
+bochecha	cheek		1730	CHEEK	§440	1
+bochecha	cheek		1730	CHEEK	§441	1
+esp. de palmeira	species of palm				§442	1
+ponte, plataforma	bridge, platform		1011	BRIDGE	§443	1
+raiz	root		670	ROOT	§444	1
+pau velho, pau podre	old stick, rotten stick				§445	1
+rodar	to run		1519	RUN	§446	1
+roupa	clothes		1895	CLOTHES	§447	1
+tipo de cesto	type of cedar				§448	1
+sal	salt		1274	SALT	§449	1
+pauzada (amontoado de tronco que desce no rio)	branches that hang into the river				§450	1
+taboca utilizada para fazer flechas	bamboo used for making arrows				§451	1
+quebrar	to break		680	BREAK (DESTROY OR GET DESTROYED)	§452	1
+zarabatana	blowgun		432	BLOWGUN	§453	1
+broto	sprout		3358	SPROUT (SHOOT)	§454	1
+pescoço	neck		1333	NECK	§455	1
+esp. de gavião	species of hawk				§456	1
+pomo de adão	adam's apple		802	ADAM'S APPLE	§457	1
+nominalizador de instrumento	nominalizer for instruments				§458	1
+bater, golpear	to hit, to strike		1433	HIT	§459	1
+espingarda	shotgun		3948	SHOTGUN	§460	1
+coador	colander				§461	1
+engravidar, dar a luz	to impregnate, to give birth				§462	1
+esp. de rã ou sapo	species of frog				§463	1
+azul escuro	dark blue				§464	1
+verruga	wart		2665	WART	§465	1
+fazer	to do		813	DO	§466	1
+fazer	to do		813	DO	§467	1
+água, rio	water, river				§468	1
+esp. de peixe	species of fish				§469	1
+pupunha	peach palm		3919	PEACH PALM	§470	1
+esp. de abóbora	species of pumpkin				§471	1
+esp. de macaco	species of macaw				§472	1
+varrer, ciscar	to sweep		230	SWEEP	§473	1
+erva	grass		606	GRASS	§474	1
+teia de aranha	spider web		1065	SPIDER WEB	§475	1
+algodão	cotton		1850	COTTON	§476	1
+sufixo verbal imperativo	verbal imperative suffix				§477	1
+igarapé (?)	igarapé				§478	1
+outro	other		197	OTHER	§479	1
+um (numeral)	one		1493	ONE	§480	1
+canela, parte inferior da perna	cinnamon, lower part of leg				§481	1
+cheiro	smell		3704	ODOR (SMELL)	§482	1
+remar	to row		1849	ROW	§483a	1
+remo	oar		3137	OAR	§483b	1
+remo	oar		3137	OAR	§484	1
+borduna, bastão	stick		1295	STICK	§485	1
+passar	to pass by		558	PASS BY	§486	1
+pantorrilha	calf		1989	CALF	§487	1
+negro	black		163	BLACK	§488	1
+estrela	star		1430	STAR	§489	1
+com, em posse de	with, in possession of				§490	1
+esp. de carrapato	species of tick				§491	1
+cidade, assentamento	city, settlement		1391	TOWN	§492	1
+sufixo negativo	negative suffix				§493	1
+escuro, noite	dark, night				§494	1
+machado	axe		677	AXE	§495	1
+peixe	fish		227	FISH	§496	1
+tarde	afternoon		1807	AFTERNOON	§497	1
+esp. de queixada (porco do mato)	species of pig				§498	1
+esp. de tatu	species of armadillo				§499	1
+dizer, falar	to say, to speak		1458	SAY	§500	1
+animal	animal		619	ANIMAL	§501	1
+calor, quente	heat, hot				§502	1
+ter febre, esquentar-se	to have fever, to heat up (reflexive)				§502a	1
+feiticeiro	sorcerer		823	SORCERER	§503	1
+esp. de pimenta	species of pepper				§504	1
+perguntar	to ask		1309	ASK (INQUIRE)	§505	1
+esp. de peixe	species of fish				§506	1
+fio, linha, corda	thread, line, rope				§507	1
+roubar	to steal		713	STEAL	§508	1
+gente, corpo humano	person, human body		683	PERSON	§509	1
+crescer	to grow		479	GROW	§510	1
+espírito	ghost		1175	GHOST	§511	1
+mulher, velha	woman, old woman				§512	1

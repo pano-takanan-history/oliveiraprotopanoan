@@ -49,14 +49,6 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         args.log.info("added sources")
 
-        # Add replacement table for sources
-        rep_table = self.raw_dir.read_csv(
-            "source_replacements.tsv", delimiter="\t", dicts=True
-        )
-        sources = defaultdict()
-        for source in rep_table:
-            sources[source["old"]] = source["new"]
-
         # add concept
         concepts = {}
 
@@ -70,15 +62,15 @@ class Dataset(BaseDataset):
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept["GLOSS"],  # TODO must be translated to ENGLISH later!
+                    Name=concept["ENGLISH"],
                     Gloss=concept["GLOSS"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                     Proto_ID=concept["PROTO_ID"],
                     Proto_Concept=concept["PROTO_CONCEPT"]
                     )
-            concepts[concept["GLOSS"]] = idx
-
+            concepts[(concept["GLOSS"], concept["PROTO_ID"])] = idx
+        # print(concepts)
         # Other Concepts
         other_concepts = self.etc_dir.read_csv(
             "other_concepts.tsv",
@@ -86,16 +78,15 @@ class Dataset(BaseDataset):
             dicts=True
             )
         for concept in other_concepts:
-            if concept["GLOSS"] not in concepts:
-                idx = slug(concept["GLOSS"])
-                args.writer.add_concept(
-                    ID=idx,
-                    Name=concept["GLOSS"],
-                    Gloss=concept["GLOSS"],
-                    Proto_ID=concept["PROTO_ID"],
-                    Proto_Concept=concept["PROTO_CONCEPT"]
-                    )
-                concepts[concept["GLOSS"]] = idx
+            idx = slug(concept["GLOSS"])
+            args.writer.add_concept(
+                ID=idx,
+                # Name=concept["GLOSS"],
+                Gloss=concept["GLOSS"],
+                Proto_ID=concept["PROTO_ID"],
+                Proto_Concept=concept["PROTO_CONCEPT"]
+                )
+            concepts[(concept["GLOSS"], concept["PROTO_ID"])] = idx
 
         args.log.info("added concepts")
 
@@ -122,7 +113,7 @@ class Dataset(BaseDataset):
 
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[entry["DOCULECTID"]],
-                    Parameter_ID=concepts[entry["CONCEPT"].strip()],
+                    Parameter_ID=concepts[(entry["CONCEPT"], entry["IDX"])],
                     Value=value,
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Variants=variants,
