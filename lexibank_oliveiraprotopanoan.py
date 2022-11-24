@@ -26,7 +26,6 @@ class CustomLexeme(Lexeme):
     UncertainCognacy = attr.ib(default=None)
     Concept_From_Proto = attr.ib(default=None)
     Paragraph = attr.ib(default=None)
-    # Source = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
     Variants = attr.ib(default=None)
 
