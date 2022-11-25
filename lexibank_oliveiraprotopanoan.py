@@ -78,7 +78,6 @@ class Dataset(BaseDataset):
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                 ID=idx,
-                # Name=concept["GLOSS"],
                 Gloss=concept["GLOSS"],
                 Proto_ID=concept["PROTO_ID"],
                 Proto_Concept=concept["PROTO_CONCEPT"]
@@ -114,7 +113,7 @@ class Dataset(BaseDataset):
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Variants=variants,
                     Comment=entry["NOTE"],
-                    Source=entry["SOURCE"],
+                    # Source=entry["SOURCE"],
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
                     Paragraph=entry["IDX"],
                     Cognacy=entry["IDX"][1:],
