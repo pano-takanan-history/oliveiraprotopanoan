@@ -1253,7 +1253,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1714	§76	Marúbo	Mar	marido			βɨnɨ		β ɨ n ɨ			βɨnɨ	marido,  macho	Mar βɨnɨ ‘marido’
 1715	§76	Chákobo	Ch	marido, macho			βɨnɨ		β ɨ n ɨ			βɨnɨ	marido,  macho	Ch βɨnɨ ‘marido;;  macho’
 1716	§76	Kaxararí	Kax	marido			bɨˈnɨ [βɨˈnɨ]		bɨˈnɨ [βɨˈnɨ]		Lanes2005	βɨnɨ	marido,  macho	Kax bɨˈnɨ [βɨˈnɨ] ‘marido’ (LANES;; 2005)
-1717	§76	Yamináwa	Yam	marido			ɸɨnɨ 		ɸɨnɨ 		Faust2008	βɨnɨ	marido,  macho	Yam ɸɨnɨ (FAUST; LOOS;; 2008)
+1717	§76	Yamináwa	Yam	marido			ɸɨnɨ 		ɸɨnɨ 		Faust2002	βɨnɨ	marido,  macho	Yam ɸɨnɨ (FAUST; LOOS;; 2008)
 1718	§76	Chanináwa	Chan	marido, macho	1		ɸɨnɨ		ɸ ɨ n ɨ			βɨnɨ	marido,  macho	Chan ɸɨnɨ,ɸɨdɨ ‘esposo’
 1719	§76	Chanináwa	Chan	esposo			ɸɨdɨ		ɸ ɨ d ɨ			βɨnɨ	marido,  macho	Chan ɸɨnɨ,ɸɨdɨ ‘esposo’
 1720	§76	Sharanáwa	Shar	marido, macho	1		ɸɨnɨ		ɸ ɨ n ɨ			βɨnɨ	marido,  macho	Shar ɸɨnɨ, ɸɨnɨn ‘marido;;  esposo’
@@ -1739,7 +1739,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2508	§113	Chákobo	Ch	carvão, brasa	1		tsistí		t s i s t í			tsistɨ	carvão,  brasa	Ch tsistɨ ‘el carbón de leña;;  el tizón’ (ZINGG;; 1998), tsistí
 2512	§113	Sharanáwa	Shar	carvão, brasa	1		tsistɨ		t s i s t ɨ			tsistɨ	carvão,  brasa	Shar tsistɨ, tsistɨn ‘carbón;;  cosas oscuras’
 2513	§113	Sharanáwa	Shar	carbón, cosas oscuras			tsistɨn		t s i s t ɨ n			tsistɨ	carvão,  brasa	Shar tsistɨ, tsistɨn ‘carbón;;  cosas oscuras’
-2518	§113	Kaxinawá	Kn	carbón que queda en el extremo de la leña			tsistɨ		t s i s t ɨ		Montag1981	tsistɨ	carvão,  brasa	Kn tsistɨ ‘carbón que queda en el extremo de la leña’ (MONTAG;; 1981), kaɾu tʃiʃtɨ ‘tizón;;  carbón de leña’
+2518	§113	Kaxinawá	Kn	carbón que queda en el extremo de la leña			tsistɨ		t s i s t ɨ		Montag1981c	tsistɨ	carvão,  brasa	Kn tsistɨ ‘carbón que queda en el extremo de la leña’ (MONTAG;; 1981), kaɾu tʃiʃtɨ ‘tizón;;  carbón de leña’
 2519	§113	Kaxinawá	Kn	tizón, carbón de leña			kaɾu tʃiʃtɨ		kaɾu tʃiʃtɨ			tsistɨ	carvão,  brasa	Kn tsistɨ ‘carbón que queda en el extremo de la leña’ (MONTAG;; 1981), kaɾu tʃiʃtɨ ‘tizón;;  carbón de leña’
 2520	§113	Marináwa	M	brasa, carbón de leña			tsístɨ́		t s í s t ɨ́			tsistɨ	carvão,  brasa	M tsístɨ́ ‘brasa;;  carbón de leña’
 2525	§114	Proto-Panoan	Proto	carvão, brasa		0	[ts]is[t]o :		[ts]is[t]o :		Oliveira2014	[ts]is[t]o :	carvão,  brasa	[ts]is[t]o :
@@ -1759,7 +1759,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2542	§115	Katukina	Kat	quem	1		tʃua-ra		t ʃ ua r a			tso[a]	quem	Kat tʃua-ra
 2544	§115	Amawáka	A	quem	1		tsowa		t s o w a			tso[a]	quem	A tsowa, **tsówa ‘quién’ (HYDE;; 1980)
 2545	§115	Amawáka	A	quién			tsówa	1	** t s ó w a		Hyde1980	tso[a]	quem	A tsowa, **tsówa ‘quién’ (HYDE;; 1980)
-2546	§115	Kaxinawá	Kn	alguien, nadie			tsu-		t s u		Montag1981	tso[a]	quem	Kn tsu- ‘alguien;; nadie’ (MONTAG;; 1981), tsua
+2546	§115	Kaxinawá	Kn	alguien, nadie			tsu-		t s u		Montag1981c	tso[a]	quem	Kn tsu- ‘alguien;; nadie’ (MONTAG;; 1981), tsua
 2547	§115	Kaxinawá	Kn	quem	1		tsua		t s ua			tso[a]	quem	Kn tsu- ‘alguien;; nadie’ (MONTAG;; 1981), tsua
 2548	§115	Marináwa	M	quién?			tsóamɨ᷈		t s ó a m ɨ᷈			tso[a]	quem	M tsóamɨ᷈ ‘quién?’
 2549	§115	Yawanawá	Yaw	quem	1		tsua		t s ua			tso[a]	quem	Yaw tsua
@@ -1833,7 +1833,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2680	§122	Kakataibo	Ksh	martín pescador			tʃaɾáʂ		t ʃ a ɾ á ʂ			tʃaɽaʂ	martim pescardor	Ksh tʃaɾáʂ ‘martín pescador’
 2681	§122	ShipiboKonibo	SK	martim pescardor	1		tʃaɾáʂ		t ʃ a ɾ á ʂ			tʃaɽaʂ	martim pescardor	SK tʃaɾáʂ
 2682	§122	Kapanawa	Kp	martim pescardor	1		tʃaɾáʂ		t ʃ a ɾ á ʂ			tʃaɽaʂ	martim pescardor	Kp tʃaɾáʂ
-2693	§122	Kaxinawá	Kn	martín pescador			tʃadaʃ ʂɨnban		tʃadaʃ ʂɨnban		Montag1981	tʃaɽaʂ	martim pescardor	Kn tʃadaʃ ʂɨnban ‘martín pescador’ (MONTAG;; 1981), tʃadaʂ ‘estar erizado’
+2693	§122	Kaxinawá	Kn	martín pescador			tʃadaʃ ʂɨnban		tʃadaʃ ʂɨnban		Montag1981c	tʃaɽaʂ	martim pescardor	Kn tʃadaʃ ʂɨnban ‘martín pescador’ (MONTAG;; 1981), tʃadaʂ ‘estar erizado’
 2694	§122	Kaxinawá	Kn	estar erizado			tʃadaʂ		t ʃ a d a ʂ			tʃaɽaʂ	martim pescardor	Kn tʃadaʃ ʂɨnban ‘martín pescador’ (MONTAG;; 1981), tʃadaʂ ‘estar erizado’
 2699	§122	Mayorúna	My	catalán, martín pescador			tʃadak [tʃaˈɾak]		tʃadak [tʃaˈɾak]			tʃaɽaʂ	martim pescardor	My tʃadak [tʃaˈɾak] ‘catalán;;  martín pescador’
 2700	§123	Proto-Panoan	Proto	esp. de veado		0	tʂaʂo		t ʂ a ʂ o		Oliveira2014	tʂaʂo	esp. de veado	*tʂaʂo ‘esp. de veado’ :
@@ -1944,7 +1944,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2863	§130	Chanináwa	Chan	duro, forte	1		ɨɾɨ	1	** ɨ ɾ ɨ			tʃoɽiʃ	duro,  forte	Chan **ɨɾɨ
 2864	§130	Sharanáwa	Shar	tieso, rígido como papel nuevo			tʃoriʂia		t ʃ o r i ʂ ia			tʃoɽiʃ	duro,  forte	Shar tʃoriʂia ‘tieso;;  rígido como papel nuevo’
 2868	§130	Amawáka	A	áspero, duro, fuerte			kɨrɨx	1	** k ɨ r ɨ x		Hyde1980	tʃoɽiʃ	duro,  forte	A **kɨrɨx ‘áspero;;  duro;;  fuerte’ (HYDE;; 1980)
-2869	§130	Kaxinawá	Kn	tieso, duro, rígido el cuerpo			tsɨdɨs		t s ɨ d ɨ s		Montag1981	tʃoɽiʃ	duro,  forte	Kn tsɨdɨs ‘tieso;; duro;;  rígido el cuerpo’ (MONTAG;; 1981)
+2869	§130	Kaxinawá	Kn	tieso, duro, rígido el cuerpo			tsɨdɨs		t s ɨ d ɨ s		Montag1981c	tʃoɽiʃ	duro,  forte	Kn tsɨdɨs ‘tieso;; duro;;  rígido el cuerpo’ (MONTAG;; 1981)
 2870	§130	Marináwa	M	bien seco, como ropa secada al sol			tʃóɾiʃi		t ʃ ó ɾ i ʃ i			tʃoɽiʃ	duro,  forte	M tʃóɾiʃi ‘bien seco;;  como ropa secada al sol’
 2872	§130	Korúbo	Ko	duro, forte	1		tʃɨɬɨʃ		t ʃ ɨ ɬ ɨ ʃ			tʃoɽiʃ	duro,  forte	Ko tʃɨɬɨʃ
 2875	§131	Proto-Panoan	Proto	líquido, água		0	hɨ[n]ɨ		h ɨ [ n ] ɨ		Oliveira2014	hɨ[n]ɨ	líquido,  água	*hɨ[n]ɨ ‘líquido;;  água’ :
@@ -1977,7 +1977,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2905	§132	Chákobo	Ch	la londra			ˈhɨnɨʔino		ˈh ɨ n ɨ ʔ i n o		Zingg1998	hɨ[n]ɨ ʔino	**tigre de agua, nutria	Ch ˈhɨnɨʔino ‘la londra’ (ZINGG;; 1998), hɨnɨ́no
 2906	§132	Chákobo	Ch	tigre de agua, nutria	1	1	hɨnɨ́no		h ɨ n ɨ́ n o			hɨ[n]ɨ ʔino	**tigre de agua, nutria	Ch ˈhɨnɨʔino ‘la londra’ (ZINGG;; 1998), hɨnɨ́no
 2907	§132	Amawáka	A	tigre de agua, nutria	1	1	hɨnɨʔno II		hɨnɨʔno II			hɨ[n]ɨ ʔino	**tigre de agua, nutria	A hɨnɨʔno II
-2908	§132	Kaxinawá	Kn	nutria			hɨnɨ inu		hɨnɨ inu		Montag1981	hɨ[n]ɨ ʔino	**tigre de agua, nutria	Kn hɨnɨ inu ‘nutria’ (MONTAG;; 1981), hɨnɨinu
+2908	§132	Kaxinawá	Kn	nutria			hɨnɨ inu		hɨnɨ inu		Montag1981c	hɨ[n]ɨ ʔino	**tigre de agua, nutria	Kn hɨnɨ inu ‘nutria’ (MONTAG;; 1981), hɨnɨinu
 2909	§132	Kaxinawá	Kn	tigre de agua, nutria	1	1	hɨnɨinu		h ɨ n ɨi n u			hɨ[n]ɨ ʔino	**tigre de agua, nutria	Kn hɨnɨ inu ‘nutria’ (MONTAG;; 1981), hɨnɨinu
 2910	§132	Marináwa	M	tigre de agua, nutria	1	1	ɨnɨ máʂáɾó		ɨnɨ máʂáɾó			hɨ[n]ɨ ʔino	**tigre de agua, nutria	M ɨnɨ máʂáɾó
 2911	§132	Marúbo	Mar	ariranha			ɨnɨ kamã		ɨnɨ kamã			hɨ[n]ɨ ʔino	**tigre de agua, nutria	Mar ɨnɨ kamã ‘ariranha’
@@ -2047,7 +2047,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3014	§137	Marúbo	Mar	entrar			iko-		i k o		Cesarino2008	hiʔki-	entrar	Mar iko- ‘entrar’ (CESARINO;; 2008)
 3015	§137	Chákobo	Ch	entrar			hiko-		h i k o		Zingg1998	hiʔki-	entrar	Ch hiko- ‘entrar’ (ZINGG;; 1998), hiki ‘entrar’
 3016	§137	Chákobo	Ch	entrar			hiki		h i k i			hiʔki-	entrar	Ch hiko- ‘entrar’ (ZINGG;; 1998), hiki ‘entrar’
-3018	§137	Yamináwa	Yam	entrar			iki-		i k i		Faust2008	hiʔki-	entrar	Yam iki- ‘entrar’ (FAUST; LOOS;; 2008)
+3018	§137	Yamináwa	Yam	entrar			iki-		i k i		Faust2002	hiʔki-	entrar	Yam iki- ‘entrar’ (FAUST; LOOS;; 2008)
 3020	§137	Sharanáwa	Shar	entrar	1		iki		i k i			hiʔki-	entrar	Shar iki, ikia ‘hundirse’
 3021	§137	Sharanáwa	Shar	hundirse			ikia		i k ia			hiʔki-	entrar	Shar iki, ikia ‘hundirse’
 3025	§137	Amawáka	A	entrar	1		hiki-		h i k i			hiʔki-	entrar	A hiki-
@@ -2645,7 +2645,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3885	§175	Katukina	Kat	costas (prefixo parte do corpo)	1		ka-ʃu		k a ʃ u			ka-	costas (prefixo parte do corpo)	Kat ka-ʃu
 3886	§175	Amawáka	A	vertebra			ká-tɨ-xáo		k á t ɨ x áo			ka-	costas (prefixo parte do corpo)	A ká-tɨ-xáo ‘vertebra’
 3887	§175	Kaxinawá	Kn	costas (prefixo parte do corpo)	1		ka-ʂaʂu		k a ʂ a ʂ u			ka-	costas (prefixo parte do corpo)	Kn ka-ʂaʂu, katɨ ‘espalda’ (MONTAG;; 1981)
-3888	§175	Kaxinawá	Kn	espalda			katɨ		k a t ɨ		Montag1981	ka-	costas (prefixo parte do corpo)	Kn ka-ʂaʂu, katɨ ‘espalda’ (MONTAG;; 1981)
+3888	§175	Kaxinawá	Kn	espalda			katɨ		k a t ɨ		Montag1981c	ka-	costas (prefixo parte do corpo)	Kn ka-ʂaʂu, katɨ ‘espalda’ (MONTAG;; 1981)
 3889	§175	Marináwa	M	costas (prefixo parte do corpo)	1		ká-ʂáʂó		k á ʂ á ʂ ó			ka-	costas (prefixo parte do corpo)	M ká-ʂáʂó
 3892	§175	Matís	Mt	costas			ka-ʂuku		k a ʂ u k u			ka-	costas (prefixo parte do corpo)	Mt ka-ʂuku ‘costas’, ʂuku ‘músculos’
 3893	§175	Matís	Mt	músculos			ʂuku		ʂ u k u			ka-	costas (prefixo parte do corpo)	Mt ka-ʂuku ‘costas’, ʂuku ‘músculos’
@@ -2697,7 +2697,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3968	§179	Chákobo	Ch	astilla, migaja, pequeños pedazos			ˈkɨʂɨ		ˈk ɨ ʂ ɨ			kɨʂɨ	pedaço,  caco	Ch ˈkɨʂɨ ‘astilla;; migaja;; pequeños pedazos’, paití kɨʂɨ
 3969	§179	Chákobo	Ch	pedaço, caco	1		paití kɨʂɨ		paití kɨʂɨ			kɨʂɨ	pedaço,  caco	Ch ˈkɨʂɨ ‘astilla;; migaja;; pequeños pedazos’, paití kɨʂɨ
 3977	§179	Amawáka	A	pedazo			pákɨx		p á k ɨ x		Hyde1980	kɨʂɨ	pedaço,  caco	A pákɨx ‘pedazo’ (HYDE;; 1980)
-3978	§179	Kaxinawá	Kn	casco, pedazo pequeño de cerámica			pakɨʂ		p a k ɨ ʂ		Montag1981	kɨʂɨ	pedaço,  caco	Kn pakɨʂ ‘casco;; pedazo pequeño de cerámica’ (MONTAG;; 1981)
+3978	§179	Kaxinawá	Kn	casco, pedazo pequeño de cerámica			pakɨʂ		p a k ɨ ʂ		Montag1981c	kɨʂɨ	pedaço,  caco	Kn pakɨʂ ‘casco;; pedazo pequeño de cerámica’ (MONTAG;; 1981)
 3984	§180	Proto-Panoan	Proto	grosso, espesso		0	kɨʂto[C]		k ɨ ʂ t o [ C ]		Oliveira2014	kɨʂto[C]	grosso,  espesso	*kɨʂto[C] ‘grosso;;  espesso’ :
 3985	§180	Kakataibo	Ksh	grosso, espesso	1		kɨʂtó		k ɨ ʂ t ó			kɨʂto[C]	grosso,  espesso	Ksh kɨʂtó
 3986	§180	ShipiboKonibo	SK	grosso, espesso	1		kɨʂtó		k ɨ ʂ t ó			kɨʂto[C]	grosso,  espesso	SK kɨʂtó
@@ -2718,7 +2718,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 4016	§181	Shanenáwa	Shan	tipo de panela	1		kɨtɨ		k ɨ t ɨ			kɨt᷈ i[C]	tipo de panela	Shan kɨtɨ
 4019	§181	Amawáka	A	vasija			kɨ᷈tii I		kɨ᷈tii I			kɨt᷈ i[C]	tipo de panela	A kɨ᷈tii I ‘vasija’, yami kɨ᷈tii ‘olla de metal para cocinar’
 4020	§181	Amawáka	A	olla de metal para cocinar			yami kɨ᷈tii		yami kɨ᷈tii			kɨt᷈ i[C]	tipo de panela	A kɨ᷈tii I ‘vasija’, yami kɨ᷈tii ‘olla de metal para cocinar’
-4021	§181	Kaxinawá	Kn	olla			kɨt᷈ i		kɨt᷈ i		Montag1981	kɨt᷈ i[C]	tipo de panela	Kn kɨt᷈ i ‘olla’ (MONTAG;; 1981), kɨ᷈tɨ ‘olla para cocinar’
+4021	§181	Kaxinawá	Kn	olla			kɨt᷈ i		kɨt᷈ i		Montag1981c	kɨt᷈ i[C]	tipo de panela	Kn kɨt᷈ i ‘olla’ (MONTAG;; 1981), kɨ᷈tɨ ‘olla para cocinar’
 4022	§181	Kaxinawá	Kn	olla para cocinar			kɨ᷈tɨ		k ɨ᷈ t ɨ			kɨt᷈ i[C]	tipo de panela	Kn kɨt᷈ i ‘olla’ (MONTAG;; 1981), kɨ᷈tɨ ‘olla para cocinar’
 4023	§181	Marináwa	M	tipo de panela	1		kɨ́tɨ		k ɨ́ t ɨ			kɨt᷈ i[C]	tipo de panela	M kɨ́tɨ
 4024	§181	Yawanawá	Yaw	tipo de panela	1		kɨti		k ɨ t i			kɨt᷈ i[C]	tipo de panela	Yaw kɨti
@@ -3415,7 +3415,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5090	§231	ShipiboKonibo	SK	ruido al gopear			tas		t a s			matas	golpear a cabeça	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’
 5091	§231	ShipiboKonibo	SK	clavar juntos			tasa-		t a s a			matas	golpear a cabeça	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’
 5092	§231	Kapanawa	Kp	golpear la cabeza, pegar en la cabeza			matas-kin		m a t a s k i n		Loos1998	matas	golpear a cabeça	Kp matas-kin ‘golpear la cabeza;;  pegar en la cabeza’ (LOOS; LOOS;; 1998)
-5094	§231	Chákobo	Ch	golpear a otro en, tirar algo contra la cabeza			mataxkin		m a t a x k i n		Montag1981	matas	golpear a cabeça	Ch mataxkin ‘golpear a otro en;;  tirar algo contra la cabeza’ (MONTAG;; 1981)
+5094	§231	Chákobo	Ch	golpear a otro en, tirar algo contra la cabeza			mataxkin		m a t a x k i n		Montag1981c	matas	golpear a cabeça	Ch mataxkin ‘golpear a otro en;;  tirar algo contra la cabeza’ (MONTAG;; 1981)
 5096	§231	Yamináwa	Yam	cabeza-golpear			ma-taʂ		m a t a ʂ		Faust1998	matas	golpear a cabeça	Yam ma-taʂ ‘cabeza-golpear’ (FAUST; LOOS;; 1998)
 5102	§231	Amawáka	A	golpear a cabeça	1		matas- II		matas- II			matas	golpear a cabeça	A matas- II
 5103	§231	Kaxinawá	Kn	golpear dos piedras sobre la cabeza de los niños para que sean valientes y tengan corazones fuertes			matas ak		matas ak		Hyde1980	matas	golpear a cabeça	Kn matas ak ‘golpear dos piedras sobre la cabeza de los niños para que sean valientes y tengan corazones fuertes’ (HYDE;; 1980)
@@ -3450,7 +3450,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5173	§235	Kapanawa	Kp	tocar, mexer com a mão, tatear	1		mɨʔɨ-		m ɨ ʔ ɨ			mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Kp mɨʔɨ-
 5175	§235	Chákobo	Ch	palpar, tocar algo			mamɨ-		m a m ɨ			mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Ch mamɨ- ‘palpar;;  tocar algo’
 5177	§235	Yamináwa	Yam	tocar, mexer com a mão, tatear	1		mɨ		m ɨ			mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Yam mɨ, mɨɨa᷈ ‘tocar’ (FAUST; LOOS;; 2012)
-5178	§235	Yamináwa	Yam	tocar			mɨɨa᷈		m ɨɨa᷈		Faust2012	mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Yam mɨ, mɨɨa᷈ ‘tocar’ (FAUST; LOOS;; 2012)
+5178	§235	Yamináwa	Yam	tocar			mɨɨa᷈		m ɨɨa᷈		Faust2002	mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Yam mɨ, mɨɨa᷈ ‘tocar’ (FAUST; LOOS;; 2012)
 5180	§235	Sharanáwa	Shar	tocar, mexer com a mão, tatear	1		mɨi		m ɨi			mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Shar mɨi, mɨa ‘saborear;; probar;; comprobar;;  verificar’
 5181	§235	Sharanáwa	Shar	saborear, probar, comprobar, verificar			mɨa		m ɨa			mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	Shar mɨi, mɨa ‘saborear;; probar;; comprobar;;  verificar’
 5185	§235	Amawáka	A	golpear, pelear, romper			mɨʔɨ- II		mɨʔɨ- II			mɨʔ[ɨ]-	tocar, mexer com a mão,  tatear	A mɨʔɨ- II ‘golpear;; pelear;;  romper’
@@ -3800,7 +3800,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5705	§260	Chákobo	Ch	poner adentro			nanɨ-		n a n ɨ		Zingg1998	nan[ɨ]-	colocar dentro,  submergir	Ch nanɨ- ‘poner adentro’ (ZINGG;; 1998)
 5706	§260	Kaxararí	Kax	dentro			namɨ		n a m ɨ		Valenzuela2012	nan[ɨ]-	colocar dentro,  submergir	Kax namɨ ‘dentro’ (VALENZUELA; OLIVEIRA;; 2012)
 5707	§260	Yamináwa	Yam	poner en, meter			nánɨ́		n á n ɨ́			nan[ɨ]-	colocar dentro,  submergir	Yam nánɨ́ ‘poner en;;  meter’, nánɨ ‘subir a;; meterse’ (FAUST; LOOS;; 2012)
-5708	§260	Yamináwa	Yam	subir a, meterse			nánɨ		n á n ɨ		Faust2012	nan[ɨ]-	colocar dentro,  submergir	Yam nánɨ́ ‘poner en;;  meter’, nánɨ ‘subir a;; meterse’ (FAUST; LOOS;; 2012)
+5708	§260	Yamináwa	Yam	subir a, meterse			nánɨ		n á n ɨ		Faust2002	nan[ɨ]-	colocar dentro,  submergir	Yam nánɨ́ ‘poner en;;  meter’, nánɨ ‘subir a;; meterse’ (FAUST; LOOS;; 2012)
 5710	§260	Sharanáwa	Shar	colocar dentro, submergir	1		nanɨi		n a n ɨi			nan[ɨ]-	colocar dentro,  submergir	Shar nanɨi, nanɨa ‘cargar;; poner cosas en una canoa;; un baúl o un cartón;; etc.;; empreñar’
 5711	§260	Sharanáwa	Shar	cargar, poner cosas en una canoa, un baúl o un cartón, etc., empreñar			nanɨa		n a n ɨa			nan[ɨ]-	colocar dentro,  submergir	Shar nanɨi, nanɨa ‘cargar;; poner cosas en una canoa;; un baúl o un cartón;; etc.;; empreñar’
 5712	§260	Shanenáwa	Shan	levantar			nanɨ		n a n ɨ			nan[ɨ]-	colocar dentro,  submergir	Shan nanɨ ‘levantar’
@@ -4016,7 +4016,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6035	§275	Shanenáwa	Shan	vento			nifu		n i f u			[n]iβiCc	brisa	Shan nifu ‘vento’
 6036	§275	Katukina	Kat	vento			niwi		n i w i			[n]iβiCc	brisa	Kat niwi ‘vento’
 6038	§275	Amawáka	A	brisa	1		niwiɸI		n i w i ɸ I			[n]iβiCc	brisa	A niwiɸI
-6039	§275	Kaxinawá	Kn	viento, aire, brisa			niwɨ		n i w ɨ		Montag1981	[n]iβiCc	brisa	Kn niwɨ ‘viento;; aire;;  brisa’ (MONTAG;; 1981)
+6039	§275	Kaxinawá	Kn	viento, aire, brisa			niwɨ		n i w ɨ		Montag1981c	[n]iβiCc	brisa	Kn niwɨ ‘viento;; aire;;  brisa’ (MONTAG;; 1981)
 6040	§275	Marináwa	M	brisa	1		níɸi		n í ɸ i			[n]iβiCc	brisa	M níɸi
 6041	§275	Yawanawá	Yaw	vento			nɨuɨ		n ɨuɨ			[n]iβiCc	brisa	Yaw nɨuɨ ‘vento’
 6044	§275	Mayorúna	My	brisa	1		nibed [niˈbed]		nibed [niˈbed]			[n]iβiCc	brisa	My nibed [niˈbed]
@@ -4462,8 +4462,8 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6722	§308	Katukina	Kat	gripe			pain-ki		p ai n k i			paʔɨn-	embebedar-se, bêbado,  embriagado	Kat pain-ki ‘gripe’
 6724	§308	Amawáka	A	embebedar-se, bêbado, embriagado	1		pãʔɨ- II		pãʔɨ- II			paʔɨn-	embebedar-se, bêbado,  embriagado	A pãʔɨ- II
 6725	§308	Kaxinawá	Kn	embebedar-se, bêbado, embriagado	1		paɨ-inkiki		p aɨ i n k i k i			paʔɨn-	embebedar-se, bêbado,  embriagado	Kn paɨ-inkiki, **paɨ᷈ ‘emborracharse;;  estar borracho por haber tomado ayahuasca’ (MONTAG;; 1981), paɨ ‘veneno;; venenoso;;  borracho’ (MONTAG;; 1981), pãi-
-6726	§308	Kaxinawá	Kn	emborracharse, estar borracho por haber tomado ayahuasca			paɨ᷈	1	** p aɨ᷈		Montag1981	paʔɨn-	embebedar-se, bêbado,  embriagado	Kn paɨ-inkiki, **paɨ᷈ ‘emborracharse;;  estar borracho por haber tomado ayahuasca’ (MONTAG;; 1981), paɨ ‘veneno;; venenoso;;  borracho’ (MONTAG;; 1981), pãi-
-6727	§308	Kaxinawá	Kn	veneno, venenoso, borracho			paɨ		p aɨ		Montag1981	paʔɨn-	embebedar-se, bêbado,  embriagado	Kn paɨ-inkiki, **paɨ᷈ ‘emborracharse;;  estar borracho por haber tomado ayahuasca’ (MONTAG;; 1981), paɨ ‘veneno;; venenoso;;  borracho’ (MONTAG;; 1981), pãi-
+6726	§308	Kaxinawá	Kn	emborracharse, estar borracho por haber tomado ayahuasca			paɨ᷈	1	** p aɨ᷈		Montag1981c	paʔɨn-	embebedar-se, bêbado,  embriagado	Kn paɨ-inkiki, **paɨ᷈ ‘emborracharse;;  estar borracho por haber tomado ayahuasca’ (MONTAG;; 1981), paɨ ‘veneno;; venenoso;;  borracho’ (MONTAG;; 1981), pãi-
+6727	§308	Kaxinawá	Kn	veneno, venenoso, borracho			paɨ		p aɨ		Montag1981c	paʔɨn-	embebedar-se, bêbado,  embriagado	Kn paɨ-inkiki, **paɨ᷈ ‘emborracharse;;  estar borracho por haber tomado ayahuasca’ (MONTAG;; 1981), paɨ ‘veneno;; venenoso;;  borracho’ (MONTAG;; 1981), pãi-
 6728	§308	Kaxinawá	Kn	embebedar-se, bêbado, embriagado	1		pãi-		p ãi			paʔɨn-	embebedar-se, bêbado,  embriagado	Kn paɨ-inkiki, **paɨ᷈ ‘emborracharse;;  estar borracho por haber tomado ayahuasca’ (MONTAG;; 1981), paɨ ‘veneno;; venenoso;;  borracho’ (MONTAG;; 1981), pãi-
 6729	§308	Marináwa	M	embebedar-se, bêbado, embriagado	1		pãɨ-		p ãɨ			paʔɨn-	embebedar-se, bêbado,  embriagado	M pãɨ-
 6733	§308	Mayorúna	My	fuerte (por ejemplo, picante, fermentado, contenido con mucho acohol), potente (tabaco que hace marear, veneno mortal, animal muy venenoso), doloroso, fermentarse			paɨ [paˈɨ]		paɨ [paˈɨ]			paʔɨn-	embebedar-se, bêbado,  embriagado	My paɨ [paˈɨ] ‘fuerte (por ejemplo;; picante;; fermentado;; contenido con mucho acohol);; potente (tabaco que hace marear;; veneno mortal;; animal muy venenoso);; doloroso;; fermentarse’
@@ -5475,7 +5475,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 8242	§378	Chákobo	Ch	el pez (en general)			saˈni		s a ˈn i			sa[n]i[n]	esp. de peixe	Ch saˈnino, saˈni ‘el pez (en general)’, sani
 8243	§378	Chákobo	Ch	esp. de peixe	1		sani		s a n i			sa[n]i[n]	esp. de peixe	Ch saˈnino, saˈni ‘el pez (en general)’, sani
 8251	§378	Amawáka	A	mojarrita			sanin		s a n i n		Hyde1980	sa[n]i[n]	esp. de peixe	A sanin ‘mojarrita’ (HYDE;; 1980)
-8252	§378	Kaxinawá	Kn	esp. de pez muy pequeño, sardina			sanin		s a n i n		Montag1981	sa[n]i[n]	esp. de peixe	Kn sanin ‘esp. de pez muy pequeño;;  sardina’ (MONTAG;; 1981)
+8252	§378	Kaxinawá	Kn	esp. de pez muy pequeño, sardina			sanin		s a n i n		Montag1981c	sa[n]i[n]	esp. de peixe	Kn sanin ‘esp. de pez muy pequeño;;  sardina’ (MONTAG;; 1981)
 8253	§378	Marináwa	M	esp. de peixe	1		sani		s a n i			sa[n]i[n]	esp. de peixe	M sani
 8258	§379	Proto-Panoan	Proto	esp. de peixe		0	sani[n] :		sani[n] :		Oliveira2014	sani[n] :	esp. de peixe	*sani[n] :
 8259	§379	Kakataibo	Ksh	esp. de peixe	1		saní		s a n í			sani[n] :	esp. de peixe	Ksh saní
@@ -6027,7 +6027,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9091	§418	Shanenáwa	Shan	benefactivo	1		-ʂun		ʂ u n			-ʂo[n]	benefactivo	Shan -ʂun, ʂuna ‘benefactivo’
 9092	§418	Shanenáwa	Shan	benefactivo			ʂuna		ʂ u n a			-ʂo[n]	benefactivo	Shan -ʂun, ʂuna ‘benefactivo’
 9093	§418	Katukina	Kat	benefactivo	1		-ʂu᷈		ʂ u᷈			-ʂo[n]	benefactivo	Kat -ʂu᷈, **-shõ ‘benefício’ (MENDES;; 1998)
-9094	§418	Katukina	Kat	benefício			-shõ	1	** s h õ		Mendes1998	-ʂo[n]	benefactivo	Kat -ʂu᷈, **-shõ ‘benefício’ (MENDES;; 1998)
+9094	§418	Katukina	Kat	benefício			-shõ	1	** s h õ		Mendes1996	-ʂo[n]	benefactivo	Kat -ʂu᷈, **-shõ ‘benefício’ (MENDES;; 1998)
 9096	§418	Amawáka	A	benefactivo	1		xõ		x õ			-ʂo[n]	benefactivo	A xõ
 9097	§418	Kaxinawá	Kn	benefactivo	1		-ʂu		ʂ u			-ʂo[n]	benefactivo	Kn -ʂu
 9098	§418	Marináwa	M	benefactivo			-ʂõ		ʂ õ			-ʂo[n]	benefactivo	M -ʂõ ‘benefactivo’
@@ -6043,7 +6043,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9109	§419	Kaxararí	Kax	sufixo de concordancia transitiva			-ʃu ~ ʃu᷈ 		-ʃu ~ ʃu᷈ 		Valenzuela2012	-ʂon	sufixo de concordancia transitiva	Kax -ʃu ~ ʃu᷈ (VALENZUELA; OLIVEIRA;; 2012)
 9110	§419	Yamináwa	Yam	sufixo de concordancia transitiva	1		-ʂõ		ʂ õ			-ʂon	sufixo de concordancia transitiva	Yam -ʂõ
 9113	§419	Shanenáwa	Shan	marcador de switch reference transitivo			-ʂun		ʂ u n			-ʂon	sufixo de concordancia transitiva	Shan -ʂun ‘marcador de switch reference transitivo’
-9114	§419	Katukina	Kat	subordinação transitiva, aspecto completo			ʂõ		ʂ õ		Mendes1998	-ʂon	sufixo de concordancia transitiva	Kat ʂõ ‘subordinação transitiva;;  aspecto completo’ (MENDES;; 1998)
+9114	§419	Katukina	Kat	subordinação transitiva, aspecto completo			ʂõ		ʂ õ		Mendes1996	-ʂon	sufixo de concordancia transitiva	Kat ʂõ ‘subordinação transitiva;;  aspecto completo’ (MENDES;; 1998)
 9116	§419	Amawáka	A	sufixo de concordancia transitiva	1		-xo		x o			-ʂon	sufixo de concordancia transitiva	A -xo
 9117	§419	Kaxinawá	Kn	sufixo de concordancia transitiva	1		-ʂu		ʂ u			-ʂon	sufixo de concordancia transitiva	Kn -ʂu
 9120	§419	Korúbo	Ko	sufixo de concordancia transitiva	1		ʂun		ʂ u n			-ʂon	sufixo de concordancia transitiva	Ko ʂun
@@ -6230,7 +6230,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9385	§432	Sharanáwa	Shar	mamão	1		ʂopo		ʂ o p o			ʂopoCc :	mamão	Shar ʂopo, ʂopon ‘vello;;  pelo del cuerpo de un animal’
 9386	§432	Sharanáwa	Shar	vello, pelo del cuerpo de un animal			ʂopon		ʂ o p o n			ʂopoCc :	mamão	Shar ʂopo, ʂopon ‘vello;;  pelo del cuerpo de un animal’
 9390	§432	Amawáka	A	pelos pequeños, pelusa en la parte posterior de la hoja			xopo II		xopo II			ʂopoCc :	mamão	A xopo II ‘pelos pequeños;;  pelusa en la parte posterior de la hoja’
-9391	§432	Kaxinawá	Kn	vello, peluza de la cabeza de un recién nacido			ʂupu		ʂ u p u		Montag1981	ʂopoCc :	mamão	Kn ʂupu ‘vello;;  peluza de la cabeza de un recién nacido’ (MONTAG;; 1981)
+9391	§432	Kaxinawá	Kn	vello, peluza de la cabeza de un recién nacido			ʂupu		ʂ u p u		Montag1981c	ʂopoCc :	mamão	Kn ʂupu ‘vello;;  peluza de la cabeza de un recién nacido’ (MONTAG;; 1981)
 9392	§432	Marináwa	M	piel, vello corporal			ʂópo		ʂ ó p o			ʂopoCc :	mamão	M ʂópo ‘piel;;  vello corporal’
 9396	§432	Mayorúna	My	bolsa de corteza para guardar isana, plumas, algodón u otras cosas			ʂupud [ʂuˈpud]	1	**ʂupud [ʂuˈpud]			ʂopoCc :	mamão	My **ʂupud [ʂuˈpud] ‘bolsa de corteza para guardar isana;;  plumas;;  algodón u otras cosas’
 9397	§433	Proto-Panoan	Proto	peito		0	ʂotsi		ʂ o t s i		Oliveira2014	ʂotsi	peito	*ʂotsi ‘peito’ :
@@ -6438,7 +6438,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9672	§445	Sharanáwa	Shar	pau velho, pau podre	1		tara		t a r a			taɽa	pau velho,  pau podre	Shar tara, taran ‘palizada’
 9673	§445	Sharanáwa	Shar	palizada			taran		t a r a n			taɽa	pau velho,  pau podre	Shar tara, taran ‘palizada’
 9677	§445	Amawáka	A	árbol caído			tara II		tara II			taɽa	pau velho,  pau podre	A tara II ‘árbol caído’
-9678	§445	Kaxinawá	Kn	palizada			tada		t a d a		Montag1981	taɽa	pau velho,  pau podre	Kn tada ‘palizada’ (MONTAG;; 1981)
+9678	§445	Kaxinawá	Kn	palizada			tada		t a d a		Montag1981c	taɽa	pau velho,  pau podre	Kn tada ‘palizada’ (MONTAG;; 1981)
 9679	§445	Marináwa	M	tronco flotante, rama o tronco parcialmente sumergido			tárã́		t á r ã́			taɽa	pau velho,  pau podre	M tárã́ ‘tronco flotante;; rama o tronco parcialmente sumergido’
 9684	§446	Proto-Panoan	Proto	rodar		0	taɽá[n]-		t a ɽ á [ n ]		Oliveira2014	taɽá[n]-	rodar	*taɽá[n]- ‘rodar’ :
 9685	§446	Kakataibo	Ksh	rodar	1		tarã́		t a r ã́			taɽá[n]-	rodar	Ksh tarã́
@@ -6499,7 +6499,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9798	§452	Kakataibo	Ksh	romper en dos partes			tɨkɨ-́́		t ɨ k ɨ ́́			tɨʔk[ɨ]-	quebrar	Ksh tɨkɨ-́́ ‘romper en dos partes’
 9799	§452	ShipiboKonibo	SK	palo de tejer que divide el hilo en dos partes para tejer			tɨkɨ		t ɨ k ɨ			tɨʔk[ɨ]-	quebrar	SK tɨkɨ ‘palo de tejer que divide el hilo en dos partes para tejer’
 9800	§452	Kapanawa	Kp	quebrar	1		tɨʔkɨ-		t ɨ ʔ k ɨ			tɨʔk[ɨ]-	quebrar	Kp tɨʔkɨ-
-9802	§452	Chákobo	Ch	quebrarse			tɨkɨ		t ɨ k ɨ		Zingg2008	tɨʔk[ɨ]-	quebrar	Ch tɨkɨ ‘quebrarse’ (ZINGG;; 2008), tɨka- ‘dividir en dos partes’
+9802	§452	Chákobo	Ch	quebrarse			tɨkɨ		t ɨ k ɨ		Zingg1998	tɨʔk[ɨ]-	quebrar	Ch tɨkɨ ‘quebrarse’ (ZINGG;; 2008), tɨka- ‘dividir en dos partes’
 9803	§452	Chákobo	Ch	dividir en dos partes			tɨka-		t ɨ k a			tɨʔk[ɨ]-	quebrar	Ch tɨkɨ ‘quebrarse’ (ZINGG;; 2008), tɨka- ‘dividir en dos partes’
 9805	§452	Yamináwa	Yam	picar			tɨka-ki᷈		t ɨ k a k i᷈		Eakin2008	tɨʔk[ɨ]-	quebrar	Yam tɨka-ki᷈ ‘picar’ (EAKEN;; 2008)
 9807	§452	Sharanáwa	Shar	quebrar	1		tɨkɨi		t ɨ k ɨi			tɨʔk[ɨ]-	quebrar	Shar tɨkɨi, tɨkɨa ‘quebrar’
@@ -6668,7 +6668,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 10068	§464	ShipiboKonibo	SK	un cardenal o moretón			tonã́		t o n ã́			to[n]a[n]	azul escuro	SK tonã́ ‘un cardenal o moretón’
 10073	§464	Yamináwa	Yam	azul			nana		n a n a			to[n]a[n]	azul escuro	Yam nana ‘azul’
 10075	§464	Sharanáwa	Shar	azul			tonan		t o n a n			to[n]a[n]	azul escuro	Shar tonan ‘azul’
-10076	§464	Shanenáwa	Shan	verde, azul			ʂɨnan	1	** ʂ ɨ n a n		Ribeiro2008	to[n]a[n]	azul escuro	Shan **ʂɨnan ‘verde;;  azul’ (AMARANTE RIBEIRO; CÂNDIDO;; 2008)
+10076	§464	Shanenáwa	Shan	verde, azul			ʂɨnan	1	** ʂ ɨ n a n		Ribeiro2005	to[n]a[n]	azul escuro	Shan **ʂɨnan ‘verde;;  azul’ (AMARANTE RIBEIRO; CÂNDIDO;; 2008)
 10077	§464	Katukina	Kat	azul			punan	1	** p u n a n			to[n]a[n]	azul escuro	Kat **punan ‘azul’
 10080	§464	Kaxinawá	Kn	planta cuya corteza macerada tiñe el tejido de azul			tunã		t u n ã			to[n]a[n]	azul escuro	Kn tunã ‘planta cuya corteza macerada tiñe el tejido de azul
 10081	§464	Marináwa	M	azul			tóñã		t ó ñ ã			to[n]a[n]	azul escuro	M tóñã ‘azul’
@@ -6821,7 +6821,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 10335	§477	Sharanáwa	Shar	sufixo verbal imperativo	1		-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Shar -wɨ, wɨn ‘imperativo’
 10336	§477	Sharanáwa	Shar	imperativo			wɨn		w ɨ n			-wɨ	sufixo verbal imperativo	Shar -wɨ, wɨn ‘imperativo’
 10337	§477	Shanenáwa	Shan	imperativo			-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Shan -wɨ ‘imperativo’
-10338	§477	Katukina	Kat	imperativo			wɨ ~ wɨ᷈		wɨ ~ wɨ᷈		Mendes1998	-wɨ	sufixo verbal imperativo	Kat wɨ ~ wɨ᷈ ‘imperativo’ (MENDES;; 1998)
+10338	§477	Katukina	Kat	imperativo			wɨ ~ wɨ᷈		wɨ ~ wɨ᷈		Mendes1996	-wɨ	sufixo verbal imperativo	Kat wɨ ~ wɨ᷈ ‘imperativo’ (MENDES;; 1998)
 10341	§477	Kaxinawá	Kn	sufixo verbal imperativo	1		-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Kn -wɨ
 10342	§477	Marináwa	M	sufixo verbal imperativo	1		-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	M -wɨ
 10343	§477	Yawanawá	Yaw	imperativo			-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Yaw -wɨ ‘imperativo’
@@ -6895,19 +6895,19 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 10475	§483b	Marúbo	Mar	remo			winati		w i n a t i		Anonby2010	winati	remo	Mar winati ‘remo’ (ANONBY; HOLBROOK;; 2010)
 10484	§483b	Amawáka	A	remo, canalete, paleta de madera para mezclar			wɨti I		wɨti I			winati	remo	A wɨti I ‘remo;; canalete;;  paleta de madera para mezclar’
 10485	§483b	Kaxinawá	Kn	remo, paleta para mezclar (para cocinar)			binati		b i n a t i			winati	remo	Kn binati ‘remo;;  paleta para mezclar (para cocinar)’
-10491	§484	Proto-Panoan	Proto	remo		0	wi[n]- :		wi[n]- :		Oliveira2014	wi[n]- :	remo	*wi[n]- :
-10492	§484	Kakataibo	Ksh	llorar			i-		i			wi[n]- :	remo	Ksh i- ‘llorar’
-10493	§484	ShipiboKonibo	SK	llorar			wini-		w i n i			wi[n]- :	remo	SK wini- ‘llorar’
-10494	§484	Kapanawa	Kp	lamentarse, llevar duelo			wini-		w i n i			wi[n]- :	remo	Kp wini- ‘lamentarse;;  llevar duelo’
-10496	§484	Chákobo	Ch	sollozar, el sonido de la voz del mutún			wini-		w i n i		Zingg1998	wi[n]- :	remo	Ch wini- ‘sollozar;;  el sonido de la voz del mutún’ (ZINGG;; 1998)
-10497	§484	Kaxararí	Kax	chorar			wiʃahi		w i ʃ a h i		Valenzuela2012	wi[n]- :	remo	Kax wiʃahi ‘chorar’ (VALENZUELA; OLIVEIRA;; 2012)
-10498	§484	Yamináwa	Yam	chorar			oia 		oia 		Faust2002	wi[n]- :	remo	Yam oia (FAUST; LOOS;; 2002)
-10500	§484	Sharanáwa	Shar	remo	1		ɸini		ɸ i n i			wi[n]- :	remo	Shar ɸini, ɸinia ‘llorar por un muerto;;  lamentarse por un muerto’
-10501	§484	Sharanáwa	Shar	llorar por un muerto, lamentarse por un muerto			ɸinia		ɸ i n ia			wi[n]- :	remo	Shar ɸini, ɸinia ‘llorar por un muerto;;  lamentarse por un muerto’
-10505	§484	Amawáka	A	cantar (um pájaro)			wíniʔí		w í n i ʔ í		Hyde1980	wi[n]- :	remo	A wíniʔí ‘cantar (um pájaro)’ (HYDE;; 1980)
-10509	§484	Korúbo	Ko	chorar			win-		w i n			wi[n]- :	remo	Ko win- ‘chorar’
-10510	§484	Matís	Mt	chorar			win- kin		win- kin			wi[n]- :	remo	Mt win- kin ‘chorar’
-10511	§484	Mayorúna	My	llorar			uin [win]		uin [win]			wi[n]- :	remo	My uin [win] ‘llorar’
+10491	§484	Proto-Panoan	Proto	llorar		0	wi[n]-		w i [ n ]		Oliveira2014	wi[n]-	llorar	*wi[n]- ‘llorar’ :
+10492	§484	Kakataibo	Ksh	llorar			i-		i			wi[n]-	llorar	Ksh i- ‘llorar’
+10493	§484	ShipiboKonibo	SK	llorar			wini-		w i n i			wi[n]-	llorar	SK wini- ‘llorar’
+10494	§484	Kapanawa	Kp	lamentarse, llevar duelo			wini-		w i n i			wi[n]-	llorar	Kp wini- ‘lamentarse;;  llevar duelo’
+10496	§484	Chákobo	Ch	sollozar, el sonido de la voz del mutún			wini-		w i n i		Zingg1998	wi[n]-	llorar	Ch wini- ‘sollozar;;  el sonido de la voz del mutún’ (ZINGG;; 1998)
+10497	§484	Kaxararí	Kax	chorar			wiʃahi		w i ʃ a h i		Valenzuela2012	wi[n]-	llorar	Kax wiʃahi ‘chorar’ (VALENZUELA; OLIVEIRA;; 2012)
+10498	§484	Yamináwa	Yam	chorar			oia 		oia 		Faust2002	wi[n]-	llorar	Yam oia (FAUST; LOOS;; 2002)
+10500	§484	Sharanáwa	Shar	llorar	1		ɸini		ɸ i n i			wi[n]-	llorar	Shar ɸini, ɸinia ‘llorar por un muerto;;  lamentarse por un muerto’
+10501	§484	Sharanáwa	Shar	llorar por un muerto, lamentarse por un muerto			ɸinia		ɸ i n ia			wi[n]-	llorar	Shar ɸini, ɸinia ‘llorar por un muerto;;  lamentarse por un muerto’
+10505	§484	Amawáka	A	cantar (um pájaro)			wíniʔí		w í n i ʔ í		Hyde1980	wi[n]-	llorar	A wíniʔí ‘cantar (um pájaro)’ (HYDE;; 1980)
+10509	§484	Korúbo	Ko	chorar			win-		w i n			wi[n]-	llorar	Ko win- ‘chorar’
+10510	§484	Matís	Mt	chorar			win- kin		win- kin			wi[n]-	llorar	Mt win- kin ‘chorar’
+10511	§484	Mayorúna	My	llorar			uin [win]		uin [win]			wi[n]-	llorar	My uin [win] ‘llorar’
 10512	§485	Proto-Panoan	Proto	borduna, bastão		0	wino		w i n o		Oliveira2014	wino	borduna,  bastão	*wino ‘borduna;;  bastão’ :
 10513	§485	Kakataibo	Ksh	borduna, bastão	1		ino		i n o			wino	borduna,  bastão	Ksh ino
 10514	§485	ShipiboKonibo	SK	borduna, bastão	1		wino		w i n o			wino	borduna,  bastão	SK wino
@@ -7158,7 +7158,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 10880	§501	Shanenáwa	Shan	pássar, animal comestível			yuina		yui n a			yoʔi[n]a	animal	Shan yuina ‘pássar;;  animal comestível’
 10882	§501	Poyanáwa	Poy	animal			iu᷈i᷈da		iu᷈i᷈ d a			yoʔi[n]a	animal	Poy iu᷈i᷈da ‘animal’
 10883	§501	Amawáka	A	animal	1		yõʔina I		yõʔina I			yoʔi[n]a	animal	A yõʔina I
-10884	§501	Kaxinawá	Kn	animal comestible			yuina(ka)		yui n a ( k a )		Montag1981	yoʔi[n]a	animal	Kn yuina(ka) ‘animal comestible’ (MONTAG;; 1981), yuina...
+10884	§501	Kaxinawá	Kn	animal comestible			yuina(ka)		yui n a ( k a )		Montag1981c	yoʔi[n]a	animal	Kn yuina(ka) ‘animal comestible’ (MONTAG;; 1981), yuina...
 10885	§501	Kaxinawá	Kn	animal	1		yuina...		yui n a			yoʔi[n]a	animal	Kn yuina(ka) ‘animal comestible’ (MONTAG;; 1981), yuina...
 10886	§501	Marináwa	M	animal	1		yóíná		y ó í n á			yoʔi[n]a	animal	M yóíná
 10887	§501	Yawanawá	Yaw	animal			iuina		iui n a			yoʔi[n]a	animal	Yaw iuina ‘animal’

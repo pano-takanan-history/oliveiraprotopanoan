@@ -31,8 +31,8 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 - **Cognacy:** 7,314 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
-- **Tokens:** 34,080
-- **Segments:** 154 (79 BIPA errors, 79 CLTS sound class errors, 75 CLTS modified)
+- **Tokens:** 34,078
+- **Segments:** 154 (79 BIPA errors, 79 CTLS sound class errors, 75 CLTS modified)
 - **Inventory size (avg):** 41.10
 
 ## Possible Improvements:
@@ -57,4 +57,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)

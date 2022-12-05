@@ -7,7 +7,7 @@ pacacuniculuspaca,paca,316,PACA,paca (Cuniculus paca),1,§5
 sufixodeconcordanciadointransitivo,intransitive suffix of concordance,,,sufixo de concordância do intransitivo,1,§6
 tipodeveneno,type of venom,,,tipo de veneno,1,§7
 antatapirusterrestris,tapir,312,TAPIR,anta (Tapirus terrestris),1,§8
-mulheresposa,"women, wife",,,"mulher, esposa",1,§9
+mulheresposa,"woman, wife",,,"mulher, esposa",1,§9
 tragar,to devour,,,tragar,1,§10
 yo,I,1209,I,yo,1,§11
 piolho,louse,1392,LOUSE,piolho,1,§13
@@ -24,7 +24,7 @@ espdeonca,species of jaguar,,,esp. de onça,1,§21
 espdepeixeespdafamloricariidae,species of fish (Loricariidae),,,esp. de peixe (esp. da fam. Loricariidae),1,§22
 dordoer,"pain, to hurt",,,"dor, doer",1,§23
 japuespdepassarodafamicteridae,japu (bird of fam. Icteridae),,,japu (esp. de pássaro da fam. Icteridae),1,§24
-macacopretoespdemacacodafamatelidae,black macaw,,,macaco preto (esp. de macaco da fam Atelidae),1,§25
+macacopretoespdemacacodafamatelidae,black monkey,,,macaco preto (esp. de macaco da fam Atelidae),1,§25
 correr,to run,1519,RUN,correr,1,§26
 muito,many,1198,MANY,muito,1,§27
 uruburei,urubu rei,,,urubu rei,1,§28
@@ -56,7 +56,7 @@ queoque,what,1236,WHAT,"que, o que",1,§53
 seusuadeledela,"his, her, of him, of her",2092,HIS OR HER,"seu, sua, dele, dela",1,§54
 caminhopicada,"way, path",2252,PATH,"caminho, picada",1,§55
 noiteescuro,"night, dark",,,"noite, escuro",1,§56
-tela,cloth,,,tela,1,§57
+tela,cloth,1616,CLOTH,tela,1,§57
 rocado,swidden field for agriculture,429,SWIDDEN FIELD,roçado,1,§58
 filhocrianca,child,1304,CHILD (YOUNG HUMAN),"filho, criança",1,§59
 espuma,foam,1768,FOAM,espuma,1,§60
@@ -85,7 +85,7 @@ finoraso,"thin, fine",2308,THIN,"fino, raso",1,§84
 sopacaldo,"soup, broth",1547,SOUP,"sopa, caldo",1,§85
 rostocara,face,1560,FACE,"rosto, cara",1,§86
 pegar,to catch,702,CATCH,pegar,1,§87
-pelecouro,"skin, leather",763,SKIN,"pele, couro",1,§88
+pelecouro,"skin, leather",3326,LEATHER OR HIDE,"pele, couro",1,§88
 carapana,mosquito,1509,MOSQUITO,carapanã,1,§90
 fruto,fruit,1507,FRUIT,fruto,1,§91
 marimbondocaba,"marimbondo, caba",,,"marimbondo, caba",1,§92
@@ -106,7 +106,7 @@ cabeca,head,1256,HEAD,cabeça,1,§108
 sentarsentarse,to sit,1416,SIT,sentar (sentar-se),1,§109
 solucosolucar,"hiccough, to hiccup",162,HICCOUGH,"soluço, soluçar",1,§111
 cigarra,cicada,2353,CICADA,cigarra,1,§112
-carvaobrasa,"amber, coal",,,"carvão, brasa",1,§113
+carvaobrasa,"amber, coal",1188,CHARCOAL,"carvão, brasa",1,§113
 quem,who,1235,WHO,quem,1,§115
 pegaragarrarcomamao,"to catch, to graph with one's hand",855,SEIZE,"pegar, agarrar com a mão",1,§116
 picardaragulhadaferrarinjetarfurar,"poke, pierce, inject, drill",,,"picar, dar agulhada, ferrar, injetar, furar",1,§117
@@ -232,7 +232,7 @@ anzol,fishhook,1074,FISHHOOK,anzol,1,§248
 venenoamargo,"poison, bitter",,,"veneno, amargo",1,§249
 espinho,thorn,124,THORN,espinho,1,§250
 ninho,nest,539,NEST,ninho,1,§251
-espdepreguicamacaco,species of macaw,,,esp. de preguiça (macaco),1,§252
+espdepreguicamacaco,species of monkey,,,esp. de preguiça (macaco),1,§252
 ceu,sky,1732,SKY,céu,1,§253
 espdemosquito,species of mosquito,,,esp. de mosquito,1,§254
 cupim,termite,883,TERMITE,cupim,1,§255
@@ -326,8 +326,8 @@ braco,arm,1673,ARM,braço,1,§348
 remediomedicinatradicional,medicine,1372,MEDICINE,"remédio, medicina tradicional",1,§350
 termedoassustarse,"to fear, to be afraid",1419,FEAR (BE AFRAID),"ter medo, assustar-se",1,§351
 dois,two,1498,TWO,dois,1,§352
-envergonharsetervergonha,"to be ashamed, to feel ashamed",,,"envergonhar-se, ter vergonha",1,§353
-rotulajoelho,"kneecap, knee",,,"rótula, joelho",1,§354
+envergonharsetervergonha,"to be ashamed, to feel ashamed",1894,ASHAMED,"envergonhar-se, ter vergonha",1,§353
+rotulajoelho,"kneecap, knee",1371,KNEE,"rótula, joelho",1,§354
 temer,to feat,1419,FEAR (BE AFRAID),temer,1,§355
 deitarse,to lie down,215,LIE DOWN,deitar-se,1,§356
 cobrirenvolver,"to cover, to embrace",761,COVER,"cobrir, envolver",1,§357
@@ -341,11 +341,11 @@ moer,to grind,1033,GRIND,moer,1,§364
 septonasal,nasal septum,,,septo nasal,1,§365
 tombar,to fall,1280,FALL,tombar,1,§366
 instrumentomusical,music instrument,,,instrumento musical,1,§367
-igualdomesmojeitotambem,"same, of the same way, also",,,"igual, do mesmo jeito, também",1,§368
-espdemacaco,species of macaw,,,esp. de macaco,1,§369
+igualdomesmojeitotambem,"same, of the same way, also",200,SAME,"igual, do mesmo jeito, também",1,§368
+espdemacaco,species of monkey,,,esp. de macaco,1,§369
 fiocorda,"thread, rope",,,"fio, corda",1,§370
 fio,thread,1161,THREAD,fio,1,§371
-guaribaespdemacacomonoaullador,"guariba (species of macaw), howler monkey",,,"guariba (esp. de macaco), mono aullador",1,§372
+guaribaespdemacacomonoaullador,"guariba (species of monkey), howler monkey",433,HOWLER MONKEY,"guariba (esp. de macaco), mono aullador",1,§372
 machado,axe,677,AXE,machado,1,§373
 tabaco,tobacco,974,TOBACCO,tabaco,1,§374
 cobra,snake,730,SNAKE,cobra,1,§375
@@ -358,7 +358,7 @@ peitoprefixopartedocorpo,chest (body-part prefix),,,peito (prefixo parte do corp
 espdearanha,species of spider,,,esp. de aranha,1,§386
 pensar,to think,2271,THINK,pensar,1,§387
 piumespdemosca,pium (species of fly),,,pium (esp.demosca),1,§389
-macacosagui,sagui macaw,,,macaco sagui,1,§390
+macacosagui,sagui monkey,,,macaco sagui,1,§390
 claridade,clarity,,,claridade,1,§391
 tamandua,anteater,181,ANTEATER,tamanduá,1,§392
 bocejar,to yawn,1028,YAWN,bocejar,1,§394
@@ -442,7 +442,7 @@ passar,to pass by,558,PASS BY,passar,1,§486
 pantorrilha,calf,1989,CALF,pantorrilha,1,§487
 negro,black,163,BLACK,negro,1,§488
 estrela,star,1430,STAR,estrela,1,§489
-comempossede,"with, in possession of",,,"com, em posse de",1,§490
+comempossede,"with, in possession of",1340,WITH,"com, em posse de",1,§490
 cidadeassentamento,"city, settlement",1391,TOWN,"cidade, assentamento",1,§492
 sufixonegativo,negative suffix,,,sufixo negativo,1,§493
 escuronoite,"dark, night",,,"escuro, noite",1,§494
