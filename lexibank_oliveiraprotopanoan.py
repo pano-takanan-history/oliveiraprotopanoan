@@ -113,7 +113,7 @@ class Dataset(BaseDataset):
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Variants=variants,
                     Comment=entry["NOTE"],
-                    # Source=entry["SOURCE"],
+                    Source=entry["SOURCE"],
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
                     Paragraph=entry["IDX"],
                     Cognacy=entry["IDX"][1:],

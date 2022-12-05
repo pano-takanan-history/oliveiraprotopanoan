@@ -9,7 +9,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 8	§1	Yamináwa	Yam	fazer, matar	1		ak-		a k			ʔak-	fazer,  matar	Yam ak-
 9	§1	Chanináwa	Chan	fazer, matar	1		a-		a			ʔak-	fazer,  matar	Chan a-
 10	§1	Sharanáwa	Shar	fazer, matar	1		a-		a			ʔak-	fazer,  matar	Shar a-
-14	§1	Amawáka	A	fazer, matar			ʔa- 		ʔa- 		Chavez2012	ʔak-	fazer,  matar	A ʔa- (CHÁVEZ;; 2012)
+14	§1	Amawáka	A	fazer, matar			ʔa- 		ʔa- 		Sparing2012	ʔak-	fazer,  matar	A ʔa- (CHÁVEZ;; 2012)
 15	§1	Kaxinawá	Kn	fazer, matar	1		a-		a			ʔak-	fazer,  matar	Kn a-
 16	§1	Marináwa	M	fazer, matar	1		a-		a			ʔak-	fazer,  matar	M a-
 18	§1	Korúbo	Ko	fazer, matar	1		ak-		a k			ʔak-	fazer,  matar	Ko ak-
@@ -25,7 +25,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 31	§2	Shanenáwa	Shan	macaxeira, mandioca	1		atsa		a t s a			ʔatsa	macaxeira,  mandioca	Shan atsa
 32	§2	Katukina	Kat	macaxeira, mandioca	1		atsa		a t s a			ʔatsa	macaxeira,  mandioca	Kat atsa
 33	§2	Poyanáwa	Poy	macaxeira, mandioca	1		atsa		a t s a			ʔatsa	macaxeira,  mandioca	Poy atsa
-34	§2	Amawáka	A	macaxeira, mandioca			ʔatsa 		ʔatsa 		Chavez2012	ʔatsa	macaxeira,  mandioca	A ʔatsa (CHÁVEZ;; 2012), Atsa I
+34	§2	Amawáka	A	macaxeira, mandioca			ʔatsa 		ʔatsa 		Sparing2012	ʔatsa	macaxeira,  mandioca	A ʔatsa (CHÁVEZ;; 2012), Atsa I
 35	§2	Amawáka	A	macaxeira, mandioca	1		Atsa I		Atsa I			ʔatsa	macaxeira,  mandioca	A ʔatsa (CHÁVEZ;; 2012), Atsa I
 36	§2	Kaxinawá	Kn	macaxeira, mandioca	1		atsa		a t s a			ʔatsa	macaxeira,  mandioca	Kn atsa
 37	§2	Marináwa	M	macaxeira, mandioca			atsa 		atsa 	palabra usada solo por algunos de los ancianos		ʔatsa	macaxeira,  mandioca	M atsa (palabra usada solo por algunos de los ancianos)
@@ -304,7 +304,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 394	§18b	Proto-Panoan	Proto	subir		0	ʔira-		ʔ i r a		Oliveira2014	ʔira-	subir	*ʔira- ‘subir’ :
 396	§18b	ShipiboKonibo	SK	arriba y arriba (como en noyaina- «volar arriba y arriba»)			-ina-		i n a			ʔira-	subir	SK -ina- ‘arriba y arriba (como en noyaina- «volar arriba y arriba»)’
 397	§18b	Kapanawa	Kp	subir (como a um árbol)			ʔina-		ʔ i n a			ʔira-	subir	Kp ʔina- ‘subir (como a um árbol)’
-398	§18b	Marúbo	Mar	ação subindo			-iná-		i n á		Kennel1978	ʔira-	subir	Mar -iná- ‘ação subindo’ (KENNEL;; 1978)
+398	§18b	Marúbo	Mar	ação subindo			-iná-		i n á		Kennell1978	ʔira-	subir	Mar -iná- ‘ação subindo’ (KENNEL;; 1978)
 399	§18b	Chákobo	Ch	subir (como la ardilla en el árbol)			ʔina-		ʔ i n a			ʔira-	subir	Ch ʔina- ‘subir (como la ardilla en el árbol)’
 400	§18b	Kaxararí	Kax	subir			iˈlahi		i ˈl a h i		Couto2005	ʔira-	subir	Kax iˈlahi ‘subir’ (COUTO;; 2005)
 401	§18b	Yamináwa	Yam	subir			ina-		i n a		Faust2002	ʔira-	subir	Yam ina- ‘subir’ (FAUST; LOOS;; 2002)
@@ -336,7 +336,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 443	§20	Kakataibo	Ksh	dar	1		ʔinã́-		ʔ i n ã́			ʔinar-	dar	Ksh ʔinã́-
 444	§20	ShipiboKonibo	SK	dar	1		ʔinã-		ʔ i n ã			ʔinar-	dar	SK ʔinã-
 445	§20	Kapanawa	Kp	dar	1		ʔinán		ʔ i n á n			ʔinar-	dar	Kp ʔinán
-446	§20	Marúbo	Mar	dar			i᷈nã-		i᷈ n ã		KENNELL1978	ʔinar-	dar	Mar i᷈nã- ‘dar’ (KENNELL;; 1978)
+446	§20	Marúbo	Mar	dar			i᷈nã-		i᷈ n ã		Kennell1978	ʔinar-	dar	Mar i᷈nã- ‘dar’ (KENNELL;; 1978)
 447	§20	Chákobo	Ch	vender, regalar, repartir			ʔinia-		ʔ i n ia		Zingg1998	ʔinar-	dar	Ch ʔinia- ‘vender;; regalar;;  repartir’ (ZINGG;; 1998), ʔina- dar
 448	§20	Chákobo	Ch	dar	1		ʔina- dar		ʔina- dar			ʔinar-	dar	Ch ʔinia- ‘vender;; regalar;;  repartir’ (ZINGG;; 1998), ʔina- dar
 449	§20	Kaxararí	Kax	dar			yali		ya l i		Valenzuela2012	ʔinar-	dar	Kax yali ‘dar’ (VALENZUELA; OLIVEIRA;; 2012)
@@ -420,7 +420,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 557	§25	Proto-Panoan	Proto	macaco preto (esp. de macaco da fam Atelidae)		0	ʔiso		ʔ i s o		Oliveira2014	ʔiso	macaco preto (esp. de macaco da fam Atelidae)	*ʔiso ‘macaco preto (esp. de macaco da fam Atelidae)’
 559	§25	ShipiboKonibo	SK	macaco preto (esp. de macaco da fam Atelidae)	1		ʔiso		ʔ i s o			ʔiso	macaco preto (esp. de macaco da fam Atelidae)	SK ʔiso
 560	§25	Kapanawa	Kp	macaco preto (esp. de macaco da fam Atelidae)	1		ʔiso		ʔ i s o			ʔiso	macaco preto (esp. de macaco da fam Atelidae)	Kp ʔiso
-561	§25	Marúbo	Mar	macaco preto (esp. de macaco da fam Atelidae)			ʔiso [ʔīsɞ̆] 		ʔiso [ʔīsɞ̆] 		COSTA1994	ʔiso	macaco preto (esp. de macaco da fam Atelidae)	Mar ʔiso [ʔīsɞ̆] (COSTA;; 1994)
+561	§25	Marúbo	Mar	macaco preto (esp. de macaco da fam Atelidae)			ʔiso [ʔīsɞ̆] 		ʔiso [ʔīsɞ̆] 		Costa1992	ʔiso	macaco preto (esp. de macaco da fam Atelidae)	Mar ʔiso [ʔīsɞ̆] (COSTA;; 1994)
 562	§25	Chákobo	Ch	mono maquisapa			ʔiso		ʔ i s o			ʔiso	macaco preto (esp. de macaco da fam Atelidae)	Ch ʔiso ‘mono maquisapa’
 564	§25	Yamináwa	Yam	maquisapa			iso		i s o		Faust2002	ʔiso	macaco preto (esp. de macaco da fam Atelidae)	Yam iso ‘maquisapa’ (FAUST; LOOS;; 2002)
 565	§25	Chanináwa	Chan	maquisapa			iso		i s o			ʔiso	macaco preto (esp. de macaco da fam Atelidae)	Chan iso ‘maquisapa’
@@ -455,7 +455,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 606	§27	Chákobo	Ch	aumentar en número			itʃa-		i t ʃ a		Zingg1998	ʔitsak	muito	Ch itʃa- ‘aumentar en número’ (ZINGG;; 1998), itʃaɾama ‘pequeño;;  poco’ (-ma negative;;  juego 493)
 607	§27	Chákobo	Ch	pequeño, poco			itʃaɾama		i t ʃ a ɾ a m a	 (-ma negative,  juego 493		ʔitsak	muito	Ch itʃa- ‘aumentar en número’ (ZINGG;; 1998), itʃaɾama ‘pequeño;;  poco’ (-ma negative;;  juego 493)
 609	§27	Yamináwa	Yam	reunir, ser muchos			itʃa-		i t ʃ a		Faust2002	ʔitsak	muito	Yam itʃa- ‘reunir;;  ser muchos’ (FAUST; LOOS;; 2002), itʃa- pa ‘muchos’ (ILV;; 1991)
-610	§27	Yamináwa	Yam	muchos			itʃa- pa		itʃa- pa		ILV1991	ʔitsak	muito	Yam itʃa- ‘reunir;;  ser muchos’ (FAUST; LOOS;; 2002), itʃa- pa ‘muchos’ (ILV;; 1991)
+610	§27	Yamináwa	Yam	muchos			itʃa- pa		itʃa- pa		Ilv1991	ʔitsak	muito	Yam itʃa- ‘reunir;;  ser muchos’ (FAUST; LOOS;; 2002), itʃa- pa ‘muchos’ (ILV;; 1991)
 611	§27	Chanináwa	Chan	muito	1		itʃa-pa		i t ʃ a p a			ʔitsak	muito	Chan itʃa-pa
 612	§27	Sharanáwa	Shar	mucho, bastante			itʃa-pa		i t ʃ a p a			ʔitsak	muito	Shar itʃa-pa ‘mucho;;  bastante’
 613	§27	Shanenáwa	Shan	muito	1		itʃa-pa		i t ʃ a p a			ʔitsak	muito	Shan itʃa-pa
@@ -590,7 +590,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 791	§35	Kakataibo	Ksh	conhecer, aprender	1		ʔonã́		ʔ o n ã́			ʔo[n]a[n]-	conhecer,  aprender	Ksh ʔonã́
 792	§35	ShipiboKonibo	SK	conhecer, aprender	1		ʔonã́		ʔ o n ã́			ʔo[n]a[n]-	conhecer,  aprender	SK ʔonã́
 793	§35	Kapanawa	Kp	conhecer, aprender	1		ʔonán-		ʔ o n á n			ʔo[n]a[n]-	conhecer,  aprender	Kp ʔonán-
-794	§35	Marúbo	Mar	bravo			oni-ka	1	** o n i k a		COSTA1994	ʔo[n]a[n]-	conhecer,  aprender	Mar **oni-ka ‘bravo’ (COSTA;; 1994), **onis ‘triste;;  nostálgico’ (CESARINO;; 2008)
+794	§35	Marúbo	Mar	bravo			oni-ka	1	** o n i k a		Costa1992	ʔo[n]a[n]-	conhecer,  aprender	Mar **oni-ka ‘bravo’ (COSTA;; 1994), **onis ‘triste;;  nostálgico’ (CESARINO;; 2008)
 795	§35	Marúbo	Mar	triste, nostálgico			onis	1	** o n i s		Cesarino2008	ʔo[n]a[n]-	conhecer,  aprender	Mar **oni-ka ‘bravo’ (COSTA;; 1994), **onis ‘triste;;  nostálgico’ (CESARINO;; 2008)
 800	§35	Sharanáwa	Shar	conhecer, aprender	1		onain		o n ai n			ʔo[n]a[n]-	conhecer,  aprender	Shar onain, onaan ‘advinar;;  conocer’
 801	§35	Sharanáwa	Shar	advinar, conocer			onaan		o n aa n			ʔo[n]a[n]-	conhecer,  aprender	Shar onain, onaan ‘advinar;;  conocer’
@@ -839,7 +839,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1151	§51	ShipiboKonibo	SK	tanto			haˈti		h a ˈt i		Loriot1993	hatit	esse tanto	SK haˈti ‘tanto’ (LORIOT; LAURIAULT; DAY;; 1993), hatíβi
 1152	§51	ShipiboKonibo	SK	esse tanto	1		hatíβi		h a t í β i			hatit	esse tanto	SK haˈti ‘tanto’ (LORIOT; LAURIAULT; DAY;; 1993), hatíβi
 1153	§51	Kapanawa	Kp	todos			hatiʔβi		h a t i ʔ β i			hatit	esse tanto	Kp hatiʔβi ‘todos’
-1154	§51	Marúbo	Mar	essa quantia			aatí		aa t í		Kennel1978	hatit	esse tanto	Mar aatí ‘essa quantia’ (KENNEL;; 1978), ati [ˈātĭ] ‘3Pl (esses)’ (COSTA;; 1992)
+1154	§51	Marúbo	Mar	essa quantia			aatí		aa t í		Kennell1978	hatit	esse tanto	Mar aatí ‘essa quantia’ (KENNEL;; 1978), ati [ˈātĭ] ‘3Pl (esses)’ (COSTA;; 1992)
 1155	§51	Marúbo	Mar	3Pl (esses)			ati [ˈātĭ]		ati [ˈātĭ]		Costa1992	hatit	esse tanto	Mar aatí ‘essa quantia’ (KENNEL;; 1978), ati [ˈātĭ] ‘3Pl (esses)’ (COSTA;; 1992)
 1156	§51	Chákobo	Ch	toditos, todo igual			haˈti		h a ˈt i		Zingg1998	hatit	esse tanto	Ch haˈti ‘toditos;; todo igual’ (ZINGG;; 1998), hatíta ‘todo’
 1157	§51	Chákobo	Ch	todo			hatíta		h a t í t a			hatit	esse tanto	Ch haˈti ‘toditos;; todo igual’ (ZINGG;; 1998), hatíta ‘todo’
@@ -879,7 +879,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1197	§53	ShipiboKonibo	SK	que, o que	1		hawɨ		h a w ɨ			haw[ɨ/a]	que,  o que	SK hawɨ
 1198	§53	Kapanawa	Kp	que, o que	1		hawa		h a w a			haw[ɨ/a]	que,  o que	Kp hawa
 1199	§53	Marúbo	Mar	coisa			awɨ		a w ɨ		Cesarino2008	haw[ɨ/a]	que,  o que	Mar awɨ ‘coisa’ (CESARINO;; 2008),  awɨ ‘que interrogativo’ (KENNELL;; 1978)
-1200	§53	Marúbo	Mar	que interrogativo			awɨ		a w ɨ		KENNELL1978	haw[ɨ/a]	que,  o que	Mar awɨ ‘coisa’ (CESARINO;; 2008),  awɨ ‘que interrogativo’ (KENNELL;; 1978)
+1200	§53	Marúbo	Mar	que interrogativo			awɨ		a w ɨ		Kennell1978	haw[ɨ/a]	que,  o que	Mar awɨ ‘coisa’ (CESARINO;; 2008),  awɨ ‘que interrogativo’ (KENNELL;; 1978)
 1201	§53	Chákobo	Ch	qué?			hawɨ		h a w ɨ			haw[ɨ/a]	que,  o que	Ch hawɨ ‘qué?’
 1202	§53	Kaxararí	Kax	o quê?			haˈwã [ɦaˈwã]		haˈwã [ɦaˈwã]			haw[ɨ/a]	que,  o que	Kax haˈwã [ɦaˈwã] ‘o quê?’, hawɨiˈʃu [hawɨ͡iˈʃɯ] ‘por quê?’
 1203	§53	Kaxararí	Kax	por quê?			hawɨiˈʃu [hawɨ͡iˈʃɯ]		hawɨiˈʃu [hawɨ͡iˈʃɯ]			haw[ɨ/a]	que,  o que	Kax haˈwã [ɦaˈwã] ‘o quê?’, hawɨiˈʃu [hawɨ͡iˈʃɯ] ‘por quê?’
@@ -902,7 +902,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1223	§54	ShipiboKonibo	SK	seu, sua, dele, dela	1		hawɨ᷈		h a w ɨ᷈			hawɨn	seu, sua, dele,  dela	SK hawɨ᷈
 1224	§54	Kapanawa	Kp	seu, sua, dele, dela	1		hawɨ́n		h a w ɨ́ n			hawɨn	seu, sua, dele,  dela	Kp hawɨ́n
 1225	§54	Marúbo	Mar	seu nariz			awɨ ˈrɨki᷈		awɨ ˈrɨki᷈			hawɨn	seu, sua, dele,  dela	Mar awɨ ˈrɨki᷈ ‘seu nariz’, awã ʂoβo [awa᷈ ʂofu] ‘sua casa’ (KENNELL;; 1978)
-1226	§54	Marúbo	Mar	sua casa			awã ʂoβo [awa᷈ ʂofu]		awã ʂoβo [awa᷈ ʂofu]		KENNELL1978	hawɨn	seu, sua, dele,  dela	Mar awɨ ˈrɨki᷈ ‘seu nariz’, awã ʂoβo [awa᷈ ʂofu] ‘sua casa’ (KENNELL;; 1978)
+1226	§54	Marúbo	Mar	sua casa			awã ʂoβo [awa᷈ ʂofu]		awã ʂoβo [awa᷈ ʂofu]		Kennell1978	hawɨn	seu, sua, dele,  dela	Mar awɨ ˈrɨki᷈ ‘seu nariz’, awã ʂoβo [awa᷈ ʂofu] ‘sua casa’ (KENNELL;; 1978)
 1227	§54	Chákobo	Ch	su (sing.)			hawɨ		h a w ɨ			hawɨn	seu, sua, dele,  dela	Ch hawɨ ‘su (sing.)’
 1228	§54	Kaxararí	Kax	dele, é dele			hawa		h a w a			hawɨn	seu, sua, dele,  dela	Kax hawa ‘dele;;  é dele’
 1229	§54	Yamináwa	Yam	su (de él, de ella)			aɸɨ᷈		a ɸ ɨ᷈			hawɨn	seu, sua, dele,  dela	Yam aɸɨ᷈ ‘su (de él;;  de ella)’
@@ -1145,7 +1145,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1568	§70	Kakataibo	Ksh	comitative (A)			βɨtã		β ɨ t ã		Zariquiey2011	-βɨt, -bɨta[n]	comitativo	Ksh βɨ ‘comitative (S)’, βɨtã ‘comitative (A)’ (ZARIQUIEY;; 2011)
 1569	§70	ShipiboKonibo	SK	comitative			-βɨ ~ -βɨtan		-βɨ ~ -βɨtan		VALENZUELA2003;LORIOT;DAY1993	-βɨt, -bɨta[n]	comitativo	SK -βɨ ~ -βɨtan ‘comitative’ (VALENZUELA;; 2003; LORIOT; LAURIAULT; DAY;; 1993)
 1570	§70	Kapanawa	Kp	con			-βɨ ~ -βɨta		-βɨ ~ -βɨta		Loos1998	-βɨt, -bɨta[n]	comitativo	Kp -βɨ ~ -βɨta ‘con’ (LOOS; LOOS;; 1998)
-1571	§70	Marúbo	Mar	associativo			βɨ		β ɨ		Kennel1978	-βɨt, -bɨta[n]	comitativo	Mar βɨ ‘associativo’ (KENNEL;; 1978), -βɨ ‘associativo pronominal’ (COSTA;; 1992)
+1571	§70	Marúbo	Mar	associativo			βɨ		β ɨ		Kennell1978	-βɨt, -bɨta[n]	comitativo	Mar βɨ ‘associativo’ (KENNEL;; 1978), -βɨ ‘associativo pronominal’ (COSTA;; 1992)
 1572	§70	Marúbo	Mar	associativo pronominal			-βɨ		β ɨ		Costa1992	-βɨt, -bɨta[n]	comitativo	Mar βɨ ‘associativo’ (KENNEL;; 1978), -βɨ ‘associativo pronominal’ (COSTA;; 1992)
 1573	§70	Chákobo	Ch	en compañia de, con (sufijo nominal)			βɨta		β ɨ t a			-βɨt, -bɨta[n]	comitativo	Ch βɨta ‘en compañia de;;  con (sufijo nominal)’
 1574	§70	Kaxararí	Kax	comitativo			bɨ ~ bɨta		bɨ ~ bɨta		Valenzuela2012	-βɨt, -bɨta[n]	comitativo	Kax bɨ ~ bɨta ‘comitativo’ (VALENZUELA; OLIVEIRA;; 2012)
@@ -1500,7 +1500,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2125	§95	Kakataibo	Ksh	pluralizador	1		-βo		β o			-βo	pluralizador	Ksh -βo
 2126	§95	ShipiboKonibo	SK	pluralizador	1		-βo		β o			-βo	pluralizador	SK -βo
 2127	§95	Kapanawa	Kp	pluralizador	1		-βo		β o			-βo	pluralizador	Kp -βo
-2128	§95	Marúbo	Mar	genérico, plural			-βo		β o		KENNELL1978	-βo	pluralizador	Mar -βo ‘genérico;;  plural’ (KENNELL;; 1978)
+2128	§95	Marúbo	Mar	genérico, plural			-βo		β o		Kennell1978	-βo	pluralizador	Mar -βo ‘genérico;;  plural’ (KENNELL;; 1978)
 2129	§95	Chákobo	Ch	plural del sustantivo			βo		β o		Zingg1998	-βo	pluralizador	Ch βo ‘plural del sustantivo’ (ZINGG;; 1998)
 2131	§95	Yamináwa	Yam	plural, varios, sujeto plural			ɸo		ɸ o		Faust2002	-βo	pluralizador	Yam ɸo ‘plural;; varios;;  sujeto plural’ (FAUST; LOOS;; 2002)
 2133	§95	Sharanáwa	Shar	pluralizador del sujeto de un verbo intransitive, plural de verbo intransitivo			-ɸo		ɸ o			-βo	pluralizador	Shar -ɸo ‘pluralizador del sujeto de un verbo intransitive;;  plural de verbo intransitivo’
@@ -2594,7 +2594,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3817	§173	Kapanawa	Kp	comenzar, querer, estar por, tener intenciones			-katsiʔki-		k a t s i ʔ k i		Loos1998	katsi, -kas	querer	Kp -katsiʔ-, -katsiʔki- ‘comenzar;; querer;; estar por;;  tener intenciones’ (LOOS; LOOS;; 1998)
 3818	§173	Marúbo	Mar	desiderativo			-katsi		k a t s i			katsi, -kas	querer	Mar -katsi ‘desiderativo’, katsi, katsia ‘futuro interrogativo’ (KENNEL;; 1978), katsa ‘futuro - hoje e depois de hoje’, katsiki ‘querer;; futuro iminente (estar para;;  estar querendo)’ (COSTA;; 1992)
 3819	§173	Marúbo	Mar	querer	1		katsi		k a t s i			katsi, -kas	querer	Mar -katsi ‘desiderativo’, katsi, katsia ‘futuro interrogativo’ (KENNEL;; 1978), katsa ‘futuro - hoje e depois de hoje’, katsiki ‘querer;; futuro iminente (estar para;;  estar querendo)’ (COSTA;; 1992)
-3820	§173	Marúbo	Mar	futuro interrogativo			katsia		k a t s ia		Kennel1978	katsi, -kas	querer	Mar -katsi ‘desiderativo’, katsi, katsia ‘futuro interrogativo’ (KENNEL;; 1978), katsa ‘futuro - hoje e depois de hoje’, katsiki ‘querer;; futuro iminente (estar para;;  estar querendo)’ (COSTA;; 1992)
+3820	§173	Marúbo	Mar	futuro interrogativo			katsia		k a t s ia		Kennell1978	katsi, -kas	querer	Mar -katsi ‘desiderativo’, katsi, katsia ‘futuro interrogativo’ (KENNEL;; 1978), katsa ‘futuro - hoje e depois de hoje’, katsiki ‘querer;; futuro iminente (estar para;;  estar querendo)’ (COSTA;; 1992)
 3821	§173	Marúbo	Mar	futuro - hoje e depois de hoje			katsa		k a t s a			katsi, -kas	querer	Mar -katsi ‘desiderativo’, katsi, katsia ‘futuro interrogativo’ (KENNEL;; 1978), katsa ‘futuro - hoje e depois de hoje’, katsiki ‘querer;; futuro iminente (estar para;;  estar querendo)’ (COSTA;; 1992)
 3822	§173	Marúbo	Mar	querer, futuro iminente (estar para, estar querendo)			katsiki		k a t s i k i		Costa1992	katsi, -kas	querer	Mar -katsi ‘desiderativo’, katsi, katsia ‘futuro interrogativo’ (KENNEL;; 1978), katsa ‘futuro - hoje e depois de hoje’, katsiki ‘querer;; futuro iminente (estar para;;  estar querendo)’ (COSTA;; 1992)
 3823	§173	Chákobo	Ch	querer, sufijo verbal desiderativo			-kas-		k a s			katsi, -kas	querer	Ch -kas- ‘querer;;  sufijo verbal desiderativo’
@@ -2743,7 +2743,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 4054	§183	ShipiboKonibo	SK	sufijo locativo no específico			-ki		k i			-ki	sufixo locativo ablativo	SK -ki ‘sufijo locativo no específico’
 4055	§183	Kapanawa	Kp	hacia			- ki		- ki			-ki	sufixo locativo ablativo	Kp - ki ‘hacia’
 4056	§183	Marúbo	Mar	direção, via (enclítico pronominal)			-kirí		k i r í			-ki	sufixo locativo ablativo	Mar -kirí ‘direção;;  via (enclítico pronominal)’, -ki ‘lado (enclítico adverbial)’ (KENNEL;; 1978)
-4057	§183	Marúbo	Mar	lado (enclítico adverbial)			-ki		k i		Kennel1978	-ki	sufixo locativo ablativo	Mar -kirí ‘direção;;  via (enclítico pronominal)’, -ki ‘lado (enclítico adverbial)’ (KENNEL;; 1978)
+4057	§183	Marúbo	Mar	lado (enclítico adverbial)			-ki		k i		Kennell1978	-ki	sufixo locativo ablativo	Mar -kirí ‘direção;;  via (enclítico pronominal)’, -ki ‘lado (enclítico adverbial)’ (KENNEL;; 1978)
 4058	§183	Chákobo	Ch	sufixo locativo ablativo	1		-ki		k i			-ki	sufixo locativo ablativo	Ch -ki
 4059	§183	Kaxararí	Kax	locativo/dativo			-ki		k i		Valenzuela2012	-ki	sufixo locativo ablativo	Kax -ki ‘locativo/dativo’ (VALENZUELA; OLIVEIRA;; 2012)
 4060	§183	Yamináwa	Yam	adonde, hacia, a, complemento de oposición			-ki		k i			-ki	sufixo locativo ablativo	Yam -ki ‘adonde;; hacia;; a;;  complemento de oposición’
@@ -3743,7 +3743,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5635	§257	Kakataibo	Ksh	interior, inside			naˈmɨ	1	** n a ˈm ɨ		ZARIQUIEY2011;SHELL1987	nama	abaixo, embaixo,  sob	Ksh namã, **naˈmɨ ‘interior;;  inside’ (ZARIQUIEY;; 2011; SHELL;; 1987)
 5636	§257	ShipiboKonibo	SK	abajo, debajo de			namã		n a m ã		Loriot1993	nama	abaixo, embaixo,  sob	SK namã ‘abajo;;  debajo de’ (LORIOT; LAURIAULT; DAY;; 1993)
 5637	§257	Kapanawa	Kp	abaixo, embaixo, sob	1		namán		n a m á n			nama	abaixo, embaixo,  sob	Kp namán
-5638	§257	Marúbo	Mar	lugar de			-namã		n a m ã		Kennel1978	nama	abaixo, embaixo,  sob	Mar -namã ‘lugar de’ (KENNEL;; 1978), namã ‘lugar;;  locativo’ (COSTA;; 1992)
+5638	§257	Marúbo	Mar	lugar de			-namã		n a m ã		Kennell1978	nama	abaixo, embaixo,  sob	Mar -namã ‘lugar de’ (KENNEL;; 1978), namã ‘lugar;;  locativo’ (COSTA;; 1992)
 5639	§257	Marúbo	Mar	lugar, locativo			namã		n a m ã		Costa1992	nama	abaixo, embaixo,  sob	Mar -namã ‘lugar de’ (KENNEL;; 1978), namã ‘lugar;;  locativo’ (COSTA;; 1992)
 5640	§257	Chákobo	Ch	abaixo, embaixo, sob	1		nama		n a m a			nama	abaixo, embaixo,  sob	Ch nama, **naˈmá ‘bajo de;;  debajo de;;  en el suelo’ (ZINGG;; 1998)
 5641	§257	Chákobo	Ch	bajo de, debajo de, en el suelo			naˈmá	1	** n a ˈm á		Zingg1998	nama	abaixo, embaixo,  sob	Ch nama, **naˈmá ‘bajo de;;  debajo de;;  en el suelo’ (ZINGG;; 1998)
@@ -5319,7 +5319,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 8008	§368	Kapanawa	Kp	igual, do mesmo jeito, também	1		-riʔβi		r i ʔ β i			-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Kp -riʔβi
 8009	§368	Marúbo	Mar	sempre			riví		r i v í			-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Mar riví ‘sempre’, rivi ‘somente;;  apenas’, sɨví ‘também’ (KENNEL;; 1978), rivi ‘enfático;;  mesmo’ (CESARINO;; 2008)
 8010	§368	Marúbo	Mar	somente, apenas			rivi		r i v i			-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Mar riví ‘sempre’, rivi ‘somente;;  apenas’, sɨví ‘também’ (KENNEL;; 1978), rivi ‘enfático;;  mesmo’ (CESARINO;; 2008)
-8011	§368	Marúbo	Mar	também			sɨví		s ɨ v í		Kennel1978	-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Mar riví ‘sempre’, rivi ‘somente;;  apenas’, sɨví ‘também’ (KENNEL;; 1978), rivi ‘enfático;;  mesmo’ (CESARINO;; 2008)
+8011	§368	Marúbo	Mar	também			sɨví		s ɨ v í		Kennell1978	-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Mar riví ‘sempre’, rivi ‘somente;;  apenas’, sɨví ‘também’ (KENNEL;; 1978), rivi ‘enfático;;  mesmo’ (CESARINO;; 2008)
 8012	§368	Marúbo	Mar	enfático, mesmo			rivi		r i v i		Cesarino2008	-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Mar riví ‘sempre’, rivi ‘somente;;  apenas’, sɨví ‘também’ (KENNEL;; 1978), rivi ‘enfático;;  mesmo’ (CESARINO;; 2008)
 8013	§368	Chákobo	Ch	igual, do mesmo jeito, também	1		ri		r i			-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Ch ri, -ri- ‘también’ (ZINGG;; 1998)
 8014	§368	Chákobo	Ch	también			-ri-		r i		Zingg1998	-ɽiʔβi ~ ɽiʔβa	igual, do mesmo jeito,  também	Ch ri, -ri- ‘también’ (ZINGG;; 1998)
@@ -6021,7 +6021,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9082	§418	Kakataibo	Ksh	benefactivo	1		-ʂõ		ʂ õ			-ʂo[n]	benefactivo	Ksh -ʂõ
 9083	§418	ShipiboKonibo	SK	benefactivo	1		-ʂõ		ʂ õ			-ʂo[n]	benefactivo	SK -ʂõ
 9084	§418	Kapanawa	Kp	benefactivo	1		-ʂon		ʂ o n			-ʂo[n]	benefactivo	Kp -ʂon
-9085	§418	Marúbo	Mar	benefício			ʂo ~ ʂõ		ʂo ~ ʂõ		Kennel1978	-ʂo[n]	benefactivo	Mar ʂo ~ ʂõ ‘benefício’ (KENNEL;; 1978)
+9085	§418	Marúbo	Mar	benefício			ʂo ~ ʂõ		ʂo ~ ʂõ		Kennell1978	-ʂo[n]	benefactivo	Mar ʂo ~ ʂõ ‘benefício’ (KENNEL;; 1978)
 9088	§418	Yamináwa	Yam	benefactivo			ʂon		ʂ o n		Faust2002	-ʂo[n]	benefactivo	Yam ʂon ‘benefactivo’ (FAUST; LOOS;; 2002)
 9090	§418	Sharanáwa	Shar	benefactivo			-ʂon-		ʂ o n			-ʂo[n]	benefactivo	Shar -ʂon- ‘benefactivo’
 9091	§418	Shanenáwa	Shan	benefactivo	1		-ʂun		ʂ u n			-ʂo[n]	benefactivo	Shan -ʂun, ʂuna ‘benefactivo’
@@ -6038,7 +6038,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9104	§419	Kakataibo	Ksh	sufixo de concordancia transitiva	1		-ʂõ		ʂ õ			-ʂon	sufixo de concordancia transitiva	Ksh -ʂõ
 9105	§419	ShipiboKonibo	SK	sufixo de concordancia transitiva	1		-ʂõ		ʂ õ			-ʂon	sufixo de concordancia transitiva	SK -ʂõ
 9106	§419	Kapanawa	Kp	sufixo de concordancia transitiva	1		-ʂon		ʂ o n			-ʂon	sufixo de concordancia transitiva	Kp -ʂon
-9107	§419	Marúbo	Mar	sufixo de concordancia transitiva			ʂo ~ ʂõ 		ʂo ~ ʂõ 		Kennel1978	-ʂon	sufixo de concordancia transitiva	Mar ʂo ~ ʂõ (KENNEL;; 1978)
+9107	§419	Marúbo	Mar	sufixo de concordancia transitiva			ʂo ~ ʂõ 		ʂo ~ ʂõ 		Kennell1978	-ʂon	sufixo de concordancia transitiva	Mar ʂo ~ ʂõ (KENNEL;; 1978)
 9108	§419	Chákobo	Ch	sufixo de concordancia transitiva	1		ʂo		ʂ o			-ʂon	sufixo de concordancia transitiva	Ch ʂo
 9109	§419	Kaxararí	Kax	sufixo de concordancia transitiva			-ʃu ~ ʃu᷈ 		-ʃu ~ ʃu᷈ 		Valenzuela2012	-ʂon	sufixo de concordancia transitiva	Kax -ʃu ~ ʃu᷈ (VALENZUELA; OLIVEIRA;; 2012)
 9110	§419	Yamináwa	Yam	sufixo de concordancia transitiva	1		-ʂõ		ʂ õ			-ʂon	sufixo de concordancia transitiva	Yam -ʂõ
