@@ -1339,7 +1339,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1859	§82	Amawáka	A	sobrancelhas	1		wɨʃpi I		wɨʃpi I			βɨʂpi	sobrancelhas	A wɨʃpi I
 1860	§82	Kaxinawá	Kn	parte do osso frontal onde estão localizadas as sombrancelhas			bɨʃpi		b ɨ ʃ p i			βɨʂpi	sobrancelhas	Kn bɨʃpi ‘parte do osso frontal onde estão localizadas as sombrancelhas’
 1861	§82	Marináwa	M	ceja			ɸɨ́ʃpi		ɸ ɨ́ ʃ p i			βɨʂpi	sobrancelhas	M ɸɨ́ʃpi ‘ceja’
-1862	§82	Yawanawá	Yaw	sobrancelha			βɨʃpi		β ɨ ʃ p i		Cabral2012	βɨʂpi	sobrancelhas	Yaw βɨʃpi ‘sobrancelha’ (CABRAL; OLIVEIRA;; 2012)
+1862	§82	Yawanawá	Yaw	sobrancelha			βɨʃpi		β ɨ ʃ p i		Cabral2009	βɨʂpi	sobrancelhas	Yaw βɨʃpi ‘sobrancelha’ (CABRAL; OLIVEIRA;; 2012)
 1866	§83	Proto-Panoan	Proto	esp. de sapo		0	βɨʂko		β ɨ ʂ k o		Oliveira2014	βɨʂko	esp. de sapo	*βɨʂko ‘esp. de sapo’
 1868	§83	ShipiboKonibo	SK	esp. de sapo	1		βɨʂko		β ɨ ʂ k o			βɨʂko	esp. de sapo	SK βɨʂko
 1869	§83	Kapanawa	Kp	esp. de sapo			βɨʂko		β ɨ ʂ k o		Loos1998	βɨʂko	esp. de sapo	Kp βɨʂko ‘esp. de sapo’ (LOOS; LOOS;; 1998)
@@ -1907,7 +1907,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 2794	§127	Chákobo	Ch	águas abajo			anitʃípo		a n i t ʃ í p o			tʃipo	parte posterior	Ch tʃípo ‘el lado más ancho de una cosa’ (ZINGG;; 1998), anitʃípo ‘águas abajo’
 2798	§127	Sharanáwa	Shar	después			tʃipo		t ʃ i p o			tʃipo	parte posterior	Shar tʃipo ‘después’
 2800	§127	Katukina	Kat	depois			tʃipu		t ʃ i p u			tʃipo	parte posterior	Kat tʃipu ‘depois’
-2802	§127	Amawáka	A	depués			tʃípo		t ʃ í p o		ZINGG1980	tʃipo	parte posterior	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’
+2802	§127	Amawáka	A	depués			tʃípo		t ʃ í p o		Zingg1998	tʃipo	parte posterior	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’
 2803	§127	Amawáka	A	talón del pie			taʔɨ tʃipõ		taʔɨ tʃipõ			tʃipo	parte posterior	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’
 2804	§127	Amawáka	A	más tarde, detrás			tʃipo		t ʃ i p o			tʃipo	parte posterior	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’
 2805	§127	Kaxinawá	Kn	más tarde			tʃipu		t ʃ i p u			tʃipo	parte posterior	Kn tʃipu ‘más tarde’, ‘luego;;  en seguida’ (MONTAG;; 1981)
@@ -2084,9 +2084,9 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3080	§140	Kakataibo	Ksh	sangue	1		imi		i m i			himi	sangue	Ksh imi
 3081	§140	ShipiboKonibo	SK	sangue	1		himi		h i m i			himi	sangue	SK himi
 3082	§140	Kapanawa	Kp	sangue	1		himi		h i m i			himi	sangue	Kp himi
-3083	§140	Marúbo	Mar	sangue			imi [ˈi᷈mbi] 		imi [ˈi᷈mbi] 		Cabral2012	himi	sangue	Mar imi [ˈi᷈mbi] (CABRAL; OLIVEIRA;; 2012)
+3083	§140	Marúbo	Mar	sangue			imi [ˈi᷈mbi] 		imi [ˈi᷈mbi] 		Cabral2009	himi	sangue	Mar imi [ˈi᷈mbi] (CABRAL; OLIVEIRA;; 2012)
 3084	§140	Chákobo	Ch	sangue	1		himi		h i m i			himi	sangue	Ch himi
-3085	§140	Kaxararí	Kax	sangue			hiˈmi 		hiˈmi 		Cabral2012	himi	sangue	Kax hiˈmi (CABRAL; OLIVEIRA;; 2012)
+3085	§140	Kaxararí	Kax	sangue			hiˈmi 		hiˈmi 		Cabral2009	himi	sangue	Kax hiˈmi (CABRAL; OLIVEIRA;; 2012)
 3086	§140	Yamináwa	Yam	sangre			im-		i m		Faust2002	himi	sangue	Yam im- ‘sangre’ (FAUST; LOOS;; 2002)
 3087	§140	Chanináwa	Chan	sangue	1		ibi		i b i			himi	sangue	Chan ibi
 3088	§140	Sharanáwa	Shar	sangue	1		imi		i m i			himi	sangue	Shar imi, imin ‘sangre’
@@ -2106,7 +2106,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3102	§141	Kakataibo	Ksh	cola			ina		i n a			hina	rabo	Ksh ina ‘cola’
 3103	§141	ShipiboKonibo	SK	rabo	1		hina		h i n a			hina	rabo	SK hina
 3104	§141	Kapanawa	Kp	rabo	1		hina		h i n a			hina	rabo	Kp hina
-3105	§141	Marúbo	Mar	rabo, pênis			ˈina		ˈi n a		Cabral2012	hina	rabo	Mar ˈina ‘rabo;;  pênis’ (CABRAL; OLIVEIRA;; 2012)
+3105	§141	Marúbo	Mar	rabo, pênis			ˈina		ˈi n a		Cabral2009	hina	rabo	Mar ˈina ‘rabo;;  pênis’ (CABRAL; OLIVEIRA;; 2012)
 3106	§141	Chákobo	Ch	rabo	1		hina		h i n a			hina	rabo	Ch hina
 3107	§141	Kaxararí	Kax	rabo			tʃiˈna 		tʃiˈna 		Valenzuela2012	hina	rabo	Kax tʃiˈna (VALENZUELA; OLIVEIRA;; 2012)
 3109	§141	Chanináwa	Chan	rabo	1		ina		i n a			hina	rabo	Chan ina
@@ -2284,7 +2284,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3380	§154	Kakataibo	Ksh	barba	1		kwɨni		k w ɨ n i			kwɨ[n]i	barba	Ksh kwɨni
 3381	§154	ShipiboKonibo	SK	barba, bigote			kɨni		k ɨ n i			kwɨ[n]i	barba	SK kɨni ‘barba;;  bigote’
 3382	§154	Kapanawa	Kp	barba	1		kɨni		k ɨ n i			kwɨ[n]i	barba	Kp kɨni
-3383	§154	Marúbo	Mar	barba			kɨni [ˈkɨni] ~ [kɨndi] 		kɨni [ˈkɨni] ~ [kɨndi] 		Cabral2012	kwɨ[n]i	barba	Mar kɨni [ˈkɨni] ~ [kɨndi] (CABRAL; OLIVEIRA;; 2012)
+3383	§154	Marúbo	Mar	barba			kɨni [ˈkɨni] ~ [kɨndi] 		kɨni [ˈkɨni] ~ [kɨndi] 		Cabral2009	kwɨ[n]i	barba	Mar kɨni [ˈkɨni] ~ [kɨndi] (CABRAL; OLIVEIRA;; 2012)
 3384	§154	Chákobo	Ch	barba			kɨni		k ɨ n i			kwɨ[n]i	barba	Ch kɨni ‘barba’
 3387	§154	Chanináwa	Chan	barba	1		kɨʂdi	1	** k ɨ ʂ d i			kwɨ[n]i	barba	Chan **kɨʂdi, **kɨti
 3388	§154	Chanináwa	Chan	barba	1		kɨti	1	** k ɨ t i			kwɨ[n]i	barba	Chan **kɨʂdi, **kɨti
@@ -3308,7 +3308,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 4917	§223	Marúbo	Mar	cutia			maɾi [ˈmāɾĭ]		maɾi [ˈmāɾĭ]			maɽi	cutia (esp. de roedor)	Mar maɾi [ˈmāɾĭ] ‘cutia’
 4919	§223	Kaxararí	Kax	cutia (esp. de roedor)			matʃahi 		matʃahi 		SOUSA2004	maɽi	cutia (esp. de roedor)	Kax matʃahi (SOUSA;; 2004)
 4920	§223	Yamináwa	Yam	cutia (esp. de roedor)	1		mari		m a r i			maɽi	cutia (esp. de roedor)	Yam mari, mari᷈ ‘añuje’ (EAKEN;; 2004)
-4921	§223	Yamináwa	Yam	añuje			mari᷈		m a r i᷈		EAKEN2004	maɽi	cutia (esp. de roedor)	Yam mari, mari᷈ ‘añuje’ (EAKEN;; 2004)
+4921	§223	Yamináwa	Yam	añuje			mari᷈		m a r i᷈		Eakin2008	maɽi	cutia (esp. de roedor)	Yam mari, mari᷈ ‘añuje’ (EAKEN;; 2004)
 4923	§223	Sharanáwa	Shar	cutia (esp. de roedor)	1		mari		m a r i			maɽi	cutia (esp. de roedor)	Shar mari, marin ‘añuje;;  agutí’
 4924	§223	Sharanáwa	Shar	añuje, agutí			marin		m a r i n			maɽi	cutia (esp. de roedor)	Shar mari, marin ‘añuje;;  agutí’
 4925	§223	Shanenáwa	Shan	cutia			maɾi		m a ɾ i			maɽi	cutia (esp. de roedor)	Shan maɾi ‘cutia’
@@ -3509,7 +3509,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5252	§238	Sharanáwa	Shar	unha da mão	1		mɨtsisi		m ɨ t s i s i			mɨtsis	unha da mão	Shar mɨtsisi, otsisi
 5253	§238	Sharanáwa	Shar	unha da mão	1		otsisi		o t s i s i			mɨtsis	unha da mão	Shar mɨtsisi, otsisi
 5254	§238	Shanenáwa	Shan	unha da mão	1		mɨtʃiʃi		m ɨ t ʃ i ʃ i			mɨtsis	unha da mão	Shan mɨtʃiʃi
-5255	§238	Katukina	Kat	unha da mão			mɨ᷈tʃiʃi [məˈ᷈tʃiʃi] 		mɨ᷈tʃiʃi [məˈ᷈tʃiʃi] 		Cabral2012	mɨtsis	unha da mão	Kat mɨ᷈tʃiʃi [məˈ᷈tʃiʃi] (CABRAL; OLIVEIRA;; 2012)
+5255	§238	Katukina	Kat	unha da mão			mɨ᷈tʃiʃi [məˈ᷈tʃiʃi] 		mɨ᷈tʃiʃi [məˈ᷈tʃiʃi] 		Cabral2009	mɨtsis	unha da mão	Kat mɨ᷈tʃiʃi [məˈ᷈tʃiʃi] (CABRAL; OLIVEIRA;; 2012)
 5257	§238	Amawáka	A	uña del dedo del pie			honˈtsís		h o n ˈt s í s			mɨtsis	unha da mão	A honˈtsís ‘uña del dedo del pie’, mɨntsís ‘uña;;  dedo de la mano’ (HYDE;; 1980), mɨtsis I
 5258	§238	Amawáka	A	uña, dedo de la mano			mɨntsís		m ɨ n t s í s		Hyde1980	mɨtsis	unha da mão	A honˈtsís ‘uña del dedo del pie’, mɨntsís ‘uña;;  dedo de la mano’ (HYDE;; 1980), mɨtsis I
 5259	§238	Amawáka	A	unha da mão	1		mɨtsis I		mɨtsis I			mɨtsis	unha da mão	A honˈtsís ‘uña del dedo del pie’, mɨntsís ‘uña;;  dedo de la mano’ (HYDE;; 1980), mɨtsis I
@@ -3966,7 +3966,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5977	§273	Kakataibo	Ksh	stand, pararse			niɾú-ti	1	** n i ɾ ú t i		Zariquiey2011	niCc-	ficar em pé	Ksh ni-, **nits- ‘to stand up’, **niɾú-ti ‘stand;;  pararse’ (ZARIQUIEY;; 2011)
 5978	§273	ShipiboKonibo	SK	ficar em pé	1		nií-		n ií			niCc-	ficar em pé	SK nií-
 5979	§273	Kapanawa	Kp	caminar			ni-		n i			niCc-	ficar em pé	Kp ni- ‘caminar’
-5980	§273	Marúbo	Mar	caminar			ˈniya 		ˈniya 		ANONBY2002	niCc-	ficar em pé	Mar ˈniya (ANONBY; HOLBROOK;; 2002)
+5980	§273	Marúbo	Mar	caminar			ˈniya 		ˈniya 		Anonby2010	niCc-	ficar em pé	Mar ˈniya (ANONBY; HOLBROOK;; 2002)
 5981	§273	Chákobo	Ch	ponerse de pie			ni-		n i			niCc-	ficar em pé	Ch ni- ‘ponerse de pie’, nii- ‘pararse’ (ZINGG;; 1998)
 5982	§273	Chákobo	Ch	pararse			nii-		n ii		Zingg1998	niCc-	ficar em pé	Ch ni- ‘ponerse de pie’, nii- ‘pararse’ (ZINGG;; 1998)
 5983	§273	Kaxararí	Kax	pararse			nitʃiˈhi 		nitʃiˈhi 		SOUSA2004	niCc-	ficar em pé	Kax nitʃiˈhi (SOUSA;; 2004)
@@ -4034,7 +4034,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6066	§277	Proto-Panoan	Proto	escurtar, ouvir		0	[n]ika		[ n ] i k a		Oliveira2014	[n]ika	escurtar,  ouvir	*[n]ika ‘escurtar;;  ouvir’ :
 6068	§277	ShipiboKonibo	SK	escurtar, ouvir	1		nika-		n i k a			[n]ika	escurtar,  ouvir	SK nika-
 6069	§277	Kapanawa	Kp	oír			ninka-		n i n k a			[n]ika	escurtar,  ouvir	Kp ninka- ‘oír’
-6070	§277	Marúbo	Mar	oír			ni᷈kãã 		ni᷈kãã 		ANONBY2002	[n]ika	escurtar,  ouvir	Mar ni᷈kãã (ANONBY; HOLBROOK;; 2002)
+6070	§277	Marúbo	Mar	oír			ni᷈kãã 		ni᷈kãã 		Anonby2010	[n]ika	escurtar,  ouvir	Mar ni᷈kãã (ANONBY; HOLBROOK;; 2002)
 6071	§277	Chákobo	Ch	oír			nika-		n i k a			[n]ika	escurtar,  ouvir	Ch nika- ‘oír’
 6073	§277	Yamináwa	Yam	escurtar, ouvir			nika 		nika 		Faust2002	[n]ika	escurtar,  ouvir	Yam nika (FAUST; LOOS;; 2002)
 6075	§277	Sharanáwa	Shar	escurtar, ouvir	1		nikai		n i k ai			[n]ika	escurtar,  ouvir	Shar nikai, nikaa
@@ -4305,7 +4305,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6506	§298	Amawáka	A	uña del dedo del pie			hõtsis I		hõtsis I			hõtsis	garra,  unha	A hõtsis I ‘uña del dedo del pie’
 6507	§298	Kaxinawá	Kn	uña del dedo del pier, garra			hutsis		h u t s i s			hõtsis	garra,  unha	Kn hutsis ‘uña del dedo del pier;; garra’
 6508	§298	Marináwa	M	garra, unha	1		ótsisi		ó t s i s i			hõtsis	garra,  unha	M ótsisi
-6509	§298	Yawanawá	Yaw	unha do pé			utsisi [utsiˈsi]		utsisi [utsiˈsi]		Cabral2012	hõtsis	garra,  unha	Yaw utsisi [utsiˈsi] ‘unha do pé’ (CABRAL; OLIVEIRA;; 2012)
+6509	§298	Yawanawá	Yaw	unha do pé			utsisi [utsiˈsi]		utsisi [utsiˈsi]		Cabral2009	hõtsis	garra,  unha	Yaw utsisi [utsiˈsi] ‘unha do pé’ (CABRAL; OLIVEIRA;; 2012)
 6513	§299	Proto-Panoan	Proto	fala, voz, palavra		0	hoi		h oi		Oliveira2014	hoi	fala, voz,  palavra	*hoi ‘fala;; voz;;  palavra’ :
 6515	§299	ShipiboKonibo	SK	mensaje, expresión, palabra			hoi		h oi			hoi	fala, voz,  palavra	SK hoi ‘mensaje;; expresión;; palabra’
 6516	§299	Kapanawa	Kp	habla, voz, palabra			hoi		h oi			hoi	fala, voz,  palavra	Kp hoi ‘habla;; voz;; palabra’
@@ -4583,7 +4583,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6895	§315	Amawáka	A	pai	1		ɨpa		ɨ p a			papa	pai	A papa II ‘tío paterno;; título de respeto;; padre del hablante masculino’, ɨpa
 6896	§315	Kaxinawá	Kn	padre, también término de respeto para los hombres ancianos			ɨpa		ɨ p a			papa	pai	Kn ɨpa ‘padre;; también término de respeto para los hombres ancianos’
 6897	§315	Marináwa	M	pai	1		ɨ́́pá		ɨ́́ p á			papa	pai	M ɨ́́pá
-6898	§315	Yawanawá	Yaw	pai			apa 		apa 		DePaula2004	papa	pai	Yaw apa (DE PAULA;; 2004), a-pa ‘pai dele’, nukɨ᷈ ɨpa ‘nosso pai’, min ɨpa ‘seu pai’ (SOUZA;; 2013)
+6898	§315	Yawanawá	Yaw	pai			apa 		apa 		Paula2004	papa	pai	Yaw apa (DE PAULA;; 2004), a-pa ‘pai dele’, nukɨ᷈ ɨpa ‘nosso pai’, min ɨpa ‘seu pai’ (SOUZA;; 2013)
 6899	§315	Yawanawá	Yaw	pai dele			a-pa		a p a			papa	pai	Yaw apa (DE PAULA;; 2004), a-pa ‘pai dele’, nukɨ᷈ ɨpa ‘nosso pai’, min ɨpa ‘seu pai’ (SOUZA;; 2013)
 6900	§315	Yawanawá	Yaw	nosso pai			nukɨ᷈ ɨpa		nukɨ᷈ ɨpa			papa	pai	Yaw apa (DE PAULA;; 2004), a-pa ‘pai dele’, nukɨ᷈ ɨpa ‘nosso pai’, min ɨpa ‘seu pai’ (SOUZA;; 2013)
 6901	§315	Yawanawá	Yaw	seu pai			min ɨpa		min ɨpa		Souza2013	papa	pai	Yaw apa (DE PAULA;; 2004), a-pa ‘pai dele’, nukɨ᷈ ɨpa ‘nosso pai’, min ɨpa ‘seu pai’ (SOUZA;; 2013)
@@ -4872,7 +4872,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 7366	§338	Amawáka	A	defecar			poʔi- II		poʔi- II			poʔi-	fezes	A poʔi- II ‘defecar’
 7367	§338	Kaxinawá	Kn	fezes	1		pui-		p ui			poʔi-	fezes	Kn pui-
 7368	§338	Marináwa	M	heces			póí		p ó í			poʔi-	fezes	M póí ‘heces’
-7369	§338	Yawanawá	Yaw	heces			puinki [puj᷈ˈki] 		puinki [puj᷈ˈki] 		Cabral2012	poʔi-	fezes	Yaw puinki [puj᷈ˈki] (CABRAL; OLIVEIRA;; 2012)
+7369	§338	Yawanawá	Yaw	heces			puinki [puj᷈ˈki] 		puinki [puj᷈ˈki] 		Cabral2009	poʔi-	fezes	Yaw puinki [puj᷈ˈki] (CABRAL; OLIVEIRA;; 2012)
 7371	§338	Matís	Mt	fezes			pui		p ui			poʔi-	fezes	Mt pui ‘fezes’
 7372	§338	Mayorúna	My	fezes	1		puikon [pwí.kon]		puikon [pwí.kon]			poʔi-	fezes	My puikon [pwí.kon]
 7373	§339	Proto-Panoan	Proto	esp. de tubérculo (inhame?)		0	!poa		!p oa		Oliveira2014	!poa	esp. de tubérculo (inhame?)	!*poa ‘esp. de tubérculo (inhame?)’ :
@@ -6111,7 +6111,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9210	§424	Kakataibo	Ksh	casa			ʂoβo		ʂ o β o			ʂoβo	casa	Ksh ʂoβo ‘casa’
 9211	§424	ShipiboKonibo	SK	casa	1		ʂoβo		ʂ o β o			ʂoβo	casa	SK ʂoβo
 9212	§424	Kapanawa	Kp	casa	1		ʂoβo		ʂ o β o			ʂoβo	casa	Kp ʂoβo
-9213	§424	Marúbo	Mar	casa			ʃuvu 		ʃuvu 		ANONBY2008	ʂoβo	casa	Mar ʃuvu (ANONBY; HOLBROOK;; 2008)
+9213	§424	Marúbo	Mar	casa			ʃuvu 		ʃuvu 		Anonby2010	ʂoβo	casa	Mar ʃuvu (ANONBY; HOLBROOK;; 2008)
 9214	§424	Chákobo	Ch	casa	1		ʂoβo		ʂ o β o			ʂoβo	casa	Ch ʂoβo
 9220	§424	Katukina	Kat	casa	1		ʂuβu		ʂ u β u			ʂoβo	casa	Kat ʂuβu
 9221	§424	Yawanawá	Yaw	casa de antigamente			ʂuhu		ʂ u h u			ʂoβo	casa	Yaw ʂuhu ‘casa de antigamente’
@@ -6178,7 +6178,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9314	§429	Kakataibo	Ksh	leche			ʂoma		ʂ o m a			ʂoma	seios,  leite	Ksh ʂoma ‘leche’
 9315	§429	ShipiboKonibo	SK	leche, seno			ʂoma		ʂ o m a			ʂoma	seios,  leite	SK ʂoma ‘leche;;  seno’
 9316	§429	Kapanawa	Kp	seno			ʂoma		ʂ o m a			ʂoma	seios,  leite	Kp ʂoma ‘seno’
-9317	§429	Marúbo	Mar	peito			ʂoma [ʂuˈma]		ʂoma [ʂuˈma]		Cabral2012	ʂoma	seios,  leite	Mar ʂoma [ʂuˈma] ‘peito’ (CABRAL; OLIVEIRA;; 2012)
+9317	§429	Marúbo	Mar	peito			ʂoma [ʂuˈma]		ʂoma [ʂuˈma]		Cabral2009	ʂoma	seios,  leite	Mar ʂoma [ʂuˈma] ‘peito’ (CABRAL; OLIVEIRA;; 2012)
 9318	§429	Chákobo	Ch	leche			ʂoma		ʂ o m a			ʂoma	seios,  leite	Ch ʂoma ‘leche’
 9319	§429	Kaxararí	Kax	peito			ʃuˈma		ʃ u ˈm a			ʂoma	seios,  leite	Kax ʃuˈma ‘peito’
 9321	§429	Chanináwa	Chan	leche materna, leche del tucho			ʂoma ɸɨpon		ʂoma ɸɨpon			ʂoma	seios,  leite	Chan ʂoma ɸɨpon ‘leche materna;;  leche del tucho’
@@ -6237,7 +6237,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9398	§433	Kakataibo	Ksh	pecho de ave			ʂotsi		ʂ o t s i			ʂotsi	peito	Ksh ʂotsi ‘pecho de ave’
 9399	§433	ShipiboKonibo	SK	peito	1		ʂotʃi		ʂ o t ʃ i			ʂotsi	peito	SK ʂotʃi
 9400	§433	Kapanawa	Kp	pecho			ʂotʃi		ʂ o t ʃ i			ʂotsi	peito	Kp ʂotʃi ‘pecho’
-9401	§433	Marúbo	Mar	pecho			ˈʂutʃi 		ˈʂutʃi 		Cabral2012	ʂotsi	peito	Mar ˈʂutʃi (CABRAL; OLIVEIRA;; 2012)
+9401	§433	Marúbo	Mar	pecho			ˈʂutʃi 		ˈʂutʃi 		Cabral2009	ʂotsi	peito	Mar ˈʂutʃi (CABRAL; OLIVEIRA;; 2012)
 9404	§433	Yamináwa	Yam	peito	1		ʂotʃi		ʂ o t ʃ i			ʂotsi	peito	Yam ʂotʃi
 9405	§433	Chanináwa	Chan	peito	1		ʃotʃi		ʃ o t ʃ i			ʂotsi	peito	Chan ʃotʃi, ʂotʃi
 9406	§433	Chanináwa	Chan	peito	1		ʂotʃi		ʂ o t ʃ i			ʂotsi	peito	Chan ʃotʃi, ʂotʃi
@@ -6262,7 +6262,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9432	§434	Sharanáwa	Shar	niña			ʂotokoɸakɨn		ʂ o t o k o ɸ a k ɨ n			ʂõtako	menina,  moça	Shar ʂotokoɸakɨ, ʂotokoɸakɨn ‘niña’
 9433	§434	Shanenáwa	Shan	moça			ʂutakɨ fakɨ		ʂutakɨ fakɨ			ʂõtako	menina,  moça	Shan ʂutakɨ fakɨ ‘moça’
 9436	§434	Amawáka	A	mujer joven			xõtako II		xõtako II			ʂõtako	menina,  moça	A xõtako II ‘mujer joven’
-9437	§434	Kaxinawá	Kn	tocayo			ʂuta	1	** ʂ u t a		Montag1980	ʂõtako	menina,  moça	Kn **ʂuta ‘tocayo’ (MONTAG;; 1980)
+9437	§434	Kaxinawá	Kn	tocayo			ʂuta	1	** ʂ u t a		Montag1981c	ʂõtako	menina,  moça	Kn **ʂuta ‘tocayo’ (MONTAG;; 1980)
 9438	§434	Marináwa	M	menina, moça	1		ʂótoko		ʂ ó t o k o			ʂõtako	menina,  moça	M ʂótoko
 9439	§434	Yawanawá	Yaw	menina			ʃutaku βakɨ		ʃutaku βakɨ			ʂõtako	menina,  moça	Yaw ʃutaku βakɨ ‘menina’
 9441	§434	Matís	Mt	jovem, rapaz			buntak	1	** b u n t a k			ʂõtako	menina,  moça	Mt **buntak ‘jovem;;  rapaz’
@@ -6281,7 +6281,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 9456	§435	Sharanáwa	Shar	rato	1		ʂoya		ʂ oya			ʂoya	rato	Shar ʂoya, ʂoyã
 9457	§435	Sharanáwa	Shar	rato	1		ʂoyã		ʂ oyã			ʂoya	rato	Shar ʂoya, ʂoyã
 9461	§435	Amawáka	A	rato	1		xoya II		xoya II			ʂoya	rato	A xoya II
-9462	§435	Kaxinawá	Kn	ratón			ʂuya		ʂ uya		MONTAG1998	ʂoya	rato	Kn ʂuya ‘ratón’ (MONTAG;; 1998)
+9462	§435	Kaxinawá	Kn	ratón			ʂuya		ʂ uya		Montag2008	ʂoya	rato	Kn ʂuya ‘ratón’ (MONTAG;; 1998)
 9466	§435	Matís	Mt	rato			ʂuia		ʂ uia			ʂoya	rato	Mt ʂuia ‘rato’
 9468	§436	Proto-Panoan	Proto	pé		0	taʔɨ		t a ʔ ɨ		Oliveira2014	taʔɨ	pé	*taʔɨ ‘pé’ :
 9469	§436	Kakataibo	Ksh	pé	1		taɨ		t aɨ			taʔɨ	pé	Ksh taɨ, **taɨ napaʂ ‘planta del pie’ (ver Cul abajo)
