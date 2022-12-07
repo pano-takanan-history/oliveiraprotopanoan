@@ -178,12 +178,16 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         # print(source)
                                         note = ""
                                     # replace sources through replacement table
-                                    if source in source_replace:
-                                        source = source_replace[source]
-                                        print(source)
+
                                 else:
                                     source = ""
                                     # print(note)
+                                if source =="LORIOT":
+                                    print("HERE!")
+                                    print(source)
+                                if source in source_replace:
+                                    source = source_replace[source]
+                                    # print(source)
 
                                 concept = re.sub("  ", " ", concept)
                                 concept = re.sub("^ ", "", concept)

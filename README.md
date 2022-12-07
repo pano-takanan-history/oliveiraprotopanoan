@@ -19,27 +19,27 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 44%](https://img.shields.io/badge/Concepticon-44%25-red.svg "Concepticon: 44%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
 ![BIPA: 49%](https://img.shields.io/badge/BIPA-49%25-red.svg "BIPA: 49%")
 ![CLTS SoundClass: 49%](https://img.shields.io/badge/CLTS%20SoundClass-49%25-red.svg "CLTS SoundClass: 49%")
 
 - **Varieties:** 20
 - **Concepts:** 2,554
 - **Lexemes:** 7,314
-- **Sources:** 0
+- **Sources:** 35
 - **Synonymy:** 1.08
 - **Cognacy:** 7,314 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
 - **Tokens:** 34,078
-- **Segments:** 154 (79 BIPA errors, 79 CTLS sound class errors, 75 CLTS modified)
+- **Segments:** 154 (79 BIPA errors, 79 CLTS sound class errors, 75 CLTS modified)
 - **Inventory size (avg):** 41.10
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 7314/7314 (100.00%)
+- Entries missing sources: 5897/7314 (80.63%)
 
 # Contributors
 
@@ -57,4 +57,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

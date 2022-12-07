@@ -176,7 +176,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------------------------|:--------------|:------------------------------------|:----------------|:-------------------------------------------------------------|
+|:---------------------------------------------------|:--------------|:------------------------------------|:----------------|:--------------------------------------------------------------|
 | Amawaka-antatapirusterrestris-2 | Amawaka | antatapirusterrestris | áá_I | áá _ <s> <?> </s> |
 | Amawaka-fazermatar-1 | Amawaka | fazermatar | ʔa- | ʔ a <s> <?> </s> |
 | Amawaka-macaxeiramandioca-2 | Amawaka | macaxeiramandioca | Atsa_I | <s> <?> </s> ts a _ <s> <?> </s> |

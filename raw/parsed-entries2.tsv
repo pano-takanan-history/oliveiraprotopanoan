@@ -210,7 +210,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 256	§13	Kapanawa	Kp	pulga			ʔia		ʔ ia			ʔia	piolho	Kp ʔia ‘pulga’
 257	§13	Marúbo	Mar	piolho			ˈia		ˈia		Costa1992	ʔia	piolho	Mar ˈia ‘piolho’ (COSTA;; 1992)
 258	§13	Chákobo	Ch	piojo			ʔia		ʔ ia			ʔia	piolho	Ch ʔia ‘piojo’
-259	§13	Kaxararí	Kax	piojo			iˈya 		iˈya 		LANES2005;COUTO2005	ʔia	piolho	Kax iˈya (LANES;; 2005; COUTO;; 2005)
+259	§13	Kaxararí	Kax	piojo			iˈya 		iˈya 		Lanes2005;Couto2005	ʔia	piolho	Kax iˈya (LANES;; 2005; COUTO;; 2005)
 261	§13	Chanináwa	Chan	piolho	1		ia		ia			ʔia	piolho	Chan ia
 262	§13	Sharanáwa	Shar	piolho	1		ia		ia			ʔia	piolho	Shar ia
 263	§13	Shanenáwa	Shan	piolho	1		ia		ia			ʔia	piolho	Shan ia
@@ -1143,7 +1143,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 1566	§70	Proto-Panoan	Proto	comitativo		0	-βɨt, -bɨta[n]		-βɨt, -bɨta[n]		Oliveira2014	-βɨt, -bɨta[n]	comitativo	*-βɨt, -bɨta[n] ‘comitativo’
 1567	§70	Kakataibo	Ksh	comitative (S)			βɨ		β ɨ			-βɨt, -bɨta[n]	comitativo	Ksh βɨ ‘comitative (S)’, βɨtã ‘comitative (A)’ (ZARIQUIEY;; 2011)
 1568	§70	Kakataibo	Ksh	comitative (A)			βɨtã		β ɨ t ã		Zariquiey2011	-βɨt, -bɨta[n]	comitativo	Ksh βɨ ‘comitative (S)’, βɨtã ‘comitative (A)’ (ZARIQUIEY;; 2011)
-1569	§70	ShipiboKonibo	SK	comitative			-βɨ ~ -βɨtan		-βɨ ~ -βɨtan		VALENZUELA2003;LORIOT;DAY1993	-βɨt, -bɨta[n]	comitativo	SK -βɨ ~ -βɨtan ‘comitative’ (VALENZUELA;; 2003; LORIOT; LAURIAULT; DAY;; 1993)
+1569	§70	ShipiboKonibo	SK	comitative			-βɨ ~ -βɨtan		-βɨ ~ -βɨtan		Valenzuela2003;Loriot1993	-βɨt, -bɨta[n]	comitativo	SK -βɨ ~ -βɨtan ‘comitative’ (VALENZUELA;; 2003; LORIOT; LAURIAULT; DAY;; 1993)
 1570	§70	Kapanawa	Kp	con			-βɨ ~ -βɨta		-βɨ ~ -βɨta		Loos1998	-βɨt, -bɨta[n]	comitativo	Kp -βɨ ~ -βɨta ‘con’ (LOOS; LOOS;; 1998)
 1571	§70	Marúbo	Mar	associativo			βɨ		β ɨ		Kennell1978	-βɨt, -bɨta[n]	comitativo	Mar βɨ ‘associativo’ (KENNEL;; 1978), -βɨ ‘associativo pronominal’ (COSTA;; 1992)
 1572	§70	Marúbo	Mar	associativo pronominal			-βɨ		β ɨ		Costa1992	-βɨt, -bɨta[n]	comitativo	Mar βɨ ‘associativo’ (KENNEL;; 1978), -βɨ ‘associativo pronominal’ (COSTA;; 1992)
@@ -2179,7 +2179,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3211	§146	Kakataibo	Ksh	árbol			i	1	** i		Shell1987	hiwi-	árvore (gen.),  pau (gen.)	Ksh ii, **i ‘árbol’ (SHELL;; 1987)
 3212	§146	ShipiboKonibo	SK	árvore (gen.), pau (gen.)	1		hiwi		h i w i			hiwi-	árvore (gen.),  pau (gen.)	SK hiwi
 3213	§146	Kapanawa	Kp	árvore (gen.), pau (gen.)	1		hiwi		h i w i			hiwi-	árvore (gen.),  pau (gen.)	Kp hiwi
-3214	§146	Marúbo	Mar	árvore			iwi [ˈīwĭ]		iwi [ˈīwĭ]		COSTA1992;CESARINO2008	hiwi-	árvore (gen.),  pau (gen.)	Mar iwi [ˈīwĭ] ‘árvore’ (COSTA;; 1992; CESARINO;; 2008)
+3214	§146	Marúbo	Mar	árvore			iwi [ˈīwĭ]		iwi [ˈīwĭ]		Costa1992;Cesarino2008	hiwi-	árvore (gen.),  pau (gen.)	Mar iwi [ˈīwĭ] ‘árvore’ (COSTA;; 1992; CESARINO;; 2008)
 3215	§146	Chákobo	Ch	árvore (gen.), pau (gen.)	1		hiwi		h i w i			hiwi-	árvore (gen.),  pau (gen.)	Ch hiwi
 3216	§146	Kaxararí	Kax	árvore (gen.), pau (gen.)			hiˈwi 		hiˈwi 		Valenzuela2012	hiwi-	árvore (gen.),  pau (gen.)	Kax hiˈwi (VALENZUELA; OLIVEIRA;; 2012)
 3217	§146	Yamináwa	Yam	árvore (gen.), pau (gen.)			iɸI 		iɸI 		Faust2002	hiwi-	árvore (gen.),  pau (gen.)	Yam iɸI (FAUST; LOOS;; 2002)
@@ -2366,7 +2366,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3498	§159	Proto-Panoan	Proto	esp. de arara		0	kaʔi[n]		k a ʔ i [ n ]		Oliveira2014	kaʔi[n]	esp. de arara	*kaʔi[n] ‘esp. de arara’ :
 3499	§159	Kakataibo	Ksh	esp. de arara	1		kai᷈		k ai᷈			kaʔi[n]	esp. de arara	Ksh kai᷈
 3500	§159	ShipiboKonibo	SK	esp. de arara	1		Kai᷈		K ai᷈			kaʔi[n]	esp. de arara	SK Kai᷈
-3502	§159	Marúbo	Mar	esp. de arara			kai᷈		k ai᷈		Melatti1975	kaʔi[n]	esp. de arara	Mar kai᷈ ‘esp. de arara’ (MELATTI;; 1975)
+3502	§159	Marúbo	Mar	esp. de arara			kai᷈		k ai᷈		Melatti2005	kaʔi[n]	esp. de arara	Mar kai᷈ ‘esp. de arara’ (MELATTI;; 1975)
 3503	§159	Chákobo	Ch	esp. de arara	1		kaʔíni		k a ʔ í n i			kaʔi[n]	esp. de arara	Ch kaʔíni, kaʔi (ZINGG;; 1998)
 3504	§159	Chákobo	Ch	esp. de arara			kaʔi 		kaʔi 		Zingg1998	kaʔi[n]	esp. de arara	Ch kaʔíni, kaʔi (ZINGG;; 1998)
 3506	§159	Yamináwa	Yam	esp. de arara	1		kai᷈		k ai᷈			kaʔi[n]	esp. de arara	Yam kai᷈, kainõ (EAKEN;; 2008)
@@ -2502,7 +2502,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 3705	§168	Marúbo	Mar	flecha			kãti		k ã t i		Cabral2010	kano-	arco	Mar kãti ‘flecha’ (CABRAL; OLIVEIRA;; 2010)
 3706	§168	Chákobo	Ch	arco	1		kanatí		k a n a t í			kano-	arco	Ch kanatí
 3707	§168	Kaxararí	Kax	arco			kanataˈhi [kɐnataˈɦi]		kanataˈhi [kɐnataˈɦi]		Lanes2005	kano-	arco	Kax kanataˈhi [kɐnataˈɦi] ‘arco’ (LANES;; 2005)
-3708	§168	Yamináwa	Yam	arco			kati		k a t i		FAUST2002;EAKEN2008	kano-	arco	Yam kati ‘arco’ (FAUST; LOOS;; 2002; EAKEN;; 2008)
+3708	§168	Yamináwa	Yam	arco			kati		k a t i		Faust2002;Eakin2008	kano-	arco	Yam kati ‘arco’ (FAUST; LOOS;; 2002; EAKEN;; 2008)
 3709	§168	Chanináwa	Chan	arco	1		kati		k a t i			kano-	arco	Chan kati
 3710	§168	Sharanáwa	Shar	arco	1		kati		k a t i			kano-	arco	Shar kati, katin ‘arco’
 3711	§168	Sharanáwa	Shar	arco			katin		k a t i n			kano-	arco	Shar kati, katin ‘arco’
@@ -2840,7 +2840,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 4187	§189	Proto-Panoan	Proto	irmão da mãe		0	koka		k o k a		Oliveira2014	koka	irmão da mãe	*koka ‘irmão da mãe’ :
 4189	§189	ShipiboKonibo	SK	hermano de la madre, padre de la esposa			koka		k o k a			koka	irmão da mãe	SK koka ‘hermano de la madre;;  padre de la esposa’
 4190	§189	Kapanawa	Kp	tío			koka		k o k a			koka	irmão da mãe	Kp koka ‘tío’
-4191	§189	Marúbo	Mar	tio materno			ˈkoka		ˈk o k a		CESARINO2008;CABRAL2010	koka	irmão da mãe	Mar ˈkoka ‘tio materno’ (CESARINO;; 2008; CABRAL; OLIVEIRA;; 2010)
+4191	§189	Marúbo	Mar	tio materno			ˈkoka		ˈk o k a		Cesarino2008;Cabral2010	koka	irmão da mãe	Mar ˈkoka ‘tio materno’ (CESARINO;; 2008; CABRAL; OLIVEIRA;; 2010)
 4194	§189	Yamináwa	Yam	irmão da mãe	1		koka		k o k a			koka	irmão da mãe	Yam koka, kokã ‘tío materno’ (EAKEN;; 2008)
 4195	§189	Yamináwa	Yam	tío materno			kokã		k o k ã		Eakin2008	koka	irmão da mãe	Yam koka, kokã ‘tío materno’ (EAKEN;; 2008)
 4197	§189	Sharanáwa	Shar	irmão da mãe	1		koka		k o k a			koka	irmão da mãe	Shar koka, kokan ‘tío materno;;  sobrino’
@@ -3022,7 +3022,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 4471	§203	Proto-Panoan	Proto	esp. de peixe		0	maʔi[r]		m a ʔ i [ r ]		Oliveira2014	maʔi[r]	esp. de peixe	*maʔi[r] ‘esp. de peixe’ :
 4472	§203	Kakataibo	Ksh	esp. de peixe	1		mai᷈		m ai᷈			maʔi[r]	esp. de peixe	Ksh mai᷈
 4473	§203	ShipiboKonibo	SK	esp. de peixe	1		mai᷈		m ai᷈			maʔi[r]	esp. de peixe	SK mai᷈
-4476	§203	Kaxararí	Kax	peixe			maiˈlu [m͡aiˈlɤ]		maiˈlu [m͡aiˈlɤ]		LANES2005;VALENZUELA2012	maʔi[r]	esp. de peixe	Kax maiˈlu [m͡aiˈlɤ] ‘peixe’ (LANES;; 2005; VALENZUELA; OLIVEIRA;; 2012)
+4476	§203	Kaxararí	Kax	peixe			maiˈlu [m͡aiˈlɤ]		maiˈlu [m͡aiˈlɤ]		Lanes2005;Valenzuela2012	maʔi[r]	esp. de peixe	Kax maiˈlu [m͡aiˈlɤ] ‘peixe’ (LANES;; 2005; VALENZUELA; OLIVEIRA;; 2012)
 4479	§203	Sharanáwa	Shar	esp. de peixe	1		main		m ai n			maʔi[r]	esp. de peixe	Shar main, mainpan ‘bujurqui (esp. de pez)’
 4480	§203	Sharanáwa	Shar	bujurqui (esp. de pez)			mainpan		m ai n p a n			maʔi[r]	esp. de peixe	Shar main, mainpan ‘bujurqui (esp. de pez)’
 4484	§203	Amawáka	A	esp. de peixe	1		mãʔi᷈ II		mãʔi᷈ II			maʔi[r]	esp. de peixe	A mãʔi᷈ II
@@ -3416,7 +3416,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5091	§231	ShipiboKonibo	SK	clavar juntos			tasa-		t a s a			matas	golpear a cabeça	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’
 5092	§231	Kapanawa	Kp	golpear la cabeza, pegar en la cabeza			matas-kin		m a t a s k i n		Loos1998	matas	golpear a cabeça	Kp matas-kin ‘golpear la cabeza;;  pegar en la cabeza’ (LOOS; LOOS;; 1998)
 5094	§231	Chákobo	Ch	golpear a otro en, tirar algo contra la cabeza			mataxkin		m a t a x k i n		Montag1981c	matas	golpear a cabeça	Ch mataxkin ‘golpear a otro en;;  tirar algo contra la cabeza’ (MONTAG;; 1981)
-5096	§231	Yamináwa	Yam	cabeza-golpear			ma-taʂ		m a t a ʂ		Faust1998	matas	golpear a cabeça	Yam ma-taʂ ‘cabeza-golpear’ (FAUST; LOOS;; 1998)
+5096	§231	Yamináwa	Yam	cabeza-golpear			ma-taʂ		m a t a ʂ		Faust2002	matas	golpear a cabeça	Yam ma-taʂ ‘cabeza-golpear’ (FAUST; LOOS;; 1998)
 5102	§231	Amawáka	A	golpear a cabeça	1		matas- II		matas- II			matas	golpear a cabeça	A matas- II
 5103	§231	Kaxinawá	Kn	golpear dos piedras sobre la cabeza de los niños para que sean valientes y tengan corazones fuertes			matas ak		matas ak		Hyde1980	matas	golpear a cabeça	Kn matas ak ‘golpear dos piedras sobre la cabeza de los niños para que sean valientes y tengan corazones fuertes’ (HYDE;; 1980)
 5106	§231	Korúbo	Ko	tesoura			matɨʃ-ante		m a t ɨ ʃ a n t e			matas	golpear a cabeça	Ko matɨʃ-ante ‘tesoura’
@@ -3740,7 +3740,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 5631	§256	Matís	Mt	sonhar			namaka-kin		n a m a k a k i n			[n]ama-	**soñar	Mt namaka-kin ‘sonhar’
 5633	§257	Proto-Panoan	Proto	abaixo, embaixo, sob		0	nama		n a m a		Oliveira2014	nama	abaixo, embaixo,  sob	*nama ‘abaixo;; embaixo;;  sob’ :
 5634	§257	Kakataibo	Ksh	abaixo, embaixo, sob	1		namã		n a m ã			nama	abaixo, embaixo,  sob	Ksh namã, **naˈmɨ ‘interior;;  inside’ (ZARIQUIEY;; 2011; SHELL;; 1987)
-5635	§257	Kakataibo	Ksh	interior, inside			naˈmɨ	1	** n a ˈm ɨ		ZARIQUIEY2011;SHELL1987	nama	abaixo, embaixo,  sob	Ksh namã, **naˈmɨ ‘interior;;  inside’ (ZARIQUIEY;; 2011; SHELL;; 1987)
+5635	§257	Kakataibo	Ksh	interior, inside			naˈmɨ	1	** n a ˈm ɨ		Zariquiey2011;Shell1987	nama	abaixo, embaixo,  sob	Ksh namã, **naˈmɨ ‘interior;;  inside’ (ZARIQUIEY;; 2011; SHELL;; 1987)
 5636	§257	ShipiboKonibo	SK	abajo, debajo de			namã		n a m ã		Loriot1993	nama	abaixo, embaixo,  sob	SK namã ‘abajo;;  debajo de’ (LORIOT; LAURIAULT; DAY;; 1993)
 5637	§257	Kapanawa	Kp	abaixo, embaixo, sob	1		namán		n a m á n			nama	abaixo, embaixo,  sob	Kp namán
 5638	§257	Marúbo	Mar	lugar de			-namã		n a m ã		Kennell1978	nama	abaixo, embaixo,  sob	Mar -namã ‘lugar de’ (KENNEL;; 1978), namã ‘lugar;;  locativo’ (COSTA;; 1992)
@@ -4408,7 +4408,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6654	§305	Chanináwa	Chan	vermelho	1		oʂi		o ʂ i			hoʃin	vermelho	Chan oʂi, oʃi nipa
 6655	§305	Chanináwa	Chan	vermelho	1		oʃi nipa		oʃi nipa			hoʃin	vermelho	Chan oʂi, oʃi nipa
 6656	§305	Sharanáwa	Shar	vermelho	1		oʃin		o ʃ i n			hoʃin	vermelho	Shar oʃin
-6657	§305	Shanenáwa	Shan	vermelho			uʂin 		uʂin 		Ribeiro2008	hoʃin	vermelho	Shan uʂin (RIBEIRO; CÂNDIDO;; 2008)
+6657	§305	Shanenáwa	Shan	vermelho			uʂin 		uʂin 		Ribeiro2005	hoʃin	vermelho	Shan uʂin (RIBEIRO; CÂNDIDO;; 2008)
 6658	§305	Katukina	Kat	vermelho			ũʃi [õŋˈʒiʔ] 		ũʃi [õŋˈʒiʔ] 		Barros1987	hoʃin	vermelho	Kat ũʃi [õŋˈʒiʔ] (BARROS;; 1987)
 6660	§305	Amawáka	A	rojo			wiʃi I		wiʃi I			hoʃin	vermelho	A wiʃi I ‘rojo’
 6661	§305	Kaxinawá	Kn	rojo, maduro			huʃi		h u ʃ i			hoʃin	vermelho	Kn huʃi ‘rojo;; maduro’
@@ -4428,7 +4428,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6675	§306	Chanináwa	Chan	branco	1		oʃo-pa		o ʃ o p a			hoʂo	branco	Chan oʃo-pa, oʂo-pa
 6676	§306	Chanináwa	Chan	branco	1		oʂo-pa		o ʂ o p a			hoʂo	branco	Chan oʃo-pa, oʂo-pa
 6677	§306	Sharanáwa	Shar	branco	1		oʂo		o ʂ o			hoʂo	branco	Shar oʂo
-6678	§306	Shanenáwa	Shan	branco			uʂɨ		u ʂ ɨ		Ribeiro2008	hoʂo	branco	Shan uʂɨ ‘branco’ (RIBEIRO; CÂNDIDO;; 2008)
+6678	§306	Shanenáwa	Shan	branco			uʂɨ		u ʂ ɨ		Ribeiro2005	hoʂo	branco	Shan uʂɨ ‘branco’ (RIBEIRO; CÂNDIDO;; 2008)
 6679	§306	Katukina	Kat	branco			uʂu		u ʂ u			hoʂo	branco	Kat uʂu ‘branco’
 6680	§306	Poyanáwa	Poy	branco	1		uhu		u h u			hoʂo	branco	Poy uhu
 6681	§306	Amawáka	A	branco	1		hoxo I		hoxo I			hoʂo	branco	A hoxo I
@@ -4674,7 +4674,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 7076	§325	Kapanawa	Kp	asa, pena	1		pɨʔi		p ɨ ʔ i			pɨʔi	asa,  pena	Kp pɨʔi
 7077	§325	Marúbo	Mar	asa, pena			ˈpɨi 		ˈpɨi 		Anonby2010	pɨʔi	asa,  pena	Mar ˈpɨi (ANONBY; HOLBROOK;; 2010)
 7078	§325	Chákobo	Ch	ala, pluma, hoja			pɨʔi		p ɨ ʔ i			pɨʔi	asa,  pena	Ch pɨʔi ‘ala;; pluma;; hoja’
-7079	§325	Kaxararí	Kax	ala, pluma, hoja			piˈʔi [piˈʔi] 		piˈʔi [piˈʔi] 		COUTO2005;LANES2005	pɨʔi	asa,  pena	Kax piˈʔi [piˈʔi] (COUTO;; 2005; LANES;; 2005)
+7079	§325	Kaxararí	Kax	ala, pluma, hoja			piˈʔi [piˈʔi] 		piˈʔi [piˈʔi] 		Couto2005;Lanes2005	pɨʔi	asa,  pena	Kax piˈʔi [piˈʔi] (COUTO;; 2005; LANES;; 2005)
 7080	§325	Yamináwa	Yam	asa, pena	1		pɨi		p ɨi			pɨʔi	asa,  pena	Yam pɨi, pɨi᷈ ‘pluma’ (EAKEN;; 2008)
 7081	§325	Yamináwa	Yam	pluma			pɨi᷈		p ɨi᷈		Eakin2008	pɨʔi	asa,  pena	Yam pɨi, pɨi᷈ ‘pluma’ (EAKEN;; 2008)
 7082	§325	Chanináwa	Chan	asa, pena	1		pɨi		p ɨi			pɨʔi	asa,  pena	Chan pɨi
@@ -6814,7 +6814,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 10327	§477	Kakataibo	Ksh	algodão			-ɨ  	1	**-ɨ  	usado en las citas de historias antiguas		-wɨ	sufixo verbal imperativo	Ksh **-ɨ  (usado en las citas de historias antiguas)
 10328	§477	ShipiboKonibo	SK	sufixo verbal imperativo	1		-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	SK -wɨ
 10329	§477	Kapanawa	Kp	sufixo verbal imperativo	1		-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Kp -wɨ
-10330	§477	Marúbo	Mar	modo imperativo			-wɨ		w ɨ		Kennel1978	-wɨ	sufixo verbal imperativo	Mar -wɨ ‘modo imperativo’ (KENNEL JR.;; 1978)
+10330	§477	Marúbo	Mar	modo imperativo			-wɨ		w ɨ		Kennell1978	-wɨ	sufixo verbal imperativo	Mar -wɨ ‘modo imperativo’ (KENNEL JR.;; 1978)
 10331	§477	Chákobo	Ch	sufixo verbal imperativo	1		-wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Ch -wɨ
 10332	§477	Kaxararí	Kax	imperativo (VALENZUELA; OLIVEIRA, 2012)			wɨ		w ɨ			-wɨ	sufixo verbal imperativo	Kax wɨ ‘imperativo (VALENZUELA; OLIVEIRA;; 2012)
 10333	§477	Yamináwa	Yam	imperativo			-ɸɨ		ɸ ɨ			-wɨ	sufixo verbal imperativo	Yam -ɸɨ ‘imperativo’
@@ -7011,7 +7011,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 10689	§493	ShipiboKonibo	SK	sufixo negativo	1		-yama		ya m a			[-ya]ma	sufixo negativo	SK -yama
 10690	§493	Kapanawa	Kp	sufixo negativo	1		yama		ya m a			[-ya]ma	sufixo negativo	Kp yama
 10691	§493	Marúbo	Mar	sufixo negativo	1		-ma		m a			[-ya]ma	sufixo negativo	Mar -ma, - ama ‘negativo’ (KENNEL JR.;; 1978)
-10692	§493	Marúbo	Mar	negativo			- ama		- ama		Kennel1978	[-ya]ma	sufixo negativo	Mar -ma, - ama ‘negativo’ (KENNEL JR.;; 1978)
+10692	§493	Marúbo	Mar	negativo			- ama		- ama		Kennell1978	[-ya]ma	sufixo negativo	Mar -ma, - ama ‘negativo’ (KENNEL JR.;; 1978)
 10693	§493	Chákobo	Ch	sufixo negativo	1		-yama		ya m a			[-ya]ma	sufixo negativo	Ch -yama
 10694	§493	Kaxararí	Kax	sufixo negativo	1		-ma		m a			[-ya]ma	sufixo negativo	Kax -ma, maʔa (VALENZUELA; OLIVEIRA;; 2012)
 10695	§493	Kaxararí	Kax	sufixo negativo			maʔa 		maʔa 		Valenzuela2012	[-ya]ma	sufixo negativo	Kax -ma, maʔa (VALENZUELA; OLIVEIRA;; 2012)
