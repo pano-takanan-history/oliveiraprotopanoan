@@ -5,6 +5,8 @@ $	NULL
 [C]	t|ɽ
 [	NULL
 ]	NULL
+^-	NULL
+-$	NULL
 a	a	ʔatsa, ɨɸa-pa_ɨɸa-panã	Kapanawa, Chakobo, Amawaka, ShipiboKonibo, Sharanawa, Yaminawa, Kakataibo, Katukina, Kaxarari, Yawanawa, Shanenawa, Marubo, Marinawa, Korubo, Chaninawa, Matis, Mayoruna, Kaxinawa	100	U+0061
 i	i	ʔia, awin	Chakobo, Kapanawa, ShipiboKonibo, Kakataibo, Amawaka, Matis, Sharanawa, Mayoruna, Katukina, Yawanawa, Shanenawa, Kaxinawa, Yaminawa, Korubo, Kaxarari, Marinawa, Poyanawa	100	U+0069
 a$	a	ia, atsa	Chakobo, Kaxinawa, ShipiboKonibo, Kapanawa, Yawanawa, Sharanawa, Amawaka, Shanenawa, Yaminawa, Kakataibo, Marinawa, Chaninawa, Marubo, Poyanawa, Katukina, Matis, Kaxarari, Mayoruna, Korubo	100	U+0061 U+0024
@@ -12,10 +14,10 @@ n	n	ʔano, ano	Amawaka, Sharanawa, Chakobo, Yaminawa, Kapanawa, ShipiboKonibo, K
 ɨ	ɨ	awɨn, βɨta	Sharanawa, Chakobo, Amawaka, Yawanawa, Marubo, Korubo, ShipiboKonibo, Kapanawa, Kakataibo, Katukina, Shanenawa, Chaninawa, Matis, Yaminawa, Kaxinawa, Marinawa, Mayoruna, Kaxarari	100	U+0268
 o	o	ʔoko-, ʔoʂa-	Amawaka, ShipiboKonibo, Sharanawa, Kapanawa, Kakataibo, Chakobo, Mayoruna, Chaninawa, Yaminawa, Marinawa, Matis, Korubo	100	U+006f
 i$	i	oi, iwi	Katukina, Sharanawa, Chakobo, ShipiboKonibo, Chaninawa, Kaxarari, Kapanawa, Kakataibo, Yaminawa, Kaxinawa, Marubo, Marinawa, Yawanawa, Shanenawa, Amawaka, Matis, Mayoruna	100	U+0069 U+0024
--	<?>	a-, ak-	Chakobo, Kakataibo, Kaxinawa, Amawaka, ShipiboKonibo, Kapanawa, Yaminawa, Matis, Marubo, Marinawa, Chaninawa, Katukina, Sharanawa, Korubo, Yawanawa, Shanenawa, Kaxarari, Mayoruna	100	U+002d
+-	+	a-, ak-	Chakobo, Kakataibo, Kaxinawa, Amawaka, ShipiboKonibo, Kapanawa, Yaminawa, Matis, Marubo, Marinawa, Chaninawa, Katukina, Sharanawa, Korubo, Yawanawa, Shanenawa, Kaxarari, Mayoruna	100	U+002d
 k	k	ʔisko, haka	Amawaka, Chakobo, Marubo, Kaxinawa, Kapanawa, Kakataibo, ShipiboKonibo, Katukina, Matis, Sharanawa, Marinawa, Shanenawa, Yaminawa, Mayoruna, Chaninawa, Yawanawa, Korubo	100	U+006b
 t	t	βata, ato	Kakataibo, Marinawa, Sharanawa, ShipiboKonibo, Amawaka, Chakobo, Kaxinawa, Shanenawa, Kapanawa, Yawanawa, Marubo, Katukina, Chaninawa, Yaminawa, Korubo, Matis, Mayoruna, Kaxarari, Poyanawa	100	U+0074
-_	_	arrugas_en_la_frente, los_shipibo_consideran_que	Amawaka, Mayoruna, Kakataibo, Yaminawa, Marinawa, Chaninawa, Chakobo, Sharanawa, Marubo, ShipiboKonibo, Kapanawa, Kaxarari, Kaxinawa, Poyanawa, Korubo	100	U+005f
+_	+	arrugas_en_la_frente, los_shipibo_consideran_que	Amawaka, Mayoruna, Kakataibo, Yaminawa, Marinawa, Chaninawa, Chakobo, Sharanawa, Marubo, ShipiboKonibo, Kapanawa, Kaxarari, Kaxinawa, Poyanawa, Korubo	100	U+005f
 o$	o	ato, ʔano	ShipiboKonibo, Chakobo, Kapanawa, Kakataibo, Sharanawa, Marinawa, Marubo, Amawaka, Yaminawa, Mayoruna, Chaninawa, Katukina, Matis, Korubo	100	U+006f U+0024
 n$	n	awin, oin	Sharanawa, Kapanawa, Amawaka, Yawanawa, Matis, Shanenawa, Katukina, ShipiboKonibo, Mayoruna, Korubo, Chaninawa, Kakataibo	100	U+006e U+0024
 ^k	k	kɨna-, kɨnɨ	Kaxinawa, Sharanawa, ShipiboKonibo, Chakobo, Kapanawa, Amawaka, Marinawa, Marubo, Yaminawa, Matis, Yawanawa, Chaninawa, Katukina, Shanenawa, Kaxarari, Poyanawa	100	U+005e U+006b
@@ -213,8 +215,8 @@ u᷈$	u᷈	mãˈʃu᷈, nu᷈nu᷈	Poyanawa, Marubo	3	U+0075 U+1dc8 U+0024
 ˈi᷈	ˈi᷈	aˈi᷈vɞ, ʔaˈi᷈βo	ShipiboKonibo, Marubo	2	U+02c8 U+0069 U+1dc8
 kk	kk	ak-kin, uk-kin	Matis	2	U+006b U+006b
 ^ɔ$	ɔ	-ɔ	Kakataibo	2	U+005e U+0254 U+0024
-ʔw	ʔw	iʔwan, aʔwan	Kapanawa	2	U+0294 U+0077
-ʔs	ʔs	yaʔsamɨti, ʔiʔsá	Kapanawa	2	U+0294 U+0073
+ʔ w	ʔ w	iʔwan, aʔwan	Kapanawa	2	U+0294 U+0077
+ʔ s	ʔ s	yaʔsamɨti, ʔiʔsá	Kapanawa	2	U+0294 U+0073
 Ch	<?>	--_Chan_--, βii._Ch_βii	Yaminawa, Kapanawa	2	U+0043 U+0068
 	<?>	ʔísinɸʔísinínɸ’dor’, uʃi᷈_unʃin	Amawaka, Kakataibo	2	U+f02c
 ’	<?>	ʔísinɸʔísinínɸ’dor’, dabi-ɸ’tener_vergüenza	Amawaka, Kaxinawa	2	U+2019
@@ -225,13 +227,11 @@ __	__	joˈpɨʂɨ__hopɨ́ʂɨ, isi᷈_-_I	Chakobo, Amawaka	2	U+005f U+005f
 ^aa	aa	aatí, aatõ	Yaminawa, Marubo	2	U+005e U+0061 U+0061
 L	<?>	colmillo._C.L._muela._Pico_de_papagayo, --._“Según_Loriot	Mayoruna	2	U+004c
 ˈr	r	rɨpaˈra, awɨ_ˈrɨki᷈	Chakobo, Marubo	2	U+02c8 U+0072
-vai_[βai]	<???>	vai_[βai]	Marubo	2	U+0076 U+0061 U+0069 U+005f U+005b U+03b2 U+0061 U+0069 U+005d
 lh	lh	ton_parece_com_o_barulho_da_arma, filho	Mayoruna, Marubo	2	U+006c U+0068
 é$	é	inalador_de_rapé, bebé	Sharanawa, Marubo	2	U+00e9 U+0024
 <<	<?>	-ma-_<<causativo>>, bɨta_<<O>>	Mayoruna, Marinawa	2	U+003c U+003c
 >>$	<?>	-ma-_<<causativo>>, bɨta_<<O>>	Mayoruna, Marinawa	2	U+003e U+003e U+0024
 xw	xw	wixwa-, naxwaa_I	Amawaka	2	U+0078 U+0077
-buku_[buˈku]	<???>	buku_[buˈku]	Mayoruna, Matis	2	U+0062 U+0075 U+006b U+0075 U+005f U+005b U+0062 U+0075 U+02c8 U+006b U+0075 U+005d
 ós	ós	pósɨ, ɸósi᷈	Marinawa	2	U+00f3 U+0073
 ʔ$	ʔ	tsoʔ-, -katsiʔ-	Kapanawa	2	U+0294 U+0024
 ^ɨ́	ɨ́	ɨ́ḱ_ɨ..., ɨ́nɨ́-	Marinawa, Matis	2	U+005e U+0268 U+0301
@@ -241,8 +241,6 @@ a᷈$	a᷈	mɨɨa᷈, káma᷈	Yaminawa, Amawaka	2	U+0061 U+1dc8 U+0024
 ts$	ts	nits-, -kats	Kakataibo	2	U+0074 U+0073 U+0024
 K	<?>	SK_--, kɨɾɨ_Ko_--	Yawanawa, Kakataibo	2	U+004b
 	<?>	ʃiɸI, ˈkɨnɨʂɨn	ShipiboKonibo, Amawaka	2	U+f06b
-maʂaˈhu_[maʂaˈɦu]	<???>	maʂaˈhu_[maʂaˈɦu]	Kaxarari	2	U+006d U+0061 U+0282 U+0061 U+02c8 U+0068 U+0075 U+005f U+005b U+006d U+0061 U+0282 U+0061 U+02c8 U+0266 U+0075 U+005d
-maʂukud_[maˈʂukud]	<???>	maʂukud_[maˈʂukud]	Mayoruna	2	U+006d U+0061 U+0282 U+0075 U+006b U+0075 U+0064 U+005f U+005b U+006d U+0061 U+02c8 U+0282 U+0075 U+006b U+0075 U+0064 U+005d
 ee	ee	mee_, mee_poto	Kakataibo	2	U+0065 U+0065
 t́	t́	tɨ́t́_ɨ́́, mɨ́t́ótí	Marinawa	2	U+0074 U+0301
 c$	c	nimëduc, etc.	Mayoruna, Sharanawa	2	U+0063 U+0024
@@ -253,17 +251,11 @@ c$	c	nimëduc, etc.	Mayoruna, Sharanawa	2	U+0063 U+0024
 ^u$	u	u-	Shanenawa, Yawanawa	2	U+005e U+0075 U+0024
 j$	j	faj, pɨj	Shanenawa	2	U+006a U+0024
 ˈv	v	yaˈviʃi, raˈvɨvaki᷈	Marubo	2	U+02c8 U+0076
-tʃãburu_[tʃɐ᷈buˈɾu]	<???>	tʃãburu_[tʃɐ᷈buˈɾu]	Kaxarari	2	U+0074 U+0283 U+00e3 U+0062 U+0075 U+0072 U+0075 U+005f U+005b U+0074 U+0283 U+0250 U+1dc8 U+0062 U+0075 U+02c8 U+027e U+0075 U+005d
-rani_[ɾaˈni]	<???>	rani_[ɾaˈni]	Katukina, Yawanawa	2	U+0072 U+0061 U+006e U+0069 U+005f U+005b U+027e U+0061 U+02c8 U+006e U+0069 U+005d
 a᷈	a᷈	ta᷈bu, ra᷈tu᷈-ti	Poyanawa, Kakataibo	2	U+0061 U+1dc8
 ^Ch	<?>	Chan_atsa	Yaminawa	1	U+005e U+0043 U+0068
 ˈa	a	wɨˈan_ʔani	Kapanawa	1	U+02c8 U+0061
-ani_[ˈɐ᷈ni-]	<???>	ani_[ˈɐ᷈ni-]	Marubo	1	U+0061 U+006e U+0069 U+005f U+005b U+02c8 U+0250 U+1dc8 U+006e U+0069 U+002d U+005d
-lakihani_[lakiɦaˈi]224	<???>	lakihani_[lakiɦaˈi]224	Kaxarari	1	U+006c U+0061 U+006b U+0069 U+0068 U+0061 U+006e U+0069 U+005f U+005b U+006c U+0061 U+006b U+0069 U+0266 U+0061 U+02c8 U+0069 U+005d U+0032 U+0032 U+0034
 ˈɔ$	ɔ	ʔɔˈɔ	Kakataibo	1	U+02c8 U+0254 U+0024
 ˈ	<?>	ʔaˈa	Kapanawa	1	U+02c8 U+f077
-[awaˈtʃa]	<???>	[awaˈtʃa]	Kaxarari	1	U+005b U+0061 U+0077 U+0061 U+02c8 U+0074 U+0283 U+0061 U+005d
-awa_[awˈa]	<???>	awa_[awˈa]	Katukina	1	U+0061 U+0077 U+0061 U+005f U+005b U+0061 U+0077 U+02c8 U+0061 U+005d
 ^áá	áá	áá_I	Amawaka	1	U+005e U+00e1 U+00e1
 ɞ$	ɞ	aˈi᷈vɞ	Marubo	1	U+025e U+0024
 ^ˈã	ã	ˈãwi᷈	Marinawa	1	U+005e U+02c8 U+00e3
@@ -271,364 +263,100 @@ ee$	ee	ʔee-	Kakataibo	1	U+0065 U+0065 U+0024
 ^ʔw	ʔw	ʔwan	Kapanawa	1	U+005e U+0294 U+0077
 ɐ᷈$	ɐ᷈	ʃawɨwɐ᷈	Marubo	1	U+0250 U+1dc8 U+0024
 ˈy	y	iˈya	Kaxarari	1	U+02c8 U+0079
-iˈan_[ˈi᷈ˈɐ᷈]	<???>	iˈan_[ˈi᷈ˈɐ᷈]	Marubo	1	U+0069 U+02c8 U+0061 U+006e U+005f U+005b U+02c8 U+0069 U+1dc8 U+02c8 U+0250 U+1dc8 U+005d
-ianɨ_[iaˈnɨ]	<???>	ianɨ_[iaˈnɨ]	Kaxarari	1	U+0069 U+0061 U+006e U+0268 U+005f U+005b U+0069 U+0061 U+02c8 U+006e U+0268 U+005d
 í᷈	í᷈	ʔí᷈yan	Amawaka	1	U+00ed U+1dc8
-ikβo_[iʔˈβo]	<???>	ikβo_[iʔˈβo]	Korubo	1	U+0069 U+006b U+03b2 U+006f U+005f U+005b U+0069 U+0294 U+02c8 U+03b2 U+006f U+005d
-ikbo_[ikˈbo]	<???>	ikbo_[ikˈbo]	Mayoruna	1	U+0069 U+006b U+0062 U+006f U+005f U+005b U+0069 U+006b U+02c8 U+0062 U+006f U+005d
-ʔisa_[ˈisa]	<???>	ʔisa_[ˈisa]	Chakobo	1	U+0294 U+0069 U+0073 U+0061 U+005f U+005b U+02c8 U+0069 U+0073 U+0061 U+005d
 ^I	<?>	Iná_I	Amawaka	1	U+005e U+0049
-ʔiso_[ʔīsɞ̆]	<???>	ʔiso_[ʔīsɞ̆]	Marubo	1	U+0294 U+0069 U+0073 U+006f U+005f U+005b U+0294 U+012b U+0073 U+025e U+0306 U+005d
-na͡iˈwɨ_[na͡iˈwɨ]	<???>	na͡iˈwɨ_[na͡iˈwɨ]	Kaxarari	1	U+006e U+0061 U+0361 U+0069 U+02c8 U+0077 U+0268 U+005f U+005b U+006e U+0061 U+0361 U+0069 U+02c8 U+0077 U+0268 U+005d
 ^ii	ii	ii_I	Amawaka	1	U+005e U+0069 U+0069
 ^ˈi$	i	ˈi	Mayoruna	1	U+005e U+02c8 U+0069 U+0024
 ós$	ós	ʔopós	Kakataibo	1	U+00f3 U+0073 U+0024
-ue_[wé]	<???>	ue_[wé]	Mayoruna	1	U+0075 U+0065 U+005f U+005b U+0077 U+00e9 U+005d
 ^i᷈i᷈$	i᷈i᷈	i᷈i᷈-	Amawaka	1	U+005e U+0069 U+1dc8 U+0069 U+1dc8 U+0024
 ʃ	<?>	ˈwakapaʃa	Marubo	1	U+f0ae U+0283
-õpaʂ_[ɞ᷈ˈpaʂ]	<???>	õpaʂ_[ɞ᷈ˈpaʂ]	Yaminawa	1	U+00f5 U+0070 U+0061 U+0282 U+005f U+005b U+025e U+1dc8 U+02c8 U+0070 U+0061 U+0282 U+005d
-[u᷈ˈsɐ᷈ɐ]᷈	<???>	[u᷈ˈsɐ᷈ɐ]᷈	Marubo	1	U+005b U+0075 U+1dc8 U+02c8 U+0073 U+0250 U+1dc8 U+0250 U+005d U+1dc8
 ^ós	ós	ósã	Marinawa	1	U+005e U+00f3 U+0073
-ˈoʂɨ_[ˈoʂɨʔ]	<???>	ˈoʂɨ_[ˈoʂɨʔ]	Marubo	1	U+02c8 U+006f U+0282 U+0268 U+005f U+005b U+02c8 U+006f U+0282 U+0268 U+0294 U+005d
 ˈd	d	u᷈hu᷈ˈde	Poyanawa	1	U+02c8 U+0064
 <	<?>	nɔɔ_<_nawa	Kakataibo	1	U+003c
 “	<?>	--._“Según_Loriot	Mayoruna	1	U+201c
 S	<?>	--._“Según_Loriot	Mayoruna	1	U+0053
 sh	sh	los_shipibo_consideran_que	Mayoruna	1	U+0073 U+0068
 ^y$	y	y	Mayoruna	1	U+005e U+0079 U+0024
-272	<?>	juego_272.”	Mayoruna	1	U+0032 U+0037 U+0032
 ”$	<?>	juego_272.”	Mayoruna	1	U+201d U+0024
-haˈlɨ_[haˈlə]	<???>	haˈlɨ_[haˈlə]	Kaxarari	1	U+0068 U+0061 U+02c8 U+006c U+0268 U+005f U+005b U+0068 U+0061 U+02c8 U+006c U+0259 U+005d
-haˈlɨ_[ɦaˈlɨ]	<???>	haˈlɨ_[ɦaˈlɨ]	Kaxarari	1	U+0068 U+0061 U+02c8 U+006c U+0268 U+005f U+005b U+0266 U+0061 U+02c8 U+006c U+0268 U+005d
 $	<?>	ãsi᷈ɸ	Marubo	1	U+f028 U+0024
-koʃtin_[ʔɔʃti᷈n]	<???>	koʃtin_[ʔɔʃti᷈n]	Korubo	1	U+006b U+006f U+0283 U+0074 U+0069 U+006e U+005f U+005b U+0294 U+0254 U+0283 U+0074 U+0069 U+1dc8 U+006e U+005d
 nʂ	nʂ	hanʂβá-	Kapanawa	1	U+006e U+0282
-ati_[ˈātĭ]	<???>	ati_[ˈātĭ]	Marubo	1	U+0061 U+0074 U+0069 U+005f U+005b U+02c8 U+0101 U+0074 U+012d U+005d
-awã_ʂoβo_[awa᷈_ʂofu]	<???>	awã_ʂoβo_[awa᷈_ʂofu]	Marubo	1	U+0061 U+0077 U+00e3 U+005f U+0282 U+006f U+03b2 U+006f U+005f U+005b U+0061 U+0077 U+0061 U+1dc8 U+005f U+0282 U+006f U+0066 U+0075 U+005d
-vaɾi_[ˈɸari]	<???>	vaɾi_[ˈɸari]	Marubo	1	U+0076 U+0061 U+027e U+0069 U+005f U+005b U+02c8 U+0278 U+0061 U+0072 U+0069 U+005d
-badi_[baˈɾi]	<???>	badi_[baˈɾi]	Matis	1	U+0062 U+0061 U+0064 U+0069 U+005f U+005b U+0062 U+0061 U+02c8 U+027e U+0069 U+005d
-badiad_[badyád]	<???>	badiad_[badyád]	Mayoruna	1	U+0062 U+0061 U+0064 U+0069 U+0061 U+0064 U+005f U+005b U+0062 U+0061 U+0064 U+0079 U+00e1 U+0064 U+005d
 í᷈$	í᷈	βatʃí᷈	ShipiboKonibo	1	U+00ed U+1dc8 U+0024
-βai_[βaˈiʔ]	<???>	βai_[βaˈiʔ]	Katukina	1	U+03b2 U+0061 U+0069 U+005f U+005b U+03b2 U+0061 U+02c8 U+0069 U+0294 U+005d
 O	<?>	bɨta_<<O>>	Mayoruna	1	U+004f
-habɨlaˈkɨ_[ɦaβɨlaˈkɨ]	<???>	habɨlaˈkɨ_[ɦaβɨlaˈkɨ]	Kaxarari	1	U+0068 U+0061 U+0062 U+0268 U+006c U+0061 U+02c8 U+006b U+0268 U+005f U+005b U+0266 U+0061 U+03b2 U+0268 U+006c U+0061 U+02c8 U+006b U+0268 U+005d
-bɨumi_[bɨwˈmi]	<???>	bɨumi_[bɨwˈmi]	Kaxarari	1	U+0062 U+0268 U+0075 U+006d U+0069 U+005f U+005b U+0062 U+0268 U+0077 U+02c8 U+006d U+0069 U+005d
-βɨmanɨ_[βɨˈmanɨ	<???>	βɨmanɨ_[βɨˈmanɨ	Marubo	1	U+03b2 U+0268 U+006d U+0061 U+006e U+0268 U+005f U+005b U+03b2 U+0268 U+02c8 U+006d U+0061 U+006e U+0268
-βɨmaˈna_[βɨmɐˈna]	<???>	βɨmaˈna_[βɨmɐˈna]	Katukina	1	U+03b2 U+0268 U+006d U+0061 U+02c8 U+006e U+0061 U+005f U+005b U+03b2 U+0268 U+006d U+0250 U+02c8 U+006e U+0061 U+005d
-βɨmaˈnan_[βɨmaˈnɐ᷈	<???>	βɨmaˈnan_[βɨmaˈnɐ᷈	Yawanawa	1	U+03b2 U+0268 U+006d U+0061 U+02c8 U+006e U+0061 U+006e U+005f U+005b U+03b2 U+0268 U+006d U+0061 U+02c8 U+006e U+0250 U+1dc8
-bɨˈnɨ_[βɨˈnɨ]	<???>	bɨˈnɨ_[βɨˈnɨ]	Kaxarari	1	U+0062 U+0268 U+02c8 U+006e U+0268 U+005f U+005b U+03b2 U+0268 U+02c8 U+006e U+0268 U+005d
-vɨɾo_[ˈβɨɾo]	<???>	vɨɾo_[ˈβɨɾo]	Marubo	1	U+0076 U+0268 U+027e U+006f U+005f U+005b U+02c8 U+03b2 U+0268 U+027e U+006f U+005d
-βɨɾu_[βɨˈɾo]	<???>	βɨɾu_[βɨˈɾo]	Katukina	1	U+03b2 U+0268 U+027e U+0075 U+005f U+005b U+03b2 U+0268 U+02c8 U+027e U+006f U+005d
 ^_$	_	--_	Mayoruna	1	U+005e U+005f U+0024
 M$	<?>	un_ejemplo_M	Marinawa	1	U+004d U+0024
 W	<?>	ver_War	Amawaka	1	U+0057
 íí	íí	wíí_I	Amawaka	1	U+00ed U+00ed
-vimi_[ˈvimi	<???>	vimi_[ˈvimi	Marubo	1	U+0076 U+0069 U+006d U+0069 U+005f U+005b U+02c8 U+0076 U+0069 U+006d U+0069
-βinna_[βia]	<???>	βinna_[βia]	Katukina	1	U+03b2 U+0069 U+006e U+006e U+0061 U+005f U+005b U+03b2 U+0069 U+0061 U+005d
-binuˈni_[binuˈni]	<???>	binuˈni_[binuˈni]	Kaxarari	1	U+0062 U+0069 U+006e U+0075 U+02c8 U+006e U+0069 U+005f U+005b U+0062 U+0069 U+006e U+0075 U+02c8 U+006e U+0069 U+005d
-βinu_[vi᷈oʔ]	<???>	βinu_[vi᷈oʔ]	Katukina	1	U+03b2 U+0069 U+006e U+0075 U+005f U+005b U+0076 U+0069 U+1dc8 U+006f U+0294 U+005d
-buhiˈlu_[b̄ʊhiˈl̄ʊ]	<???>	buhiˈlu_[b̄ʊhiˈl̄ʊ]	Kaxarari	1	U+0062 U+0075 U+0068 U+0069 U+02c8 U+006c U+0075 U+005f U+005b U+0062 U+0304 U+028a U+0068 U+0069 U+02c8 U+006c U+0304 U+028a U+005d
-budɨd_[buˈɾɨd]	<???>	budɨd_[buˈɾɨd]	Mayoruna	1	U+0062 U+0075 U+0064 U+0268 U+0064 U+005f U+005b U+0062 U+0075 U+02c8 U+027e U+0268 U+0064 U+005d
 ú$	ú	βuɾú	Kakataibo	1	U+00fa U+0024
-buid_[buˈid]	<???>	buid_[buˈid]	Mayoruna	1	U+0062 U+0075 U+0069 U+0064 U+005f U+005b U+0062 U+0075 U+02c8 U+0069 U+0064 U+005d
 ^β̄	β̄	β̄ʊ	Marubo	1	U+005e U+03b2 U+0304
 ʊ$	ʊ	β̄ʊ	Marubo	1	U+028a U+0024
-vuu_[βoˈo]	<???>	vuu_[βoˈo]	Katukina	1	U+0076 U+0075 U+0075 U+005f U+005b U+03b2 U+006f U+02c8 U+006f U+005d
 óó	óó	wóó_I	Amawaka	1	U+00f3 U+00f3
-[hu]	<???>	[hu]	Yawanawa	1	U+005b U+0068 U+0075 U+005d
-fusi_[fuˈsiʔ	<???>	fusi_[fuˈsiʔ	Shanenawa	1	U+0066 U+0075 U+0073 U+0069 U+005f U+005b U+0066 U+0075 U+02c8 U+0073 U+0069 U+0294
-[əβuʂkaˈta]	<???>	[əβuʂkaˈta]	Kaxarari	1	U+005b U+0259 U+03b2 U+0075 U+0282 U+006b U+0061 U+02c8 U+0074 U+0061 U+005d
 ɔ́$	ɔ́	tsɔɔ́	Kakataibo	1	U+0254 U+0301 U+0024
 ṍ́$	ṍ	tsiṍ́	ShipiboKonibo	1	U+1e4d U+0301 U+0024
-tiu_[teˈoʔ]	<???>	tiu_[teˈoʔ]	Katukina	1	U+0074 U+0069 U+0075 U+005f U+005b U+0074 U+0065 U+02c8 U+006f U+0294 U+005d
 ó́$	ó	tsɨó́	Marinawa	1	U+00f3 U+0301 U+0024
 nh	nh	apunhalar	Sharanawa	1	U+006e U+0068
-tʂokka_[ˈtʂok.ka]	<???>	tʂokka_[ˈtʂok.ka]	Mayoruna	1	U+0074 U+0282 U+006f U+006b U+006b U+0061 U+005f U+005b U+02c8 U+0074 U+0282 U+006f U+006b U+002e U+006b U+0061 U+005d
-tʃadak_[tʃaˈɾak]	<???>	tʃadak_[tʃaˈɾak]	Mayoruna	1	U+0074 U+0283 U+0061 U+0064 U+0061 U+006b U+005f U+005b U+0074 U+0283 U+0061 U+02c8 U+027e U+0061 U+006b U+005d
-tʃi_[tʃiʔ]	<???>	tʃi_[tʃiʔ]	Marubo	1	U+0074 U+0283 U+0069 U+005f U+005b U+0074 U+0283 U+0069 U+0294 U+005d
-tʃiʔi_[tʃiˈʔi]	<???>	tʃiʔi_[tʃiˈʔi]	Kaxarari	1	U+0074 U+0283 U+0069 U+0294 U+0069 U+005f U+005b U+0074 U+0283 U+0069 U+02c8 U+0294 U+0069 U+005d
-tʃii_[tʃiˈiʔ]	<???>	tʃii_[tʃiˈiʔ]	Katukina	1	U+0074 U+0283 U+0069 U+0069 U+005f U+005b U+0074 U+0283 U+0069 U+02c8 U+0069 U+0294 U+005d
-mapuʔu_[mapɯˈʔɯ]	<???>	mapuʔu_[mapɯˈʔɯ]	Kaxarari	1	U+006d U+0061 U+0070 U+0075 U+0294 U+0075 U+005f U+005b U+006d U+0061 U+0070 U+026f U+02c8 U+0294 U+026f U+005d
-[mapuˈʔu]	<???>	[mapuˈʔu]	Kaxarari	1	U+005b U+006d U+0061 U+0070 U+0075 U+02c8 U+0294 U+0075 U+005d
-226$	<?>	tʃipṍmi226	Kakataibo	1	U+0032 U+0032 U+0036 U+0024
-ɨnɨ_[ɨdɨ]	<???>	ɨnɨ_[ɨdɨ]	Yaminawa	1	U+0268 U+006e U+0268 U+005f U+005b U+0268 U+0064 U+0268 U+005d
 ^ɨ᷈$	ɨ᷈	ɨ᷈	Kakataibo	1	U+005e U+0268 U+1dc8 U+0024
 ˈ$	<?>	iˈsipaˈtʃi_ikˈ	Mayoruna	1	U+02c8 U+0024
-imi_[ˈi᷈mbi]	<???>	imi_[ˈi᷈mbi]	Marubo	1	U+0069 U+006d U+0069 U+005f U+005b U+02c8 U+0069 U+1dc8 U+006d U+0062 U+0069 U+005d
 m$	m	im-	Yaminawa	1	U+006d U+0024
-hina_[hiˈa]	<???>	hina_[hiˈa]	Katukina	1	U+0068 U+0069 U+006e U+0061 U+005f U+005b U+0068 U+0069 U+02c8 U+0061 U+005d
-inkwente_[iŋ.ˈkwen.te]	<???>	inkwente_[iŋ.ˈkwen.te]	Mayoruna	1	U+0069 U+006e U+006b U+0077 U+0065 U+006e U+0074 U+0065 U+005f U+005b U+0069 U+014b U+002e U+02c8 U+006b U+0077 U+0065 U+006e U+002e U+0074 U+0065 U+005d
-juego_202]’	<???>	juego_202]’	Marinawa	1	U+006a U+0075 U+0065 U+0067 U+006f U+005f U+0032 U+0030 U+0032 U+005d U+2019
-isulu_[isuˈlu]	<???>	isulu_[isuˈlu]	Kaxarari	1	U+0069 U+0073 U+0075 U+006c U+0075 U+005f U+005b U+0069 U+0073 U+0075 U+02c8 U+006c U+0075 U+005d
 ũ̃$	ũ	isũ̃	Kaxinawa	1	U+0169 U+0303 U+0024
 ^ii$	ii	ii	Kakataibo	1	U+005e U+0069 U+0069 U+0024
-iwi_[ˈīwĭ]	<???>	iwi_[ˈīwĭ]	Marubo	1	U+0069 U+0077 U+0069 U+005f U+005b U+02c8 U+012b U+0077 U+012d U+005d
-kaˈhi_[kaˈɦi]	<???>	kaˈhi_[kaˈɦi]	Kaxarari	1	U+006b U+0061 U+02c8 U+0068 U+0069 U+005f U+005b U+006b U+0061 U+02c8 U+0266 U+0069 U+005d
-kuibi_[kwiˈbi]	<???>	kuibi_[kwiˈbi]	Mayoruna	1	U+006b U+0075 U+0069 U+0062 U+0069 U+005f U+005b U+006b U+0077 U+0069 U+02c8 U+0062 U+0069 U+005d
-kiˈwi_[kiˈwi]	<???>	kiˈwi_[kiˈwi]	Kaxarari	1	U+006b U+0069 U+02c8 U+0077 U+0069 U+005f U+005b U+006b U+0069 U+02c8 U+0077 U+0069 U+005d
-kuɨbu_[kwɨˈbu]	<???>	kuɨbu_[kwɨˈbu]	Mayoruna	1	U+006b U+0075 U+0268 U+0062 U+0075 U+005f U+005b U+006b U+0077 U+0268 U+02c8 U+0062 U+0075 U+005d
 ɨ᷈ɨ᷈	ɨ᷈ɨ᷈	kɨ᷈ɨ᷈-_I	Amawaka	1	U+0268 U+1dc8 U+0268 U+1dc8
 ᷈$	<?>	kɨ-᷈	Kaxinawa	1	U+1dc8 U+0024
 ɨ᷈ɨ᷈$	ɨ᷈ɨ᷈	kɨ᷈ɨ᷈	Marinawa	1	U+0268 U+1dc8 U+0268 U+1dc8 U+0024
-kuɨn_[kwɨn]	<???>	kuɨn_[kwɨn]	Mayoruna	1	U+006b U+0075 U+0268 U+006e U+005f U+005b U+006b U+0077 U+0268 U+006e U+005d
-kɨni_[ˈkɨni]	<???>	kɨni_[ˈkɨni]	Marubo	1	U+006b U+0268 U+006e U+0069 U+005f U+005b U+02c8 U+006b U+0268 U+006e U+0069 U+005d
-kuibu_[kwiˈbu]	<???>	kuibu_[kwiˈbu]	Mayoruna	1	U+006b U+0075 U+0069 U+0062 U+0075 U+005f U+005b U+006b U+0077 U+0069 U+02c8 U+0062 U+0075 U+005d
-kuɨno_[kuɨˈno]	<???>	kuɨno_[kuɨˈno]	Mayoruna	1	U+006b U+0075 U+0268 U+006e U+006f U+005f U+005b U+006b U+0075 U+0268 U+02c8 U+006e U+006f U+005d
-kuɨnma_[kuɨnˈma]	<???>	kuɨnma_[kuɨnˈma]	Mayoruna	1	U+006b U+0075 U+0268 U+006e U+006d U+0061 U+005f U+005b U+006b U+0075 U+0268 U+006e U+02c8 U+006d U+0061 U+005d
-kani_[kaˈni]	<???>	kani_[kaˈni]	Mayoruna	1	U+006b U+0061 U+006e U+0069 U+005f U+005b U+006b U+0061 U+02c8 U+006e U+0069 U+005d
-kaniua_[kaˈniwa]	<???>	kaniua_[kaˈniwa]	Mayoruna	1	U+006b U+0061 U+006e U+0069 U+0075 U+0061 U+005f U+005b U+006b U+0061 U+02c8 U+006e U+0069 U+0077 U+0061 U+005d
 _́	_́	kãkã_́_	ShipiboKonibo	1	U+005f U+0301
-kamalu_[kamaˈlu]	<???>	kamalu_[kamaˈlu]	Kaxarari	1	U+006b U+0061 U+006d U+0061 U+006c U+0075 U+005f U+005b U+006b U+0061 U+006d U+0061 U+02c8 U+006c U+0075 U+005d
-kamun_[ka.ˈmun]	<???>	kamun_[ka.ˈmun]	Mayoruna	1	U+006b U+0061 U+006d U+0075 U+006e U+005f U+005b U+006b U+0061 U+002e U+02c8 U+006d U+0075 U+006e U+005d
-kala_[kaˈla]	<???>	kala_[kaˈla]	Kaxarari	1	U+006b U+0061 U+006c U+0061 U+005f U+005b U+006b U+0061 U+02c8 U+006c U+0061 U+005d
-kana_[kaˈnaʔ]	<???>	kana_[kaˈnaʔ]	Katukina	1	U+006b U+0061 U+006e U+0061 U+005f U+005b U+006b U+0061 U+02c8 U+006e U+0061 U+0294 U+005d
-kanataˈhi_[kɐnataˈɦi]	<???>	kanataˈhi_[kɐnataˈɦi]	Kaxarari	1	U+006b U+0061 U+006e U+0061 U+0074 U+0061 U+02c8 U+0068 U+0069 U+005f U+005b U+006b U+0250 U+006e U+0061 U+0074 U+0061 U+02c8 U+0266 U+0069 U+005d
-kano_[kaˈno]	<???>	kano_[kaˈno]	Mayoruna	1	U+006b U+0061 U+006e U+006f U+005f U+005b U+006b U+0061 U+02c8 U+006e U+006f U+005d
-kaˈpa_[kaˈpa]	<???>	kaˈpa_[kaˈpa]	Kaxarari	1	U+006b U+0061 U+02c8 U+0070 U+0061 U+005f U+005b U+006b U+0061 U+02c8 U+0070 U+0061 U+005d
-kapa_[kaˈpa]	<???>	kapa_[kaˈpa]	Mayoruna	1	U+006b U+0061 U+0070 U+0061 U+005f U+005b U+006b U+0061 U+02c8 U+0070 U+0061 U+005d
 ɨ᷈᷈$	ɨ᷈᷈	kápɨ᷈᷈	Marinawa	1	U+0268 U+1dc8 U+1dc8 U+0024
-kadi_[kaˈɾi]	<???>	kadi_[kaˈɾi]	Mayoruna	1	U+006b U+0061 U+0064 U+0069 U+005f U+005b U+006b U+0061 U+02c8 U+027e U+0069 U+005d
-uʂkas_[uʂ.ˈkas]	<???>	uʂkas_[uʂ.ˈkas]	Mayoruna	1	U+0075 U+0282 U+006b U+0061 U+0073 U+005f U+005b U+0075 U+0282 U+002e U+02c8 U+006b U+0061 U+0073 U+005d
-pias_[pyás]	<???>	pias_[pyás]	Mayoruna	1	U+0070 U+0069 U+0061 U+0073 U+005f U+005b U+0070 U+0079 U+00e1 U+0073 U+005d
 cc	cc	uccas	Mayoruna	1	U+0063 U+0063
-kaʃiˈwa_[kaʃiˈwa]	<???>	kaʃiˈwa_[kaʃiˈwa]	Kaxarari	1	U+006b U+0061 U+0283 U+0069 U+02c8 U+0077 U+0061 U+005f U+005b U+006b U+0061 U+0283 U+0069 U+02c8 U+0077 U+0061 U+005d
-ka-ʂu_[kaˈʂu]	<???>	ka-ʂu_[kaˈʂu]	Mayoruna	1	U+006b U+0061 U+002d U+0282 U+0075 U+005f U+005b U+006b U+0061 U+02c8 U+0282 U+0075 U+005d
 ʔʂ	ʔʂ	kɨʔʂɨ-	Kapanawa	1	U+0294 U+0282
 ˈɾ	ɾ	kɨˈɾɨ	Chakobo	1	U+02c8 U+027e
 k᷈	k᷈	kɨk᷈_ɨ́ʂ	ShipiboKonibo	1	U+006b U+1dc8
 Y	<?>	kɨ́tɨ_Yaw_kɨti	Marinawa	1	U+0059
-kini_[ˈkīnĭ]	<???>	kini_[ˈkīnĭ]	Marubo	1	U+006b U+0069 U+006e U+0069 U+005f U+005b U+02c8 U+006b U+012b U+006e U+012d U+005d
-kiˈli_[kiˈi]	<???>	kiˈli_[kiˈi]	Kaxarari	1	U+006b U+0069 U+02c8 U+006c U+0069 U+005f U+005b U+006b U+0069 U+02c8 U+f0b4 U+0069 U+005d
-kiʃi_[kiˈʃi]	<???>	kiʃi_[kiˈʃi]	Kaxarari	1	U+006b U+0069 U+0283 U+0069 U+005f U+005b U+006b U+0069 U+02c8 U+0283 U+0069 U+005d
-kiʂi_[kiˈʂiʔ]	<???>	kiʂi_[kiˈʂiʔ]	Katukina	1	U+006b U+0069 U+0282 U+0069 U+005f U+005b U+006b U+0069 U+02c8 U+0282 U+0069 U+0294 U+005d
-kiʃi_[ki.ˈʃi]	<???>	kiʃi_[ki.ˈʃi]	Yawanawa	1	U+006b U+0069 U+0283 U+0069 U+005f U+005b U+006b U+0069 U+002e U+02c8 U+0283 U+0069 U+005d
-kuistʃipa_[kwisˈtʃipa]	<???>	kuistʃipa_[kwisˈtʃipa]	Mayoruna	1	U+006b U+0075 U+0069 U+0073 U+0074 U+0283 U+0069 U+0070 U+0061 U+005f U+005b U+006b U+0077 U+0069 U+0073 U+02c8 U+0074 U+0283 U+0069 U+0070 U+0061 U+005d
-kuaˈni_[kwaˈni]	<???>	kuaˈni_[kwaˈni]	Kaxarari	1	U+006b U+0075 U+0061 U+02c8 U+006e U+0069 U+005f U+005b U+006b U+0077 U+0061 U+02c8 U+006e U+0069 U+005d
-kuaˈni_[kwaˈi]	<???>	kuaˈni_[kwaˈi]	Kaxarari	1	U+006b U+0075 U+0061 U+02c8 U+006e U+0069 U+005f U+005b U+006b U+0077 U+0061 U+02c8 U+0069 U+005d
 I	<?>	kõwi᷈_I_hervir’	Amawaka	1	U+0049
 ^H	<?>	Hermano_de_la_madre	Kaxinawa	1	U+005e U+0048
-kuku_[ku.ˈku]	<???>	kuku_[ku.ˈku]	Mayoruna	1	U+006b U+0075 U+006b U+0075 U+005f U+005b U+006b U+0075 U+002e U+02c8 U+006b U+0075 U+005d
 ẽ	ẽ	kweẽkoro	Kakataibo	1	U+1ebd
-kudu_[kuɾu]	<???>	kudu_[kuɾu]	Matis	1	U+006b U+0075 U+0064 U+0075 U+005f U+005b U+006b U+0075 U+027e U+0075 U+005d
-kudu_[kuˈɾu]	<???>	kudu_[kuˈɾu]	Mayoruna	1	U+006b U+0075 U+0064 U+0075 U+005f U+005b U+006b U+0075 U+02c8 U+027e U+0075 U+005d
-ʃakuaˈʂa_[ʃakwaˈʂa]	<???>	ʃakuaˈʂa_[ʃakwaˈʂa]	Kaxarari	1	U+0283 U+0061 U+006b U+0075 U+0061 U+02c8 U+0282 U+0061 U+005f U+005b U+0283 U+0061 U+006b U+0077 U+0061 U+02c8 U+0282 U+0061 U+005d
-kuʂu_[kuˈʂu]	<???>	kuʂu_[kuˈʂu]	Mayoruna	1	U+006b U+0075 U+0282 U+0075 U+005f U+005b U+006b U+0075 U+02c8 U+0282 U+0075 U+005d
-maiˈlu_[m͡aiˈlɤ]	<???>	maiˈlu_[m͡aiˈlɤ]	Kaxarari	1	U+006d U+0061 U+0069 U+02c8 U+006c U+0075 U+005f U+005b U+006d U+0361 U+0061 U+0069 U+02c8 U+006c U+0264 U+005d
-ˈmatsi_[ˈmātsĭ]	<???>	ˈmatsi_[ˈmātsĭ]	Marubo	1	U+02c8 U+006d U+0061 U+0074 U+0073 U+0069 U+005f U+005b U+02c8 U+006d U+0101 U+0074 U+0073 U+012d U+005d
-mãtsũy_[mə̃nˈdzoỹ]	<???>	mãtsũy_[mə̃nˈdzoỹ]	Katukina	1	U+006d U+00e3 U+0074 U+0073 U+0169 U+0079 U+005f U+005b U+006d U+0259 U+0303 U+006e U+02c8 U+0064 U+007a U+006f U+1ef9 U+005d
 ẽ́$	ẽ́	meẽ́	Kakataibo	1	U+1ebd U+0301 U+0024
-228$	<?>	mai᷈_228	ShipiboKonibo	1	U+0032 U+0032 U+0038 U+0024
-mai᷈_[maˈi᷈]	<???>	mai᷈_[maˈi᷈]	Marubo	1	U+006d U+0061 U+0069 U+1dc8 U+005f U+005b U+006d U+0061 U+02c8 U+0069 U+1dc8 U+005d
-mayti_[mayˈte]	<???>	mayti_[mayˈte]	Katukina	1	U+006d U+0061 U+0079 U+0074 U+0069 U+005f U+005b U+006d U+0061 U+0079 U+02c8 U+0074 U+0065 U+005d
-maka_tanu_[maˈka_taˈnun]	<???>	maka_tanu_[maˈka_taˈnun]	Mayoruna	1	U+006d U+0061 U+006b U+0061 U+005f U+0074 U+0061 U+006e U+0075 U+005f U+005b U+006d U+0061 U+02c8 U+006b U+0061 U+005f U+0074 U+0061 U+02c8 U+006e U+0075 U+006e U+005d
 á᷈$	á᷈	maká᷈	ShipiboKonibo	1	U+00e1 U+1dc8 U+0024
-makano_[maˈkano]	<???>	makano_[maˈkano]	Mayoruna	1	U+006d U+0061 U+006b U+0061 U+006e U+006f U+005f U+005b U+006d U+0061 U+02c8 U+006b U+0061 U+006e U+006f U+005d
-makɨ_[maˈkɨʔ]	<???>	makɨ_[maˈkɨʔ]	Katukina	1	U+006d U+0061 U+006b U+0268 U+005f U+005b U+006d U+0061 U+02c8 U+006b U+0268 U+0294 U+005d
-makɨ_[maˈkɨ]	<???>	makɨ_[maˈkɨ]	Mayoruna	1	U+006d U+0061 U+006b U+0268 U+005f U+005b U+006d U+0061 U+02c8 U+006b U+0268 U+005d
-malaˈhi_[mɐlɐˈhi]	<???>	malaˈhi_[mɐlɐˈhi]	Kaxarari	1	U+006d U+0061 U+006c U+0061 U+02c8 U+0068 U+0069 U+005f U+005b U+006d U+0250 U+006c U+0250 U+02c8 U+0068 U+0069 U+005d
-mani_[maˈni]	<???>	mani_[maˈni]	Mayoruna	1	U+006d U+0061 U+006e U+0069 U+005f U+005b U+006d U+0061 U+02c8 U+006e U+0069 U+005d
-bɨdnu_[bɨdˈnu]	<???>	bɨdnu_[bɨdˈnu]	Mayoruna	1	U+0062 U+0268 U+0064 U+006e U+0075 U+005f U+005b U+0062 U+0268 U+0064 U+02c8 U+006e U+0075 U+005d
-mapo_[ˈmapo]	<???>	mapo_[ˈmapo]	Marubo	1	U+006d U+0061 U+0070 U+006f U+005f U+005b U+02c8 U+006d U+0061 U+0070 U+006f U+005d
-mapuʔu_[mapuˈʔu]	<???>	mapuʔu_[mapuˈʔu]	Kaxarari	1	U+006d U+0061 U+0070 U+0075 U+0294 U+0075 U+005f U+005b U+006d U+0061 U+0070 U+0075 U+02c8 U+0294 U+0075 U+005d
 ësh	ësh	madaështe	Mayoruna	1	U+00eb U+0073 U+0068
-maɾi_[ˈmāɾĭ]	<???>	maɾi_[ˈmāɾĭ]	Marubo	1	U+006d U+0061 U+027e U+0069 U+005f U+005b U+02c8 U+006d U+0101 U+027e U+012d U+005d
-made_[maɾe]	<???>	made_[maɾe]	Matis	1	U+006d U+0061 U+0064 U+0065 U+005f U+005b U+006d U+0061 U+027e U+0065 U+005d
-hɨnɨmaˈʃi_[hɨnɨmaˈʃi]	<???>	hɨnɨmaˈʃi_[hɨnɨmaˈʃi]	Kaxarari	1	U+0068 U+0268 U+006e U+0268 U+006d U+0061 U+02c8 U+0283 U+0069 U+005f U+005b U+0068 U+0268 U+006e U+0268 U+006d U+0061 U+02c8 U+0283 U+0069 U+005d
-maʃi_[maˈʃiʔ]	<???>	maʃi_[maˈʃiʔ]	Katukina	1	U+006d U+0061 U+0283 U+0069 U+005f U+005b U+006d U+0061 U+02c8 U+0283 U+0069 U+0294 U+005d
-masi_[maˈsi]	<???>	masi_[maˈsi]	Mayoruna	1	U+006d U+0061 U+0073 U+0069 U+005f U+005b U+006d U+0061 U+02c8 U+0073 U+0069 U+005d
-maʂkad_[maʂˈkad]_isla_temporal	<???>	maʂkad_[maʂˈkad]_isla_temporal	Mayoruna	1	U+006d U+0061 U+0282 U+006b U+0061 U+0064 U+005f U+005b U+006d U+0061 U+0282 U+02c8 U+006b U+0061 U+0064 U+005d U+005f U+0069 U+0073 U+006c U+0061 U+005f U+0074 U+0065 U+006d U+0070 U+006f U+0072 U+0061 U+006c
 ʐ	ʐ	mapuʐo	Kakataibo	1	U+0290
-matas_[maˈtas]	<???>	matas_[maˈtas]	Mayoruna	1	U+006d U+0061 U+0074 U+0061 U+0073 U+005f U+005b U+006d U+0061 U+02c8 U+0074 U+0061 U+0073 U+005d
-maues_[maˈwes]	<???>	maues_[maˈwes]	Mayoruna	1	U+006d U+0061 U+0075 U+0065 U+0073 U+005f U+005b U+006d U+0061 U+02c8 U+0077 U+0065 U+0073 U+005d
 ls	ls	pulsera	Kaxinawa	1	U+006c U+0073
-mɨ᷈tsisi_[mɨ᷈ˈtsisi]	<???>	mɨ᷈tsisi_[mɨ᷈ˈtsisi]	Marubo	1	U+006d U+0268 U+1dc8 U+0074 U+0073 U+0069 U+0073 U+0069 U+005f U+005b U+006d U+0268 U+1dc8 U+02c8 U+0074 U+0073 U+0069 U+0073 U+0069 U+005d
-mɨ᷈tʃiʃi_[məˈ᷈tʃiʃi]	<???>	mɨ᷈tʃiʃi_[məˈ᷈tʃiʃi]	Katukina	1	U+006d U+0268 U+1dc8 U+0074 U+0283 U+0069 U+0283 U+0069 U+005f U+005b U+006d U+0259 U+02c8 U+1dc8 U+0074 U+0283 U+0069 U+0283 U+0069 U+005d
-mɨntsis_[mɨnˈtsis]	<???>	mɨntsis_[mɨnˈtsis]	Mayoruna	1	U+006d U+0268 U+006e U+0074 U+0073 U+0069 U+0073 U+005f U+005b U+006d U+0268 U+006e U+02c8 U+0074 U+0073 U+0069 U+0073 U+005d
-^229	<?>	229_mɨkayao	ShipiboKonibo	1	U+005e U+0032 U+0032 U+0039
-naʔa[naˈʔa]	<???>	naʔa[naˈʔa]	Kaxarari	1	U+006e U+0061 U+0294 U+0061 U+005b U+006e U+0061 U+02c8 U+0294 U+0061 U+005d
-[ˈnaj᷈]	<???>	[ˈnaj᷈]	Marubo	1	U+005b U+02c8 U+006e U+0061 U+006a U+1dc8 U+005d
-nali_[naˈli]	<???>	nali_[naˈli]	Kaxarari	1	U+006e U+0061 U+006c U+0069 U+005f U+005b U+006e U+0061 U+02c8 U+006c U+0069 U+005d
-nai_[ˈnay]	<???>	nai_[ˈnay]	Mayoruna	1	U+006e U+0061 U+0069 U+005f U+005b U+02c8 U+006e U+0061 U+0079 U+005d
-naitʃi_[naiˈtʃi]	<???>	naitʃi_[naiˈtʃi]	Kaxarari	1	U+006e U+0061 U+0069 U+0074 U+0283 U+0069 U+005f U+005b U+006e U+0061 U+0069 U+02c8 U+0074 U+0283 U+0069 U+005d
-nakua_[naˈkwa]	<???>	nakua_[naˈkwa]	Mayoruna	1	U+006e U+0061 U+006b U+0075 U+0061 U+005f U+005b U+006e U+0061 U+02c8 U+006b U+0077 U+0061 U+005d
-nimaˈnu_[niˈma]	<???>	nimaˈnu_[niˈma]	Kaxarari	1	U+006e U+0069 U+006d U+0061 U+02c8 U+006e U+0075 U+005f U+005b U+006e U+0069 U+02c8 U+006d U+0061 U+005d
-nami_[naˈmi]	<???>	nami_[naˈmi]	Mayoruna	1	U+006e U+0061 U+006d U+0069 U+005f U+005b U+006e U+0061 U+02c8 U+006d U+0069 U+005d
-napi_[naˈpi]	<???>	napi_[naˈpi]	Mayoruna	1	U+006e U+0061 U+0070 U+0069 U+005f U+005b U+006e U+0061 U+02c8 U+0070 U+0069 U+005d
-nia_[neˈaʔ]	<???>	nia_[neˈaʔ]	Katukina	1	U+006e U+0069 U+0061 U+005f U+005b U+006e U+0065 U+02c8 U+0061 U+0294 U+005d
-nɨa_[nɨˈa]	<???>	nɨa_[nɨˈa]	Yawanawa	1	U+006e U+0268 U+0061 U+005f U+005b U+006e U+0268 U+02c8 U+0061 U+005d
-lɨˈtɨ[ləˈtə]	<???>	lɨˈtɨ[ləˈtə]	Kaxarari	1	U+006c U+0268 U+02c8 U+0074 U+0268 U+005b U+006c U+0259 U+02c8 U+0074 U+0259 U+005d
-nia_[ni.'a]	<???>	nia_[ni.'a]	Shanenawa	1	U+006e U+0069 U+0061 U+005f U+005b U+006e U+0069 U+002e U+0027 U+0061 U+005d
 ë	ë	nimëduc	Mayoruna	1	U+00eb
-nibed_[niˈbed]	<???>	nibed_[niˈbed]	Mayoruna	1	U+006e U+0069 U+0062 U+0065 U+0064 U+005f U+005b U+006e U+0069 U+02c8 U+0062 U+0065 U+0064 U+005d
 ’h	<?>	niɸ’halar’	Kakataibo	1	U+2019 U+0068
-nɨiʃ_[ˈnɨyʃ]	<???>	nɨiʃ_[ˈnɨyʃ]	Mayoruna	1	U+006e U+0268 U+0069 U+0283 U+005f U+005b U+02c8 U+006e U+0268 U+0079 U+0283 U+005d
-nua_[nwá]	<???>	nua_[nwá]	Mayoruna	1	U+006e U+0075 U+0061 U+005f U+005b U+006e U+0077 U+00e1 U+005d
-uˈli_[oˈli]	<???>	uˈli_[oˈli]	Kaxarari	1	U+0075 U+02c8 U+006c U+0069 U+005f U+005b U+006f U+02c8 U+006c U+0069 U+005d
-nuen_[nwén]	<???>	nuen_[nwén]	Mayoruna	1	U+006e U+0075 U+0065 U+006e U+005f U+005b U+006e U+0077 U+00e9 U+006e U+005d
-nunu_[nuˈnu]	<???>	nunu_[nuˈnu]	Yawanawa	1	U+006e U+0075 U+006e U+0075 U+005f U+005b U+006e U+0075 U+02c8 U+006e U+0075 U+005d
 ^ū	ū	ūă	Marubo	1	U+005e U+016b
 ^ó$	ó	ó-	Marinawa	1	U+005e U+00f3 U+0024
 ^ˈv	v	ˈvimi_ˈua	Marubo	1	U+005e U+02c8 U+0076
-hihuˈwa_[ɦiɦuˈwa]	<???>	hihuˈwa_[ɦiɦuˈwa]	Kaxarari	1	U+0068 U+0069 U+0068 U+0075 U+02c8 U+0077 U+0061 U+005f U+005b U+0266 U+0069 U+0266 U+0075 U+02c8 U+0077 U+0061 U+005d
-hua_[huˈaʔ]	<???>	hua_[huˈaʔ]	Katukina	1	U+0068 U+0075 U+0061 U+005f U+005b U+0068 U+0075 U+02c8 U+0061 U+0294 U+005d
 ^S	<?>	SK_--	Kakataibo	1	U+005e U+0053
-utsisi_[utsiˈsi]	<???>	utsisi_[utsiˈsi]	Yawanawa	1	U+0075 U+0074 U+0073 U+0069 U+0073 U+0069 U+005f U+005b U+0075 U+0074 U+0073 U+0069 U+02c8 U+0073 U+0069 U+005d
 z$	z	voz	Kapanawa	1	U+007a U+0024
-huya-ˈhi_[ɦɯjaˈɦi]	<???>	huya-ˈhi_[ɦɯjaˈɦi]	Kaxarari	1	U+0068 U+0075 U+0079 U+0061 U+002d U+02c8 U+0068 U+0069 U+005f U+005b U+0266 U+026f U+006a U+0061 U+02c8 U+0266 U+0069 U+005d
-huiwˈhi_[ɦɯiwˈɦi]	<???>	huiwˈhi_[ɦɯiwˈɦi]	Kaxarari	1	U+0068 U+0075 U+0069 U+0077 U+f045 U+02c8 U+0068 U+0069 U+005f U+005b U+0266 U+026f U+0069 U+0077 U+f045 U+02c8 U+0266 U+0069 U+005d
-uinte_[winˈte]	<???>	uinte_[winˈte]	Mayoruna	1	U+0075 U+0069 U+006e U+0074 U+0065 U+005f U+005b U+0077 U+0069 U+006e U+02c8 U+0074 U+0065 U+005d
-ompo_[om.ˈpo]	<???>	ompo_[om.ˈpo]	Mayoruna	1	U+006f U+006d U+0070 U+006f U+005f U+005b U+006f U+006d U+002e U+02c8 U+0070 U+006f U+005d
 ^õ	õ	õki	Kakataibo	1	U+005e U+00f5
-hunu_[huˈnoʔ]	<???>	hunu_[huˈnoʔ]	Katukina	1	U+0068 U+0075 U+006e U+0075 U+005f U+005b U+0068 U+0075 U+02c8 U+006e U+006f U+0294 U+005d
-unkin_[uŋ.ˈkin]	<???>	unkin_[uŋ.ˈkin]	Mayoruna	1	U+0075 U+006e U+006b U+0069 U+006e U+005f U+005b U+0075 U+014b U+002e U+02c8 U+006b U+0069 U+006e U+005d
-puˈʂɨ_[pɯˈʂɨ]	<???>	puˈʂɨ_[pɯˈʂɨ]	Kaxarari	1	U+0070 U+0075 U+02c8 U+0282 U+0268 U+005f U+005b U+0070 U+026f U+02c8 U+0282 U+0268 U+005d
-ũʃi_[õŋˈʒiʔ]	<???>	ũʃi_[õŋˈʒiʔ]	Katukina	1	U+0169 U+0283 U+0069 U+005f U+005b U+00f5 U+014b U+02c8 U+0292 U+0069 U+0294 U+005d
 ^óʃ	óʃ	óʃi	Marinawa	1	U+005e U+00f3 U+0283
-bakuˈʂu_[βakɯˈʂɯ]	<???>	bakuˈʂu_[βakɯˈʂɯ]	Kaxarari	1	U+0062 U+0061 U+006b U+0075 U+02c8 U+0282 U+0075 U+005f U+005b U+03b2 U+0061 U+006b U+026f U+02c8 U+0282 U+026f U+005d
-uʂu_[uˈʂu]	<???>	uʂu_[uˈʂu]	Mayoruna	1	U+0075 U+0282 U+0075 U+005f U+005b U+0075 U+02c8 U+0282 U+0075 U+005d
-paɨ_[paˈɨ]	<???>	paɨ_[paˈɨ]	Mayoruna	1	U+0070 U+0061 U+0268 U+005f U+005b U+0070 U+0061 U+02c8 U+0268 U+005d
-pabiate_[pa.byá.te]	<???>	pabiate_[pa.byá.te]	Mayoruna	1	U+0070 U+0061 U+0062 U+0069 U+0061 U+0074 U+0065 U+005f U+005b U+0070 U+0061 U+002e U+0062 U+0079 U+00e1 U+002e U+0074 U+0065 U+005d
-paˈka_[paˈka]	<???>	paˈka_[paˈka]	Kaxarari	1	U+0070 U+0061 U+02c8 U+006b U+0061 U+005f U+005b U+0070 U+0061 U+02c8 U+006b U+0061 U+005d
-pakɨa_[păˈkɯ̄ă]	<???>	pakɨa_[păˈkɯ̄ă]	Marubo	1	U+0070 U+0061 U+006b U+0268 U+0061 U+005f U+005b U+0070 U+0103 U+02c8 U+006b U+026f U+0304 U+0103 U+005d
 ˈɨ	ɨ	paˈɨd	Mayoruna	1	U+02c8 U+0268
-panu_[paˈnu]	<???>	panu_[paˈnu]	Mayoruna	1	U+0070 U+0061 U+006e U+0075 U+005f U+005b U+0070 U+0061 U+02c8 U+006e U+0075 U+005d
-iˈpa_[iˈpa]	<???>	iˈpa_[iˈpa]	Kaxarari	1	U+0069 U+02c8 U+0070 U+0061 U+005f U+005b U+0069 U+02c8 U+0070 U+0061 U+005d
-ɨ+ipa_[ɨˈpa]	<???>	ɨ+ipa_[ɨˈpa]	Kaxarari	1	U+0268 U+002b U+0069 U+0070 U+0061 U+005f U+005b U+0268 U+02c8 U+0070 U+0061 U+005d
 ^ɨ́́	ɨ́	ɨ́́pá	Marinawa	1	U+005e U+0268 U+0301 U+0301
-papa_[paˈpa]	<???>	papa_[paˈpa]	Mayoruna	1	U+0070 U+0061 U+0070 U+0061 U+005f U+005b U+0070 U+0061 U+02c8 U+0070 U+0061 U+005d
 ́$	<?>	parã-́	ShipiboKonibo	1	U+0301 U+0024
-padu_[paˈɾu]	<???>	padu_[paˈɾu]	Mayoruna	1	U+0070 U+0061 U+0064 U+0075 U+005f U+005b U+0070 U+0061 U+02c8 U+027e U+0075 U+005d
-ʃiˈni_[ʃiˈni]	<???>	ʃiˈni_[ʃiˈni]	Kaxarari	1	U+0283 U+0069 U+02c8 U+006e U+0069 U+005f U+005b U+0283 U+0069 U+02c8 U+006e U+0069 U+005d
-231$	<?>	pãtu231	Kaxinawa	1	U+0032 U+0033 U+0031 U+0024
-pandud_[pan.ˈdud]	<???>	pandud_[pan.ˈdud]	Mayoruna	1	U+0070 U+0061 U+006e U+0064 U+0075 U+0064 U+005f U+005b U+0070 U+0061 U+006e U+002e U+02c8 U+0064 U+0075 U+0064 U+005d
 ĩ̃$	ĩ	pɨtʃĩ̃-	ShipiboKonibo	1	U+0129 U+0303 U+0024
-piˈʔi_[piˈʔi]	<???>	piˈʔi_[piˈʔi]	Kaxarari	1	U+0070 U+0069 U+02c8 U+0294 U+0069 U+005f U+005b U+0070 U+0069 U+02c8 U+0294 U+0069 U+005d
-pɨi_[pɨ.ˈi]	<???>	pɨi_[pɨ.ˈi]	Yawanawa	1	U+0070 U+0268 U+0069 U+005f U+005b U+0070 U+0268 U+002e U+02c8 U+0069 U+005d
-pia_[ˈpīă]	<???>	pia_[ˈpīă]	Marubo	1	U+0070 U+0069 U+0061 U+005f U+005b U+02c8 U+0070 U+012b U+0103 U+005d
-pia_[ˈpia]	<???>	pia_[ˈpia]	Yaminawa	1	U+0070 U+0069 U+0061 U+005f U+005b U+02c8 U+0070 U+0069 U+0061 U+005d
-piˈya_[piˈja]	<???>	piˈya_[piˈja]	Kaxarari	1	U+0070 U+0069 U+02c8 U+0079 U+0061 U+005f U+005b U+0070 U+0069 U+02c8 U+006a U+0061 U+005d
 tʂ	ʈʂ	pitʂu	Matis	1	U+0074 U+0282
-pi᷈nu_[piˈʔ]	<???>	pi᷈nu_[piˈʔ]	Katukina	1	U+0070 U+0069 U+1dc8 U+006e U+0075 U+005f U+005b U+0070 U+0069 U+02c8 U+f06f U+0294 U+005d
 nw	nw	piskaden_boiunwate	Matis	1	U+006e U+0077
-piste_[pisˈt]	<???>	piste_[pisˈt]	Kaxarari	1	U+0070 U+0069 U+0073 U+0074 U+0065 U+005f U+005b U+0070 U+0069 U+0073 U+02c8 U+0074 U+f045 U+005d
-pistsɨk_[ˈpis.tsɨk]	<???>	pistsɨk_[ˈpis.tsɨk]	Mayoruna	1	U+0070 U+0069 U+0073 U+0074 U+0073 U+0268 U+006b U+005f U+005b U+02c8 U+0070 U+0069 U+0073 U+002e U+0074 U+0073 U+0268 U+006b U+005d
-piti_[ˈpītĭ]	<???>	piti_[ˈpītĭ]	Marubo	1	U+0070 U+0069 U+0074 U+0069 U+005f U+005b U+02c8 U+0070 U+012b U+0074 U+012d U+005d
-pui᷈_kili_[puj᷈kiˈli]	<???>	pui᷈_kili_[puj᷈kiˈli]	Kaxarari	1	U+0070 U+0075 U+0069 U+1dc8 U+005f U+006b U+0069 U+006c U+0069 U+005f U+005b U+0070 U+0075 U+006a U+1dc8 U+006b U+0069 U+02c8 U+006c U+0069 U+005d
-puinki_[puj᷈ˈki]	<???>	puinki_[puj᷈ˈki]	Yawanawa	1	U+0070 U+0075 U+0069 U+006e U+006b U+0069 U+005f U+005b U+0070 U+0075 U+006a U+1dc8 U+02c8 U+006b U+0069 U+005d
-puikon_[pwí.kon]	<???>	puikon_[pwí.kon]	Mayoruna	1	U+0070 U+0075 U+0069 U+006b U+006f U+006e U+005f U+005b U+0070 U+0077 U+00ed U+002e U+006b U+006f U+006e U+005d
-pua_[puˈa]	<???>	pua_[puˈa]	Kaxarari	1	U+0070 U+0075 U+0061 U+005f U+005b U+0070 U+0075 U+02c8 U+0061 U+005d
-pupu_[puˈpu]	<???>	pupu_[puˈpu]	Yawanawa	1	U+0070 U+0075 U+0070 U+0075 U+005f U+005b U+0070 U+0075 U+02c8 U+0070 U+0075 U+005d
-pusan_[puˈsɜ᷈]	<???>	pusan_[puˈsɜ᷈]	Shanenawa	1	U+0070 U+0075 U+0073 U+0061 U+006e U+005f U+005b U+0070 U+0075 U+02c8 U+0073 U+025c U+1dc8 U+005d
-tapuʂɨ_[taˈpuʂɨ]	<???>	tapuʂɨ_[taˈpuʂɨ]	Marubo	1	U+0074 U+0061 U+0070 U+0075 U+0282 U+0268 U+005f U+005b U+0074 U+0061 U+02c8 U+0070 U+0075 U+0282 U+0268 U+005d
-upuʃku_[upuʃˈku]	<???>	upuʃku_[upuʃˈku]	Yawanawa	1	U+0075 U+0070 U+0075 U+0283 U+006b U+0075 U+005f U+005b U+0075 U+0070 U+0075 U+0283 U+02c8 U+006b U+0075 U+005d
-putu_[puˈtu]	<???>	putu_[puˈtu]	Mayoruna	1	U+0070 U+0075 U+0074 U+0075 U+005f U+005b U+0070 U+0075 U+02c8 U+0074 U+0075 U+005d
-puyã_[puˈɐ᷈]	<???>	puyã_[puˈɐ᷈]	Marubo	1	U+0070 U+0075 U+0079 U+00e3 U+005f U+005b U+0070 U+0075 U+02c8 U+0250 U+1dc8 U+005d
 és$	és	después	Kaxinawa	1	U+00e9 U+0073 U+0024
-daɨd_[daˈɨd]	<???>	daɨd_[daˈɨd]	Mayoruna	1	U+0064 U+0061 U+0268 U+0064 U+005f U+005b U+0064 U+0061 U+02c8 U+0268 U+0064 U+005d
 	<?>	raɸi᷈ki᷈	Yaminawa	1	U+f02d
 ü	ü	dabi-ɸ’tener_vergüenza	Kaxinawa	1	U+00fc
-raβɨʂo_[ɾaβɨˈʂoʔ]	<???>	raβɨʂo_[ɾaβɨˈʂoʔ]	Katukina	1	U+0072 U+0061 U+03b2 U+0268 U+0282 U+006f U+005f U+005b U+027e U+0061 U+03b2 U+0268 U+02c8 U+0282 U+006f U+0294 U+005d
-tʃakɨtaya_[tʃakɨtaˈja]	<???>	tʃakɨtaya_[tʃakɨtaˈja]	Kaxarari	1	U+0074 U+0283 U+0061 U+006b U+0268 U+0074 U+0061 U+0079 U+0061 U+005f U+005b U+0074 U+0283 U+0061 U+006b U+0268 U+0074 U+0061 U+02c8 U+006a U+0061 U+005d
-[ˈɾani]	<???>	[ˈɾani]	Marubo	1	U+005b U+02c8 U+027e U+0061 U+006e U+0069 U+005d
-tʃaniʔi_[tʃɐˈniˈʔi]	<???>	tʃaniʔi_[tʃɐˈniˈʔi]	Kaxarari	1	U+0074 U+0283 U+0061 U+006e U+0069 U+0294 U+0069 U+005f U+005b U+0074 U+0283 U+0250 U+02c8 U+006e U+0069 U+02c8 U+0294 U+0069 U+005d
 t́́	t́́	rɨt́́_ɨ-	Marinawa	1	U+0074 U+0301 U+0301
-ɾihu_[ɾiˈhuʔ]	<???>	ɾihu_[ɾiˈhuʔ]	Shanenawa	1	U+027e U+0069 U+0068 U+0075 U+005f U+005b U+027e U+0069 U+02c8 U+0068 U+0075 U+0294 U+005d
-ɾɨβu_[ɾɨˈβ̄ʊ]	<???>	ɾɨβu_[ɾɨˈβ̄ʊ]	Katukina	1	U+027e U+0268 U+03b2 U+0075 U+005f U+005b U+027e U+0268 U+02c8 U+03b2 U+0304 U+028a U+005d
-[ɾɨˈh̄ʊ]	<???>	[ɾɨˈh̄ʊ]	Yawanawa	1	U+005b U+027e U+0268 U+02c8 U+0068 U+0304 U+028a U+005d
-ɾɨvukiri_[ɾɨˈβo_kiˈɾi]	<???>	ɾɨvukiri_[ɾɨˈβo_kiˈɾi]	Katukina	1	U+027e U+0268 U+0076 U+0075 U+006b U+0069 U+0072 U+0069 U+005f U+005b U+027e U+0268 U+02c8 U+03b2 U+006f U+005f U+006b U+0069 U+02c8 U+027e U+0069 U+005d
-ɾɨki᷈_[ɾɨˈki᷈]	<???>	ɾɨki᷈_[ɾɨˈki᷈]	Marubo	1	U+027e U+0268 U+006b U+0069 U+1dc8 U+005f U+005b U+027e U+0268 U+02c8 U+006b U+0069 U+1dc8 U+005d
-[tʃɨkɐˈni]	<???>	[tʃɨkɐˈni]	Kaxarari	1	U+005b U+0074 U+0283 U+0268 U+006b U+0250 U+02c8 U+006e U+0069 U+005d
-ɾɨkin_[ɾɨˈki᷈]	<???>	ɾɨkin_[ɾɨˈki᷈]	Katukina	1	U+027e U+0268 U+006b U+0069 U+006e U+005f U+005b U+027e U+0268 U+02c8 U+006b U+0069 U+1dc8 U+005d
-dɨ-pun_[dɨˈpun]	<???>	dɨ-pun_[dɨˈpun]	Mayoruna	1	U+0064 U+0268 U+002d U+0070 U+0075 U+006e U+005f U+005b U+0064 U+0268 U+02c8 U+0070 U+0075 U+006e U+005d
 ɨ́́ɨ́́	ɨ́ɨ́	rɨ́́ɨ́́_I	Amawaka	1	U+0268 U+0301 U+0301 U+0268 U+0301 U+0301
 sw	sw	riswii_I	Amawaka	1	U+0073 U+0077
-tʃitʃiˈsi_[tʃitʃiˈsi]	<???>	tʃitʃiˈsi_[tʃitʃiˈsi]	Kaxarari	1	U+0074 U+0283 U+0069 U+0074 U+0283 U+0069 U+02c8 U+0073 U+0069 U+005f U+005b U+0074 U+0283 U+0069 U+0074 U+0283 U+0069 U+02c8 U+0073 U+0069 U+005d
 ^ˈtʃh	ˈtʃh	ˈtʃhɨʔɨ	Kaxarari	1	U+005e U+02c8 U+0074 U+0283 U+0068
-ruku_[ruˈkuʔ]	<???>	ruku_[ruˈkuʔ]	Katukina	1	U+0072 U+0075 U+006b U+0075 U+005f U+005b U+0072 U+0075 U+02c8 U+006b U+0075 U+0294 U+005d
-ɾuɨ_[ruˈɨ]	<???>	ɾuɨ_[ruˈɨ]	Yawanawa	1	U+027e U+0075 U+0268 U+005f U+005b U+0072 U+0075 U+02c8 U+0268 U+005d
-ɾomɨ_[ɾū᷈mɯ]̆	<???>	ɾomɨ_[ɾū᷈mɯ]̆	Marubo	1	U+027e U+006f U+006d U+0268 U+005f U+005b U+027e U+016b U+1dc8 U+006d U+026f U+005d U+0306
-dunu_[du.ˈnu]	<???>	dunu_[du.ˈnu]	Mayoruna	1	U+0064 U+0075 U+006e U+0075 U+005f U+005b U+0064 U+0075 U+002e U+02c8 U+006e U+0075 U+005d
 ã́́$	ã́	sanã́́-	ShipiboKonibo	1	U+00e3 U+0301 U+0301 U+0024
 ^ˈs	s	ˈsaniman	ShipiboKonibo	1	U+005e U+02c8 U+0073
-saued_[sa.ˈwed]	<???>	saued_[sa.ˈwed]	Mayoruna	1	U+0073 U+0061 U+0075 U+0065 U+0064 U+005f U+005b U+0073 U+0061 U+002e U+02c8 U+0077 U+0065 U+0064 U+005d
-ʃiʃiwa_[ʃiʃiˈwa]	<???>	ʃiʃiwa_[ʃiʃiˈwa]	Kaxarari	1	U+0283 U+0069 U+0283 U+0069 U+0077 U+0061 U+005f U+005b U+0283 U+0069 U+0283 U+0069 U+02c8 U+0077 U+0061 U+005d
-juego_96)	<???>	juego_96)	Kaxinawa	1	U+006a U+0075 U+0065 U+0067 U+006f U+005f U+0039 U+0036 U+0029
 	<?>	ʃiɸI	Amawaka	1	U+f06f
-ʃinãhi_[ʃinɐˈxi]	<???>	ʃinãhi_[ʃinɐˈxi]	Kaxarari	1	U+0283 U+0069 U+006e U+00e3 U+0068 U+0069 U+005f U+005b U+0283 U+0069 U+006e U+0250 U+02c8 U+0078 U+0069 U+005d
-ʃilua_[ʃiluˈa]	<???>	ʃilua_[ʃiluˈa]	Kaxarari	1	U+0283 U+0069 U+006c U+0075 U+0061 U+005f U+005b U+0283 U+0069 U+006c U+0075 U+02c8 U+0061 U+005d
-ʃinu_[ʃĩˈoʔ]	<???>	ʃinu_[ʃĩˈoʔ]	Katukina	1	U+0283 U+0069 U+006e U+0075 U+005f U+005b U+0283 U+0129 U+02c8 U+006f U+0294 U+005d
-ʃipi_[ʃiˈpi]	<???>	ʃipi_[ʃiˈpi]	Kaxarari	1	U+0283 U+0069 U+0070 U+0069 U+005f U+005b U+0283 U+0069 U+02c8 U+0070 U+0069 U+005d
-ʂaɨ_[ʂaˈɨ]	<???>	ʂaɨ_[ʂaˈɨ]	Yawanawa	1	U+0282 U+0061 U+0268 U+005f U+005b U+0282 U+0061 U+02c8 U+0268 U+005d
-ʃatɨ-_[ˈʃātɯ̆]	<???>	ʃatɨ-_[ˈʃātɯ̆]	Marubo	1	U+0283 U+0061 U+0074 U+0268 U+002d U+005f U+005b U+02c8 U+0283 U+0101 U+0074 U+026f U+0306 U+005d
 ɐ̄᷈	ɐ̄᷈	ˈʃɐ̄᷈nă-	Marubo	1	U+0250 U+0304 U+1dc8
-ʂana_[ʂaˈnaʔ]	<???>	ʂana_[ʂaˈnaʔ]	Katukina	1	U+0282 U+0061 U+006e U+0061 U+005f U+005b U+0282 U+0061 U+02c8 U+006e U+0061 U+0294 U+005d
 p$	p	ʂana-dap	Matis	1	U+0070 U+0024
-ʂahu_[ʂaˈhwu]	<???>	ʂahu_[ʂaˈhwu]	Kaxarari	1	U+0282 U+0061 U+0068 U+0075 U+005f U+005b U+0282 U+0061 U+02c8 U+0068 U+0077 U+0075 U+005d
 ^q	q	que_parecen_con_algodón	Mayoruna	1	U+005e U+0071
-ʂaʂu_[ʂaˈʂu]	<???>	ʂaʂu_[ʂaˈʂu]	Kaxarari	1	U+0282 U+0061 U+0282 U+0075 U+005f U+005b U+0282 U+0061 U+02c8 U+0282 U+0075 U+005d
-ʂaʂu_[ʂaˈʂoʔ]	<???>	ʂaʂu_[ʂaˈʂoʔ]	Katukina	1	U+0282 U+0061 U+0282 U+0075 U+005f U+005b U+0282 U+0061 U+02c8 U+0282 U+006f U+0294 U+005d
-ʃawalɨ_[ʃawaˈlɨ]	<???>	ʃawalɨ_[ʃawaˈlɨ]	Kaxarari	1	U+0283 U+0061 U+0077 U+0061 U+006c U+0268 U+005f U+005b U+0283 U+0061 U+0077 U+0061 U+02c8 U+006c U+0268 U+005d
 ãã	ãã	xãã_II	Amawaka	1	U+00e3 U+00e3
-ʃawɨ_[ʃaˈwɨ]	<???>	ʃawɨ_[ʃaˈwɨ]	Kaxarari	1	U+0283 U+0061 U+0077 U+0268 U+005f U+005b U+0283 U+0061 U+02c8 U+0077 U+0268 U+005d
-ʂawi_[ʂaˈwi]	<???>	ʂawi_[ʂaˈwi]	Mayoruna	1	U+0282 U+0061 U+0077 U+0069 U+005f U+005b U+0282 U+0061 U+02c8 U+0077 U+0069 U+005d
-ʂɨma_[ʂɨˈma]	<???>	ʂɨma_[ʂɨˈma]	Mayoruna	1	U+0282 U+0268 U+006d U+0061 U+005f U+005b U+0282 U+0268 U+02c8 U+006d U+0061 U+005d
-ʂɨbin_[ʂɨˈbin]	<???>	ʂɨbin_[ʂɨˈbin]	Mayoruna	1	U+0282 U+0268 U+0062 U+0069 U+006e U+005f U+005b U+0282 U+0268 U+02c8 U+0062 U+0069 U+006e U+005d
-ʂɨkɨd_[ʂɨˈkɨd]	<???>	ʂɨkɨd_[ʂɨˈkɨd]	Mayoruna	1	U+0282 U+0268 U+006b U+0268 U+0064 U+005f U+005b U+0282 U+0268 U+02c8 U+006b U+0268 U+0064 U+005d
-ʃɨni-_[ʃɯ̄᷈nĭ]	<???>	ʃɨni-_[ʃɯ̄᷈nĭ]	Marubo	1	U+0283 U+0268 U+006e U+0069 U+002d U+005f U+005b U+0283 U+026f U+0304 U+1dc8 U+006e U+012d U+005d
 C	<?>	colmillo._C.L._muela._Pico_de_papagayo	Mayoruna	1	U+0043
 	<?>	pɨ́́ʂɨ́́ʂɨaɸ	Marinawa	1	U+f077
-ʂui_[ʂuˈi]	<???>	ʂui_[ʂuˈi]	Mayoruna	1	U+0282 U+0075 U+0069 U+005f U+005b U+0282 U+0075 U+02c8 U+0069 U+005d
-ʂomoʂ_[ʂoˈmoʂ]	<???>	ʂomoʂ_[ʂoˈmoʂ]	Mayoruna	1	U+0282 U+006f U+006d U+006f U+0282 U+005f U+005b U+0282 U+006f U+02c8 U+006d U+006f U+0282 U+005d
-bi-ʃuk_[bi.ˈʃuk]	<???>	bi-ʃuk_[bi.ˈʃuk]	Mayoruna	1	U+0062 U+0069 U+002d U+0283 U+0075 U+006b U+005f U+005b U+0062 U+0069 U+002e U+02c8 U+0283 U+0075 U+006b U+005d
-ʂoma_[ʂuˈma]	<???>	ʂoma_[ʂuˈma]	Marubo	1	U+0282 U+006f U+006d U+0061 U+005f U+005b U+0282 U+0075 U+02c8 U+006d U+0061 U+005d
-ʂu᷈pa_[ʂu᷈mˈba]	<???>	ʂu᷈pa_[ʂu᷈mˈba]	Katukina	1	U+0282 U+0075 U+1dc8 U+0070 U+0061 U+005f U+005b U+0282 U+0075 U+1dc8 U+006d U+02c8 U+0062 U+0061 U+005d
-ʃuyã_[ʃujã]	<???>	ʃuyã_[ʃujã]	Kaxarari	1	U+0283 U+0075 U+0079 U+00e3 U+005f U+005b U+0283 U+0075 U+006a U+00e3 U+005d
-[taˈʔɨ]	<???>	[taˈʔɨ]	Kaxarari	1	U+005b U+0074 U+0061 U+02c8 U+0294 U+0268 U+005d
-takua_[taˈkwa]	<???>	takua_[taˈkwa]	Mayoruna	1	U+0074 U+0061 U+006b U+0075 U+0061 U+005f U+005b U+0074 U+0061 U+02c8 U+006b U+0077 U+0061 U+005d
-tamo_[tɐm᷈_bo]	<???>	tamo_[tɐm᷈_bo]	Marubo	1	U+0074 U+0061 U+006d U+006f U+005f U+005b U+0074 U+0250 U+006d U+1dc8 U+005f U+0062 U+006f U+005d
-tamu_[taˈmu]	<???>	tamu_[taˈmu]	Kaxarari	1	U+0074 U+0061 U+006d U+0075 U+005f U+005b U+0074 U+0061 U+02c8 U+006d U+0075 U+005d
 o᷈$	o᷈	tamo᷈	Yaminawa	1	U+006f U+1dc8 U+0024
-tambu_[tamˈbu]	<???>	tambu_[tamˈbu]	Mayoruna	1	U+0074 U+0061 U+006d U+0062 U+0075 U+005f U+005b U+0074 U+0061 U+006d U+02c8 U+0062 U+0075 U+005d
-talahi_[taˈlahi]	<???>	talahi_[taˈlahi]	Kaxarari	1	U+0074 U+0061 U+006c U+0061 U+0068 U+0069 U+005f U+005b U+0074 U+0061 U+02c8 U+006c U+0061 U+0068 U+0069 U+005d
 ɔ́́ɔ́́$	ɔ́ɔ́	tɔ́́ɔ́́	Kakataibo	1	U+0254 U+0301 U+0301 U+0254 U+0301 U+0301 U+0024
-tau_[ˈtaw]	<???>	tau_[ˈtaw]	Yawanawa	1	U+0074 U+0061 U+0075 U+005f U+005b U+02c8 U+0074 U+0061 U+0077 U+005d
-tʃipunu_[tʃipɯˈnɯ]	<???>	tʃipunu_[tʃipɯˈnɯ]	Kaxarari	1	U+0074 U+0283 U+0069 U+0070 U+0075 U+006e U+0075 U+005f U+005b U+0074 U+0283 U+0069 U+0070 U+026f U+02c8 U+006e U+026f U+005d
 áá	áá	táá_I	Amawaka	1	U+00e1 U+00e1
 ́́$	<?>	tɨkɨ-́́	Kakataibo	1	U+0301 U+0301 U+0024
 ḱ	<?>	ɨ́ḱ_ɨ...	Matis	1	U+1e31
-ˈmoka_tɨˈpi_[ˈmuka_təˈpi]	<???>	ˈmoka_tɨˈpi_[ˈmuka_təˈpi]	Marubo	1	U+02c8 U+006d U+006f U+006b U+0061 U+005f U+0074 U+0268 U+02c8 U+0070 U+0069 U+005f U+005b U+02c8 U+006d U+0075 U+006b U+0061 U+005f U+0074 U+0259 U+02c8 U+0070 U+0069 U+005d
-tɨpõ_[tɨˈpu᷈]	<???>	tɨpõ_[tɨˈpu᷈]	Marubo	1	U+0074 U+0268 U+0070 U+00f5 U+005f U+005b U+0074 U+0268 U+02c8 U+0070 U+0075 U+1dc8 U+005d
-tɨʂokko_[_́tɨˈʂokko]	<???>	tɨʂokko_[_́tɨˈʂokko]	Mayoruna	1	U+0074 U+0268 U+0282 U+006f U+006b U+006b U+006f U+005f U+005b U+005f U+0301 U+0074 U+0268 U+02c8 U+0282 U+006f U+006b U+006b U+006f U+005d
 ṕ	<?>	tɨtɨ́ṕa	Chakobo	1	U+1e55
-tɨ᷈to_[tə᷈ˈto]	<???>	tɨ᷈to_[tə᷈ˈto]	Marubo	1	U+0074 U+0268 U+1dc8 U+0074 U+006f U+005f U+005b U+0074 U+0259 U+1dc8 U+02c8 U+0074 U+006f U+005d
-tɨburu_[tɨbuˈɾu]	<???>	tɨburu_[tɨbuˈɾu]	Kaxarari	1	U+0074 U+0268 U+0062 U+0075 U+0072 U+0075 U+005f U+005b U+0074 U+0268 U+0062 U+0075 U+02c8 U+027e U+0075 U+005d
 ś	ś	tɨ́ś_tõ	Marinawa	1	U+015b
-waka_[waˈkaʔ]	<???>	waka_[waˈkaʔ]	Kaxarari	1	U+0077 U+0061 U+006b U+0061 U+005f U+005b U+0077 U+0061 U+02c8 U+006b U+0061 U+0294 U+005d
-wanima_[waniˈma]	<???>	wanima_[waniˈma]	Kaxarari	1	U+0077 U+0061 U+006e U+0069 U+006d U+0061 U+005f U+005b U+0077 U+0061 U+006e U+0069 U+02c8 U+006d U+0061 U+005d
-beska_[besˈka]	<???>	beska_[besˈka]	Mayoruna	1	U+0062 U+0065 U+0073 U+006b U+0061 U+005f U+005b U+0062 U+0065 U+0073 U+02c8 U+006b U+0061 U+005d
-uasin_[waˈsin]	<???>	uasin_[waˈsin]	Mayoruna	1	U+0075 U+0061 U+0073 U+0069 U+006e U+005f U+005b U+0077 U+0061 U+02c8 U+0073 U+0069 U+006e U+005d
-uesin_[weˈsin]	<???>	uesin_[weˈsin]	Mayoruna	1	U+0075 U+0065 U+0073 U+0069 U+006e U+005f U+005b U+0077 U+0065 U+02c8 U+0073 U+0069 U+006e U+005d
-wɨtsa_[wɨˈtsa]	<???>	wɨtsa_[wɨˈtsa]	Yawanawa	1	U+0077 U+0268 U+0074 U+0073 U+0061 U+005f U+005b U+0077 U+0268 U+02c8 U+0074 U+0073 U+0061 U+005d
-wɨstisi_[wɨsˈtisiʔ]	<???>	wɨstisi_[wɨsˈtisiʔ]	Marubo	1	U+0077 U+0268 U+0073 U+0074 U+0069 U+0073 U+0069 U+005f U+005b U+0077 U+0268 U+0073 U+02c8 U+0074 U+0069 U+0073 U+0069 U+0294 U+005d
-itaʂɨ_[iˈtaʂɨ]	<???>	itaʂɨ_[iˈtaʂɨ]	Marubo	1	U+0069 U+0074 U+0061 U+0282 U+0268 U+005f U+005b U+0069 U+02c8 U+0074 U+0061 U+0282 U+0268 U+005d
-unka_[uŋˈka]	<???>	unka_[uŋˈka]	Mayoruna	1	U+0075 U+006e U+006b U+0061 U+005f U+005b U+0075 U+014b U+02c8 U+006b U+0061 U+005d
-uin_[win]	<???>	uin_[win]	Mayoruna	1	U+0075 U+0069 U+006e U+005f U+005b U+0077 U+0069 U+006e U+005d
-wino_[ˈwino]	<???>	wino_[ˈwino]	Marubo	1	U+0077 U+0069 U+006e U+006f U+005f U+005b U+02c8 U+0077 U+0069 U+006e U+006f U+005d
 $	<?>	binu	Kaxinawa	1	U+f02d U+0024
-uispa_[wisˈpa]	<???>	uispa_[wisˈpa]	Mayoruna	1	U+0075 U+0069 U+0073 U+0070 U+0061 U+005f U+005b U+0077 U+0069 U+0073 U+02c8 U+0070 U+0061 U+005d
-yaˈlɨ_[jaˈlə]	<???>	yaˈlɨ_[jaˈlə]	Kaxarari	1	U+0079 U+0061 U+02c8 U+006c U+0268 U+005f U+005b U+006a U+0061 U+02c8 U+006c U+0259 U+005d
-tʃanɨn_[tʃaˈnɨn]	<???>	tʃanɨn_[tʃaˈnɨn]	Mayoruna	1	U+0074 U+0283 U+0061 U+006e U+0268 U+006e U+005f U+005b U+0074 U+0283 U+0061 U+02c8 U+006e U+0268 U+006e U+005d
-yamɨta_[yamɨˈta]	<???>	yamɨta_[yamɨˈta]	Kaxarari	1	U+0079 U+0061 U+006d U+0268 U+0074 U+0061 U+005f U+005b U+0079 U+0061 U+006d U+0268 U+02c8 U+0074 U+0061 U+005d
 ɔ́́$	ɔ́	apɔɔ́́	Kakataibo	1	U+0254 U+0301 U+0301 U+0024
-yapa[ˈyapaʔ]	<???>	yapa[ˈyapaʔ]	Marubo	1	U+0079 U+0061 U+0070 U+0061 U+005b U+02c8 U+0079 U+0061 U+0070 U+0061 U+0294 U+005d
-yapa_[jaˈpa]	<???>	yapa_[jaˈpa]	Yawanawa	1	U+0079 U+0061 U+0070 U+0061 U+005f U+005b U+006a U+0061 U+02c8 U+0070 U+0061 U+005d
-lɨtɨ_[ləˈtə]	<???>	lɨtɨ_[ləˈtə]	Kaxarari	1	U+006c U+0268 U+0074 U+0268 U+005f U+005b U+006c U+0259 U+02c8 U+0074 U+0259 U+005d
-yantan_[jãˈtã]	<???>	yantan_[jãˈtã]	Yawanawa	1	U+0079 U+0061 U+006e U+0074 U+0061 U+006e U+005f U+005b U+006a U+00e3 U+02c8 U+0074 U+00e3 U+005d
-iaua_[ja.wa]	<???>	iaua_[ja.wa]	Yawanawa	1	U+0069 U+0061 U+0075 U+0061 U+005f U+005b U+006a U+0061 U+002e U+0077 U+0061 U+005d
-tsaues_[tsaˈwes]	<???>	tsaues_[tsaˈwes]	Mayoruna	1	U+0074 U+0073 U+0061 U+0075 U+0065 U+0073 U+005f U+005b U+0074 U+0073 U+0061 U+02c8 U+0077 U+0065 U+0073 U+005d
 uu$	uu	yuu	Katukina	1	U+0075 U+0075 U+0024
-tʃuua_[ˈtʃu.wa]	<???>	tʃuua_[ˈtʃu.wa]	Mayoruna	1	U+0074 U+0283 U+0075 U+0075 U+0061 U+005f U+005b U+02c8 U+0074 U+0283 U+0075 U+002e U+0077 U+0061 U+005d
 sh$	sh	flesh	Kakataibo	1	U+0073 U+0068 U+0024
-dada_[daˈra]	<???>	dada_[daˈra]	Mayoruna	1	U+0064 U+0061 U+0064 U+0061 U+005f U+005b U+0064 U+0061 U+02c8 U+0072 U+0061 U+005d
-yosi-hi_[josiˈhi]	<???>	yosi-hi_[josiˈhi]	Kaxarari	1	U+0079 U+006f U+0073 U+0069 U+002d U+0068 U+0069 U+005f U+005b U+006a U+006f U+0073 U+0069 U+02c8 U+0068 U+0069 U+005d
 óʃ	óʃ	yóʃi	Marinawa	1	U+00f3 U+0283
