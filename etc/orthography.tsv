@@ -1,6 +1,10 @@
 Grapheme	IPA	Examples	Languages	Frequence	Codepoints
 ^	NULL				
 $	NULL				
+[n] n|r				
+[C]	t|ɽ
+[	NULL
+]	NULL
 a	a	ʔatsa, ɨɸa-pa_ɨɸa-panã	Kapanawa, Chakobo, Amawaka, ShipiboKonibo, Sharanawa, Yaminawa, Kakataibo, Katukina, Kaxarari, Yawanawa, Shanenawa, Marubo, Marinawa, Korubo, Chaninawa, MattisList, Mayoruna, Kaxinawa	100	U+0061
 i	i	ʔia, awin	Chakobo, Kapanawa, ShipiboKonibo, Kakataibo, Amawaka, MattisList, Sharanawa, Mayoruna, Katukina, Yawanawa, Shanenawa, Kaxinawa, Yaminawa, Korubo, Kaxarari, Marinawa, Poyanawa	100	U+0069
 a$	a	ia, atsa	Chakobo, Kaxinawa, ShipiboKonibo, Kapanawa, Yawanawa, Sharanawa, Amawaka, Shanenawa, Yaminawa, Kakataibo, Marinawa, Chaninawa, Marubo, Poyanawa, Katukina, MattisList, Kaxarari, Mayoruna, Korubo	100	U+0061 U+0024
