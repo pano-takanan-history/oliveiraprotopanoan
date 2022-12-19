@@ -1,25 +1,57 @@
+import csv
+import re
 from lingpy import Wordlist
 from pysem.glosses import to_concepticon
 
 wl = Wordlist("parsed-entries2.tsv")
 
-with open("../etc/concepts.tsv", "w", encoding="utf8") as f:
-    f.write("NUMER\tSPANISH\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\tProto-Concept\n")
+proto_concepts = [[
+    "GLOSS",
+    "CONCEPTICON_ID",
+    "CONCEPTICON_GLOSS",
+    "PROTO_ID",
+    "PROTO_CONCEPT"
+    ]]
 
-    proto_concepts = []
-    for i in wl:
-        if wl[i, "protoconcept"] not in proto_concepts:
-            proto_concepts.append(wl[i, "protoconcept"])
+other_concepts = [[
+    "GLOSS",
+    "PROTO_ID",
+    "PROTO_CONCEPT"
+    ]]
+concept_exists = []
 
-    for i, concept in enumerate(wl.concepts):
-        if concept in proto_concepts:
-            PP = 1
-            mapped = to_concepticon([{"gloss": concept}], language="es")
+for i in wl:
+    ID = wl[i, "IDX"]
+    concept = re.sub("  ", " ", wl[i, "concept"])
+    concept = re.sub("^ ", "", wl[i, "concept"])
 
-            if mapped[concept]:
-                cid, cgl = mapped[concept][0][:2]
+    # Proto-Concepts
+    if wl[i, "doculect"] == "Proto-Panoan":
+        PP = 1
+        mapped = to_concepticon([{"gloss": concept}], language="pt")
+
+        if mapped[concept]:
+            cid, cgl = mapped[concept][0][:2]
         else:
-            cid, cgl, is_proto = "", "", ""
+            cid, cgl = "", ""
 
-        # print(wl.concepts[i])
-        f.write("{0}\t{1}\t{2}\t{3}\t{4}\n".format(i+1, concept, cid, cgl, PP))
+        proto_concepts.append([
+            concept, cid, cgl, ID, PP
+        ])
+
+    # Other concepts
+    elif (concept, ID) not in concept_exists:
+        PP = 0
+        other_concepts.append([
+            concept, ID, PP
+        ])
+
+    concept_exists.append((concept, ID))
+
+with open("../etc/other_concepts.tsv", "w", encoding="utf8") as file:
+    writer = csv.writer(file, delimiter="\t")
+    writer.writerows(other_concepts)
+
+# with open("../etc/proto_concepts.tsv", "w", encoding="utf8") as file:
+#     writer = csv.writer(file, delimiter="\t")
+#     writer.writerows(proto_concepts)

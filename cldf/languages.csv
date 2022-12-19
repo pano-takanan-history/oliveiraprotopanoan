@@ -1,21 +1,21 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource,Sources
-Kakataibo,Kakataibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan,Ksh,"shell1975,shell1987,zariquiey2011"
-ShipiboKonibo,ShipiboKonibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan,SK,"shell1975,valenzuela2003,loriot1993"
-Kapanawa,Kapanawa,capa1241,Capanahua,kaq,South America,-6.63254,-74.3813,Pano-Tacanan,Kp,"shell1975,loos1998"
-Marubo,Marúbo,maru1252,Marúbo,mzr,South America,-6.60703,-72.4027,Pano-Tacanan,Mar,"cesarino2008,costa2000,costa1992,cabral2009,mntb"
-Chakobo,Chákobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan,Ch,"shell1975,cordoba2011,zingg1998"
-Kaxarari,Kaxararí,kaxa1239,Kaxararí,ktx,South America,-9.47288,-66.3329,Pano-Tacanan,Kax,"beksta1977,lanes2005,pickering1962,sousa2004,couto2005,valenzuela2012"
-Yaminawa,Yamináwa,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan,Yam,"faust2002,eaken2008,cabral2009"
-Chaninawa,Chanináwa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Chan,valenzuela2001
-Sharanawa,Sharanáwa,shar1245,Sharanahua,mcd,South America,-9.8626,-71.1232,Pano-Tacanan,Shar,scott2004
-Shanenawa,Shanenáwa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Shan,"candido1998,candido2004"
-Katukina,Katukina,pano1254,Panoan Katukína,knt,South America,-7.97456,-71.56151,Pano-Tacanan,Kat,"aguiar1994,barros1987,mendes1996,cabral2009"
-Poyanawa,Poyanáwa,poya1241,Poyanáwa,pyn,South America,-7.46909,-73.0758,Pano-Tacanan,Poy,paula1992
-Amawaka,Amawáka,amah1246,Amahuaca,amc,South America,-10.2012,-72.3208,Pano-Tacanan,A,"shell1975,hyde1980,osborn1948,sparing2012"
-Kaxinawa,Kaxinawá,cash1254,Cashinahua,cbs,South America,-9.72027,-71.1733,Pano-Tacanan,Kn,"shell1975,montag1981a,montag1981b,montag2008"
-Marinawa,Marináwa,mari1443,Marinahua,,South America,,,Pano-Tacanan,M,shell1975
-Yawanawa,Yawanawá,yawa1260,Yawanawa,ywn,South America,-8.87563,-71.8199,Pano-Tacanan,Yaw,"paula2004,cabral2009,souza2013"
-Korubo,Korúbo,koru1247,Korubo,xor,South America,-5.3655,-70.5094,Pano-Tacanan,Ko,oliveira2012
-MattisList,Matís,mati1255,Matís,mpq,South America,-4.3553,-70.2079,Pano-Tacanan,Mt,"ferreira2005,spanghero2005"
-Mayoruna,Mayorúna,mats1244,Matsés,mcf,South America,-5.73914,-72.6281,Pano-Tacanan,My,"fleck2003,fleck2010,fleck2012"
+Kakataibo,Kakataibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan,Ksh,"Shell1975,Shell1987,Zariquiey2011"
+ShipiboKonibo,ShipiboKonibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan,SK,"Shell1975,Valenzuela2003,Loriot1993"
+Kapanawa,Kapanawa,capa1241,Capanahua,kaq,South America,-6.63254,-74.3813,Pano-Tacanan,Kp,"Shell1975,Loos1998"
+Marubo,Marúbo,maru1252,Marúbo,mzr,South America,-6.60703,-72.4027,Pano-Tacanan,Mar,"Cesarino2008,Costa2000,Costa1992,Cabral2009,Missao"
+Chakobo,Chákobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan,Ch,"Shell1975,Cordoba2012,Zingg1998"
+Kaxarari,Kaxararí,kaxa1239,Kaxararí,ktx,South America,-9.47288,-66.3329,Pano-Tacanan,Kax,"Beksta1977,Lanes2005,Pickering1973,Sousa2004,Couto2005,Valenzuela2012"
+Yaminawa,Yamináwa,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan,Yam,"Faust2002,Eakin2008,Cabral2009"
+Chaninawa,Chanináwa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Chan,Valenzuela2001
+Sharanawa,Sharanáwa,shar1245,Sharanahua,mcd,South America,-9.8626,-71.1232,Pano-Tacanan,Shar,Scott2004
+Shanenawa,Shanenáwa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Shan,"Candido1998,Candido2004"
+Katukina,Katukina,pano1254,Panoan Katukína,knt,South America,-7.97456,-71.56151,Pano-Tacanan,Kat,"Aguiar1994,Barros1987,Mendes1996,Cabral2009"
+Poyanawa,Poyanáwa,poya1241,Poyanáwa,pyn,South America,-7.46909,-73.0758,Pano-Tacanan,Poy,Paula1992
+Amawaka,Amawáka,amah1246,Amahuaca,amc,South America,-10.2012,-72.3208,Pano-Tacanan,A,"Shell1975,Hyde1980,Osborn1948,Sparing2012"
+Kaxinawa,Kaxinawá,cash1254,Cashinahua,cbs,South America,-9.72027,-71.1733,Pano-Tacanan,Kn,"Shell1975,Montag1981a,Montag1981b,Montag2008"
+Marinawa,Marináwa,mari1443,Marinahua,,South America,,,Pano-Tacanan,M,Shell1975
+Yawanawa,Yawanawá,yawa1260,Yawanawa,ywn,South America,-8.87563,-71.8199,Pano-Tacanan,Yaw,"Paula2004,Cabral2009,Souza2013"
+Korubo,Korúbo,koru1247,Korubo,xor,South America,-5.3655,-70.5094,Pano-Tacanan,Ko,Oliveira2012
+Matis,Matís,mati1255,Matís,mpq,South America,-4.3553,-70.2079,Pano-Tacanan,Mt,"Ferreira2005,Spanghero2005"
+Mayoruna,Mayorúna,mats1244,Matsés,mcf,South America,-5.73914,-72.6281,Pano-Tacanan,My,"Fleck2003,Fleck2010,Fleck2012"
 Proto-Panoan,Proto-Panoan,,,,,,,,Proto,Oliveira2014
