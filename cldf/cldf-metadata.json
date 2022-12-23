@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "cb3b6ce",
+            "dc:created": "321bade",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.0"
+            "dc:description": "3.9.13"
         },
         {
             "dc:title": "python-packages",
