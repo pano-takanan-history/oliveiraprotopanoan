@@ -20,8 +20,8 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 44%](https://img.shields.io/badge/Concepticon-44%25-red.svg "Concepticon: 44%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 56%](https://img.shields.io/badge/BIPA-56%25-red.svg "BIPA: 56%")
-![CLTS SoundClass: 56%](https://img.shields.io/badge/CLTS%20SoundClass-56%25-red.svg "CLTS SoundClass: 56%")
+![BIPA: 59%](https://img.shields.io/badge/BIPA-59%25-red.svg "BIPA: 59%")
+![CLTS SoundClass: 59%](https://img.shields.io/badge/CLTS%20SoundClass-59%25-red.svg "CLTS SoundClass: 59%")
 
 - **Varieties:** 20
 - **Concepts:** 2,554
@@ -32,7 +32,7 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
 - **Tokens:** 32,355
-- **Segments:** 152 (67 BIPA errors, 67 CTLS sound class errors, 85 CLTS modified)
+- **Segments:** 152 (63 BIPA errors, 63 CTLS sound class errors, 89 CLTS modified)
 - **Inventory size (avg):** 40.80
 
 ## Possible Improvements:

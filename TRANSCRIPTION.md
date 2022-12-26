@@ -63,12 +63,12 @@
 | <<:>> | 16 | ? | ? |
 | óʂ | 15 | ? | ? |
 | ɔɔ | 15 | ✓ | ✓ |
-| <<ɐ>> | 14 | ? | ? |
-| <<ɦ>> | 14 | ? | ? |
-| <<ɯ>> | 14 | ? | ? |
+| ɐ | 14 | ✓ | ✓ |
+| ɦ | 14 | ✓ | ✓ |
 | ɬ | 14 | ✓ | ✓ |
+| ɯ | 14 | ✓ | ✓ |
 | ɲ | 13 | ✓ | ✓ |
-| <<ə>> | 11 | ? | ? |
+| ə | 11 | ✓ | ✓ |
 | ʈʂ | 11 | ✓ | ✓ |
 | ɔ | 10 | ✓ | ✓ |
 | <<ĭ>> | 7 | ? | ? |
@@ -174,8 +174,9 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------------------------------|:--------------|:------------------------------------|:-------------------|:-------------------------------------------------------------|
+|:------------------------------------------------|:--------------|:------------------------------------|:-------------------|:--------------------------------------------------|
 | Amawaka-3apessoadoplural-1 | Amawaka | 3apessoadoplural | hato_II | h a t o + |
+| Amawaka-aclararsecomoelcielo-1 | Amawaka | aclararsecomoelcielo | wixwa- | w i <s> xw </s> a |
 | Amawaka-antatapirusterrestris-2 | Amawaka | antatapirusterrestris | áá_I | áá + |
 | Amawaka-arraia-1 | Amawaka | arraia | ii_I | ii + |
 | Amawaka-caminhopicada-1 | Amawaka | caminhopicada | waʔi_II | w a ʔ i + |
@@ -198,12 +199,14 @@
 | Amawaka-espdepeixe-1 | Amawaka | espdepeixe | watõ_II | w a t õ + |
 | Amawaka-faldatela-1 | Amawaka | faldatela | watʃí_I | w a tʃ í + |
 | Amawaka-filhocrianca-1 | Amawaka | filhocrianca | wakɨ_I | w a k ɨ + |
+| Amawaka-finodelgado-1 | Amawaka | finodelgado | wɨxna_II | w ɨ x n a + |
 | Amawaka-japuespdepassarodafamicteridae-1 | Amawaka | japuespdepassarodafamicteridae | iskó_I | i s k ó/o + |
 | Amawaka-lago-2 | Amawaka | lago | i᷈yã_I | ĩ y ã + |
 | Amawaka-luna-1 | Amawaka | luna | oxɨ́_I | o x ɨ́ + |
 | Amawaka-macacopretoespdemacacodafamatelidae-1 | Amawaka | macacopretoespdemacacodafamatelidae | iso_II | i s o + |
 | Amawaka-macaxeiramandioca-2 | Amawaka | macaxeiramandioca | Atsa_I | <s> <?> </s> ts a + |
 | Amawaka-mutumdaespdafamcracidae-1 | Amawaka | mutumdaespdafamcracidae | hãsi᷈_I | h ã s ĩ + |
+| Amawaka-olho-1 | Amawaka | olho | wɨɾo_II | w ɨ ɾ o + |
 | Amawaka-ovo-1 | Amawaka | ovo | watʃí_I | w a tʃ í + |
 | Amawaka-pacacuniculuspaca-1 | Amawaka | pacacuniculuspaca | aˈno_I | a n o + |
 | Amawaka-papagaioespdafampsittacidae-2 | Amawaka | papagaioespdafampsittacidae | waa_II | w aa + |
@@ -213,7 +216,9 @@
 | Amawaka-piojo-1 | Amawaka | piojo | iyá_I | i y á + |
 | Amawaka-pisar-2 | Amawaka | pisar | hama-_I | h a m a + + |
 | Amawaka-quentecalor-3 | Amawaka | quentecalor | itsis_I | i ts i s + |
+| Amawaka-resina-1 | Amawaka | resina | wɨpõ_II | w ɨ p õ + |
 | Amawaka-rir-1 | Amawaka | rir | osã-_I | o s ã + + |
+| Amawaka-sobrancelhas-1 | Amawaka | sobrancelhas | wɨʃpi_I | w ɨ ʃ p i + |
 | Amawaka-sol-1 | Amawaka | sol | waɾi_II | w a ɾ i + |
 | Amawaka-sombra-2 | Amawaka | sombra | ota_I | o t a + |
 | Amawaka-surubimpseudoplatyatomacoruscans-1 | Amawaka | surubimpseudoplatyatomacoruscans | wãi᷈_II | w ã ĩ + |
@@ -233,25 +238,19 @@
 | Katukina-dar-1 | Katukina | dar | inna-ai | i <s> nn </s> a + a i |
 | Katukina-mutumdaespdafamcracidae-1 | Katukina | mutumdaespdafamcracidae | ansin | a <s> ns </s> i n |
 | Katukina-surubim-2 | Katukina | surubim | βaˈiʔ | β a <s> <<ˈ>> </s> i ʔ |
-| Katukina-testa-1 | Katukina | testa | βɨmɐˈna | β ɨ m <s> <<ɐ>> </s> n a |
-| Kaxarari-comitativo-2 | Kaxarari | comitativo | ɦaβɨlaˈkɨ | <s> <<ɦ>> </s> a β ɨ l a k ɨ |
-| Kaxarari-grande-1 | Kaxarari | grande | lakiɦaˈi | l a k i <s> <<ɦ>> </s> a i |
-| Kaxarari-nombrar-1 | Kaxarari | nombrar | haˈlə | h a l <s> <<ə>> </s> |
-| Kaxarari-nombrar-2 | Kaxarari | nombrar | ɦaˈlɨ | <s> <<ɦ>> </s> a l ɨ |
-| Kaxarari-oque-1 | Kaxarari | oque | ɦaˈwã | <s> <<ɦ>> </s> a w ã |
 | Kaxarari-pesado-1 | Kaxarari | pesado | na͡iˈwɨ | n a <s> <<͡>> </s> i w ɨ |
-| Kaxarari-porque-1 | Kaxarari | porque | hawɨ͡iˈʃɯ | h a w ɨ <s> <<͡>> </s> i ʃ <s> <<ɯ>> </s> |
+| Kaxarari-porque-1 | Kaxarari | porque | hawɨ͡iˈʃɯ | h a w ɨ <s> <<͡>> </s> i ʃ ɯ |
 | Korubo-nomeproprio-1 | Korubo | nomeproprio | Atsa | <s> <?> </s> ts a |
 | Marinawa-dormir-1 | Marinawa | dormir | óʂá | <s> óʂ </s> á |
 | Marinawa-reirsesonreirsereirsede-1 | Marinawa | reirsesonreirsereirsede | ósã | <s> ós </s> ã |
 | Marubo-3plesses-1 | Marubo | 3plesses | ˈātĭ | <s> <<ˈ>> </s> <s> <<ā>> </s> t <s> <<ĭ>> </s> |
 | Marubo-agua-1 | Marubo | agua | ˈwakapaʃa | w a k a p a <s> <?> </s> a |
-| Marubo-grande-1 | Marubo | grande | ˈɐ᷈ni- | <s> <<ˈ>> </s> <s> <<ɐ>> </s> <s> <<᷈>> </s> n i |
+| Marubo-grande-1 | Marubo | grande | ˈɐ᷈ni- | <s> <<ˈ>> </s> ɐ <s> <<᷈>> </s> n i |
 | Marubo-lago-1 | Marubo | lago | ˈi᷈ˈɐ᷈ | i <s> <<᷈>> </s> <s> <<ˈ>> </s> ɐ̃ |
 | Marubo-macacopretoespdemacacodafamatelidae-1 | Marubo | macacopretoespdemacacodafamatelidae | ʔīsɞ̆ | ʔ <s> <<ī>> </s> s <s> <<ɞ>> </s> <s> <<̆>> </s> |
 | Marubo-mutumdaespdafamcracidae-1 | Marubo | mutumdaespdafamcracidae | ãsi᷈ɸ | ã s ĩ ɸ <s> <?> </s> |
 | Marubo-peso-1 | Marubo | peso | ɨwɨr-_ka | ɨ w ɨ r + + k a |
-| Marubo-rir-1 | Marubo | rir | [u᷈ˈsɐ᷈ɐ]᷈ | ũ s <s> <<ɐ>> </s> <s> <<᷈>> </s> <s> <<ɐ>> </s> <s> <?> </s> |
+| Marubo-rir-1 | Marubo | rir | [u᷈ˈsɐ᷈ɐ]᷈ | ũ s ɐ <s> <<᷈>> </s> ɐ <s> <?> </s> |
 | Marubo-sol-1 | Marubo | sol | ˈɸari | <s> <<ˈ>> </s> ɸ a r i |
 | Matis-mandioca-1 | Matis | mandioca | Atsa | <s> <?> </s> ts a |
 | Proto-Panoan-capivara-1 | Proto-Panoan | capivara | ʔamɨ[n] | ʔ a m ɨ <s> n|r </s> |
@@ -259,6 +258,7 @@
 | Proto-Panoan-conheceraprender-1 | Proto-Panoan | conheceraprender | ʔo[n]a[n]- | ʔ o <s> n|r </s> a <s> n|r </s> |
 | Proto-Panoan-espdeonca-1 | Proto-Panoan | espdeonca | ʔi[n]o | ʔ i <s> n|r </s> o |
 | Proto-Panoan-esquecerperder-1 | Proto-Panoan | esquecerperder | βɨʔ[n]oCc- | β ɨ ʔ <s> n|r </s> o <s> <?> </s> c |
+| Proto-Panoan-finoraso-1 | Proto-Panoan | finoraso | βɨʂ[n]a[n] | β ɨ ʂ <s> n|r </s> a <s> n|r </s> |
 | Proto-Panoan-mulheresposa-1 | Proto-Panoan | mulheresposa | ʔawi[n] | ʔ a w i <s> n|r </s> |
 | Proto-Panoan-mutumdaespdafamcracidae-1 | Proto-Panoan | mutumdaespdafamcracidae | hãsi[n] | h ã s i <s> n|r </s> |
 | Proto-Panoan-olhar-1 | Proto-Panoan | olhar | ʔoi[n]- | ʔ o i <s> n|r </s> |
