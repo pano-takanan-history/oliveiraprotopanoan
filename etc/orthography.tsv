@@ -11,6 +11,7 @@ I	NULL
 II	NULL				
 ó	ó/o				
 i᷈	ĩ				
+ɐ	ɐ	[u᷈ˈsɐ᷈ɐ]᷈	, kanataˈhi [kɐnataˈɦi]	Kaxarari, Marubo, Katukina, Yawanawa		
 ɨ᷈	ɨ̃	mɨkɨ᷈ , ɨ᷈ noi ʃavo	Marubo, Yaminawa, Kaxinawa, Yawanawa, Katukina, Marinawa, Amawaka, Kakataibo, ShipiboKonibo		
 ɽ	ɽ	naiɽ, maʂkoɽ-	Kakataibo, ShipiboKonibo, Kapanawa, Kaxinawa, Mayoruna, Chaninawa, Sharanawa, Amawaka, Marinawa, Korubo, Chakobo, Kaxarari, Shanenawa, Katukina, Yawanawa, Yaminawa, Poyanawa		U+027D
 a	a	ʔatsa, ɨɸa-pa_ɨɸa-panã	Kapanawa, Chakobo, Amawaka, ShipiboKonibo, Sharanawa, Yaminawa, Kakataibo, Katukina, Kaxarari, Yawanawa, Shanenawa, Marubo, Marinawa, Korubo, Chaninawa, Matis, Mayoruna, Kaxinawa	100	U+0061
@@ -267,7 +268,7 @@ a᷈	ã	ta᷈bu, ra᷈tu᷈-ti	Poyanawa, Kakataibo	2	U+0061 U+1dc8
 ^ˈã	ã	ˈãwi᷈	Marinawa	1	U+005e U+02c8 U+00e3
 ee$	ee	ʔee-	Kakataibo	1	U+0065 U+0065 U+0024
 ^ʔw	ʔw	ʔwan	Kapanawa	1	U+005e U+0294 U+0077
-ɐ᷈$	ã	ʃawɨwɐ᷈	Marubo	1	U+0250 U+1dc8 U+0024
+ɐ᷈$	ɐ̃	ʃawɨwɐ᷈	Marubo	1	U+0250 U+1dc8 U+0024
 ˈy	y	iˈya	Kaxarari	1	U+02c8 U+0079
 ˈj	j	piˈya [piˈja], tʃakɨtaya [tʃakɨtaˈja]	Kaxarari		
 í᷈	í̃	ʔí᷈yan	Amawaka	1	U+00ed U+1dc8
@@ -349,7 +350,7 @@ sw	sw	riswii_I	Amawaka	1	U+0073 U+0077
 ã́́$	ã́	sanã́́-	ShipiboKonibo	1	U+00e3 U+0301 U+0301 U+0024
 ^ˈs	s	ˈsaniman	ShipiboKonibo	1	U+005e U+02c8 U+0073
 	<?>	ʃiɸI	Amawaka	1	U+f06f
-ɐ̄᷈	ã	ˈʃɐ̄᷈nă-	Marubo	1	U+0250 U+0304 U+1dc8
+ɐ̄᷈	ɐ̃	ˈʃɐ̄᷈nă-	Marubo	1	U+0250 U+0304 U+1dc8
 p$	p	ʂana-dap	Matis	1	U+0070 U+0024
 ^q	q	que_parecen_con_algodón	Mayoruna	1	U+005e U+0071
 ãã	ãã	xãã_II	Amawaka	1	U+00e3 U+00e3

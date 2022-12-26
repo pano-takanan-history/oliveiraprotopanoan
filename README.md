@@ -20,8 +20,8 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 44%](https://img.shields.io/badge/Concepticon-44%25-red.svg "Concepticon: 44%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 50%](https://img.shields.io/badge/BIPA-50%25-red.svg "BIPA: 50%")
-![CLTS SoundClass: 50%](https://img.shields.io/badge/CLTS%20SoundClass-50%25-red.svg "CLTS SoundClass: 50%")
+![BIPA: 56%](https://img.shields.io/badge/BIPA-56%25-red.svg "BIPA: 56%")
+![CLTS SoundClass: 56%](https://img.shields.io/badge/CLTS%20SoundClass-56%25-red.svg "CLTS SoundClass: 56%")
 
 - **Varieties:** 20
 - **Concepts:** 2,554
@@ -31,9 +31,9 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 - **Cognacy:** 7,314 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
-- **Tokens:** 32,366
-- **Segments:** 157 (79 BIPA errors, 79 CLTS sound class errors, 78 CLTS modified)
-- **Inventory size (avg):** 41.50
+- **Tokens:** 32,355
+- **Segments:** 152 (67 BIPA errors, 67 CTLS sound class errors, 85 CLTS modified)
+- **Inventory size (avg):** 40.80
 
 ## Possible Improvements:
 
@@ -57,4 +57,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
