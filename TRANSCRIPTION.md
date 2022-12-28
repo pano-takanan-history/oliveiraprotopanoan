@@ -33,17 +33,16 @@
 | í | 267 | ✓ | ✓ |
 | b | 256 | ✓ | ✓ |
 | d | 224 | ✓ | ✓ |
-| ĩ | 180 | ✓ | ✓ |
+| ĩ | 182 | ✓ | ✓ |
+| ó | 176 | ✓ | ✓ |
 | ɾ | 155 | ✓ | ✓ |
 | ɨ́ | 131 | ✓ | ✓ |
 | n&#124;r | 129 | ? | ? |
 | e | 115 | ✓ | ✓ |
-| ó/o | 112 | ✓ | ✓ |
 | x | 104 | ✓ | ✓ |
 | õ | 102 | ✓ | ✓ |
 | <?> | 94 | ? | ? |
 | aa | 78 | ✓ | ✓ |
-| ó | 64 | ✓ | ✓ |
 | kʷ | 62 | ✓ | ✓ |
 | ã́ | 60 | ✓ | ✓ |
 | ɽ | 54 | ✓ | ✓ |
@@ -56,11 +55,9 @@
 | l | 37 | ✓ | ✓ |
 | f | 33 | ✓ | ✓ |
 | ɨɨ | 26 | ✓ | ✓ |
-| <<ˈ>> | 20 | ? | ? |
 | c | 20 | ✓ | ✓ |
 | j | 18 | ✓ | ✓ |
 | <<᷈>> | 17 | ? | ? |
-| <<:>> | 16 | ? | ? |
 | óʂ | 15 | ? | ? |
 | ɔɔ | 15 | ✓ | ✓ |
 | ɐ | 14 | ✓ | ✓ |
@@ -71,39 +68,35 @@
 | ə | 11 | ✓ | ✓ |
 | ʈʂ | 11 | ✓ | ✓ |
 | ɔ | 10 | ✓ | ✓ |
-| <<ĭ>> | 7 | ? | ? |
 | <<̄>> | 7 | ? | ? |
 | nn | 7 | ? | ? |
+| ĭ | 7 | ✓ | ✓ |
 | ns | 6 | ? | ? |
 | ɐ̃ | 6 | ✓ | ✓ |
+| ʊ | 6 | ✓ | ✓ |
 | ˈĩ | 6 | ✓ | ✓ |
-| <<ī>> | 5 | ? | ? |
 | nʃ | 5 | ? | ? |
 | t&#124;ɽ | 5 | ? | ? |
-| t᷈ | 5 | ? | ? |
+| tⁿ | 5 | ✓ | ✓ |
 | áá | 5 | ✓ | ✓ |
 | ú | 5 | ✓ | ✓ |
-| <<ā>> | 4 | ? | ? |
-| <<ŋ>> | 4 | ? | ? |
+| ă | 5 | ✓ | ✓ |
+| ī | 5 | ✓ | ✓ |
 | <<́>> | 4 | ? | ? |
 | <<̃>> | 4 | ? | ? |
 | ãã | 4 | ✓ | ✓ |
 | ów | 4 | ? | ? |
+| ā | 4 | ✓ | ✓ |
 | ń | 4 | ? | ? |
-| ʊ | 4 | ✓ | ✓ |
+| ŋ | 4 | ✓ | ✓ |
 | <<̆>> | 3 | ? | ? |
 | <<͡>> | 3 | ? | ? |
 | ch | 3 | ? | ? |
 | ee | 3 | ✓ | ✓ |
 | z | 3 | ✓ | ✓ |
-| ă | 3 | ✓ | ✓ |
-| <<!>> | 2 | ? | ? |
+| ɞ | 3 | ✓ | ✓ |
 | <<+>> | 2 | ? | ? |
 | <<>>> | 2 | ? | ? |
-| <<ă>> | 2 | ? | ? |
-| <<ĩ>> | 2 | ? | ? |
-| <<ɞ>> | 2 | ? | ? |
-| <<ʊ>> | 2 | ? | ? |
 | <<ỹ>> | 2 | ? | ? |
 | <<>> | 2 | ? | ? |
 | <<>> | 2 | ? | ? |
@@ -149,7 +142,6 @@
 | ū | 1 | ✓ | ✓ |
 | ɔ́ | 1 | ✓ | ✓ |
 | ɔ́ɔ́ | 1 | ✓ | ✓ |
-| ɞ | 1 | ✓ | ✓ |
 | ɨ́ɨ́ | 1 | ✓ | ✓ |
 | ʐ | 1 | ✓ | ✓ |
 | ʔw | 1 | ? | ? |
@@ -158,7 +150,7 @@
 | ẽ | 1 | ✓ | ✓ |
 | ẽ́ | 1 | ✓ | ✓ |
 
-(152 rows)
+(144 rows)
 
 
 
@@ -179,6 +171,7 @@
 | Amawaka-aclararsecomoelcielo-1 | Amawaka | aclararsecomoelcielo | wixwa- | w i <s> xw </s> a |
 | Amawaka-antatapirusterrestris-2 | Amawaka | antatapirusterrestris | áá_I | áá + |
 | Amawaka-arraia-1 | Amawaka | arraia | ii_I | ii + |
+| Amawaka-bebidahechademaizdulce-1 | Amawaka | bebidahechademaizdulce | wɨtɨ᷈_II | w ɨ t ɨ̃ + |
 | Amawaka-caminhopicada-1 | Amawaka | caminhopicada | waʔi_II | w a ʔ i + |
 | Amawaka-cara-1 | Amawaka | cara | wɨmãnã_II | w ɨ m ã n ã + |
 | Amawaka-cenoarrugasenlafrenteola-1 | Amawaka | cenoarrugasenlafrenteola | wɨtʃõ_I | w ɨ tʃ õ + |
@@ -187,7 +180,7 @@
 | Amawaka-comitativo-3 | Amawaka | comitativo | wɨnaa_I | w ɨ n aa + |
 | Amawaka-doce-1 | Amawaka | doce | watá_I | w a t á + |
 | Amawaka-domesticado-1 | Amawaka | domesticado | Iná_I | <s> <?> </s> n á + |
-| Amawaka-dono-2 | Amawaka | dono | iwó_I | i w ó/o + |
+| Amawaka-dono-2 | Amawaka | dono | iwó_I | i w ó + |
 | Amawaka-dordoer-1 | Amawaka | dordoer | ʔísin | ʔ í s i n <s> <?> </s> |
 | Amawaka-dordoer-2 | Amawaka | dordoer | ɸʔísinínɸ’dor’ | ɸ ʔ í s i n í n ɸ <s> <?> </s> d o r <s> <?> </s> |
 | Amawaka-dordoer-3 | Amawaka | dordoer | isi᷈_-_I | i s ĩ + + + |
@@ -200,7 +193,7 @@
 | Amawaka-faldatela-1 | Amawaka | faldatela | watʃí_I | w a tʃ í + |
 | Amawaka-filhocrianca-1 | Amawaka | filhocrianca | wakɨ_I | w a k ɨ + |
 | Amawaka-finodelgado-1 | Amawaka | finodelgado | wɨxna_II | w ɨ x n a + |
-| Amawaka-japuespdepassarodafamicteridae-1 | Amawaka | japuespdepassarodafamicteridae | iskó_I | i s k ó/o + |
+| Amawaka-japuespdepassarodafamicteridae-1 | Amawaka | japuespdepassarodafamicteridae | iskó_I | i s k ó + |
 | Amawaka-lago-2 | Amawaka | lago | i᷈yã_I | ĩ y ã + |
 | Amawaka-luna-1 | Amawaka | luna | oxɨ́_I | o x ɨ́ + |
 | Amawaka-macacopretoespdemacacodafamatelidae-1 | Amawaka | macacopretoespdemacacodafamatelidae | iso_II | i s o + |
@@ -226,6 +219,7 @@
 | Amawaka-tomarbeber-1 | Amawaka | tomarbeber | ʔáya-_kin | ʔ á y a + + k i n |
 | Amawaka-tossir-1 | Amawaka | tossir | oko-_II | o k o + + |
 | Amawaka-tragar-1 | Amawaka | tragar | aya-_II | a y a + + |
+| Amawaka-volversenoprofundo-1 | Amawaka | volversenoprofundo | wɨxnɨɨ-_I | w ɨ x n ɨɨ + + |
 | Chakobo-dar-1 | Chakobo | dar | ʔina-_dar | ʔ i n a + + d a r |
 | Kakataibo-espdecarrapato-1 | Kakataibo | espdecarrapato | ʔopós | ʔ o p <s> ós </s> |
 | Kakataibo-espuma-1 | Kakataibo | espuma | βakóʂ | β a k <s> óʂ </s> |
@@ -237,21 +231,18 @@
 | Kapanawa-isango-1 | Kapanawa | isango | ʔoʔpóʂ | ʔ o ʔ p <s> óʂ </s> |
 | Katukina-dar-1 | Katukina | dar | inna-ai | i <s> nn </s> a + a i |
 | Katukina-mutumdaespdafamcracidae-1 | Katukina | mutumdaespdafamcracidae | ansin | a <s> ns </s> i n |
-| Katukina-surubim-2 | Katukina | surubim | βaˈiʔ | β a <s> <<ˈ>> </s> i ʔ |
 | Kaxarari-pesado-1 | Kaxarari | pesado | na͡iˈwɨ | n a <s> <<͡>> </s> i w ɨ |
 | Kaxarari-porque-1 | Kaxarari | porque | hawɨ͡iˈʃɯ | h a w ɨ <s> <<͡>> </s> i ʃ ɯ |
 | Korubo-nomeproprio-1 | Korubo | nomeproprio | Atsa | <s> <?> </s> ts a |
 | Marinawa-dormir-1 | Marinawa | dormir | óʂá | <s> óʂ </s> á |
 | Marinawa-reirsesonreirsereirsede-1 | Marinawa | reirsesonreirsereirsede | ósã | <s> ós </s> ã |
-| Marubo-3plesses-1 | Marubo | 3plesses | ˈātĭ | <s> <<ˈ>> </s> <s> <<ā>> </s> t <s> <<ĭ>> </s> |
 | Marubo-agua-1 | Marubo | agua | ˈwakapaʃa | w a k a p a <s> <?> </s> a |
-| Marubo-grande-1 | Marubo | grande | ˈɐ᷈ni- | <s> <<ˈ>> </s> ɐ <s> <<᷈>> </s> n i |
-| Marubo-lago-1 | Marubo | lago | ˈi᷈ˈɐ᷈ | i <s> <<᷈>> </s> <s> <<ˈ>> </s> ɐ̃ |
-| Marubo-macacopretoespdemacacodafamatelidae-1 | Marubo | macacopretoespdemacacodafamatelidae | ʔīsɞ̆ | ʔ <s> <<ī>> </s> s <s> <<ɞ>> </s> <s> <<̆>> </s> |
+| Marubo-grande-1 | Marubo | grande | ˈɐ᷈ni- | ɐ <s> <<᷈>> </s> n i |
+| Marubo-lago-1 | Marubo | lago | ˈi᷈ˈɐ᷈ | i <s> <<᷈>> </s> ɐ̃ |
+| Marubo-macacopretoespdemacacodafamatelidae-1 | Marubo | macacopretoespdemacacodafamatelidae | ʔīsɞ̆ | ʔ ī s ɞ <s> <<̆>> </s> |
 | Marubo-mutumdaespdafamcracidae-1 | Marubo | mutumdaespdafamcracidae | ãsi᷈ɸ | ã s ĩ ɸ <s> <?> </s> |
 | Marubo-peso-1 | Marubo | peso | ɨwɨr-_ka | ɨ w ɨ r + + k a |
 | Marubo-rir-1 | Marubo | rir | [u᷈ˈsɐ᷈ɐ]᷈ | ũ s ɐ <s> <<᷈>> </s> ɐ <s> <?> </s> |
-| Marubo-sol-1 | Marubo | sol | ˈɸari | <s> <<ˈ>> </s> ɸ a r i |
 | Matis-mandioca-1 | Matis | mandioca | Atsa | <s> <?> </s> ts a |
 | Proto-Panoan-capivara-1 | Proto-Panoan | capivara | ʔamɨ[n] | ʔ a m ɨ <s> n|r </s> |
 | Proto-Panoan-comitativo-2 | Proto-Panoan | comitativo | βɨʔra[C] | β ɨ ʔ r a <s> t|ɽ </s> |
@@ -263,6 +254,7 @@
 | Proto-Panoan-mutumdaespdafamcracidae-1 | Proto-Panoan | mutumdaespdafamcracidae | hãsi[n] | h ã s i <s> n|r </s> |
 | Proto-Panoan-olhar-1 | Proto-Panoan | olhar | ʔoi[n]- | ʔ o i <s> n|r </s> |
 | Proto-Panoan-ondas-1 | Proto-Panoan | ondas | βɨtʃo[n] | β ɨ tʃ o <s> n|r </s> |
+| Proto-Panoan-pegar-1 | Proto-Panoan | pegar | βiCc- | β i <s> <?> </s> c |
 | Proto-Panoan-rir-1 | Proto-Panoan | rir | ʔosa[n]- | ʔ o s a <s> n|r </s> |
 | Proto-Panoan-rocado-1 | Proto-Panoan | rocado | βai[C] | β a i <s> t|ɽ </s> |
 | Proto-Panoan-surubimpseudoplatyatomacoruscans-1 | Proto-Panoan | surubimpseudoplatyatomacoruscans | βawi[n] | β a w i <s> n|r </s> |
@@ -271,7 +263,7 @@
 | Sharanawa-traer-1 | Sharanawa | traer | ɸɨ-_a | ɸ ɨ + + a |
 | ShipiboKonibo-espdecarrapato-1 | ShipiboKonibo | espdecarrapato | hopóʂ | h o p <s> óʂ </s> |
 | ShipiboKonibo-espuma-1 | ShipiboKonibo | espuma | βakóʂ | β a k <s> óʂ </s> |
-| Yaminawa-aguafrescalitliquidonovo-1 | Yaminawa | aguafrescalitliquidonovo | ɞ᷈ˈpaʂ | <s> <<ɞ>> </s> <s> <<᷈>> </s> p a ʂ |
+| Yaminawa-aguafrescalitliquidonovo-1 | Yaminawa | aguafrescalitliquidonovo | ɞ᷈ˈpaʂ | ɞ <s> <<᷈>> </s> p a ʂ |
 | Yaminawa-espdearbolysufruto-1 | Yaminawa | espdearbolysufruto | ɸɨpoini_caimitillo | ɸ ɨ p o i n i + c a i m i t i <s> ll </s> o |
 | Yaminawa-muchos-1 | Yaminawa | muchos | itʃa-_pa | i tʃ a + + p a |
 | Yawanawa-lingua-1 | Yawanawa | lingua | anna | a <s> nn </s> a |
