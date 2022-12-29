@@ -18,28 +18,28 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 
 
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 44%](https://img.shields.io/badge/Concepticon-44%25-red.svg "Concepticon: 44%")
+![Concepticon: 45%](https://img.shields.io/badge/Concepticon-45%25-red.svg "Concepticon: 45%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 69%](https://img.shields.io/badge/BIPA-69%25-orange.svg "BIPA: 69%")
-![CLTS SoundClass: 69%](https://img.shields.io/badge/CLTS%20SoundClass-69%25-orange.svg "CLTS SoundClass: 69%")
+![BIPA: 95%](https://img.shields.io/badge/BIPA-95%25-green.svg "BIPA: 95%")
+![CLTS SoundClass: 95%](https://img.shields.io/badge/CLTS%20SoundClass-95%25-green.svg "CLTS SoundClass: 95%")
 
 - **Varieties:** 20
-- **Concepts:** 2,554
-- **Lexemes:** 7,314
+- **Concepts:** 2,559
+- **Lexemes:** 7,313
 - **Sources:** 35
-- **Synonymy:** 1.08
-- **Cognacy:** 7,314 cognates in 517 cognate sets (0 singletons)
+- **Synonymy:** 1.07
+- **Cognacy:** 7,313 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
-- **Tokens:** 32,358
-- **Segments:** 134 (41 BIPA errors, 41 CTLS sound class errors, 93 CLTS modified)
-- **Inventory size (avg):** 38.70
+- **Tokens:** 31,779
+- **Segments:** 98 (5 BIPA errors, 5 CLTS sound class errors, 93 CLTS modified)
+- **Inventory size (avg):** 35.10
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 5897/7314 (80.63%)
+- Entries missing sources: 5896/7313 (80.62%)
 
 # Contributors
 
@@ -57,4 +57,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

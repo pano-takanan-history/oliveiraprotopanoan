@@ -131,8 +131,17 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                         else:
                                             note = ""
                                 except:
-                                    bad_entries += [(idx, entry)]
-                                    bad_entry = True
+                                    if entry == "Ksh ʔotanɔɔ ‘demonio del bosque’ (nɔɔ < nawa ‘gente’; juego 261)":
+                                        form = "ʔotanɔɔ"
+                                        concept = "demonio del bosque"
+                                        note = "nɔɔ < nawa ‘gente’,  juego 261"
+                                    elif entry == "Kn pisika (pisi- silbar como la serpiente)":
+                                        form = "pisika"
+                                        concept = "esp. de cobra"
+                                        note = "pisi- 'silbar como la serpiente'"
+                                    else:
+                                        bad_entries += [(idx, entry)]
+                                        bad_entry = True
                             else:
                                 if "(" in erest and ")" in erest:
                                     try:
@@ -182,12 +191,17 @@ with open("raw_oliveira-mod.txt", encoding="utf-8") as f:
                                 else:
                                     source = ""
                                     # print(note)
-                                if source =="LORIOT":
-                                    print("HERE!")
-                                    print(source)
+
                                 if source in source_replace:
                                     source = source_replace[source]
                                     # print(source)
+
+                                if "II" in form:
+                                    note = "II"
+                                    form = form.replace("II", "")
+                                if "I" in form and language == "Amawaka":
+                                    note = "I"
+                                    form = form.replace("I", "")
 
                                 concept = re.sub("  ", " ", concept)
                                 concept = re.sub("^ ", "", concept)

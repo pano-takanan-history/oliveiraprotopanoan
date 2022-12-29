@@ -70,6 +70,7 @@ papagaioespdafampsittacidae,parrot,882,PARROT,papagaio (esp. da fam. Psittacidae
 surubimpseudoplatyatomacoruscans,surubim,,,surubim (Pseudoplatyatoma coruscans),1,§68
 trazerbuscar,"to bring, to search",,,"trazer, buscar",1,§69
 comitativo,comitative,,,comitativo,1,§70
+novo,new,1231,NEW,novo,1,§71
 esquecerperder,"to forget, to lose",,,"esquecer, perder",1,§72
 lagrima,tear,1651,TEAR (OF EYE),lágrima,1,§73
 ondas,waves,978,WAVE,ondas,1,§74
@@ -97,7 +98,9 @@ tipodecaixa,type of box,,,tipo de caixa,1,§97
 espdepalmeira,species of palm,,,esp. de palmeira,1,§98
 tocotronco,tree stump,241,TREE STUMP,"toco, tronco",1,§99
 espdepeixedafampimelodidae,species of fish (Pimelididae),,,esp. de peixe (da fam. Pimelodidae),1,§100
+ceradeabeja,bee wax,1931,BEESWAX,cera de abeja,1,§101
 espdearvoreembauba,species of tree,,,esp. de árvore (embaúba?),1,§102
+arbolpequenocuyacortezaseusaparahacersogas,species of tree with special use of bark,,,arbol pequeño cuya corteza se usa para hacer sogas,1,§103
 espdeabelha,species of bee,,,esp. de abelha,1,§104
 pelocabelo,hair,1040,HAIR,"pelo, cabelo",1,§105
 insecto,insect,620,INSECT,insecto,1,§106
@@ -107,6 +110,7 @@ sentarsentarse,to sit,1416,SIT,sentar (sentar-se),1,§109
 solucosolucar,"hiccough, to hiccup",162,HICCOUGH,"soluço, soluçar",1,§111
 cigarra,cicada,2353,CICADA,cigarra,1,§112
 carvaobrasa,"amber, coal",1188,CHARCOAL,"carvão, brasa",1,§113
+brasa,amber,,,brasa,1,§114
 quem,who,1235,WHO,quem,1,§115
 pegaragarrarcomamao,"to catch, to graph with one's hand",855,SEIZE,"pegar, agarrar com a mão",1,§116
 picardaragulhadaferrarinjetarfurar,"poke, pierce, inject, drill",,,"picar, dar agulhada, ferrar, injetar, furar",1,§117
@@ -133,6 +137,7 @@ espdeformiga,species of ant,,,esp. de formiga,1,§138
 sangue,blood,946,BLOOD,sangue,1,§140
 rabo,tail,1220,TAIL,rabo,1,§141
 verolhar,"to see, to look",1409,SEE,"ver, olhar",1,§142
+clasedehormiga,class of ant,,,clase de hormiga,1,§143
 urinarurina,"urine, to urinate",,,"urinar, urina",1,§144
 espdearvoreetambemseufruto,species of tree and it's fruit,,,esp. de árvore e também seu fruto,1,§145
 arvoregenpaugen,"tree, stick",,,"árvore (gen.), pau (gen.)",1,§146
@@ -178,6 +183,7 @@ mandibula,jaw,798,JAW,mandíbula,1,§188
 irmaodamae,maternal aunt,2693,MATERNAL AUNT (MOTHER'S SISTER),irmão da mãe,1,§189
 vagalume,firefly,206,FIREFLY,vaga-lume,1,§190
 ingeriralimentosmoles,ingest soft food,,,ingerir alimentos moles,1,§192
+luciernaga,bat,1793,BAT,luciérnaga,1,§193
 nambu,tinamou,3921,TINAMOU,nambu,1,§194
 espdefungo,species of funghi,,,esp. de fungo,1,§195
 pus,pus,1808,PUS,pus,1,§196
@@ -260,6 +266,7 @@ lacraiaescorpiao,"centipede, scorpion",,,"lacraia, escorpião",1,§276
 escurtarouvir,"to listen, to hear",1408,HEAR,"escurtar, ouvir",1,§277
 arrastar,to drag,2030,DRAG,arrastar,1,§278
 suar,to sweat,126,SWEAT (PERSPIRE),suar,1,§279
+unclear,unclear,,,unclear,1,§280
 aborrecerse,to get bored,,,aborrecer-se,1,§281
 vento,wind,960,WIND,vento,1,§282
 nosnos,we,1212,WE,"nós, nos",1,§283
@@ -323,6 +330,7 @@ tornozelo,ankle,803,ANKLE,tornozelo,1,§345
 jogarabandonar,"to play, to abandon",,,"jogar, abandonar",1,§346
 poeira,dust,2,DUST,poeira,1,§347
 braco,arm,1673,ARM,braço,1,§348
+agora,now,1376,NOW,agora,1,§349
 remediomedicinatradicional,medicine,1372,MEDICINE,"remédio, medicina tradicional",1,§350
 termedoassustarse,"to fear, to be afraid",1419,FEAR (BE AFRAID),"ter medo, assustar-se",1,§351
 dois,two,1498,TWO,dois,1,§352
@@ -352,6 +360,7 @@ cobra,snake,730,SNAKE,cobra,1,§375
 fazerdietajejum,"to make a diet, to fast",3331,FASTING,"fazer dieta, jejum",1,§376
 levantarsuspender,"to lift, to suspend",,,"levantar, suspender",1,§377
 vestirroupa,to wear clothes,976,WEAR,vestir roupa,1,§380
+bravo,brave,3,BRAVE,bravo,1,§381
 quati,coati,2389,COATI (COATIMUNDI),quati,1,§382
 bombonito,"good, well",1035,GOOD,"bom, bonito",1,§383
 peitoprefixopartedocorpo,chest (body-part prefix),,,peito (prefixo parte do corpo),1,§384
@@ -372,6 +381,7 @@ jabuti,jabuti,3949,RED-FOOTED TORTOISE,jabuti,1,§403
 canadeacucar,sugar cane,146,SUGAR CANE,cana de açúcar,1,§404
 debulharomilho,to thresh the corn,,,debulhar o milho,1,§406
 espdelagartixa,species of lizard,,,esp. de lagartixa,1,§408
+milho,maize,506,MAIZE,milho,1,§409
 espdelagarta,species of caterpillar,,,esp. de lagarta,1,§410
 espdearvore,species of tree,,,esp. de árvore,1,§411
 gorduraoleo,"fat, oil",323,FAT (ORGANIC SUBSTANCE),"gordura, óleo",1,§412
@@ -393,6 +403,7 @@ pelarsemudardepele,"to peel oneself, to change skin",,,"pelar-se, mudar de pele"
 seiosleite,"breasts, milk",2129,BREAST OR MILK,"seios, leite",1,§429
 verdenaomaduro,"green, unripe",1958,UNRIPE,"verde, nãomaduro",1,§430
 mamao,papaya,2445,PAPAYA,mamão,1,§431
+vello,fur,580,FUR,vello,1,§432
 peito,chest,1592,CHEST,peito,1,§433
 meninamoca,young woman,77,YOUNG WOMAN,"menina, moça",1,§434
 pe,foot,1301,FOOT,pé,1,§436
@@ -400,6 +411,7 @@ tapiricasatemporaria,"tapiri, temporary home",,,"tapiri, casa temporária",1,§4
 figado,liver,1224,LIVER,fígado,1,§438
 amendoim,groundnut,595,GROUNDNUT (PEANUT),amendoim,1,§439
 bochecha,cheek,1730,CHEEK,bochecha,1,§440
+probar,to try,1812,TRY,probar,1,§441
 ponteplataforma,"bridge, platform",1011,BRIDGE,"ponte, plataforma",1,§443
 raiz,root,670,ROOT,raiz,1,§444
 pauvelhopaupodre,"old stick, rotten stick",,,"pau velho, pau podre",1,§445
@@ -423,6 +435,7 @@ espderaousapo,species of frog,,,esp. de rã ou sapo,1,§463
 azulescuro,dark blue,,,azul escuro,1,§464
 verruga,wart,2665,WART,verruga,1,§465
 fazer,to do,813,DO,fazer,1,§466
+chacra,field,212,FIELD,chacra,1,§467
 aguario,"water, river",,,"água, rio",1,§468
 pupunha,peach palm,3919,PEACH PALM,pupunha,1,§470
 espdeabobora,species of pumpkin,,,esp. de abóbora,1,§471
@@ -437,6 +450,7 @@ canelaparteinferiordaperna,"cinnamon, lower part of leg",,,"canela, parte inferi
 cheiro,smell,3704,ODOR (SMELL),cheiro,1,§482
 remar,to row,1849,ROW,remar,1,§483a
 remo,oar,3137,OAR,remo,1,§483b
+llorar,to cry,1839,CRY,llorar,1,§484
 bordunabastao,stick,1295,STICK,"borduna, bastão",1,§485
 passar,to pass by,558,PASS BY,passar,1,§486
 pantorrilha,calf,1989,CALF,pantorrilha,1,§487
@@ -590,7 +604,6 @@ toser,,,,toser,0,§34
 nosotrostenemostos,,,,nosotros tenemos tos,0,§34
 tos,,,,tos,0,§34
 limpiarborrarvomitar,,,,"limpiar, borrar, vomitar",0,§34
-bravo,,,,bravo,0,§35
 tristenostalgico,,,,"triste, nostálgico",0,§35
 advinarconocer,,,,"advinar, conocer",0,§35
 tristeza,,,,tristeza,0,§35
@@ -604,7 +617,6 @@ agua,,,,água,0,§36
 fresconovo,,,,"fresco, novo",0,§36
 aguaparaeleconsumo,,,,agua para ele consumo,0,§36
 mingau,,,,mingau,0,§36
-novo,,,,novo,0,§36
 bebidacernida,,,,bebida cernida,0,§36
 reirseoburlarse,,,,reirse o burlarse,0,§37
 reirsonreir,,,,"reir, sonreir",0,§37
@@ -725,7 +737,6 @@ falda,,,,falda,0,§57
 corriente,,,,corriente,0,§58
 trochacarreteracorriente,,,,"trocha, carretera, corriente",0,§58
 rocadoplantacao,,,,"roçado, plantação",0,§58
-chacra,,,,chacra,0,§58
 crecientedelrio,,,,creciente del río,0,§58
 criancafilhomenino,,,,"criança, filho, menino",0,§59
 ninoprole,,,,"niño, prole",0,§59
@@ -1058,7 +1069,6 @@ formigadefogo,,,,formiga de fogo,0,§138
 formigagen,,,,formiga (gen.),0,§138
 formiga,,,,formiga,0,§138
 hormiga,,,,hormiga,0,§139
-clasedehormiga,,,,clase de hormiga,0,§139
 espdehormigaquepica,,,,esp. de hormiga que pica,0,§139
 espdehormiga,,,,esp. de hormiga,0,§139
 especiedehormigagrandequepica,,,,especie de hormiga grande que pica,0,§139
@@ -1279,7 +1289,6 @@ titio,,,,titio,0,§189
 tiomaternopadrehablantefemenino,,,,"tío materno, padre (hablante femenino)",0,§189
 tiohermanodelamadresuegro,,,,"tío, Hermano de la madre, suegro",0,§189
 luciernagalinterna,,,,"luciérnaga, linterna",0,§190
-luciernaga,,,,luciérnaga,0,§190
 curucusi,,,,curucusi,0,§190
 tipodepassaro,,,,tipo de pássaro,0,§190
 papadesuesposopapadesuaesposa,,,,"papá de su esposo, papá de sua esposa",0,§191
@@ -1370,7 +1379,6 @@ piranha,,,,piranha,0,§212
 encimaarriba,,,,"encima, arriba",0,§214
 colinamontana,,,,"colina, montaña",0,§214
 arribadealgo,,,,arriba de algo,0,§214
-lma,,,,lma,0,§214
 encimamanaonencimaarribamasaltomasarriba,,,,"encima, manaon, encima, arriba, más alto, más arriba",0,§214
 emcima,,,,em cima,0,§214
 encimaespaciodesmontado,,,,"encima, espacio desmontado",0,§214
@@ -1873,7 +1881,6 @@ ala,,,,ala,0,§348
 sembracocobra,,,,"sem braço, cobra",0,§348
 hacetiempo,,,,hace tiempo,0,§349
 hoy,,,,hoy,0,§349
-agora,,,,agora,0,§349
 recientemente,,,,recientemente,0,§349
 hoyahora,,,,"hoy, ahora",0,§349
 entoncesdespuesinmediatamentepronto,,,,"entonces, después, inmediatamente, pronto",0,§349
@@ -2140,7 +2147,6 @@ elpeniclasedelagarto,,,,el peni (clase de lagarto),0,§408
 lagartija,,,,lagartija,0,§408
 tipodelagarto,,,,tipo de lagarto,0,§408
 lagartijaterrestre,,,,lagartija terrestre,0,§408
-milho,,,,milho,0,§409
 maiz,,,,maíz,0,§409
 lagartodesamauma,,,,lagarto de samaúma,0,§410
 lagarta,,,,lagarta,0,§410
@@ -2422,7 +2428,6 @@ canalete,,,,canalete,0,§483b
 remocanalete,,,,"remo, canalete",0,§483b
 remocanaletepaletademaderaparamezclar,,,,"remo, canalete, paleta de madera para mezclar",0,§483b
 remopaletaparamezclarparacocinar,,,,"remo, paleta para mezclar (para cocinar)",0,§483b
-llorar,,,,llorar,0,§484
 lamentarsellevarduelo,,,,"lamentarse, llevar duelo",0,§484
 sollozarelsonidodelavozdelmutun,,,,"sollozar, el sonido de la voz del mutún",0,§484
 chorar,,,,chorar,0,§484

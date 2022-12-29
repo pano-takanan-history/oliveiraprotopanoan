@@ -1,30 +1,100 @@
 Grapheme	IPA	Examples	Languages	Frequence	Codepoints
 ^	NULL				
-$	NULL				
+$	NULL	
 [n]	n|r				
-[C]	t|ɽ			
+[C]	C	
+C	C		
+[Cc]	t|ɽ
+Cc	t|ɽ
+[ts]	ts
+nã́́-	n a
++	+
+^[-	NULL
+-]	NULL
 [	NULL				
-]	NULL				
+]	NULL	
+ ́	NULL			
 ^-	NULL				
--$	NULL				
-I	NULL				
-II	NULL				
-̆	̆				
-᷈	̃				
-̃	̃				
-́	́				
-͡	͡				
-ˈ					
-:					
-!					
-ɞ	ɞ				
-t᷈	tⁿ				
+-$	NULL
+-́	NULL		
+^I	i
+^A	a
+^K	k
+_I	NULL				
+-_I	NULL
+_-_I	NULL
+I$	NULL
+_II	NULL				
+II$	NULL
+-_$	NULL	
+-_	+		
+_-$	NULL
+^-_	NULL
+ˈ	NULL
+’	NULL
+ˈ'	NULL
+'	NULL
+.$	NULL
+...$	NULL
+]̆	NULL
+ɐ̄̃n	ɐ̃ n
+əˈ̃	ə̃
+ɛ	ɛ
+-́́	NULL
+-´	NULL
+ ͡	NULL
+ai’	ai
+ɯ̄̃	ɯ̃	
+.	+
+ɜ	ɜ
+ɜ̃	ɜ̃
+ɞ̆	ɞ
+ɐ]̃	ɐ̃
+ɨ̃	ɨ̃
+ɨ-̃	ɨ̃	
+ĩ̃	ĩ
+ɨ̃̃	ɨ̃
+ɨ̃_	ɨ̃
+ɨ̃ˈ	ɨ̃
+ɐ ̃	ɐ̃
+ĩ̊	ĩ
+í̃	ĩ
+á̃	ã
+ɐ̃	ɐ̃
+ə̃	ə̃
+ɞ̃	ɞ̃
+ɔɔ́	ɔ ɔ
+ɔɔ́́	ɔ ɔ
+ɔ́´	ɔ	
+ɔ́́	ɔ
+ɯ̆	ɯ
+ɯ̄ă	ɯ a
+ʒ	ʒ
+?	ʔ
+ɤ	ɤ
+dz	dz
+ɐm̃	ɐ̃ m
+ḱ	k
+ɨk̃	ɨ̃ k
+ɨ́ṕ	ɨ p
+́t	t
+t́́	t
+oỹ̃	õi
+ś	s
+oỹ	õi
+uj̃	ũi
+ɨ͡i	ɨi
+aj̃	ãi
+t́	t
+ɨt̃	ɨ̃ t
+ɨt̃_	ɨ̃ t +	
 ŋ	ŋ		Mayoruna, Katukina		
 ī	ī				
 ĩ	ĩ				
 ʊ	ʊ				
 ă	ă				
-ā	ā				
+ā	ā		
+ū̃	ũ		
 ĭ	ĭ				
 i᷈	ĩ				
 ə	ə	lɨˈtɨ[ləˈtə], talahi [taˈlahi] ~ [tələˈhi]	Katukina, Kaxarari, Marubo		
@@ -67,7 +137,7 @@ e	e	mee, nibed	Mayoruna, Kaxinawa, Amawaka, Matis, Sharanawa, Kakataibo, Kapanaw
 ^h	h	ha, haka	ShipiboKonibo, Chakobo, Kapanawa, Amawaka, Kaxinawa, Kaxarari, Katukina, Shanenawa, Chaninawa, Sharanawa, Yawanawa	100	U+005e U+0068
 ʃ	ʃ	kiʃi, kaʃi	Yawanawa, Kaxinawa, Marubo, Chaninawa, Chakobo, Marinawa, Yaminawa, Amawaka, Korubo, ShipiboKonibo, Sharanawa, Kapanawa, Katukina, Kaxarari, Kakataibo, Poyanawa, Matis, Mayoruna	100	U+0283
 ^y	y	-ya, yami	Sharanawa, Kapanawa, ShipiboKonibo, Amawaka, Chakobo, Kaxinawa, Marinawa, Marubo, Yaminawa, Katukina, Chaninawa, Shanenawa, Kaxarari	100	U+005e U+0079
-á	á	tʃaɾáʂ, ká-tɨ-xáo	Marinawa, Amawaka, Kapanawa, Chakobo, ShipiboKonibo, Kakataibo, Sharanawa	100	U+00e1
+á	á/a	tʃaɾáʂ, ká-tɨ-xáo	Marinawa, Amawaka, Kapanawa, Chakobo, ShipiboKonibo, Kakataibo, Sharanawa	100	U+00e1
 ^a	a	atsa, ak-	Sharanawa, Shanenawa, Kaxinawa, Yawanawa, Marubo, Yaminawa, Katukina, Matis, Chakobo, Korubo, Mayoruna, Poyanawa, Kakataibo, Marinawa, Kapanawa, Amawaka, ShipiboKonibo, Chaninawa, Kaxarari	100	U+005e U+0061
 ^ɸ	ɸ	ɸakɨ, ɸɨnɨ	Sharanawa, Marinawa, Chaninawa, Yaminawa, Shanenawa	100	U+005e U+0278
 ^ʔ	ʔ	ʔatsa, ʔa-	Amawaka, Kapanawa, ShipiboKonibo, Chakobo, Kakataibo	100	U+005e U+0294
@@ -87,7 +157,7 @@ d	d	bebida_demasiado_fermentada, bɨdu	Kaxinawa, Chaninawa, Matis, Mayoruna, Poy
 á$	á	siná, kaná	Kakataibo, Marinawa, ShipiboKonibo, Kapanawa, Marubo, Kaxinawa, Chakobo, Amawaka	100	U+00e1 U+0024
 y	y	kɨyo-, noya-	Amawaka, Sharanawa, ShipiboKonibo, Kaxinawa, Marinawa, Kapanawa, Marubo, Chakobo, Yaminawa, Chaninawa, Katukina, Shanenawa, Mayoruna, Kakataibo, Poyanawa, Yawanawa, Korubo	100	U+0079
 b	b	ʂubu, plataforma_para_cortar_árboles_arriba_de_sus_aletas	Kaxinawa, Mayoruna, Matis, Poyanawa, Chaninawa, Sharanawa, ShipiboKonibo, Chakobo, Kakataibo, Amawaka, Shanenawa, Kapanawa, Kaxarari, Marubo, Yawanawa, Korubo	100	U+0062
-ó	ó	yóí, hónpoxón	Marinawa, Amawaka, ShipiboKonibo, Kapanawa, Chakobo, Mayoruna, Sharanawa, Chaninawa	100	U+00f3
+ó	ó/o	yóí, hónpoxón	Marinawa, Amawaka, ShipiboKonibo, Kapanawa, Chakobo, Mayoruna, Sharanawa, Chaninawa	100	U+00f3
 ^o	o	oi, oa	Sharanawa, Yaminawa, Chaninawa, Amawaka, Marubo, Kakataibo, Marinawa, Mayoruna, Matis, Shanenawa, Chakobo, Kaxinawa, Korubo	100	U+005e U+006f
 ɾ	ɾ	βaɾi, kaɾi	Sharanawa, Shanenawa, Chakobo, Kakataibo, Marinawa, Yawanawa, Kapanawa, ShipiboKonibo, Chaninawa, Katukina, Amawaka, Mayoruna, Marubo, Yaminawa, Kaxinawa, Poyanawa	99	U+027e
 í$	í	βoí, naí	Marinawa, ShipiboKonibo, Kakataibo, Chakobo, Amawaka, Kapanawa, Marubo, Kaxinawa	97	U+00ed U+0024
@@ -117,7 +187,7 @@ d$	d	tawad, paud	Mayoruna, Matis, Korubo	32	U+0064 U+0024
 g	g	llegar_a_ser_o_ponerse_gris, delgado	Kaxinawa, Mayoruna, ShipiboKonibo, Sharanawa, Chakobo, Marubo, Amawaka, Kapanawa, Marinawa	32	U+0067
 k$	k	ak-, uk	Korubo, Mayoruna, Matis, Kaxinawa, Yaminawa	31	U+006b U+0024
 ɨ᷈$	ɨ̃	hawɨ᷈, masɨ᷈	Yaminawa, Kakataibo, ShipiboKonibo, Marinawa, Kaxinawa, Marubo, Amawaka	31	U+0268 U+1dc8 U+0024
-_$	_	makɨ_, nawa_bai_	Kakataibo, Chakobo, ShipiboKonibo, Kaxinawa, Amawaka, Yawanawa, Katukina, Matis, Kapanawa, Yaminawa, Marinawa, Mayoruna, Poyanawa	31	U+005f U+0024
+_$	NULL	makɨ_, nawa_bai_	Kakataibo, Chakobo, ShipiboKonibo, Kaxinawa, Amawaka, Yawanawa, Katukina, Matis, Kapanawa, Yaminawa, Marinawa, Mayoruna, Poyanawa	31	U+005f U+0024
 ii$	ii	nii, tʃii	Chaninawa, Sharanawa, Kakataibo, Yaminawa, Amawaka, Katukina, Marinawa, ShipiboKonibo, Chakobo, Kapanawa, Marubo	29	U+0069 U+0069 U+0024
 ^ɾ	ɾ	ɾama, ɾunu	Yawanawa, Shanenawa, Katukina, Yaminawa, Poyanawa, Marubo	29	U+005e U+027e
 ^c	c	claro, corteza	Mayoruna, Kaxinawa, Sharanawa, Amawaka, ShipiboKonibo, Chakobo, Kakataibo, Korubo	28	U+005e U+0063
@@ -131,19 +201,14 @@ v	v	rivi, -ma-_<<causativo>>	Marubo, Kaxinawa, Marinawa, Katukina, Sharanawa, Ka
 ^e	e	examinar, ella	Sharanawa, Mayoruna, ShipiboKonibo, Kapanawa, Kakataibo, Kaxinawa, Yaminawa, Chakobo, Marinawa, Korubo	23	U+005e U+0065
 oo$	oo	ʂoo, koo	Chaninawa, Chakobo, Kapanawa, Kakataibo, Yaminawa, Amawaka, ShipiboKonibo, Sharanawa, Mayoruna	22	U+006f U+006f U+0024
 ˈk	k	aˈka, kɨʂaˈka	Chakobo, Marubo, Kaxarari, Mayoruna, Matis, Kakataibo	21	U+02c8 U+006b
-ll	ll	arcilla, ella	Sharanawa, Mayoruna, Kaxinawa, Yaminawa, Amawaka, ShipiboKonibo	21	U+006c U+006c
 ^kw	kʷ	kwɨnã, kwɨbí	Kakataibo, Korubo	21	U+005e U+006b U+0077
 f	f	nifu, aʂfua	Shanenawa, Mayoruna, Kaxinawa, Amawaka, ShipiboKonibo, Chakobo, Marinawa	20	U+0066
 ˈm	m	ʔaˈmɨ᷈, haˈmahi	Kaxarari, Chakobo, Marubo, Kakataibo, ShipiboKonibo, Katukina, Kapanawa	19	U+02c8 U+006d
 ^a$	a	a, a-	Sharanawa, Kaxinawa, Marubo, Yaminawa, Chaninawa, Matis, Shanenawa, Kaxarari, Kakataibo, Marinawa, Mayoruna, Poyanawa, Yawanawa, Korubo	18	U+005e U+0061 U+0024
-oo	oo	tsoot, tootí	Amawaka, Sharanawa, Kakataibo, Yaminawa, Chakobo, Kapanawa	18	U+006f U+006f
 t$	t	atet, awat	Korubo, Kakataibo, Mayoruna	17	U+0074 U+0024
 u᷈	ũ	nu᷈y, nu᷈nu᷈	Poyanawa, Marubo, Katukina, Kakataibo, Kaxarari	17	U+0075 U+1dc8
 ˈw	w	bɨtʃiˈwɨ, ʔaˈwa	Kaxarari, Marubo, Chakobo, ShipiboKonibo, Kapanawa, Amawaka	16	U+02c8 U+0077
 ^l	l	la, lo	Amawaka, Mayoruna, Sharanawa, Kaxarari, ShipiboKonibo, Chakobo, Korubo	16	U+005e U+006c
-rr	rr	tierra_firme, derrubar	Mayoruna, Sharanawa, Kakataibo, ShipiboKonibo, Shanenawa, Kaxinawa, Amawaka	15	U+0072 U+0072
-.	<?>	colmillo._C.L._muela._Pico_de_papagayo, ɨ́ḱ_ɨ...	Mayoruna, Matis, Kaxinawa, Sharanawa, Kapanawa	15	U+002e
-ch	tʃ	muchacho, trocha	Mayoruna, Kaxinawa, Yaminawa, Sharanawa, Kapanawa, Kakataibo, Marinawa, Amawaka	15	
 ^ˈk	k	ˈkɨɾɨʂa, ˈkɨnɨ	Chakobo, Marubo, Kaxarari, ShipiboKonibo	15	U+005e U+02c8 U+006b
 j	j	hija, hijo	Kaxinawa, Mayoruna, ShipiboKonibo, Amawaka, Sharanawa, Chakobo, Kaxarari, Marinawa	14	U+006a
 ɨ᷈	ɨ̃	kɨ᷈tʃá, βɨ᷈βoo	Amawaka, ShipiboKonibo, Kakataibo, Kaxinawa, Marinawa, Yawanawa, Marubo, Yaminawa, Katukina		U+0268 U+1dc8
@@ -159,14 +224,12 @@ ii	ii	tʃiwii-_II, riswii_I	Amawaka, Sharanawa, Chaninawa, Kapanawa	12	U+0069 U+
 kw	kʷ	takwa, mɨkɨkwe_o_mɨkwe	Kakataibo, Korubo, Mayoruna	12	U+006b U+0077
 ɨɨ$	ɨɨ	mɨɨ, mɨɨ-	Amawaka, Kakataibo, ShipiboKonibo, Chakobo	12	U+0268 U+0268 U+0024
 ˈʂ	ʂ	uˈʂɨ, ʔaˈʂã-	Kaxarari, Mayoruna, ShipiboKonibo, Katukina, Matis, Shanenawa, Kapanawa, Kakataibo, Marubo	11	U+02c8 U+0282
-’$	<?>	ʔísinɸʔísinínɸ’dor’, βinu-βai’	Kaxinawa, Amawaka, Kakataibo, Chaninawa, Katukina, Chakobo	11	U+2019 U+0024
+’$	NULL	ʔísinɸʔísinínɸ’dor’, βinu-βai’	Kaxinawa, Amawaka, Kakataibo, Chaninawa, Katukina, Chakobo	11	U+2019 U+0024
 ^ˈn	n	ˈnɨiʔno, ˈnai	Marubo, Chakobo, ShipiboKonibo, Kapanawa	11	U+005e U+02c8 U+006e
 ^á	á	ákápórá, áwa	Marinawa, Chakobo, Kapanawa, Marubo	10	U+005e U+00e1
 ˈs	s	itsiˈsi, mɨtʃiˈsi	Chakobo, Kaxarari, Katukina, Marubo, Mayoruna	10	U+02c8 U+0073
 ˈp	p	kaˈpɨ, joˈpɨʂɨ__hopɨ́ʂɨ	Chakobo, Marubo, Mayoruna, Katukina, Kaxarari	10	U+02c8 U+0070
-^_	_	-_ama, -_hu	Poyanawa, Yawanawa, Matis, Shanenawa, Kapanawa, Marubo, Yaminawa, Mayoruna	10	U+005e U+005f
 ˈʃ	ʃ	kɨˈʃa, yawaˈʃi	Marubo, Chakobo, Kaxarari, Korubo	10	U+02c8 U+0283
-ɨɨ	ɨɨ	rawɨɨ_II, pakɨɨ-_I	Amawaka, Yaminawa, Kapanawa	10	U+0268 U+0268
 y$	y	nu᷈y, hay	Poyanawa, Chakobo, Shanenawa	9	U+0079 U+0024
 ˈʔ	ʔ	βɨˈʔo, noˈʔi	Chakobo, Kaxarari	9	U+02c8 U+0294
 ñ	ɲ	pɨñã, ʂoñɔɔ	Kakataibo, Sharanawa, ShipiboKonibo, Marinawa, Mayoruna	9	U+00f1
@@ -190,7 +253,7 @@ w$	w	tsaw, ʃiw	Shanenawa, Poyanawa, Yawanawa	7	U+0077 U+0024
 x$	x	pákɨx, hónpox	Amawaka	6	U+0078 U+0024
 ɔ	ɔ	apɔɔ́́, ʔɔˈɔ	Kakataibo	6	U+0254
 ú	ú	un_baúl_o_un_cartón, ʔupús	Kakataibo, Mayoruna, Sharanawa, Kaxinawa	6	U+00fa
-^M	<?>	Mt_piak, Matsoin	Korubo, Kaxinawa, Sharanawa, Marubo	6	U+005e U+004d
+^M	m	Mt_piak, Matsoin	Korubo, Kaxinawa, Sharanawa, Marubo	6	U+005e U+004d
 ^tʂ	ʈʂ	tʂaʂu, tʂanpi	Matis, Mayoruna, Kaxarari	6	U+005e U+0074 U+0282
 ^ˈy	y	ˈyora, ˈyoβɨka	Chakobo, Marubo	6	U+005e U+02c8 U+0079
 ^ˈi	i	ˈiwiʃaka, ˈia	Marubo	5	U+005e U+02c8 U+0069
@@ -212,54 +275,33 @@ q	q	mesmo_porque_to, los_shipibo_consideran_que	Mayoruna, Amawaka, Kaxinawa	4	U+
 ˈts	ts	unˈtsɨ, unˈtsis	Kakataibo, Mayoruna, Amawaka	4	U+02c8 U+0074 U+0073
 ń	n	rɨ́ń_ɨ́́-, wɨń_okín	Amawaka, Marinawa, Kapanawa	4	U+0144
 ^ˈʂ	ʂ	ˈʂutʃi, ˈʂoya	Chakobo, Marubo	4	U+005e U+02c8 U+0282
-^A	<?>	Atsa, Atsa_I	Amawaka, Matis, Korubo	3	U+005e U+0041
 áá$	áá	ʔáá, βáá	Amawaka	3	U+00e1 U+00e1 U+0024
 ɔ$	ɔ	ʔi᷈ɔ, ñonɔ́́ɔ-	Kakataibo	3	U+0254 U+0024
-ss	ss	excessivo, ɸisso	Marinawa, Kakataibo	3	U+0073 U+0073
 ^i$	i	i, i-	Matis, Kakataibo, Kaxinawa	3	U+005e U+0069 U+0024
 ˈi$	i	baˈi, βaˈi	ShipiboKonibo, Mayoruna, Chakobo	3	U+02c8 U+0069 U+0024
 ^ṍ	ṍ	ṍnã, ṍi᷈	Marinawa	3	U+005e U+1e4d
 ^ˈu	u	ˈuʃai, ˈunu	Marubo	3	U+005e U+02c8 U+0075
-^ll	ll	llano, llamar_a_uma_fiesta	Kaxinawa, Kakataibo	3	U+005e U+006c U+006c
 h$	h	hauh, atuh	Poyanawa	3	U+0068 U+0024
 é	é	de_él, a_él	Mayoruna, Amawaka	3	U+00e9
-A	<?>	--_A_paxko_II, tʃaʂo_A_tʃaxó_I	Poyanawa, Chakobo	3	U+0041
-^K	<?>	Kanã_ɸakaiki, Kai᷈	Marinawa, ShipiboKonibo	3	U+005e U+004b
 u᷈$	ũ	mãˈʃu᷈, nu᷈nu᷈	Poyanawa, Marubo	3	U+0075 U+1dc8 U+0024
 ãã$	ãã	yuˈwãã, ni᷈kãã	Marubo	3	U+00e3 U+00e3 U+0024
 ^ˈʔ	ʔ	ˈʔina_, ˈʔamɨno	Chakobo, Marinawa	2	U+005e U+02c8 U+0294
 ˈi᷈$	ˈĩ	aˈi᷈, nuˈi᷈	Marubo	2	U+02c8 U+0069 U+1dc8 U+0024
 ˈi᷈	ˈĩ	aˈi᷈vɞ, ʔaˈi᷈βo	ShipiboKonibo, Marubo	2	U+02c8 U+0069 U+1dc8
-kk	kk	ak-kin, uk-kin	Matis	2	U+006b U+006b
 ^ɔ$	ɔ	-ɔ	Kakataibo	2	U+005e U+0254 U+0024
 ʔ w	ʔ w	iʔwan, aʔwan	Kapanawa	2	U+0294 U+0077
 ʔ s	ʔ s	yaʔsamɨti, ʔiʔsá	Kapanawa	2	U+0294 U+0073
-Ch	<?>	--_Chan_--, βii._Ch_βii	Yaminawa, Kapanawa	2	U+0043 U+0068
-	<?>	ʔísinɸʔísinínɸ’dor’, uʃi᷈_unʃin	Amawaka, Kakataibo	2	U+f02c
-’	<?>	ʔísinɸʔísinínɸ’dor’, dabi-ɸ’tener_vergüenza	Amawaka, Kaxinawa	2	U+2019
-__	__	joˈpɨʂɨ__hopɨ́ʂɨ, isi᷈_-_I	Chakobo, Amawaka	2	U+005f U+005f
 ˈu	u	iˈuɨ, ˈvimi_ˈua	Mayoruna, Marubo	2	U+02c8 U+0075
 ^ũ	ũ	ũi᷈-, ũpaʂ	Kaxinawa	2	U+005e U+0169
 ^aa	aa	aatí, aatõ	Yaminawa, Marubo	2	U+005e U+0061 U+0061
-L	<?>	colmillo._C.L._muela._Pico_de_papagayo, --._“Según_Loriot	Mayoruna	2	U+004c
 ˈr	r	rɨpaˈra, awɨ_ˈrɨki᷈	Chakobo, Marubo	2	U+02c8 U+0072
 lh	lh	ton_parece_com_o_barulho_da_arma, filho	Mayoruna, Marubo	2	U+006c U+0068
 é$	é	inalador_de_rapé, bebé	Sharanawa, Marubo	2	U+00e9 U+0024
-<<	<?>	-ma-_<<causativo>>, bɨta_<<O>>	Mayoruna, Marinawa	2	U+003c U+003c
->>$	<?>	-ma-_<<causativo>>, bɨta_<<O>>	Mayoruna, Marinawa	2	U+003e U+003e U+0024
-xw	xw	wixwa-, naxwaa_I	Amawaka	2	U+0078 U+0077
 ʔ$	ʔ	tsoʔ-, -katsiʔ-	Kapanawa	2	U+0294 U+0024
 ^ɨ́	ɨ́	ɨ́ḱ_ɨ..., ɨ́nɨ́-	Marinawa, Matis	2	U+005e U+0268 U+0301
 ^ɨ᷈	ĩ	ɨ᷈_noi_ʃavo, ɨ᷈ʂɨ	Kakataibo, Marubo	2	U+005e U+0268 U+1dc8
-P	<?>	colmillo._C.L._muela._Pico_de_papagayo, --_Poy_--	Mayoruna, Yawanawa	2	U+0050
 a᷈$	ã	mɨɨa᷈, káma᷈	Yaminawa, Amawaka	2	U+0061 U+1dc8 U+0024
 ts$	ts	nits-, -kats	Kakataibo	2	U+0074 U+0073 U+0024
-K	<?>	SK_--, kɨɾɨ_Ko_--	Yawanawa, Kakataibo	2	U+004b
-	<?>	ʃiɸI, ˈkɨnɨʂɨn	ShipiboKonibo, Amawaka	2	U+f06b
-ee	ee	mee_, mee_poto	Kakataibo	2	U+0065 U+0065
-t́	t́	tɨ́t́_ɨ́́, mɨ́t́ótí	Marinawa	2	U+0074 U+0301
-c$	c	nimëduc, etc.	Mayoruna, Sharanawa	2	U+0063 U+0024
-ɔ́́	ɔ́	ñonɔ́́ɔ-, nɔɔβai_o_nɔɔ́́βai	Kakataibo	2	U+0254 U+0301 U+0301
 ˈb	b	niˈbi, niˈbitʃi	Chakobo	2	U+02c8 U+0062
 ^o$	o	o, o-	Kakataibo	2	U+005e U+006f U+0024
 ă$	ă	ūă, ˈʃɐ̄᷈nă-	Marubo	2	U+0103 U+0024
@@ -267,110 +309,56 @@ c$	c	nimëduc, etc.	Mayoruna, Sharanawa	2	U+0063 U+0024
 j$	j	faj, pɨj	Shanenawa	2	U+006a U+0024
 ˈv	v	yaˈviʃi, raˈvɨvaki᷈	Marubo	2	U+02c8 U+0076
 a᷈	ã	ta᷈bu, ra᷈tu᷈-ti	Poyanawa, Kakataibo	2	U+0061 U+1dc8
-^Ch	<?>	Chan_atsa	Yaminawa	1	U+005e U+0043 U+0068
 ˈo	o	ʃinu [ʃĩˈoʔ], vuu [βoˈo]	Katukina		
 ^ˈo	o	ˈoʂɨ [ˈoʂɨʔ]	Marubo		
 ˈa	a	wɨˈan_ʔani	Kapanawa	1	U+02c8 U+0061
 ˈɔ$	ɔ	ʔɔˈɔ	Kakataibo	1	U+02c8 U+0254 U+0024
-ˈ	<?>	ʔaˈa	Kapanawa	1	U+02c8 U+f077
 ^áá	áá	áá_I	Amawaka	1	U+005e U+00e1 U+00e1
 ɞ$	ɞ	aˈi᷈vɞ	Marubo	1	U+025e U+0024
 ^ˈã	ã	ˈãwi᷈	Marinawa	1	U+005e U+02c8 U+00e3
-ee$	ee	ʔee-	Kakataibo	1	U+0065 U+0065 U+0024
-^ʔw	ʔw	ʔwan	Kapanawa	1	U+005e U+0294 U+0077
-ɐ᷈$	ɐ̃	ʃawɨwɐ᷈	Marubo	1	U+0250 U+1dc8 U+0024
 ˈy	y	iˈya	Kaxarari	1	U+02c8 U+0079
 ˈj	j	piˈya [piˈja], tʃakɨtaya [tʃakɨtaˈja]	Kaxarari		
 í᷈	í̃	ʔí᷈yan	Amawaka	1	U+00ed U+1dc8
-^I	<?>	Iná_I	Amawaka	1	U+005e U+0049
 ^ii	ii	ii_I	Amawaka	1	U+005e U+0069 U+0069
 ^ˈi$	i	ˈi	Mayoruna	1	U+005e U+02c8 U+0069 U+0024
 ^i᷈i᷈$	ĩĩ	i᷈i᷈-	Amawaka	1	U+005e U+0069 U+1dc8 U+0069 U+1dc8 U+0024
-ʃ	<?>	ˈwakapaʃa	Marubo	1	U+f0ae U+0283
 ˈd	d	u᷈hu᷈ˈde	Poyanawa	1	U+02c8 U+0064
-<	<?>	nɔɔ_<_nawa	Kakataibo	1	U+003c
-“	<?>	--._“Según_Loriot	Mayoruna	1	U+201c
-S	<?>	--._“Según_Loriot	Mayoruna	1	U+0053
-sh	sh	los_shipibo_consideran_que	Mayoruna	1	U+0073 U+0068
 ^y$	y	y	Mayoruna	1	U+005e U+0079 U+0024
-”$	<?>	juego_272.”	Mayoruna	1	U+201d U+0024
-$	<?>	ãsi᷈ɸ	Marubo	1	U+f028 U+0024
-nʂ	nʂ	hanʂβá-	Kapanawa	1	U+006e U+0282
 í᷈$	í̃	βatʃí᷈	ShipiboKonibo	1	U+00ed U+1dc8 U+0024
-O	<?>	bɨta_<<O>>	Mayoruna	1	U+004f
-^_$	_	--_	Mayoruna	1	U+005e U+005f U+0024
-M$	<?>	un_ejemplo_M	Marinawa	1	U+004d U+0024
-W	<?>	ver_War	Amawaka	1	U+0057
-íí	íí	wíí_I	Amawaka	1	U+00ed U+00ed
 ú$	ú	βuɾú	Kakataibo	1	U+00fa U+0024
 ^β̄	β̄	β̄ʊ	Marubo	1	U+005e U+03b2 U+0304
 ʊ$	ʊ	β̄ʊ	Marubo	1	U+028a U+0024
-óó	óó	wóó_I	Amawaka	1	U+00f3 U+00f3
 ɔ́$	ɔ́	tsɔɔ́	Kakataibo	1	U+0254 U+0301 U+0024
 ṍ́$	ṍ	tsiṍ́	ShipiboKonibo	1	U+1e4d U+0301 U+0024
 ó́$	ó	tsɨó́	Marinawa	1	U+00f3 U+0301 U+0024
-nh	nh	apunhalar	Sharanawa	1	U+006e U+0068
 ^ɨ᷈$	ɨ̃	ɨ᷈	Kakataibo	1	U+005e U+0268 U+1dc8 U+0024
-ˈ$	<?>	iˈsipaˈtʃi_ikˈ	Mayoruna	1	U+02c8 U+0024
 m$	m	im-	Yaminawa	1	U+006d U+0024
 ũ̃$	ũ	isũ̃	Kaxinawa	1	U+0169 U+0303 U+0024
 ^ii$	ii	ii	Kakataibo	1	U+005e U+0069 U+0069 U+0024
 ɨ᷈ɨ᷈	ɨ̃ɨ̃	kɨ᷈ɨ᷈-_I	Amawaka	1	U+0268 U+1dc8 U+0268 U+1dc8
-᷈$	<?>	kɨ-᷈	Kaxinawa	1	U+1dc8 U+0024
 ɨ᷈ɨ᷈$	ɨ̃ɨ̃	kɨ᷈ɨ᷈	Marinawa	1	U+0268 U+1dc8 U+0268 U+1dc8 U+0024
-_́	_́	kãkã_́_	ShipiboKonibo	1	U+005f U+0301
+_́	NULL	kãkã_́_	ShipiboKonibo	1	U+005f U+0301
 ɨ᷈᷈$	ɨ̃	kápɨ᷈᷈	Marinawa	1	U+0268 U+1dc8 U+1dc8 U+0024
-cc	cc	uccas	Mayoruna	1	U+0063 U+0063
-ʔʂ	ʔʂ	kɨʔʂɨ-	Kapanawa	1	U+0294 U+0282
 ˈɾ	ɾ	kɨˈɾɨ	Chakobo	1	U+02c8 U+027e
 ^ˈɾ	ɾ	[ˈɾani] ~ [ˈɾɐndi]	Marubo	1	
 k᷈	k᷈	kɨk᷈_ɨ́ʂ	ShipiboKonibo	1	U+006b U+1dc8
-Y	<?>	kɨ́tɨ_Yaw_kɨti	Marinawa	1	U+0059
-^H	<?>	Hermano_de_la_madre	Kaxinawa	1	U+005e U+0048
 ẽ	ẽ	kweẽkoro	Kakataibo	1	U+1ebd
 ẽ́$	ẽ́	meẽ́	Kakataibo	1	U+1ebd U+0301 U+0024
 á᷈$	á̃	maká᷈	ShipiboKonibo	1	U+00e1 U+1dc8 U+0024
-ësh	ësh	madaështe	Mayoruna	1	U+00eb U+0073 U+0068
+ësh	ë ʃ	madaështe	Mayoruna	1	U+00eb U+0073 U+0068
 ʐ	ʐ	mapuʐo	Kakataibo	1	U+0290
-ls	ls	pulsera	Kaxinawa	1	U+006c U+0073
 ë	ë	nimëduc	Mayoruna	1	U+00eb
-’h	<?>	niɸ’halar’	Kakataibo	1	U+2019 U+0068
 ^ū	ū	ūă	Marubo	1	U+005e U+016b
 ^ó$	ó	ó-	Marinawa	1	U+005e U+00f3 U+0024
 ^ˈv	v	ˈvimi_ˈua	Marubo	1	U+005e U+02c8 U+0076
-^S	<?>	SK_--	Kakataibo	1	U+005e U+0053
 z$	z	voz	Kapanawa	1	U+007a U+0024
 ^õ	õ	õki	Kakataibo	1	U+005e U+00f5
 ˈɨ	ɨ	paˈɨd, daɨd [daˈɨd]	Mayoruna	1	U+02c8 U+0268
 ^ɨ́́	ɨ́	ɨ́́pá	Marinawa	1	U+005e U+0268 U+0301 U+0301
-́$	<?>	parã-́	ShipiboKonibo	1	U+0301 U+0024
 ĩ̃$	ĩ	pɨtʃĩ̃-	ShipiboKonibo	1	U+0129 U+0303 U+0024
 tʂ	ʈʂ	pitʂu	Matis	1	U+0074 U+0282
-nw	nw	piskaden_boiunwate	Matis	1	U+006e U+0077
-és$	és	después	Kaxinawa	1	U+00e9 U+0073 U+0024
-	<?>	raɸi᷈ki᷈	Yaminawa	1	U+f02d
-ü	ü	dabi-ɸ’tener_vergüenza	Kaxinawa	1	U+00fc
-t́́	t́́	rɨt́́_ɨ-	Marinawa	1	U+0074 U+0301 U+0301
-ɨ́́ɨ́́	ɨ́ɨ́	rɨ́́ɨ́́_I	Amawaka	1	U+0268 U+0301 U+0301 U+0268 U+0301 U+0301
-sw	sw	riswii_I	Amawaka	1	U+0073 U+0077
-^ˈtʃh	ˈtʃh	ˈtʃhɨʔɨ	Kaxarari	1	U+005e U+02c8 U+0074 U+0283 U+0068
 ã́́$	ã́	sanã́́-	ShipiboKonibo	1	U+00e3 U+0301 U+0301 U+0024
 ^ˈs	s	ˈsaniman	ShipiboKonibo	1	U+005e U+02c8 U+0073
-	<?>	ʃiɸI	Amawaka	1	U+f06f
-ɐ̄᷈	ɐ̃	ˈʃɐ̄᷈nă-	Marubo	1	U+0250 U+0304 U+1dc8
 p$	p	ʂana-dap	Matis	1	U+0070 U+0024
 ^q	q	que_parecen_con_algodón	Mayoruna	1	U+005e U+0071
-ãã	ãã	xãã_II	Amawaka	1	U+00e3 U+00e3
-C	<?>	colmillo._C.L._muela._Pico_de_papagayo	Mayoruna	1	U+0043
-	<?>	pɨ́́ʂɨ́́ʂɨaɸ	Marinawa	1	U+f077
-o᷈$	õ	tamo᷈	Yaminawa	1	U+006f U+1dc8 U+0024
-ɔ́́ɔ́́$	ɔ́ɔ́	tɔ́́ɔ́́	Kakataibo	1	U+0254 U+0301 U+0301 U+0254 U+0301 U+0301 U+0024
-áá	áá	táá_I	Amawaka	1	U+00e1 U+00e1
-́́$	<?>	tɨkɨ-́́	Kakataibo	1	U+0301 U+0301 U+0024
-ḱ	<?>	ɨ́ḱ_ɨ...	Matis	1	U+1e31
-ṕ	<?>	tɨtɨ́ṕa	Chakobo	1	U+1e55
-ś	ś	tɨ́ś_tõ	Marinawa	1	U+015b
-$	<?>	binu	Kaxinawa	1	U+f02d U+0024
 ɔ́́$	ɔ́	apɔɔ́́	Kakataibo	1	U+0254 U+0301 U+0301 U+0024
-uu$	uu	yuu	Katukina	1	U+0075 U+0075 U+0024
-sh$	sh	flesh	Kakataibo	1	U+0073 U+0068 U+0024

@@ -5,9 +5,8 @@ CHAR	REPLACEMENT
 \uf022	ˈ
 \uf042	β
 \uf046	ɸ
-\uf026	᷈
+\uf026	 ̃
 \uf021	́
-\uf0e0	
 \uf07c	ɾ
 \uf0da	́
 \uf078	x
@@ -18,12 +17,15 @@ CHAR	REPLACEMENT
 \uf08c	ɐ
 \uf06e	n
 \uf02a	̆
+\uf02c	,
+\uf02d	-
 \uf0ab	ə
 \uf048	ɦ
 \uf040	̄
 \uf0ac	ɯ
+\uf0ae	
 \uf0f1	ɬ
-\uf055	̄ʊ
+\uf055	ʊ
 \uf03b	;
 \uf069	i
 \uf0a5	∞
@@ -44,3 +46,11 @@ CHAR	REPLACEMENT
 \uf0e4	ɜ
 \u0301	́
 \uf02f	ʔ
+\uf0b4	'
+\uf06f	o
+\uf06b	k
+\uf020	 
+\uf0e0	
+\uf077	ɯ
+\uf028	 ̊
+\uf045	ɛ
