@@ -51,7 +51,6 @@ class Dataset(BaseDataset):
 
         # Proto Concepts: New
         for concept in self.conceptlists[0].concepts.values():
-            print(concept)
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
@@ -125,7 +124,7 @@ class Dataset(BaseDataset):
             else:
                 value = entry["VALUE"]
                 variants = ""
-            print(entry["CONCEPT"])
+
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[entry["DOCULECTID"]],
                     Parameter_ID=concepts[(
