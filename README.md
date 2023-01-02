@@ -14,32 +14,35 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://repositorio.unb.br/handle/10482/17129
 
+
+Conceptlists in Concepticon:
+- [Oliveira-2014-517](https://concepticon.clld.org/contributions/Oliveira-2014-517)
 ## Statistics
 
 
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 44%](https://img.shields.io/badge/Concepticon-44%25-red.svg "Concepticon: 44%")
+![Concepticon: 34%](https://img.shields.io/badge/Concepticon-34%25-red.svg "Concepticon: 34%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 49%](https://img.shields.io/badge/BIPA-49%25-red.svg "BIPA: 49%")
-![CLTS SoundClass: 49%](https://img.shields.io/badge/CLTS%20SoundClass-49%25-red.svg "CLTS SoundClass: 49%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 20
-- **Concepts:** 2,554
-- **Lexemes:** 7,314
+- **Concepts:** 2,569
+- **Lexemes:** 7,313
 - **Sources:** 35
-- **Synonymy:** 1.08
-- **Cognacy:** 7,314 cognates in 517 cognate sets (0 singletons)
+- **Synonymy:** 1.07
+- **Cognacy:** 7,313 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
-- **Tokens:** 34,078
-- **Segments:** 154 (79 BIPA errors, 79 CLTS sound class errors, 75 CLTS modified)
-- **Inventory size (avg):** 41.10
+- **Tokens:** 31,774
+- **Segments:** 96 (0 BIPA errors, 0 CLTS sound class errors, 96 CLTS modified)
+- **Inventory size (avg):** 34.95
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 5897/7314 (80.63%)
+- Entries missing sources: 5896/7313 (80.62%)
 
 # Contributors
 
