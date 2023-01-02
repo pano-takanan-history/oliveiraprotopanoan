@@ -1,11 +1,11 @@
 Grapheme	IPA	Examples	Languages	Frequence	Codepoints
 ^	NULL				
 $	NULL	
-[n]	n|r				
-[C]	C	
-C	C		
-[Cc]	t|ɽ
-Cc	t|ɽ
+[n]	n|r/n				
+[C]	C/n	
+C	C/n		
+[Cc]	t|ɽ/t
+Cc	t|ɽ/t
 [ts]	ts
 nã́́-	n a
 +	+
@@ -16,7 +16,9 @@ nã́́-	n a
  ́	NULL			
 ^-	NULL				
 -$	NULL
--́	NULL		
+-́	NULL	
+̃	NULL
+͡	NULL	
 ^I	i
 ^A	a
 ^K	k

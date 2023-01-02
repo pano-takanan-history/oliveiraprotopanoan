@@ -7,6 +7,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -112,6 +115,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -147,6 +153,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -336,6 +345,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -441,6 +453,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -476,6 +491,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -659,6 +677,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -764,6 +785,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -799,6 +823,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -969,13 +996,14 @@
             }
         },
         "Kakataibo": {
-            "bipa_errors": [
-                "<<\u0303>>"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -1082,6 +1110,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -1117,6 +1148,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -1254,12 +1288,9 @@
                     "\u03b2"
                 ]
             },
-            "sclass_errors": [
-                "<<\u0303>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 23,
-                "<<\u0303>>": 2,
                 "a": 258,
                 "aa": 1,
                 "b": 4,
@@ -1318,6 +1349,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -1424,6 +1458,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -1459,6 +1496,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -1641,6 +1681,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -1746,6 +1789,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -1781,6 +1827,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -1963,13 +2012,14 @@
             }
         },
         "Kaxarari": {
-            "bipa_errors": [
-                "<<\u0361>>"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -2076,6 +2126,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -2111,6 +2164,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -2248,12 +2304,9 @@
                     "\u03b2"
                 ]
             },
-            "sclass_errors": [
-                "<<\u0361>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 3,
-                "<<\u0361>>": 2,
                 "a": 164,
                 "b": 22,
                 "h": 28,
@@ -2301,6 +2354,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -2407,6 +2463,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -2442,6 +2501,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -2626,6 +2688,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -2731,6 +2796,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -2766,6 +2834,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -2941,6 +3012,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -3046,6 +3120,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -3081,6 +3158,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -3260,13 +3340,14 @@
             }
         },
         "Marubo": {
-            "bipa_errors": [
-                "<<\u0303>>"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -3373,6 +3454,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -3408,6 +3492,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -3545,12 +3632,9 @@
                     "\u03b2"
                 ]
             },
-            "sclass_errors": [
-                "<<\u0303>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 21,
-                "<<\u0303>>": 1,
                 "a": 235,
                 "aa": 2,
                 "b": 3,
@@ -3611,6 +3695,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -3717,6 +3804,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -3752,6 +3842,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -3924,6 +4017,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -4029,6 +4125,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -4064,6 +4163,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -4247,6 +4349,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -4352,6 +4457,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -4387,6 +4495,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -4556,15 +4667,14 @@
             }
         },
         "Proto-Panoan": {
-            "bipa_errors": [
-                "n|r",
-                "C",
-                "t|\u027d"
-            ],
-            "general_errors": 151,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -4671,6 +4781,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -4706,6 +4819,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -4843,14 +4959,10 @@
                     "\u03b2"
                 ]
             },
-            "sclass_errors": [
-                "n|r",
-                "C",
-                "t|\u027d"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 11,
-                "C": 9,
+                "C/n": 9,
                 "a": 369,
                 "e": 1,
                 "h": 41,
@@ -4860,7 +4972,7 @@
                 "l": 1,
                 "m": 92,
                 "n": 51,
-                "n|r": 129,
+                "n|r/n": 129,
                 "o": 244,
                 "oo": 1,
                 "p": 76,
@@ -4868,7 +4980,7 @@
                 "s": 56,
                 "t": 91,
                 "ts": 27,
-                "t|\u027d": 13,
+                "t|\u027d/t": 13,
                 "t\u0283": 22,
                 "v": 1,
                 "w": 53,
@@ -4894,6 +5006,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/n": [
+                    "n"
                 ],
                 "a": [
                     "a"
@@ -5000,6 +5115,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -5035,6 +5153,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -5209,6 +5330,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -5314,6 +5438,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -5349,6 +5476,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -5524,6 +5654,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -5629,6 +5762,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -5664,6 +5800,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -5850,6 +5989,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -5955,6 +6097,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -5990,6 +6135,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -6172,6 +6320,9 @@
                 "+": [
                     "+"
                 ],
+                "C/n": [
+                    "n"
+                ],
                 "a": [
                     "a"
                 ],
@@ -6277,6 +6428,9 @@
                 "n": [
                     "n"
                 ],
+                "n|r/n": [
+                    "n"
+                ],
                 "o": [
                     "o"
                 ],
@@ -6312,6 +6466,9 @@
                 ],
                 "ts": [
                     "ts"
+                ],
+                "t|\u027d/t": [
+                    "t"
                 ],
                 "t\u0283": [
                     "t\u0283"
@@ -6484,723 +6641,19 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Kakataibo-deixarlargar-1",
-                "Kakataibo",
-                "deixarlargar",
-                "\u0268\u0303",
-                "\u0268 <s> <<\u0303>> </s>"
-            ],
-            [
-                "Kakataibo-semillapupiladelojo-1",
-                "Kakataibo",
-                "semillapupiladelojo",
-                "\u0268\u0303\u0282\u0268",
-                "\u0268 <s> <<\u0303>> </s> \u0282 \u0268"
-            ],
-            [
-                "Kaxarari-peixe-1",
-                "Kaxarari",
-                "peixe",
-                "m\u0361ai\u02c8l\u0264",
-                "m <s> <<\u0361>> </s> a i l \u0264"
-            ],
-            [
-                "Kaxarari-pesado-1",
-                "Kaxarari",
-                "pesado",
-                "na\u0361i\u02c8w\u0268",
-                "n a <s> <<\u0361>> </s> i w \u0268"
-            ],
-            [
-                "Marubo-minhaesposaamada-1",
-                "Marubo",
-                "minhaesposaamada",
-                "\u0268\u0303_noi_\u0283avo",
-                "\u0268 <s> <<\u0303>> </s> + n o i + \u0283 a v o"
-            ],
-            [
-                "Proto-Panoan-abacaxi-1",
-                "Proto-Panoan",
-                "abacaxi",
-                "ka[n]",
-                "k a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-aborrecerse-1",
-                "Proto-Panoan",
-                "aborrecerse",
-                "[n]i\u0283-",
-                "<s> n|r </s> i \u0283"
-            ],
-            [
-                "Proto-Panoan-amargostar-1",
-                "Proto-Panoan",
-                "amargostar",
-                "[n]oi-",
-                "<s> n|r </s> o i"
-            ],
-            [
-                "Proto-Panoan-amarrar-1",
-                "Proto-Panoan",
-                "amarrar",
-                "[n]\u0268\u0282a-",
-                "<s> n|r </s> \u0268 \u0282 a"
-            ],
-            [
-                "Proto-Panoan-apagar-1",
-                "Proto-Panoan",
-                "apagar",
-                "[n]oka-",
-                "<s> n|r </s> o k a"
-            ],
-            [
-                "Proto-Panoan-arcoiris-1",
-                "Proto-Panoan",
-                "arcoiris",
-                "[n]awa_\u03b2a\u0294i",
-                "<s> n|r </s> a w a + \u03b2 a \u0294 i"
-            ],
-            [
-                "Proto-Panoan-arrastar-1",
-                "Proto-Panoan",
-                "arrastar",
-                "[n]i[n]-",
-                "<s> n|r </s> i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-banana-1",
-                "Proto-Panoan",
-                "banana",
-                "ma[n]i",
-                "m a <s> n|r </s> i"
-            ],
-            [
-                "Proto-Panoan-banharsetomarbanho-1",
-                "Proto-Panoan",
-                "banharsetomarbanho",
-                "[n]as[i]-",
-                "<s> n|r </s> a s i"
-            ],
-            [
-                "Proto-Panoan-barba-1",
-                "Proto-Panoan",
-                "barba",
-                "kw\u0268[n]i",
-                "k\u02b7 \u0268 <s> n|r </s> i"
-            ],
-            [
-                "Proto-Panoan-barba-2",
-                "Proto-Panoan",
-                "barba",
-                "kw\u0268\u0282[n]i",
-                "k\u02b7 \u0268 \u0282 <s> n|r </s> i"
-            ],
-            [
-                "Proto-Panoan-beijaflor-1",
-                "Proto-Panoan",
-                "beijaflor",
-                "pi[n]o",
-                "p i <s> n|r </s> o"
-            ],
-            [
-                "Proto-Panoan-brisa-1",
-                "Proto-Panoan",
-                "brisa",
-                "[n]i\u03b2iCc",
-                "<s> n|r </s> i \u03b2 i <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-cabeca-1",
-                "Proto-Panoan",
-                "cabeca",
-                "\u03b2o\u0282ka[Cc]",
-                "\u03b2 o \u0282 k a <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-canoa-1",
-                "Proto-Panoan",
-                "canoa",
-                "[n]\u00f5ti",
-                "<s> n|r </s> \u00f5 t i"
-            ],
-            [
-                "Proto-Panoan-capivara-1",
-                "Proto-Panoan",
-                "capivara",
-                "\u0294am\u0268[n]",
-                "\u0294 a m \u0268 <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-capoeirarocaabandonada-1",
-                "Proto-Panoan",
-                "capoeirarocaabandonada",
-                "[n]aw\u0268",
-                "<s> n|r </s> a w \u0268"
-            ],
-            [
-                "Proto-Panoan-ceradeabeja-1",
-                "Proto-Panoan",
-                "ceradeabeja",
-                "\u03b2oi[Cc]",
-                "\u03b2 o i <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-chamar-1",
-                "Proto-Panoan",
-                "chamar",
-                "kw\u0268[n]a-",
-                "k\u02b7 \u0268 <s> n|r </s> a"
-            ],
-            [
-                "Proto-Panoan-chifredeanimal-1",
-                "Proto-Panoan",
-                "chifredeanimal",
-                "m\u00e3t\u0283a[n]",
-                "m \u00e3 t\u0283 a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-conheceraprender-1",
-                "Proto-Panoan",
-                "conheceraprender",
-                "\u0294o[n]a[n]-",
-                "\u0294 o <s> n|r </s> a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-coracao-1",
-                "Proto-Panoan",
-                "coracao",
-                "hoi[n]ti",
-                "h o i <s> n|r </s> t i"
-            ],
-            [
-                "Proto-Panoan-deixarlargar-1",
-                "Proto-Panoan",
-                "deixarlargar",
-                "h\u0268[n]\u0268Cc-",
-                "h \u0268 <s> n|r </s> \u0268 <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-dentronocentro-1",
-                "Proto-Panoan",
-                "dentronocentro",
-                "[n]apo",
-                "<s> n|r </s> a p o"
-            ],
-            [
-                "Proto-Panoan-desenharpintar-1",
-                "Proto-Panoan",
-                "desenharpintar",
-                "kw\u0268[n]\u0268-",
-                "k\u02b7 \u0268 <s> n|r </s> \u0268"
-            ],
-            [
-                "Proto-Panoan-enganar-1",
-                "Proto-Panoan",
-                "enganar",
-                "pa\u027da[n]-",
-                "p a \u027d a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-ensartar-1",
-                "Proto-Panoan",
-                "ensartar",
-                "kw\u0268o[n]-",
-                "k\u02b7 \u0268 o <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-enterrar-1",
-                "Proto-Panoan",
-                "enterrar",
-                "mai[n]-",
-                "m a i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-envergonharsetervergonha-1",
-                "Proto-Panoan",
-                "envergonharsetervergonha",
-                "\u027da\u03b2i[n]-",
-                "\u027d a \u03b2 i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-escurtarouvir-1",
-                "Proto-Panoan",
-                "escurtarouvir",
-                "[n]ika",
-                "<s> n|r </s> i k a"
-            ],
-            [
-                "Proto-Panoan-espdeabelha-1",
-                "Proto-Panoan",
-                "espdeabelha",
-                "\u03b2o[n]a",
-                "\u03b2 o <s> n|r </s> a"
-            ],
-            [
-                "Proto-Panoan-espdearara-1",
-                "Proto-Panoan",
-                "espdearara",
-                "ka\u0294i[n]",
-                "k a \u0294 i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-espdearvoreembauba-1",
-                "Proto-Panoan",
-                "espdearvoreembauba",
-                "\u03b2oko[n]",
-                "\u03b2 o k o <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-espdecabaca-1",
-                "Proto-Panoan",
-                "espdecabaca",
-                "mas\u0268[n]",
-                "m a s \u0268 <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-espdecaramujo-1",
-                "Proto-Panoan",
-                "espdecaramujo",
-                "[n]o\u0294t\u0283o",
-                "<s> n|r </s> o \u0294 t\u0283 o"
-            ],
-            [
-                "Proto-Panoan-espdecaramujo-2",
-                "Proto-Panoan",
-                "espdecaramujo",
-                "[n]o\u03b2o",
-                "<s> n|r </s> o \u03b2 o"
-            ],
-            [
-                "Proto-Panoan-espdefungo-1",
-                "Proto-Panoan",
-                "espdefungo",
-                "ko[n]o",
-                "k o <s> n|r </s> o"
-            ],
-            [
-                "Proto-Panoan-espdemosquito-1",
-                "Proto-Panoan",
-                "espdemosquito",
-                "[n]akwa",
-                "<s> n|r </s> a k\u02b7 a"
-            ],
-            [
-                "Proto-Panoan-espdeonca-1",
-                "Proto-Panoan",
-                "espdeonca",
-                "\u0294i[n]o",
-                "\u0294 i <s> n|r </s> o"
-            ],
-            [
-                "Proto-Panoan-espdepassaro-1",
-                "Proto-Panoan",
-                "espdepassaro",
-                "[n]\u0268\u0282[n]\u0268\u0282",
-                "<s> n|r </s> \u0268 \u0282 <s> n|r </s> \u0268 \u0282"
-            ],
-            [
-                "Proto-Panoan-espdepreguica-1",
-                "Proto-Panoan",
-                "espdepreguica",
-                "pos\u0268[n]",
-                "p o s \u0268 <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-espdequeixadaporcodomato-1",
-                "Proto-Panoan",
-                "espdequeixadaporcodomato",
-                "ho[n]o",
-                "h o <s> n|r </s> o"
-            ],
-            [
-                "Proto-Panoan-espdetatu-1",
-                "Proto-Panoan",
-                "espdetatu",
-                "pa\u0268[n]o",
-                "p a \u0268 <s> n|r </s> o"
-            ],
-            [
-                "Proto-Panoan-esquecerperder-1",
-                "Proto-Panoan",
-                "esquecerperder",
-                "\u03b2\u0268\u0294[n]oCc-",
-                "\u03b2 \u0268 \u0294 <s> n|r </s> o <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-esteira-1",
-                "Proto-Panoan",
-                "esteira",
-                "pi\u0283i[n]",
-                "p i \u0283 i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-estrangeiro-1",
-                "Proto-Panoan",
-                "estrangeiro",
-                "[n]awa",
-                "<s> n|r </s> a w a"
-            ],
-            [
-                "Proto-Panoan-ferver-1",
-                "Proto-Panoan",
-                "ferver",
-                "ko\u03b2i[n]-",
-                "k o \u03b2 i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-ficarempe-1",
-                "Proto-Panoan",
-                "ficarempe",
-                "niCc-",
-                "n i <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-finoraso-1",
-                "Proto-Panoan",
-                "finoraso",
-                "\u03b2\u0268\u0282[n]a[n]",
-                "\u03b2 \u0268 \u0282 <s> n|r </s> a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-gostosodelicioso-1",
-                "Proto-Panoan",
-                "gostosodelicioso",
-                "[n]o[\u0268]",
-                "<s> n|r </s> o \u0268"
-            ],
-            [
-                "Proto-Panoan-grossoespesso-1",
-                "Proto-Panoan",
-                "grossoespesso",
-                "k\u0268\u0282to[C]",
-                "k \u0268 \u0282 t o <s> C </s>"
-            ],
-            [
-                "Proto-Panoan-jacamimespdepassaro-1",
-                "Proto-Panoan",
-                "jacamimespdepassaro",
-                "[n]\u0268a",
-                "<s> n|r </s> \u0268 a"
-            ],
-            [
-                "Proto-Panoan-jenipapo-1",
-                "Proto-Panoan",
-                "jenipapo",
-                "[n]a[n]\u0268",
-                "<s> n|r </s> a <s> n|r </s> \u0268"
-            ],
-            [
-                "Proto-Panoan-joelho-1",
-                "Proto-Panoan",
-                "joelho",
-                "\u027da[n]toko-",
-                "\u027d a <s> n|r </s> t o k o"
-            ],
-            [
-                "Proto-Panoan-labios-1",
-                "Proto-Panoan",
-                "labios",
-                "kw\u0268\u0282a[n]",
-                "k\u02b7 \u0268 \u0282 a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-lacraiaescorpiao-1",
-                "Proto-Panoan",
-                "lacraiaescorpiao",
-                "[n]i\u03b2o",
-                "<s> n|r </s> i \u03b2 o"
-            ],
-            [
-                "Proto-Panoan-largo-1",
-                "Proto-Panoan",
-                "largo",
-                "[n]a\u0282\u03b2a",
-                "<s> n|r </s> a \u0282 \u03b2 a"
-            ],
-            [
-                "Proto-Panoan-levantarsuspender-1",
-                "Proto-Panoan",
-                "levantarsuspender",
-                "sa[n]a\u0301[n]-",
-                "s a <s> n|r </s> \u00e1/a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-liquidoagua-1",
-                "Proto-Panoan",
-                "liquidoagua",
-                "h\u0268[n]\u0268",
-                "h \u0268 <s> n|r </s> \u0268"
-            ],
-            [
-                "Proto-Panoan-matafloresta-1",
-                "Proto-Panoan",
-                "matafloresta",
-                "[n]i\u0294i",
-                "<s> n|r </s> i \u0294 i"
-            ],
-            [
-                "Proto-Panoan-mentir-1",
-                "Proto-Panoan",
-                "mentir",
-                "t\u0283a[n]i-",
-                "t\u0283 a <s> n|r </s> i"
-            ],
-            [
-                "Proto-Panoan-metal-1",
-                "Proto-Panoan",
-                "metal",
-                "ma[n]\u0268",
-                "m a <s> n|r </s> \u0268"
-            ],
-            [
-                "Proto-Panoan-morder-1",
-                "Proto-Panoan",
-                "morder",
-                "[n]at\u0268\u0282-",
-                "<s> n|r </s> a t \u0268 \u0282"
-            ],
-            [
-                "Proto-Panoan-mulheresposa-1",
-                "Proto-Panoan",
-                "mulheresposa",
-                "\u0294awi[n]",
-                "\u0294 a w i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-mutumdaespdafamcracidae-1",
-                "Proto-Panoan",
-                "mutumdaespdafamcracidae",
-                "h\u00e3si[n]",
-                "h \u00e3 s i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-nadar-1",
-                "Proto-Panoan",
-                "nadar",
-                "[n]on[a]-",
-                "<s> n|r </s> o n a"
-            ],
-            [
-                "Proto-Panoan-naterraporterra-1",
-                "Proto-Panoan",
-                "naterraporterra",
-                "mai[n]",
-                "m a i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-novo-1",
-                "Proto-Panoan",
-                "novo",
-                "\u03b2\u0268\u0294ra[C]",
-                "\u03b2 \u0268 \u0294 r a <s> C </s>"
-            ],
-            [
-                "Proto-Panoan-olhar-1",
-                "Proto-Panoan",
-                "olhar",
-                "\u0294oi[n]-",
-                "\u0294 o i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-ondas-1",
-                "Proto-Panoan",
-                "ondas",
-                "\u03b2\u0268t\u0283o[n]",
-                "\u03b2 \u0268 t\u0283 o <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-parente-1",
-                "Proto-Panoan",
-                "parente",
-                "ka[n]i",
-                "k a <s> n|r </s> i"
-            ],
-            [
-                "Proto-Panoan-pegar-1",
-                "Proto-Panoan",
-                "pegar",
-                "\u03b2iCc-",
-                "\u03b2 i <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-pontaextremo-1",
-                "Proto-Panoan",
-                "pontaextremo",
-                "kw\u0268[n]o-",
-                "k\u02b7 \u0268 <s> n|r </s> o"
-            ],
-            [
-                "Proto-Panoan-profundo-1",
-                "Proto-Panoan",
-                "profundo",
-                "[n]oa-",
-                "<s> n|r </s> o a"
-            ],
-            [
-                "Proto-Panoan-rir-1",
-                "Proto-Panoan",
-                "rir",
-                "\u0294osa[n]-",
-                "\u0294 o s a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-rocado-1",
-                "Proto-Panoan",
-                "rocado",
-                "\u03b2ai[C]",
-                "\u03b2 a i <s> C </s>"
-            ],
-            [
-                "Proto-Panoan-sentirsaudade-1",
-                "Proto-Panoan",
-                "sentirsaudade",
-                "[ma][n]o[t]-",
-                "m a <s> n|r </s> o t"
-            ],
-            [
-                "Proto-Panoan-septonasal-1",
-                "Proto-Panoan",
-                "septonasal",
-                "\u027d\u0268paC",
-                "\u027d \u0268 p a <s> C </s>"
-            ],
-            [
-                "Proto-Panoan-sobreencimaacima-1",
-                "Proto-Panoan",
-                "sobreencimaacima",
-                "ma[n]a[n]",
-                "m a <s> n|r </s> a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-sonar-1",
-                "Proto-Panoan",
-                "sonar",
-                "[n]ama-",
-                "<s> n|r </s> a m a"
-            ],
-            [
-                "Proto-Panoan-suar-1",
-                "Proto-Panoan",
-                "suar",
-                "[n]iska[n]-",
-                "<s> n|r </s> i s k a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-surubimpseudoplatyatomacoruscans-1",
-                "Proto-Panoan",
-                "surubimpseudoplatyatomacoruscans",
-                "\u03b2awi[n]",
-                "\u03b2 a w i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-tigredeaguanutria-1",
-                "Proto-Panoan",
-                "tigredeaguanutria",
-                "h\u0268[n]\u0268_\u0294ino",
-                "h \u0268 <s> n|r </s> \u0268 + \u0294 i n o"
-            ],
-            [
-                "Proto-Panoan-tipodebanco-1",
-                "Proto-Panoan",
-                "tipodebanco",
-                "kw\u0268[n]a[n]",
-                "k\u02b7 \u0268 <s> n|r </s> a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-tipodecaixa-1",
-                "Proto-Panoan",
-                "tipodecaixa",
-                "\u03b2o\u0294[n]a[n]-ti",
-                "\u03b2 o \u0294 <s> n|r </s> a <s> n|r </s> + t i"
-            ],
-            [
-                "Proto-Panoan-tipodecesto-1",
-                "Proto-Panoan",
-                "tipodecesto",
-                "kaka[n]",
-                "k a k a <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-tipodepanela-1",
-                "Proto-Panoan",
-                "tipodepanela",
-                "k\u0268t\u0303_i[C]",
-                "k \u0268\u0303 t + i <s> C </s>"
-            ],
-            [
-                "Proto-Panoan-tocotronco-1",
-                "Proto-Panoan",
-                "tocotronco",
-                "\u03b2o\u0294\u027do[Cc]",
-                "\u03b2 o \u0294 \u027d o <s> t|\u027d </s>"
-            ],
-            [
-                "Proto-Panoan-unclear-1",
-                "Proto-Panoan",
-                "unclear",
-                "[n]isi",
-                "<s> n|r </s> i s i"
-            ],
-            [
-                "Proto-Panoan-unirjuntar-1",
-                "Proto-Panoan",
-                "unirjuntar",
-                "[n]\u0268\u0294a-",
-                "<s> n|r </s> \u0268 \u0294 a"
-            ],
-            [
-                "Proto-Panoan-uruburei-1",
-                "Proto-Panoan",
-                "uruburei",
-                "\u0294i\u0283mi[n]",
-                "\u0294 i \u0283 m i <s> n|r </s>"
-            ],
-            [
-                "Proto-Panoan-vasilhaprato-1",
-                "Proto-Panoan",
-                "vasilhaprato",
-                "k\u0268t\u0303_\u0283a[C]",
-                "k \u0268\u0303 t + \u0283 a <s> C </s>"
-            ],
-            [
-                "Proto-Panoan-vento-1",
-                "Proto-Panoan",
-                "vento",
-                "[n]iw\u0268",
-                "<s> n|r </s> i w \u0268"
-            ],
-            [
-                "Proto-Panoan-voar-1",
-                "Proto-Panoan",
-                "voar",
-                "[n]o[ya]-",
-                "<s> n|r </s> o y a"
-            ],
-            [
-                "Proto-Panoan-vomitar-1",
-                "Proto-Panoan",
-                "vomitar",
-                "ha[n]a[n]-",
-                "h a <s> n|r </s> a <s> n|r </s>"
-            ]
-        ],
-        "bad_words_count": 138,
-        "bipa_errors": [
-            "<<\u0361>>",
-            "t|\u027d",
-            "n|r",
-            "C",
-            "<<\u0303>>"
-        ],
-        "general_errors": 156,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 35.10000000000001,
+        "inventory_size": 34.95000000000001,
         "replacements": {
             "+": [
                 "+"
+            ],
+            "C/n": [
+                "n"
             ],
             "a": [
                 "a"
@@ -7307,6 +6760,9 @@
             "n": [
                 "n"
             ],
+            "n|r/n": [
+                "n"
+            ],
             "o": [
                 "o"
             ],
@@ -7342,6 +6798,9 @@
             ],
             "ts": [
                 "ts"
+            ],
+            "t|\u027d/t": [
+                "t"
             ],
             "t\u0283": [
                 "t\u0283"
@@ -7479,18 +6938,10 @@
                 "\u03b2"
             ]
         },
-        "sclass_errors": [
-            "<<\u0361>>",
-            "t|\u027d",
-            "n|r",
-            "C",
-            "<<\u0303>>"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 369,
-            "<<\u0303>>": 3,
-            "<<\u0361>>": 2,
-            "C": 9,
+            "C/n": 9,
             "a": 4816,
             "aa": 78,
             "ai": 1,
@@ -7509,7 +6960,7 @@
             "l": 38,
             "m": 1198,
             "n": 2584,
-            "n|r": 129,
+            "n|r/n": 129,
             "o": 2152,
             "oo": 25,
             "p": 1159,
@@ -7517,7 +6968,7 @@
             "s": 647,
             "t": 1178,
             "ts": 288,
-            "t|\u027d": 13,
+            "t|\u027d/t": 13,
             "t\u0283": 406,
             "u": 1018,
             "v": 41,

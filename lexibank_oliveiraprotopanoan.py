@@ -1,5 +1,4 @@
 import attr
-from collections import defaultdict
 import pathlib
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
@@ -16,9 +15,9 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomConcept(Concept):
-    Gloss = attr.ib(default=None)
     Proto_Concept = attr.ib(default=None)
     Proto_ID = attr.ib(default=None)
+    Original_Concept = attr.ib(default=None)
 
 
 @attr.s
@@ -50,24 +49,42 @@ class Dataset(BaseDataset):
         # add concept
         concepts = {}
 
-        # Proto Concepts
-        proto_concepts = self.etc_dir.read_csv(
-            "proto_concepts.tsv",
-            delimiter="\t",
-            dicts=True
-            )
-        for concept in proto_concepts:
-            idx = slug(concept["GLOSS"])
+        # Proto Concepts: New
+        for concept in self.conceptlists[0].concepts.values():
+            print(concept)
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept["ENGLISH"],
-                    Gloss=concept["GLOSS"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                    Proto_ID=concept["PROTO_ID"],
-                    Proto_Concept=concept["PROTO_CONCEPT"]
-                    )
-            concepts[(concept["GLOSS"], concept["PROTO_ID"])] = idx
+                ID=idx,
+                Name=concept.english,
+                Original_Concept=concept.gloss,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
+
+            concepts[concept.gloss] = idx
+
+        # # Proto Concepts: Old
+        # proto_concepts = self.etc_dir.read_csv(
+        #     "proto_concepts.tsv",
+        #     delimiter="\t",
+        #     dicts=True
+        #     )
+        # for concept in proto_concepts:
+        #     idx = slug(concept["GLOSS"])
+        #     args.writer.add_concept(
+        #             ID=idx,
+        #             Name=concept["ENGLISH"],
+        #             Gloss=concept["GLOSS"],
+        #             Concepticon_ID=concept["CONCEPTICON_ID"],
+        #             Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+        #             Proto_ID=concept["PROTO_ID"],
+        #             Proto_Concept=concept["PROTO_CONCEPT"]
+        #             )
+        #     concepts[(
+        #         concept["GLOSS"],
+        #         # concept["PROTO_ID"]
+        #         )] = idx
+
         # Other Concepts
         other_concepts = self.etc_dir.read_csv(
             "other_concepts.tsv",
@@ -78,11 +95,14 @@ class Dataset(BaseDataset):
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                 ID=idx,
-                Gloss=concept["GLOSS"],
+                Original_Concept=concept["GLOSS"],
                 Proto_ID=concept["PROTO_ID"],
                 Proto_Concept=concept["PROTO_CONCEPT"]
                 )
-            concepts[(concept["GLOSS"], concept["PROTO_ID"])] = idx
+            concepts[
+                concept["GLOSS"]
+                # concept["PROTO_ID"]
+                ] = idx
 
         args.log.info("added concepts")
 
@@ -105,10 +125,13 @@ class Dataset(BaseDataset):
             else:
                 value = entry["VALUE"]
                 variants = ""
-
+            print(entry["CONCEPT"])
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[entry["DOCULECTID"]],
-                    Parameter_ID=concepts[(entry["CONCEPT"], entry["IDX"])],
+                    Parameter_ID=concepts[(
+                        entry["CONCEPT"]
+                        # entry["IDX"]  # old concept call
+                        )],
                     Value=value,
                     Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
                     Variants=variants,
