@@ -21,20 +21,20 @@ Conceptlists in Concepticon:
 
 
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 34%](https://img.shields.io/badge/Concepticon-34%25-red.svg "Concepticon: 34%")
+![Concepticon: 45%](https://img.shields.io/badge/Concepticon-45%25-red.svg "Concepticon: 45%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 20
-- **Concepts:** 2,571
-- **Lexemes:** 7,313
+- **Concepts:** 2,561
+- **Lexemes:** 7,316
 - **Sources:** 35
 - **Synonymy:** 1.07
-- **Cognacy:** 7,313 cognates in 517 cognate sets (0 singletons)
+- **Cognacy:** 7,316 cognates in 517 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.43
 - **Invalid lexemes:** 0
-- **Tokens:** 31,944
+- **Tokens:** 31,951
 - **Segments:** 91 (0 BIPA errors, 0 CLTS sound class errors, 91 CLTS modified)
 - **Inventory size (avg):** 33.10
 
@@ -42,7 +42,7 @@ Conceptlists in Concepticon:
 
 
 
-- Entries missing sources: 5896/7313 (80.62%)
+- Entries missing sources: 5899/7316 (80.63%)
 
 # Contributors
 

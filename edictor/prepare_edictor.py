@@ -10,25 +10,21 @@ wl = Wordlist.from_cldf(
     columns=(
         "language_id",
         "concept_name",
-        "concept_concepticon_gloss",
+        "concept_concept_in_source",
         "segments",
         "form",
         "variants",
         "comment",
         "source",
         "cognacy",
-        "concept_from_proto",
-        "entryinsource",
-        "paragraph"
+        "entryinsource"
         ),
     # a list of tuples of source and target
     namespace=(
         ("language_id", "doculect"),
-        ("concept_concepticon_gloss", "concept"),
-        ("concept_name", "concept_in_source")
+        ("concept_name", "concept")
         )
     )
-
 
 wl.output('tsv', filename='edictor/oliveiraprotopanoan')
 
