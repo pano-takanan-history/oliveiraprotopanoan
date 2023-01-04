@@ -398,9 +398,9 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 523	§23	Shanenáwa	Shan	doer			isin		i s i n			ʔĩsir-	dor,  doer	Shan isin ‘doer’
 524	§23	Katukina	Kat	dor, doer	1		isinai		i s i n ai			ʔĩsir-	dor,  doer	Kat isinai, isin-nai ‘dói’
 525	§23	Katukina	Kat	dói			isin-nai		i s i nn ai			ʔĩsir-	dor,  doer	Kat isinai, isin-nai ‘dói’
-527	§23	Amawáka	A	dor, doer	1		ʔísin		ʔ í s i n			ʔĩsir-	dor,  doer	A ʔísin,ʔísinín ’dor’ (HYDE;; 1980), isĩ - I
-528	§23	Amawáka	A	dor, doer			ʔísinín ’dor’ 		ʔísinín ’dor’ 		Hyde1980	ʔĩsir-	dor,  doer	A ʔísin,ʔísinín ’dor’ (HYDE;; 1980), isĩ - I
-529	§23	Amawáka	A	dor, doer	1		isĩ - I		isĩ - I			ʔĩsir-	dor,  doer	A ʔísin,ʔísinín ’dor’ (HYDE;; 1980), isĩ - I
+527	§23	Amawáka	A	dor, doer	1		ʔísin		ʔ í s i n			ʔĩsir-	dor,  doer	A ʔísin, ʔísinín ‘dor’ (HYDE;; 1980), isĩ- I
+528	§23	Amawáka	A	dor			ʔísinín		ʔ í s i n í n		Hyde1980	ʔĩsir-	dor,  doer	A ʔísin, ʔísinín ‘dor’ (HYDE;; 1980), isĩ- I
+529	§23	Amawáka	A	dor, doer	1		isĩ- I		isĩ- I			ʔĩsir-	dor,  doer	A ʔísin, ʔísinín ‘dor’ (HYDE;; 1980), isĩ- I
 530	§23	Kaxinawá	Kn	enfermemarse			isinkiki		i s i n k i k i			ʔĩsir-	dor,  doer	Kn isinkiki ‘enfermemarse’
 531	§23	Marináwa	M	sentir dolor, dolor			ísĩ-		í s ĩ			ʔĩsir-	dor,  doer	M ísĩ- ‘sentir dolor;;  dolor’, isĩ
 532	§23	Marináwa	M	dor, doer	1		isĩ		i s ĩ			ʔĩsir-	dor,  doer	M ísĩ- ‘sentir dolor;;  dolor’, isĩ
@@ -4045,7 +4045,7 @@ ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_
 6081	§277	Marináwa	M	escurtar, ouvir	1		níka-		n í k a			[n]ika	escurtar,  ouvir	M níka-
 6082	§277	Yawanawá	Yaw	escurtar, ouvir	1		nika		n i k a			[n]ika	escurtar,  ouvir	Yaw nika
 6086	§278	Proto-Panoan	Proto	arrastar		0	[n]i[n]-		[ n ] i [ n ]		Oliveira2014	[n]i[n]-	arrastar	*[n]i[n]- ‘arrastar’ :
-6087	§278	Kakataibo	Ksh	arrastar	1		ni’halar’		n i ’ h a l a r ’			[n]i[n]-	arrastar	Ksh ni’halar’
+6087	§278	Kakataibo	Ksh	halar			ni		n i			[n]i[n]-	arrastar	Ksh ni ‘halar’
 6088	§278	ShipiboKonibo	SK	arrastar	1		nini-		n i n i			[n]i[n]-	arrastar	SK nini-
 6089	§278	Kapanawa	Kp	arrastar	1		nini-		n i n i			[n]i[n]-	arrastar	Kp nini-
 6091	§278	Chákobo	Ch	jalar			nini-		n i n i		Zingg1998	[n]i[n]-	arrastar	Ch nini- ‘jalar’ (ZINGG;; 1998)

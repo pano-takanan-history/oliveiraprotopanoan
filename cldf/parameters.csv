@@ -503,6 +503,7 @@ doenca,,,,0,§23,doença
 tenerfiebre,,,,0,§23,tener fiebre
 doler,,,,0,§23,doler
 doer,,,,0,§23,doer
+dor,,,,§23,,dor
 doi,,,,0,§23,dói
 enfermemarse,,,,0,§23,enfermemarse
 sentirdolordolor,,,,0,§23,"sentir dolor, dolor"
@@ -1591,6 +1592,7 @@ lacraia,,,,0,§276,lacraia
 escorpiao,,,,0,§276,escorpião
 oir,,,,0,§277,oír
 oirobedecerestarvivo,,,,0,§277,"oír, obedecer, estar vivo"
+halar,,,,0,§278,halar
 jalar,,,,0,§278,jalar
 jalarestirar,,,,0,§278,"jalar, estirar"
 puxar,,,,0,§278,puxar
