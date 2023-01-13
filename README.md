@@ -14,9 +14,6 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://repositorio.unb.br/handle/10482/17129
 
-
-Conceptlists in Concepticon:
-- [Oliveira-2014-517](https://concepticon.clld.org/contributions/Oliveira-2014-517)
 ## Statistics
 
 
@@ -36,7 +33,7 @@ Conceptlists in Concepticon:
 - **Invalid lexemes:** 0
 - **Tokens:** 31,951
 - **Segments:** 91 (0 BIPA errors, 0 CLTS sound class errors, 91 CLTS modified)
-- **Inventory size (avg):** 33.10
+- **Inventory size (avg):** 33.20
 
 ## Possible Improvements:
 

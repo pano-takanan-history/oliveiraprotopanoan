@@ -3,9 +3,6 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Oliveira, Sanderson Castro Soares de (2014). Contribui\u00e7\u00f5es para a reconstru\u00e7\u00e3o do Protop\u00e1no. Universidade de Bras\u00edlia, Bras\u00edlia, 2014.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": [
-        "http://concepticon.clld.org/contributions/Oliveira-2014-517"
-    ],
     "dc:identifier": "https://repositorio.unb.br/handle/10482/17129",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -17,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "4d5fabc",
+            "dc:created": "0d6c006",
             "dc:title": "Repository"
         },
         {
@@ -29,7 +26,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.0-22-g2d793b5c",
+            "dc:created": "v3.0.0",
             "dc:title": "Concepticon"
         },
         {
@@ -147,6 +144,10 @@
                     {
                         "datatype": "string",
                         "name": "Variants"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ConceptInSource"
                     }
                 ],
                 "foreignKeys": [

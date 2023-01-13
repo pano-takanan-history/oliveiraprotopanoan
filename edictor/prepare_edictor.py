@@ -10,21 +10,31 @@ wl = Wordlist.from_cldf(
     columns=(
         "language_id",
         "concept_name",
-        "concept_concept_in_source",
+        "concept_conceptinsource",
         "segments",
         "form",
         "variants",
         "comment",
         "source",
-        "cognacy",
+        "cogid_cognateset_id",
+        "uncertaincognacy",
+        "paragraph",
         "entryinsource"
         ),
     # a list of tuples of source and target
     namespace=(
         ("language_id", "doculect"),
-        ("concept_name", "concept")
+        ("concept_name", "concept"),
+        ("concept_conceptinsource", "concept in source"),
+        ("uncertaincognacy", "uncertain cognacy"),
+        ("entryinsource", "entry in source"),
+        ("cogid_cognateset_id", "cogid"),
+        ("segments", "tokens")
         )
     )
+
+wl = Alignments(wl, ref="cogid", transcription='tokens')
+wl.align(ref="cogid")
 
 wl.output('tsv', filename='edictor/oliveiraprotopanoan')
 

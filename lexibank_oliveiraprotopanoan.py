@@ -28,6 +28,7 @@ class CustomLexeme(Lexeme):
     Paragraph = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
     Variants = attr.ib(default=None)
+    ConceptInSource = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -101,7 +102,8 @@ class Dataset(BaseDataset):
         data = self.raw_dir.read_csv(
             "parsed-entries2.tsv", delimiter="\t", dicts=True
         )
-
+        cogid = defaultdict()
+        cog_count = 0
         # add data
         for entry in pb(data, desc="cldfify", total=len(data)):
             if " [" in entry["VALUE"]:
@@ -127,11 +129,17 @@ class Dataset(BaseDataset):
                     UncertainCognacy=entry["VALUE_UNCERTAIN"],
                     Paragraph=entry["IDX"],
                     Cognacy=entry["IDX"][1:],
+                    ConceptInSource=entry["CONCEPT"],
                     EntryInSource=entry["ENTRY_IN_SOURCE"],
                     ):
+                # compute numeric cogid
+                if entry["IDX"][1:] not in cogid:
+                    cog_count += 1
+                    cogid[entry["IDX"][1:]] = cog_count
+
                 args.writer.add_cognate(
                         lexeme=lexeme,
-                        Cognateset_ID=entry["IDX"][1:],
+                        Cognateset_ID=cogid[entry["IDX"][1:]],
                         Cognate_Detection_Method="expert",
                         Source="Oliveira2014"
                         )
