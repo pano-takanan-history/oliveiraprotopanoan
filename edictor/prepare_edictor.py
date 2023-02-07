@@ -1,5 +1,6 @@
 from lingpy import Wordlist, Alignments
 from lexibank_oliveiraprotopanoan import Dataset as OPP
+from lexibase.lexibase import LexiBase
 
 # load the wordlist
 ds = OPP()
@@ -36,6 +37,8 @@ wl = Wordlist.from_cldf(
 wl = Alignments(wl, ref="cogid", transcription='tokens')
 wl.align(ref="cogid")
 
+lex = LexiBase(wl, dbase="edictor/oliveiraprotopanoan.sqlite3")
+lex.create("oliveiraprotopanoan")
 wl.output('tsv', filename='edictor/oliveiraprotopanoan')
 
 # wl = Wordlist("analysis/bpt-cogids.tsv")
