@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "0d6c006",
+            "dc:created": "1ac1eca",
             "dc:title": "Repository"
         },
         {
@@ -135,7 +135,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Paragraph"
+                        "name": "ProtoSet"
                     },
                     {
                         "datatype": "string",

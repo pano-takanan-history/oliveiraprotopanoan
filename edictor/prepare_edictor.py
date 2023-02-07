@@ -18,7 +18,7 @@ wl = Wordlist.from_cldf(
         "source",
         "cogid_cognateset_id",
         "uncertaincognacy",
-        "paragraph",
+        "protoset",
         "entryinsource"
         ),
     # a list of tuples of source and target

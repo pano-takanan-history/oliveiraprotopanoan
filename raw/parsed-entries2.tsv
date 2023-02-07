@@ -1,4 +1,4 @@
-ID	IDX	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_UNCERTAIN	TOKENS	NOTE	SOURCE	PROTOFORM	PROTOCONCEPT	ENTRY_IN_SOURCE
+IDX	PROTO_SET	DOCULECT	DOCULECTID	CONCEPT	CONCEPT_FROM_PROTO	CONCEPT_ADDED	VALUE	VALUE_UNCERTAIN	TOKENS	NOTE	SOURCE	PROTOFORM	PROTOCONCEPT	ENTRY_IN_SOURCE
 1	§1	Proto-Panoan	Proto	fazer, matar		0	ʔak-		ʔ a k		Oliveira2014	ʔak-	fazer,  matar	*ʔak- ‘fazer;;  matar’
 2	§1	Kakataibo	Ksh	fazer, matar	1		ʔa-		ʔ a			ʔak-	fazer,  matar	Ksh ʔa-
 3	§1	ShipiboKonibo	SK	fazer, matar	1		ʔa-		ʔ a			ʔak-	fazer,  matar	SK ʔa-

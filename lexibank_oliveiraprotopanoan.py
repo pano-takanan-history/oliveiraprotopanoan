@@ -2,6 +2,7 @@ import attr
 import pathlib
 from collections import defaultdict
 from clldutils.misc import slug
+from lingpy import Wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
@@ -25,7 +26,7 @@ class CustomConcept(Concept):
 class CustomLexeme(Lexeme):
     UncertainCognacy = attr.ib(default=None)
     Concept_From_Proto = attr.ib(default=None)
-    Paragraph = attr.ib(default=None)
+    ProtoSet = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
     Variants = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
@@ -48,7 +49,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         args.log.info("added sources")
 
-        # add concept
+        # add conceptlists
         concepts = defaultdict()
         proto_concepts = defaultdict()
 
@@ -58,6 +59,7 @@ class Dataset(BaseDataset):
             delimiter="\t",
             dicts=True
             )
+
         for concept in proto_list:
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
@@ -78,6 +80,7 @@ class Dataset(BaseDataset):
             delimiter="\t",
             dicts=True
             )
+
         for concept in other_concepts:
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
@@ -87,10 +90,7 @@ class Dataset(BaseDataset):
                 Proto_ID=concept["PROTO_ID"],
                 Proto_Concept=concept["PROTO_CONCEPT"]
                 )
-            concepts[
-                concept["GLOSS"]
-                # concept["PROTO_ID"]
-                ] = idx
+            concepts[concept["GLOSS"]] = idx
 
         args.log.info("added concepts")
 
@@ -98,48 +98,63 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory="NameInSource")
         args.log.info("added languages")
 
-        # read in data
-        data = self.raw_dir.read_csv(
-            "parsed-entries2.tsv", delimiter="\t", dicts=True
-        )
-        cogid = defaultdict()
-        cog_count = 0
+        data = Wordlist(str(self.raw_dir.joinpath("parsed-entries2.tsv")))
+        data.renumber("PROTO_SET", "cogid")
+
         # add data
-        for entry in pb(data, desc="cldfify", total=len(data)):
-            if " [" in entry["VALUE"]:
-                phon = entry["VALUE"].split(" [")[1:]
+        for (
+            idx,
+            proto_set,
+            doculectid,
+            concept,
+            concept_from_proto,
+            value,
+            value_uncertain,
+            note,
+            source,
+            entry_in_source,
+            cogid
+        ) in pb(
+            data.iter_rows(
+                "proto_set",
+                "doculectid",
+                "concept",
+                "concept_from_proto",
+                "value",
+                "value_uncertain",
+                "note",
+                "source",
+                "entry_in_source",
+                "cogid"
+            ),
+            desc="cldfify"
+        ):
+            if " [" in value:
+                phon = value.split(" [")[1:]
                 value = phon[0].strip("] ~")
                 variants = (str(phon[1]).strip("] ~") if len(phon) > 1 else "")
 
             else:
-                value = entry["VALUE"]
                 variants = ""
 
             for lexeme in args.writer.add_forms_from_value(
-                    Language_ID=languages[entry["DOCULECTID"]],
-                    Parameter_ID=concepts[(
-                        entry["CONCEPT"]
-                        # entry["IDX"]  # old concept call
-                        )],
+                    Language_ID=languages[doculectid],
+                    Parameter_ID=concepts[(concept)],
                     Value=value,
-                    Concept_From_Proto=entry["CONCEPT_FROM_PROTO"],
+                    Concept_From_Proto=concept_from_proto,
                     Variants=variants,
-                    Comment=entry["NOTE"],
-                    Source=entry["SOURCE"],
-                    UncertainCognacy=entry["VALUE_UNCERTAIN"],
-                    Paragraph=entry["IDX"],
-                    Cognacy=entry["IDX"][1:],
-                    ConceptInSource=entry["CONCEPT"],
-                    EntryInSource=entry["ENTRY_IN_SOURCE"],
+                    Comment=note,
+                    Source=source,
+                    UncertainCognacy=value_uncertain,
+                    ProtoSet=proto_set,
+                    Cognacy=cogid,
+                    ConceptInSource=concept,
+                    EntryInSource=entry_in_source,
                     ):
-                # compute numeric cogid
-                if entry["IDX"][1:] not in cogid:
-                    cog_count += 1
-                    cogid[entry["IDX"][1:]] = cog_count
 
                 args.writer.add_cognate(
                         lexeme=lexeme,
-                        Cognateset_ID=cogid[entry["IDX"][1:]],
+                        Cognateset_ID=cogid,
                         Cognate_Detection_Method="expert",
                         Source="Oliveira2014"
                         )
