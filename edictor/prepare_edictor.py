@@ -26,11 +26,12 @@ wl = Wordlist.from_cldf(
     namespace=(
         ("language_id", "doculect"),
         ("concept_name", "concept"),
-        ("concept_conceptinsource", "concept in source"),
-        ("uncertaincognacy", "uncertain cognacy"),
-        ("entryinsource", "entry in source"),
+        ("concept_conceptinsource", "concept_in_source"),
+        ("uncertaincognacy", "uncertain_cognacy"),
         ("cogid_cognateset_id", "cogid"),
-        ("segments", "tokens")
+        ("segments", "tokens"),
+        ("protoset", "proto_set"),
+        ("entryinsource", "entry_in_source")
         )
     )
 
