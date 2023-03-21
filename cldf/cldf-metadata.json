@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "1ac1eca",
+            "dc:created": "01bcc3c",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.13"
+            "dc:description": "3.11.2"
         },
         {
             "dc:title": "python-packages",
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7316,
+            "dc:extent": 7307,
             "tableSchema": {
                 "columns": [
                     {
@@ -131,7 +131,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Concept_From_Proto"
+                        "name": "ConceptInSource"
                     },
                     {
                         "datatype": "string",
@@ -140,14 +140,6 @@
                     {
                         "datatype": "string",
                         "name": "EntryInSource"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variants"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ConceptInSource"
                     }
                 ],
                 "foreignKeys": [
@@ -256,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 2561,
+            "dc:extent": 466,
             "tableSchema": {
                 "columns": [
                     {
@@ -300,7 +292,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7316,
+            "dc:extent": 7307,
             "tableSchema": {
                 "columns": [
                     {
