@@ -4,31 +4,31 @@
 ## Segments
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
-|:-----------|-------------:|:-------|:------------------|
-| a | 4955 | ✓ | ✓ |
-| i | 3490 | ✓ | ✓ |
-| n | 2570 | ✓ | ✓ |
+|:----------|-------------:|:-------|:------------------|
+| a | 4951 | ✓ | ✓ |
+| i | 3486 | ✓ | ✓ |
+| n | 2568 | ✓ | ✓ |
 | ɨ | 2237 | ✓ | ✓ |
-| o | 2195 | ✓ | ✓ |
-| k | 1856 | ✓ | ✓ |
-| m | 1191 | ✓ | ✓ |
+| o | 2193 | ✓ | ✓ |
+| k | 1855 | ✓ | ✓ |
+| m | 1190 | ✓ | ✓ |
 | ʂ | 1178 | ✓ | ✓ |
-| t | 1164 | ✓ | ✓ |
-| p | 1155 | ✓ | ✓ |
-| u | 985 | ✓ | ✓ |
+| t | 1163 | ✓ | ✓ |
+| p | 1153 | ✓ | ✓ |
+| u | 984 | ✓ | ✓ |
 | w | 679 | ✓ | ✓ |
 | s | 643 | ✓ | ✓ |
 | β | 589 | ✓ | ✓ |
 | ʔ | 539 | ✓ | ✓ |
-| ʃ | 511 | ✓ | ✓ |
+| ʃ | 512 | ✓ | ✓ |
 | r | 471 | ✓ | ✓ |
 | j | 427 | ✓ | ✓ |
-| tʃ | 407 | ✓ | ✓ |
+| tʃ | 406 | ✓ | ✓ |
 | á/a | 377 | ✓ | ✓ |
 | h | 355 | ✓ | ✓ |
-| + | 342 | ✓ | ✓ |
+| + | 340 | ✓ | ✓ |
 | ɸ | 338 | ✓ | ✓ |
-| ã | 298 | ✓ | ✓ |
+| ã | 297 | ✓ | ✓ |
 | ts | 288 | ✓ | ✓ |
 | í/i | 267 | ✓ | ✓ |
 | b | 253 | ✓ | ✓ |
@@ -36,12 +36,12 @@
 | ó/o | 201 | ✓ | ✓ |
 | ĩ | 190 | ✓ | ✓ |
 | ɾ | 155 | ✓ | ✓ |
-| n&#124;r/n | 129 | ✓ | ✓ |
+| rⁿ | 129 | ✓ | ✓ |
 | e | 114 | ✓ | ✓ |
 | ɨ́/ɨ | 109 | ✓ | ✓ |
 | x | 106 | ✓ | ✓ |
 | õ | 102 | ✓ | ✓ |
-| kʷ | 74 | ✓ | ✓ |
+| kʷ | 75 | ✓ | ✓ |
 | ɨ̃ | 60 | ✓ | ✓ |
 | ã́/ã | 59 | ✓ | ✓ |
 | ɽ | 54 | ✓ | ✓ |
@@ -54,7 +54,7 @@
 | ṍ | 25 | ✓ | ✓ |
 | ɦ | 14 | ✓ | ✓ |
 | ɬ | 14 | ✓ | ✓ |
-| t&#124;ɽ/t | 13 | ✓ | ✓ |
+| tʳ | 13 | ✓ | ✓ |
 | ɯ | 13 | ✓ | ✓ |
 | ɲ | 13 | ✓ | ✓ |
 | ṍ/õ | 13 | ✓ | ✓ |
@@ -66,17 +66,19 @@
 | C/n | 7 | ✓ | ✓ |
 | ĭ | 7 | ✓ | ✓ |
 | ɔ́/ɔ | 6 | ✓ | ✓ |
+| n.t | 5 | ? | ? |
 | ú/u | 5 | ✓ | ✓ |
 | ă | 5 | ✓ | ✓ |
 | ī | 5 | ✓ | ✓ |
 | ʊ | 5 | ✓ | ✓ |
-| n.t | 4 | ? | ? |
 | ā | 4 | ✓ | ✓ |
 | ɛ | 4 | ✓ | ✓ |
 | m.b | 3 | ? | ? |
 | n.d | 3 | ? | ? |
 | ŋ | 3 | ✓ | ✓ |
+| ai | 2 | ✓ | ✓ |
 | n.n | 2 | ? | ? |
+| n.tʃ | 2 | ? | ? |
 | ç/n | 2 | ✓ | ✓ |
 | é/e | 2 | ✓ | ✓ |
 | í̃/ĩ | 2 | ✓ | ✓ |
@@ -86,10 +88,10 @@
 | a.i | 1 | ? | ? |
 | g | 1 | ✓ | ✓ |
 | hʷ | 1 | ✓ | ✓ |
+| ia | 1 | ✓ | ✓ |
 | k.k | 1 | ? | ? |
+| m.p | 1 | ? | ? |
 | n.dz | 1 | ? | ? |
-| n.tʃ | 1 | ? | ? |
-| n.ʃ | 1 | ? | ? |
 | s.s | 1 | ? | ? |
 | s/ʃ | 1 | ✓ | ✓ |
 | tʂ | 1 | ✓ | ✓ |
@@ -112,7 +114,7 @@
 | ẽ́/ẽ | 1 | ✓ | ✓ |
 | ↓j/w | 1 | ✓ | ✓ |
 
-(106 rows)
+(108 rows)
 
 
 
@@ -131,11 +133,13 @@
 |:---------------------------------|:-----------|:------------------------|:----------|:-------------------------|
 | Kapanawa-chifredeanimal-1 | Kapanawa | chifredeanimal | mantʃán | m a <s> n.tʃ </s> á/a n |
 | Kapanawa-tarde-1 | Kapanawa | tarde | yantán | j a <s> n.t </s> á/a n |
-| Katukina-amarelo-1 | Katukina | amarelo | manʃin | m a <s> n.ʃ </s> i n |
+| Kapanawa-tipodepanela-1 | Kapanawa | tipodepanela | kɨntí | k ɨ <s> n.t </s> í/i |
 | Katukina-bravo-1 | Katukina | bravo | sinna | s i <s> n.n </s> a |
 | Katukina-chifredeanimal-1 | Katukina | chifredeanimal | mə̃nˈdzoỹ | m ə̃ <s> n.dz </s> õi |
+| Katukina-luciernaga-1 | Katukina | luciernaga | kantʃi | k a <s> n.tʃ </s> i |
 | Katukina-papaya-1 | Katukina | papaya | ʂũmˈba | ʂ ũ <s> m.b </s> a |
 | Katukina-vermelho-1 | Katukina | vermelho | õŋˈʒiʔ | õ <s> ŋ.ʒ </s> i ʔ |
+| Korubo-jenipapo-1 | Korubo | jenipapo | βompa | β o <s> m.p </s> a |
 | Korubo-urucumaarvoreeoseufruto-1 | Korubo | urucumaarvoreeoseufruto | ʃinte | ʃ i <s> n.t </s> e |
 | Korubo-urucumaarvoreeoseufruto-2 | Korubo | urucumaarvoreeoseufruto | ʃinte | ʃ i <s> n.t </s> e |
 | Marinawa-negro-1 | Marinawa | negro | ɸisso | ɸ i <s> s.s </s> o |
@@ -151,6 +155,6 @@
 | Sharanawa-conheceraprender-1 | Sharanawa | conheceraprender | onain | o n <s> a.i </s> n |
 | Sharanawa-conheceraprender-2 | Sharanawa | conheceraprender | onaan | o n <s> a.a </s> n |
 
-(21 rows)
+(23 rows)
 
 

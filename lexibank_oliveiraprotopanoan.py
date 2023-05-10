@@ -1,6 +1,6 @@
-import attr
-import pathlib
 from collections import defaultdict
+import pathlib
+import attr
 from clldutils.misc import slug
 from lingpy import Wordlist
 from pylexibank import Dataset as BaseDataset
@@ -44,7 +44,7 @@ class Dataset(BaseDataset):
             first_form_only=True
             )
 
-    def cmd_download(self, args):
+    def cmd_download(self, _):
         print("updating ...")
         with open(self.raw_dir.joinpath("raw.tsv"), "w", encoding="utf-8") as f:
             f.write(
@@ -128,14 +128,14 @@ class Dataset(BaseDataset):
         # add data
         for (
             idx,
-            alignment,
+            # alignment,
             cogid,
             concept,
             language,
             form,
             value,
             tokens,
-            morphemes,
+            # morphemes,
             comment,
             source,
             proto_set,
@@ -144,20 +144,20 @@ class Dataset(BaseDataset):
             uncertain_cognacy
         ) in pb(
             data.iter_rows(
-            "alignment",
-            "cogid",
-            "concept",
-            "doculect",
-            "form",
-            "value",
-            "tokens",
-            "morphemes",
-            "comment",
-            "source",
-            "proto_set",
-            "entry_in_source",
-            "concept_in_source",
-            "uncertain_cognacy"
+                # "alignment",
+                "cogid",
+                "concept",
+                "doculect",
+                "form",
+                "value",
+                "tokens",
+                # "morphemes",
+                "comment",
+                "source",
+                "proto_set",
+                "entry_in_source",
+                "concept_in_source",
+                "uncertain_cognacy"
             ),
             desc="cldfify"
         ):
@@ -174,8 +174,8 @@ class Dataset(BaseDataset):
                 ConceptInSource=concept_in_source,
                 EntryInSource=entry_in_source,
                 UncertainCognacy=uncertain_cognacy,
-                #Alignment=alignment,
-                #Morphemes=morphemes
+                # Alignment=alignment,
+                # Morphemes=morphemes
             )
 
             args.writer.add_cognate(
