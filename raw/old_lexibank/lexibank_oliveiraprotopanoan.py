@@ -1,13 +1,12 @@
-from collections import defaultdict
-import pathlib
 import attr
+import pathlib
+from collections import defaultdict
 from clldutils.misc import slug
 from lingpy import Wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
-from pyedictor import fetch
 
 
 @attr.s
@@ -25,12 +24,12 @@ class CustomConcept(Concept):
 
 @attr.s
 class CustomLexeme(Lexeme):
-    Alignment = attr.ib(default=None)
-    Morphemes = attr.ib(default=None)
     UncertainCognacy = attr.ib(default=None)
-    ConceptInSource = attr.ib(default=None)
+    Concept_From_Proto = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
+    Variants = attr.ib(default=None)
+    ConceptInSource = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -44,32 +43,6 @@ class Dataset(BaseDataset):
             missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
             replacements=[(" ", "_")],
             first_form_only=True
-            )
-
-    def cmd_download(self, _):
-        print("updating ...")
-        with open(self.raw_dir.joinpath("raw.tsv"), "w", encoding="utf-8") as f:
-            f.write(
-                fetch(
-                    "oliveiraprotopanoan",
-                    columns=[
-                        "ALIGNMENT",
-                        "COGID",
-                        "COGIDS",
-                        "CONCEPT",
-                        "DOCULECT",
-                        "FORM",
-                        "VALUE",
-                        "TOKENS",
-                        "MORPHEMES",
-                        "COMMENT",
-                        "SOURCE",
-                        "PROTO_SET",
-                        "ENTRY_IN_SOURCE",
-                        "CONCEPT_IN_SOURCE",
-                        "UNCERTAIN_COGNACY"
-                    ],
-                )
             )
 
     def cmd_makecldf(self, args):
@@ -98,7 +71,7 @@ class Dataset(BaseDataset):
                 Proto_ID=concept["PROTO_ID"]
                 )
 
-            concepts[concept["ENGLISH"]] = idx
+            concepts[concept["GLOSS"]] = idx
             proto_concepts[concept["PROTO_ID"]] = concept["ENGLISH"]
 
         # Other Concepts
@@ -122,66 +95,66 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        args.writer.add_languages(lookup_factory="NameInSource")
+        languages = args.writer.add_languages(lookup_factory="NameInSource")
         args.log.info("added languages")
 
-        data = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
+        data = Wordlist(str(self.raw_dir.joinpath("parsed-entries2.tsv")))
+        data.renumber("PROTO_SET", "cogid")
 
         # add data
         for (
             idx,
-            alignment,
-            cogid,
-            concept,
-            language,
-            form,
-            value,
-            tokens,
-            morphemes,
-            comment,
-            source,
             proto_set,
+            doculectid,
+            concept,
+            concept_from_proto,
+            value,
+            value_uncertain,
+            note,
+            source,
             entry_in_source,
-            concept_in_source,
-            uncertain_cognacy
+            cogid
         ) in pb(
             data.iter_rows(
-                "alignment",
-                "cogid",
-                "concept",
-                "doculect",
-                "form",
-                "value",
-                "tokens",
-                "morphemes",
-                "comment",
-                "source",
                 "proto_set",
+                "doculectid",
+                "concept",
+                "concept_from_proto",
+                "value",
+                "value_uncertain",
+                "note",
+                "source",
                 "entry_in_source",
-                "concept_in_source",
-                "uncertain_cognacy"
+                "cogid"
             ),
             desc="cldfify"
         ):
-            lexeme = args.writer.add_form_with_segments(
-                Parameter_ID=concepts[concept],
-                Language_ID=language,
-                Form=form.strip(),
-                Value=value.strip() or form.strip(),
-                Segments=tokens,
-                Source=source,
-                Cognacy=cogid,
-                Alignment=alignment,
-                Morphemes=morphemes,
-                Comment=comment,
-                ProtoSet=proto_set,
-                ConceptInSource=concept_in_source,
-                EntryInSource=entry_in_source,
-                UncertainCognacy=uncertain_cognacy,
-            )
+            if " [" in value:
+                phon = value.split(" [")[1:]
+                value = phon[0].strip("] ~")
+                variants = (str(phon[1]).strip("] ~") if len(phon) > 1 else "")
 
-            args.writer.add_cognate(
-                lexeme=lexeme,
-                Cognateset_ID=cogid,
-                Source=source
-                )
+            else:
+                variants = ""
+
+            for lexeme in args.writer.add_forms_from_value(
+                    Language_ID=languages[doculectid],
+                    Parameter_ID=concepts[(concept)],
+                    Value=value,
+                    Concept_From_Proto=concept_from_proto,
+                    Variants=variants,
+                    Comment=note,
+                    Source=source,
+                    UncertainCognacy=value_uncertain,
+                    ProtoSet=proto_set,
+                    Cognacy=cogid,
+                    ConceptInSource=concept,
+                    EntryInSource=entry_in_source,
+                    ):
+
+                args.writer.add_cognate(
+                        lexeme=lexeme,
+                        Cognateset_ID=cogid,
+                        Cognate_Detection_Method="expert",
+                        Source="Oliveira2014"
+                        )
