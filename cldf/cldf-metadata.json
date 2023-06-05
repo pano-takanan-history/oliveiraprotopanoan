@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "70ce6df",
+            "dc:created": "b2973eb",
             "dc:title": "Repository"
         },
         {
@@ -124,6 +124,14 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Morphemes"
                     },
                     {
                         "datatype": "string",

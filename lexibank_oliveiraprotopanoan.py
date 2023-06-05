@@ -25,6 +25,8 @@ class CustomConcept(Concept):
 
 @attr.s
 class CustomLexeme(Lexeme):
+    Alignment = attr.ib(default=None)
+    Morphemes = attr.ib(default=None)
     UncertainCognacy = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
@@ -128,14 +130,14 @@ class Dataset(BaseDataset):
         # add data
         for (
             idx,
-            # alignment,
+            alignment,
             cogid,
             concept,
             language,
             form,
             value,
             tokens,
-            # morphemes,
+            morphemes,
             comment,
             source,
             proto_set,
@@ -144,14 +146,14 @@ class Dataset(BaseDataset):
             uncertain_cognacy
         ) in pb(
             data.iter_rows(
-                # "alignment",
+                "alignment",
                 "cogid",
                 "concept",
                 "doculect",
                 "form",
                 "value",
                 "tokens",
-                # "morphemes",
+                "morphemes",
                 "comment",
                 "source",
                 "proto_set",
@@ -169,13 +171,13 @@ class Dataset(BaseDataset):
                 Segments=tokens,
                 Source=source,
                 Cognacy=cogid,
+                Alignment=alignment,
+                Morphemes=morphemes,
                 Comment=comment,
                 ProtoSet=proto_set,
                 ConceptInSource=concept_in_source,
                 EntryInSource=entry_in_source,
                 UncertainCognacy=uncertain_cognacy,
-                # Alignment=alignment,
-                # Morphemes=morphemes
             )
 
             args.writer.add_cognate(
