@@ -1631,10 +1631,10 @@
         },
         "Kapanawa": {
             "bipa_errors": [
+                "m.p",
                 "n.t\u0283",
                 "~",
-                "n.t",
-                "m.p"
+                "n.t"
             ],
             "general_errors": 5,
             "replacements": {
@@ -1997,10 +1997,10 @@
                 ]
             },
             "sclass_errors": [
+                "m.p",
                 "n.t\u0283",
                 "~",
-                "n.t",
-                "m.p"
+                "n.t"
             ],
             "segments": {
                 "!\u00e1/a": 10,
@@ -2043,9 +2043,9 @@
         "Katukina": {
             "bipa_errors": [
                 "n.t\u0283",
-                "n.dz",
                 "m.b",
-                "n.n"
+                "n.n",
+                "n.dz"
             ],
             "general_errors": 4,
             "replacements": {
@@ -2409,9 +2409,9 @@
             },
             "sclass_errors": [
                 "n.t\u0283",
-                "n.dz",
                 "m.b",
-                "n.n"
+                "n.n",
+                "n.dz"
             ],
             "segments": {
                 "+": 52,
@@ -3275,8 +3275,8 @@
         },
         "Korubo": {
             "bipa_errors": [
-                "n.t",
-                "m.p"
+                "m.p",
+                "n.t"
             ],
             "general_errors": 2,
             "replacements": {
@@ -3639,8 +3639,8 @@
                 ]
             },
             "sclass_errors": [
-                "n.t",
-                "m.p"
+                "m.p",
+                "n.t"
             ],
             "segments": {
                 "+": 6,
@@ -4092,9 +4092,9 @@
         },
         "Marubo": {
             "bipa_errors": [
-                "m.b",
                 "n.d",
-                "~"
+                "~",
+                "m.b"
             ],
             "general_errors": 7,
             "replacements": {
@@ -4457,9 +4457,9 @@
                 ]
             },
             "sclass_errors": [
-                "m.b",
                 "n.d",
-                "~"
+                "~",
+                "m.b"
             ],
             "segments": {
                 "!\u00e1/a": 1,
@@ -4917,8 +4917,8 @@
         },
         "Mayoruna": {
             "bipa_errors": [
-                "k.k",
                 "n.d",
+                "k.k",
                 "n.n"
             ],
             "general_errors": 3,
@@ -5282,8 +5282,8 @@
                 ]
             },
             "sclass_errors": [
-                "k.k",
                 "n.d",
+                "k.k",
                 "n.n"
             ],
             "segments": {
@@ -6530,8 +6530,8 @@
         },
         "Sharanawa": {
             "bipa_errors": [
-                "a.a",
-                "a.i"
+                "a.i",
+                "a.a"
             ],
             "general_errors": 2,
             "replacements": {
@@ -6894,8 +6894,8 @@
                 ]
             },
             "sclass_errors": [
-                "a.a",
-                "a.i"
+                "a.i",
+                "a.a"
             ],
             "segments": {
                 "+": 12,
@@ -8493,20 +8493,20 @@
         ],
         "bad_words_count": 49,
         "bipa_errors": [
-            "s.s",
-            "n.dz",
-            "n.t",
-            "u.h",
-            "n.d",
             "m.p",
             "n.t\u0283",
-            "a.a",
-            "k.k",
             "~",
-            "n.n",
-            "n.j",
             "m.b",
-            "a.i"
+            "a.i",
+            "u.h",
+            "k.k",
+            "n.j",
+            "a.a",
+            "n.n",
+            "n.d",
+            "n.t",
+            "s.s",
+            "n.dz"
         ],
         "general_errors": 50,
         "invalid_words": [],
@@ -8872,20 +8872,20 @@
             ]
         },
         "sclass_errors": [
-            "s.s",
-            "n.dz",
-            "n.t",
-            "u.h",
-            "n.d",
             "m.p",
             "n.t\u0283",
-            "a.a",
-            "k.k",
             "~",
-            "n.n",
-            "n.j",
             "m.b",
-            "a.i"
+            "a.i",
+            "u.h",
+            "k.k",
+            "n.j",
+            "a.a",
+            "n.n",
+            "n.d",
+            "n.t",
+            "s.s",
+            "n.dz"
         ],
         "segments": {
             "!/m": 1,
