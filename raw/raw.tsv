@@ -437,7 +437,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 436	- i s ( - - - ) u	171		black monkey	Yawanawa	isu		i s u		None		§25	Yaw isu ‘macaco preto’		None
 437	- i ʃ ( - - - ) o	171		black monkey	Korubo	iʃo		i ʃ o		None		§25	Ko iʃo		None
 438	ʔ i s t o ( - )	182		to run	Proto-Panoan	ʔisto-		ʔ i s t o		None	Oliveira2014	§26	*ʔisto- ‘correr’		None
-439	ʔ i s t ṍ ( - )	182		to run	Kakataibo	ʔistṍ		ʔ i s t ṍ		None		§26	Ksh ʔistṍ ‘rapidamente’		None
+439	ʔ i s t !ṍ/o ( ~ )	182		to run	Kakataibo	ʔistṍ		ʔ i s t !ṍ/o ~		None		§26	Ksh ʔistṍ ‘rapidamente’		None
 440	ʔ i ʃ t o ( - )	182		to run	ShipiboKonibo	ʔiʃto-		ʔ i ʃ t o		None		§26	SK ʔiʃto- ‘rápido;;  veloz’		None
 441	ʔ i ʃ t o ( - )	182		to run	Kapanawa	ʔiʃto-		ʔ i ʃ t o		None	Loos1998	§26	Kp ʔiʃto- ‘correr;; apurarse;;  irse apurado’ (LOOS; LOOS;; 1998), ʔisto- ‘correr’		None
 442	ʔ i s t o ( - )	182		to run	Kapanawa	ʔisto-		ʔ i s t o		None		§26	Kp ʔiʃto- ‘correr;; apurarse;;  irse apurado’ (LOOS; LOOS;; 1998), ʔisto- ‘correr’		None
@@ -564,7 +564,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 563	- ĩ ĩ ( - ) - ( - - - - )	564		to look	Amawaka	ĩĩ-		ĩ ĩ		None		§33	A **ĩĩ-, **ʔiin-ʔí (HYDE;; 1980)		1
 564	ʔ i i ( - ) n ( + ʔ !í/i - )	565		to look	Amawaka	ʔiin-ʔí		ʔ i i n + ʔ !í/i		None	Hyde1980	§33	A **ĩĩ-, **ʔiin-ʔí (HYDE;; 1980)		1
 565	- ũ ĩ ( - ) - ( - - - - )	259		to look	Kaxinawa	ũĩ-		ũ ĩ		None		§33	Kn ũĩ-		None
-566	- ṍ/õ ĩ ( - ) - ( - - - - )	259		to look	Marinawa	ṍĩ		ṍ/õ ĩ		None		§33	M ṍĩ ‘ver’		None
+566	- !ṍ/o ĩ ( - ) - ( - - - - )	259		to look	Marinawa	ṍĩ		!ṍ/o ĩ		None		§33	M ṍĩ ‘ver’		None
 567	- u i ( - ) n ( + n a i )	259		to look	Katukina	uin-nai		u i n + n a i		None		§33	Kat uin-nai ‘ver’		None
 568	- u i ( - ) n ( - - - - )	259		to look	Shanenawa	uin		u i n		None		§33	Shan uin ‘olhar’		None
 569	- u i ( a ) n ( - - - - )	259		to look	Yawanawa	uian		u i a n		None		§33	Yaw uian, uin		None
@@ -581,7 +581,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 580	( - - - - ) - u k u ( + - i k i - )	270		to cough	Katukina	uku-iki		u k u + i k i		None		§34	Kat uku-iki ‘tossir’		None
 581	( - - - - ) ʔ !ó/o k o ( + ʔ !í/i - - - )	270		to cough	Amawaka	ʔóko-ʔí		ʔ !ó/o k o + ʔ !í/i		None		§34	A ʔóko-ʔí ‘toser’, ʔóko ‘tos’ (HYDE;; 1980), oko- II		None
 582	( - - - - ) ʔ ó/o k o ( - - - - - - )	270		to cough	Amawaka	ʔóko		ʔ ó/o k o		None	Hyde1980	§34	A ʔóko-ʔí ‘toser’, ʔóko ‘tos’ (HYDE;; 1980), oko- II		None
-583	( - - - - ) - o k o ( - - - - - - )	270		to cough	Amawaka	oko-		o k o		II		§34	A ʔóko-ʔí ‘toser’, ʔóko ‘tos’ (HYDE;; 1980), oko- II		None
+583	( - - - - ) !/ʔ o k o ( - - - - - - )	270		to cough	Amawaka	oko-		!/ʔ o k o		II		§34	A ʔóko-ʔí ‘toser’, ʔóko ‘tos’ (HYDE;; 1980), oko- II		None
 584	( - - - - ) - u k u ( - - - - - - )	270		to cough	Kaxinawa	uku-		u k u		None		§34	Kn uku-		None
 585	( - - - - ) - ó/o k ó/o ( - - - - - - )	270		to cough	Marinawa	ókó-		ó/o k ó/o		None		§34	M ókó-		None
 586	( - - - - ) - u k - ( - - - - - - )	270		to vomit	Korubo	uk		u k		None		§34	Ko uk ‘vomitar’		None
@@ -598,7 +598,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 597	- u n a - ( + m a s k a + a i )	281		to learn	Katukina	una-maska-ai		u n a + m a s k a + a i		None		§35	Kat una-maska-ai ‘tristeza’		None
 598	- o n ã - ( - - - - - - - - - )	281		to learn	Amawaka	onã-		o n ã		None		§35	A onã-		None
 599	- u n ã - ( - - - - - - - - - )	281		to learn	Kaxinawa	unã-		u n ã		None		§35	Kn unã-		None
-600	- ṍ/õ n ã - ( - - - - - - - - - )	281		to learn	Marinawa	ṍnã		ṍ/õ n ã		None		§35	M ṍnã ‘saber;;  aprender’		None
+600	- !ṍ/o n ã - ( - - - - - - - - - )	281		to learn	Marinawa	ṍnã		!ṍ/o n ã		None		§35	M ṍnã ‘saber;;  aprender’		None
 601	- u n a n ( - - - - - - - - - )	281		to learn	Korubo	unan		u n a n		None		§35	Ko unan ‘saber’		None
 602	- u n a n ( - - - - - - - - - )	281		to learn	Mayoruna	unan		u n a n		None		§35	My unan ‘nombre de mujer’		None
 603	( - - - - - ) ʔ o m a ( + ) p a ʂ a	292		fresh water	Proto-Panoan	ʔoma-paʂa		ʔ o m a + p a ʂ a		None	Oliveira2014	§36	*ʔoma-paʂa ‘água fresca (lit. líquido novo)’		None
@@ -1078,8 +1078,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1077	β a t a ( - - )	479		sweet	Matis	βata		β a t a		None		§65	Mt βata ‘sabor (doce e salgado)’		None
 1078	b a t a ( - - )	479		sweet	Mayoruna	baˈta		b a t a		None		§65	My baˈta ‘dulce’		None
 1079	β a t o m ( - - - )	480		species of fish	Proto-Panoan	βato[m]		β a t o m		None	Oliveira2014	§66	*βato[m] ‘esp. de peixe’		None
-1080	β a t ṍ - ( - - - )	480		species of fish	Kakataibo	βatṍ		β a t ṍ		None		§66	Ksh βatṍ		None
-1081	β a t ṍ - ( - - - )	480		species of fish	ShipiboKonibo	βatṍ		β a t ṍ		None		§66	SK βatṍ		None
+1080	β a t !ṍ/o ~ ( - - - )	480		species of fish	Kakataibo	βatṍ		β a t !ṍ/o ~		None		§66	Ksh βatṍ		None
+1081	β a t !ṍ/o ~ ( - - - )	480		species of fish	ShipiboKonibo	βatṍ		β a t !ṍ/o ~		None		§66	SK βatṍ		None
 1082	β a t ó/o n ( - - - )	480		species of fish	Kapanawa	βatón		β a t ó/o n		None		§66	Kp βatón		None
 1083	β a t o m ( - a - )	480		species of fish	Chakobo	ˈβatoma		β a t o m a		None		§66	Ch ˈβatoma, ˈβato ‘bocachica’		None
 1084	β a t o !/m ( - - - )	480		species of fish	Chakobo	ˈβato		β a t o !/m		None		§66	Ch ˈβatoma, ˈβato ‘bocachica’		None
@@ -1199,10 +1199,10 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1199	b ɨ - ( - ) n ( - ) u t ( - - - - )	487		to forget, to lose	Korubo	bɨnut		b ɨ n u t		None		§72	Ko bɨnut		None
 1200	b ɨ - ( - ) n ( - ) u d ( - - - - )	487		to forget, to lose	Matis	bɨnud-		b ɨ n u d		None		§72	Mt bɨnud-		None
 1201	β ɨ ʔ o m ( - - - - )	488		tear	Proto-Panoan	βɨʔo[m]		β ɨ ʔ o m		None	Oliveira2014	§73	*βɨʔo[m] ‘lágrima’		None
-1202	β ɨ - ṍ - ( - - - - )	488		tear	Kakataibo	βɨṍ		β ɨ ṍ		None		§73	Ksh βɨṍ		None
-1203	β ɨ - ṍ - ( - - - - )	488		tear	ShipiboKonibo	βɨṍ		β ɨ ṍ		None		§73	SK βɨṍ		None
+1202	β ɨ - !ṍ/o ~ ( - - - - )	488		tear	Kakataibo	βɨṍ		β ɨ !ṍ/o ~		None		§73	Ksh βɨṍ		None
+1203	β ɨ - !ṍ/o ~ ( - - - - )	488		tear	ShipiboKonibo	βɨṍ		β ɨ !ṍ/o ~		None		§73	SK βɨṍ		None
 1204	β ɨ ʔ o n ( o - - - )	488		tear	Chakobo	βɨˈʔono		β ɨ ʔ o n o		None		§73	Ch βɨˈʔono, βɨˈʔo ‘lágrima’ (ZINGG;; 1998), βɨʔóna ‘lágrimas’		None
-1205	β ɨ ʔ o !/n	488		tear	Chakobo	βɨˈʔo		β ɨ ʔ o !/n		None	Zingg1998	§73	Ch βɨˈʔono, βɨˈʔo ‘lágrima’ (ZINGG;; 1998), βɨʔóna ‘lágrimas’		None
+1205	β ɨ ʔ o !/n ( - - - - )	488		tear	Chakobo	βɨˈʔo		β ɨ ʔ o !/n		None	Zingg1998	§73	Ch βɨˈʔono, βɨˈʔo ‘lágrima’ (ZINGG;; 1998), βɨʔóna ‘lágrimas’		None
 1206	β ɨ ʔ ó/o n ( a - - - )	488		tear	Chakobo	βɨʔóna		β ɨ ʔ ó/o n a		None		§73	Ch βɨˈʔono, βɨˈʔo ‘lágrima’ (ZINGG;; 1998), βɨʔóna ‘lágrimas’		None
 1207	b ɨ - w m ( i - - - )	488		tear	Kaxarari	bɨwˈmi		b ɨ w m i		None	Valenzuela2012	§73	Kax bɨumi [bɨwˈmi] ‘lágrima’ (VALENZUELA; OLIVEIRA;; 2012)		None
 1208	ɸ ɨ - o n ( - - - - )	488		tear	Chaninawa	ɸɨon		ɸ ɨ o n		None		§73	Chan ɸɨon		None
@@ -1271,7 +1271,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1271	β ɨ β o ( - )	492		man	Kapanawa	βɨβo		β ɨ β o		None		§77	Kp βɨβo		None
 1272	( - - - - ) β ɨ p o n ( - - - - - - - - - - - - - - )	493		species of tree (Phyllanthaceae)	Proto-Panoan	βɨp[on]		β ɨ p o n		None	Oliveira2014	§78	*βɨp[on] ‘esp. de árvore (segundo SHELL (1975 [1965]) Savia Pegajosa) (da fam. Phyllanthaceae)’		None
 1273	( - - - - ) β ɨ p ĩ - ( - - - - - - - - - - - - - - )	493		species of tree (Phyllanthaceae)	Kakataibo	βɨpĩ		β ɨ p ĩ		None		§78	Ksh βɨpĩ ‘savia pegajosa		None
-1274	( - - - - ) β ɨ p ṍ - ( - - - - - - - - - - - - - - )	493		species of tree (Phyllanthaceae)	ShipiboKonibo	βɨpṍ		β ɨ p ṍ		None		§78	SK βɨpṍ, **βɨpon, **βɨ́poman ‘resina’ (LORIOT; LAURIAULT; DAY;; 1993)		None
+1274	( - - - - ) β ɨ p !ṍ/o ~ ( - - - - - - - - - - - - - - )	493		species of tree (Phyllanthaceae)	ShipiboKonibo	βɨpṍ		β ɨ p !ṍ/o ~		None		§78	SK βɨpṍ, **βɨpon, **βɨ́poman ‘resina’ (LORIOT; LAURIAULT; DAY;; 1993)		None
 1275	( - - - - ) β ɨ p o - ( n - - - - - - - - - - - - - )	611		species of tree (Phyllanthaceae)	ShipiboKonibo	βɨpon		β ɨ p o n		None		§78	SK βɨpṍ, **βɨpon, **βɨ́poman ‘resina’ (LORIOT; LAURIAULT; DAY;; 1993)		1
 1276	( - - - - ) β !ɨ́/ɨ p o - ( m a n - - - - - - - - - - - )	593		species of tree (Phyllanthaceae)	ShipiboKonibo	βɨ́poman		β !ɨ́/ɨ p o m a n		None	Loriot1993	§78	SK βɨpṍ, **βɨpon, **βɨ́poman ‘resina’ (LORIOT; LAURIAULT; DAY;; 1993)		1
 1277	( - - - - ) β ɨ p ó/o n ( - - - - - - - - - - - - - - )	493		species of tree (Phyllanthaceae)	Kapanawa	βɨpón		β ɨ p ó/o n		None		§78	Kp βɨpón		None
@@ -1479,7 +1479,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1479	b i n a ( - )	509		manioc, cassava	Matis	bina		b i n a		None	Ferreira2005	§92	Mt bina ‘nome próprio’ (FERREIRA;; 2005)		None
 1480	b i n a ( - )	509		way, path	Mayoruna	biˈna		b i n a		None		§92	My biˈna ‘nombre de hombre’		None
 1481	β i n o n ( - )	510		miriti palm	Proto-Panoan	βinon		β i n o n		None	Oliveira2014	§93	*βinon ‘buriti (Mauritia vinifera Mart.)’		None
-1482	β i n ṍ - ( - )	510		miriti palm	Kakataibo	βinṍ		β i n ṍ		None		§93	Ksh βinṍ		None
+1482	β i n !ṍ/o ~ ( - )	510		miriti palm	Kakataibo	βinṍ		β i n !ṍ/o ~		None		§93	Ksh βinṍ		None
 1483	β i n ó/o - ( - )	510		miriti palm	ShipiboKonibo	βinó		β i n ó/o		None		§93	SK βinó		None
 1484	β i n o n ( - )	510		miriti palm	Kapanawa	βinon		β i n o n		None		§93	Kp βinon ‘aguaje;;  palma real’		None
 1485	β i n õ - ( - )	510		miriti palm	Marubo	βinõ		β i n õ		None	Cesarino2008	§93	Mar βinõ ‘buriti’ (CESARINO;; 2008)		None
@@ -1526,7 +1526,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1526	β u - i n ( - - - - )	513		species of picapau (Picidae)	Katukina	βuin		β u i n		None		§96	Kat βuin ‘pica-pau’		None
 1527	w o w ĩ - ( - - - - )	513		species of picapau (Picidae)	Amawaka	wowĩ_I		w o w ĩ		None		§96	A wowĩ I		None
 1528	b ũ - ĩ - ( - - - - )	513		species of picapau (Picidae)	Kaxinawa	bũĩ		b ũ ĩ		None		§96	Kn bũĩ		None
-1529	ɸ ṍ/õ - ĩ - ( - - - - )	513		species of picapau (Picidae)	Marinawa	ɸṍĩ		ɸ ṍ/õ ĩ		None		§96	M ɸṍĩ		None
+1529	ɸ !ṍ/o ~ ĩ - ( - - - - )	513		species of picapau (Picidae)	Marinawa	ɸṍĩ		ɸ !ṍ/o ~ ĩ		None		§96	M ɸṍĩ		None
 1530	β o ʔ rⁿ a rⁿ ( + ) t i ( - - - - - )	514		type of box	Proto-Panoan	βoʔ[n]a[n]-ti		β o ʔ rⁿ a rⁿ + t i		None	Oliveira2014	§97	*βoʔ[n]a[n]-ti ‘tipo de caixa’		None
 1531	β o - n ã́/ã - ( + ) t i ( - - - - - )	514		type of box	Kakataibo	βonã́-ti		β o n ã́/ã + t i		None		§97	Ksh βonã́-ti		None
 1532	β o - n ã́/ã - ( - ) t i ( - - - - - )	514		type of box	ShipiboKonibo	βonã́ti		β o n ã́/ã t i		None		§97	SK βonã́ti		None
@@ -1585,7 +1585,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1585	m u - i - ( + ʃ u m ) a	4		bee wax	Yawanawa	mui_ʃuma		m u i + ʃ u m a		None		§101	Yaw mui ʃuma ‘leite’		None
 1586	b u - i d ( - - - - ) -	4		bee wax	Mayoruna	buˈid		b u i d		None		§101	My buid [buˈid] ‘abeja sin aguijón (tipo);;  cera de abejas’		None
 1587	( - ) β o ( - ) k o rⁿ ( - )	5		species of tree	Proto-Panoan	βoko[n]		β o k o rⁿ		None	Oliveira2014	§102	*βoko[n] ‘esp. de árvore (embaúba?)’ :		None
-1588	( - ) β o ( - ) k ṍ - ( - )	5		species of tree	Kakataibo	βokṍ		β o k ṍ		None		§102	Ksh βokṍ		None
+1588	( - ) β o ( - ) k !ṍ/o ~ ( - )	5		species of tree	Kakataibo	βokṍ		β o k !ṍ/o ~		None		§102	Ksh βokṍ		None
 1589	( - ) β o ( - ) k ó/o - ( - )	5		species of tree	ShipiboKonibo	βokó		β o k ó/o		None		§102	SK βokó		None
 1590	( - ) β o ( - ) k ó/o n ( - )	5		species of tree	Kapanawa	βokón		β o k ó/o n		None		§102	Kp βokón		None
 1591	( - ) β o ( - ) k ó/o n ( o )	5		species of tree	Chakobo	βokóno		β o k ó/o n o		None		§102	Ch βokóno, βoˈko ‘el ambaybo (planta que sirve para hacer sogas)’ (ZINGG;; 1998)		None
@@ -1643,7 +1643,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1643	β õ p a	9		insect	Proto-Panoan	βõpa		β õ p a		None	Oliveira2014	§106	*βõpa ‘**insecto’ :		None
 1644	β õ p a	9		insect	Kakataibo	βõpa		β õ p a		None		§106	Ksh βõpa ‘clase de escarabajo’		None
 1645	b õ p a	9		insect	ShipiboKonibo	bõpa		b õ p a		None		§106	SK bõpa		None
-1646	β o m.p a	9		insect	Kapanawa	βompa		β o m.p a		None		§106	Kp βompa		None
+1646	β o !m.p/p a	9		insect	Kapanawa	βompa		β o !m.p/p a		None		§106	Kp βompa		None
 1647	β o p a	9		insect	Chakobo	ˈβopa		β o p a		None	Zingg1998	§106	Ch ˈβopa ‘diversas clases de insecto;;  el piojo grande’ (ZINGG;; 1998), βopa ‘clase de escarabajo’		None
 1648	β o p a	9		insect	Chakobo	βopa		β o p a		None		§106	Ch ˈβopa ‘diversas clases de insecto;;  el piojo grande’ (ZINGG;; 1998), βopa ‘clase de escarabajo’		None
 1649	w õ p á/a	9		insect	Amawaka	wõpá_I		w õ p á/a		None		§106	A wõpá I ‘clase de avispa’		None
@@ -1721,7 +1721,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1721	ts !ɨ́/ɨ - k !ó/o - ( - )	15		hiccough, to hiccup	Marinawa	tsɨ́kó-		ts !ɨ́/ɨ k !ó/o		None		§111	M tsɨ́kó-		None
 1722	ts i ʔ o ( - )	16		cicada	Proto-Panoan	tsiʔo		ts i ʔ o		None	Oliveira2014	§112	*tsiʔo ‘cigarra’ :		None
 1723	tʃ i - o ( - )	16		cicada	Kakataibo	tʃio		tʃ i o		None		§112	Ksh tʃio		None
-1724	ts i - !ṍ/õ ( - )	16		cicada	ShipiboKonibo	tsiṍ́		ts i !ṍ/õ		None		§112	SK tsiṍ́		None
+1724	ts i - !ṍ/o ( ~ )	16		cicada	ShipiboKonibo	tsiṍ́		ts i !ṍ/o ~		None		§112	SK tsiṍ́		None
 1725	ts i ʔ o ( - )	16		cicada	Kapanawa	tsiʔo		ts i ʔ o		None		§112	Kp tsiʔo		None
 1726	ts i ʔ o ( - )	16		cicada	Chakobo	tsiʔo		ts i ʔ o		None		§112	Ch tsiʔo		None
 1727	ts ɨ - o ( - )	16		cicada	Sharanawa	tsɨo		ts ɨ o		None		§112	Shar tsɨo, tsɨon ‘chicharra’		None
@@ -1897,20 +1897,20 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1897	tʃ i w i ( i )	31		to drive from behind	Amawaka	tʃiwii-		tʃ i w i i		II		§126	A tʃiwii- II		None
 1898	tʃ i b i ( - )	31		to drive from behind	Kaxinawa	tʃibi		tʃ i b i		None		§126	Kn tʃibi ‘quitar;; coger;; obtener de la parte trasera’		None
 1899	tʃ !í/i - a ( - )	575		to drive from behind	Marinawa	tʃía		tʃ !í/i a		None		§126	M **tʃía		1
-1900	( - - - - - ) tʃ i p o - ( - - )	32		back part	Proto-Panoan	tʃipo		tʃ i p o		None	Oliveira2014	§127	*tʃipo ‘parte posterior’ :		None
-1901	( - - - - - ) tʃ i p !ṍ/õ m ( - i )	32		back part	Kakataibo	tʃipṍmi		tʃ i p !ṍ/õ m i		None		§127	Ksh tʃipṍmi ‘águas abajo’		None
-1902	( - - - - - ) tʃ i p !ṍ/õ - ( k i )	32		back part	ShipiboKonibo	tʃipṍki		tʃ i p !ṍ/õ k i		None	Loriot1993	§127	SK tʃipṍki ‘águas abajo;; **hacia el extremo grande;; en las partes traseras’ (LORIOT; LAURIAULT; DAY;; 1993)		None
-1903	( - - - - - ) tʃ i p !ó/o n ( k i )	32		back part	Kapanawa	tʃipónki		tʃ i p !ó/o n k i		None		§127	Kp tʃipónki		None
-1904	( - - - - - ) tʃ i p o - ( - - )	32		back part	Marubo	tʃipo		tʃ i p o		None	Cesarino2008	§127	Mar tʃipo ‘depois’ (CESARINO;; 2008)		None
-1905	( - - - - - ) tʃ !í/i p o - ( - - )	32		back part	Chakobo	tʃípo		tʃ !í/i p o		None	Zingg1998	§127	Ch tʃípo ‘el lado más ancho de una cosa’ (ZINGG;; 1998), anitʃípo ‘águas abajo’		None
-1906	( - - a n i ) tʃ !í/i p o - ( - - )	32		back part	Chakobo	anitʃípo		a n i tʃ !í/i p o		None		§127	Ch tʃípo ‘el lado más ancho de una cosa’ (ZINGG;; 1998), anitʃípo ‘águas abajo’		None
-1907	( - - - - - ) tʃ i p o - ( - - )	32		back part	Sharanawa	tʃipo		tʃ i p o		None		§127	Shar tʃipo ‘después’		None
-1908	( - - - - - ) tʃ i p u - ( - - )	32		back part	Katukina	tʃipu		tʃ i p u		None		§127	Kat tʃipu ‘depois’		None
-1909	( - - - - - ) tʃ !í/i p o - ( - - )	32		back part	Amawaka	tʃípo		tʃ !í/i p o		None	Zingg1998	§127	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’		None
-1910	( t a ʔ ɨ + ) tʃ i p õ - ( - - )	32		back part	Amawaka	taʔɨ_tʃipõ		t a ʔ ɨ + tʃ i p õ		None		§127	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’		None
-1911	( - - - - - ) tʃ i p o - ( - - )	32		back part	Amawaka	tʃipo		tʃ i p o		None		§127	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’		None
-1912	( - - - - - ) tʃ i p u - ( - - )	32		back part	Kaxinawa	tʃipu		tʃ i p u		None		§127	Kn tʃipu ‘más tarde’, ‘luego;;  en seguida’ (MONTAG;; 1981)		None
-1913	( - - - - - ) tʃ i p o - ( - - )	32		back part	Marinawa	tʃipo		tʃ i p o		None		§127	M tʃipo ‘más tarde’		None
+1900	( - - - - - ) tʃ i p o ( - - - )	32		back part	Proto-Panoan	tʃipo		tʃ i p o		None	Oliveira2014	§127	*tʃipo ‘parte posterior’ :		None
+1901	( - - - - - ) tʃ i p !ṍ/o ( ~ m i )	32		back part	Kakataibo	tʃipṍmi		tʃ i p !ṍ/o ~ m i		None		§127	Ksh tʃipṍmi ‘águas abajo’		None
+1902	( - - - - - ) tʃ i p !ṍ/o ( ~ k i )	32		back part	ShipiboKonibo	tʃipṍki		tʃ i p !ṍ/o ~ k i		None	Loriot1993	§127	SK tʃipṍki ‘águas abajo;; **hacia el extremo grande;; en las partes traseras’ (LORIOT; LAURIAULT; DAY;; 1993)		None
+1903	( - - - - - ) tʃ i p !ó/o ( n k i )	32		back part	Kapanawa	tʃipónki		tʃ i p !ó/o n k i		None		§127	Kp tʃipónki		None
+1904	( - - - - - ) tʃ i p o ( - - - )	32		back part	Marubo	tʃipo		tʃ i p o		None	Cesarino2008	§127	Mar tʃipo ‘depois’ (CESARINO;; 2008)		None
+1905	( - - - - - ) tʃ !í/i p o ( - - - )	32		back part	Chakobo	tʃípo		tʃ !í/i p o		None	Zingg1998	§127	Ch tʃípo ‘el lado más ancho de una cosa’ (ZINGG;; 1998), anitʃípo ‘águas abajo’		None
+1906	( - - a n i ) tʃ !í/i p o ( - - - )	32		back part	Chakobo	anitʃípo		a n i tʃ !í/i p o		None		§127	Ch tʃípo ‘el lado más ancho de una cosa’ (ZINGG;; 1998), anitʃípo ‘águas abajo’		None
+1907	( - - - - - ) tʃ i p o ( - - - )	32		back part	Sharanawa	tʃipo		tʃ i p o		None		§127	Shar tʃipo ‘después’		None
+1908	( - - - - - ) tʃ i p u ( - - - )	32		back part	Katukina	tʃipu		tʃ i p u		None		§127	Kat tʃipu ‘depois’		None
+1909	( - - - - - ) tʃ !í/i p o ( - - - )	32		back part	Amawaka	tʃípo		tʃ !í/i p o		None	Zingg1998	§127	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’		None
+1910	( t a ʔ ɨ + ) tʃ i p õ ( - - - )	32		back part	Amawaka	taʔɨ_tʃipõ		t a ʔ ɨ + tʃ i p õ		None		§127	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’		None
+1911	( - - - - - ) tʃ i p o ( - - - )	32		back part	Amawaka	tʃipo		tʃ i p o		None		§127	A tʃípo ‘depués’ (ZINGG;; 1980), taʔɨ tʃipõ ‘talón del pie’, tʃipo ‘más tarde;;  detrás’		None
+1912	( - - - - - ) tʃ i p u ( - - - )	32		back part	Kaxinawa	tʃipu		tʃ i p u		None		§127	Kn tʃipu ‘más tarde’, ‘luego;;  en seguida’ (MONTAG;; 1981)		None
+1913	( - - - - - ) tʃ i p o ( - - - )	32		back part	Marinawa	tʃipo		tʃ i p o		None		§127	M tʃipo ‘más tarde’		None
 1914	( - - - - - ) tʃ i tʃ i n ( - - )	600		back part	Matis	tʃitʃin		tʃ i tʃ i n		None		§127	Mt **tʃitʃin ‘depois’		1
 1915	( - - - ) tʃ o ( - - - ) k a ( - - - )	33		to wash, to wash oneself	Proto-Panoan	tʃoka-		tʃ o k a		None	Oliveira2014	§128	*tʃoka- ‘lavar;;  lavar-se’ :		None
 1916	( - - - ) tʃ o ( - - - ) k a ( - - - )	33		to wash, to wash oneself	Kakataibo	tʃoka-		tʃ o k a		None		§128	Ksh tʃoka-		None
@@ -2083,7 +2083,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2083	- i m i ( - - - - )	47		blood	Kakataibo	imi		i m i		None		§140	Ksh imi		None
 2084	h i m i ( - - - - )	47		blood	ShipiboKonibo	himi		h i m i		None		§140	SK himi		None
 2085	h i m i ( - - - - )	47		blood	Kapanawa	himi		h i m i		None		§140	Kp himi		None
-2086	- ĩ m.b i ( - - - - )	47		blood	Marubo	ˈĩmbi		ĩ m.b i		None	Cabral2009	§140	Mar imi [ˈĩmbi] (CABRAL; OLIVEIRA;; 2012)		None
+2086	- ĩ !m.b/m i ( - - - - )	47		blood	Marubo	ˈĩmbi		ĩ !m.b/m i		None	Cabral2009	§140	Mar imi [ˈĩmbi] (CABRAL; OLIVEIRA;; 2012)		None
 2087	h i m i ( - - - - )	47		blood	Chakobo	himi		h i m i		None		§140	Ch himi		None
 2088	h i m i ( - - - - )	47		blood	Kaxarari	hiˈmi		h i m i		None	Cabral2009	§140	Kax hiˈmi (CABRAL; OLIVEIRA;; 2012)		None
 2089	- i m - ( - - - - )	47		blood	Yaminawa	im-		i m		None	Faust2002	§140	Yam im- ‘sangre’ (FAUST; LOOS;; 2002)		None
@@ -2315,7 +2315,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2315	( - - ) k ɨ n o ( t i )	63		tip, end point	Marinawa	kɨnoti		k ɨ n o t i		None		§155	M kɨno ‘afilado’, kɨnoti ‘cuchillo’, ãõkɨ́no ‘hierro’		None
 2316	( ã õ ) k !ɨ́/ɨ n o ( - - )	63		tip, end point	Marinawa	ãõkɨ́no		ã õ k !ɨ́/ɨ n o		None		§155	M kɨno ‘afilado’, kɨnoti ‘cuchillo’, ãõkɨ́no ‘hierro’		None
 2317	( - - ) kʷ ɨ n o ( - - )	63		tip, end point	Mayoruna	kuɨˈno		kʷ ɨ n o		None		§155	My kuɨno [kuɨˈno] ‘afilar’, kuɨnma [kuɨnˈma] ‘sin filo;;  sin punta’		None
-2318	( - - ) kʷ ɨ n - ( m a )	63		tip, end point	Mayoruna	kuɨnˈma		kʷ ɨ n m a		None		§155	My kuɨno [kuɨˈno] ‘afilar’, kuɨnma [kuɨnˈma] ‘sin filo;;  sin punta’		None
+2318	( - - ) kʷ ɨ n - ( m a )	813		tip, end point	Mayoruna	kuɨnˈma		kʷ ɨ n m a		None		§155	My kuɨno [kuɨˈno] ‘afilar’, kuɨnma [kuɨnˈma] ‘sin filo;;  sin punta’		None
 2319	( - - - ) kʷ ɨ o rⁿ ( - - - - )	64		to string together	Proto-Panoan	kwɨo[n]-		kʷ ɨ o rⁿ		None	Oliveira2014	§156	*kwɨo[n]- ‘ensartar’ :		None
 2320	( - - - ) kʷ ɨ ṍ/o ~ ( - - - - )	64		to string together	Kakataibo	kwɨṍ		kʷ ɨ ṍ/o ~		None		§156	Ksh kwɨṍ		None
 2321	( - - - ) k ɨ ṍ/o ~ ( - - - - )	64		to string together	ShipiboKonibo	kɨṍ-		k ɨ ṍ/o ~		None		§156	SK kɨṍ-		None
@@ -2413,23 +2413,23 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2413	( - - - - ) k a k á/a - ( - - - )	71		type of basket	Kaxinawa	kaká		k a k á/a		None		§162	Kn kaká ‘canasta de mujer’		None
 2414	( - - - - ) k a k á/a - ( - - - )	71		type of basket	Marinawa	kaká		k a k á/a		None		§162	M kaká		None
 2415	( - - - - ) k a k a n ( - - - )	71		type of basket	Korubo	kakan		k a k a n		None		§162	Ko kakan ‘tipo de cesto’		None
-2416	k a rⁿ - - - ( - )	72		pineapple	Proto-Panoan	ka[n]		k a rⁿ		None	Oliveira2014	§163	*ka[n] ‘abacaxi’ :		None
-2417	k ã - k ã́/ã - ( - )	72		pineapple	Kakataibo	kãkã́		k ã k ã́/ã		None		§163	Ksh kãkã́, kãká		None
-2418	k ã - k á/a - ( - )	72		pineapple	Kakataibo	kãká		k ã k á/a		None		§163	Ksh kãkã́, kãká		None
-2419	k ã - k ã - ( - )	72		pineapple	ShipiboKonibo	kãkã_́		k ã k ã		None		§163	SK kãkã ́, **kankán, **kánkaman ‘piña’ (LORIOT; LAURIAULT; DAY;; 1993)		None
+2416	k a rⁿ ( - - - - )	72		pineapple	Proto-Panoan	ka[n]		k a rⁿ		None	Oliveira2014	§163	*ka[n] ‘abacaxi’ :		None
+2417	k ã - ( k ã́/ã - - )	72		pineapple	Kakataibo	kãkã́		k ã k ã́/ã		None		§163	Ksh kãkã́, kãká		None
+2418	k ã - ( k á/a - - )	72		pineapple	Kakataibo	kãká		k ã k á/a		None		§163	Ksh kãkã́, kãká		None
+2419	k ã - ( k ã - - )	72		pineapple	ShipiboKonibo	kãkã_́		k ã k ã		None		§163	SK kãkã ́, **kankán, **kánkaman ‘piña’ (LORIOT; LAURIAULT; DAY;; 1993)		None
 2420	k a n ( k á/a - - n )	545		pineapple	ShipiboKonibo	kankán		k a n k á/a n		None		§163	SK kãkã ́, **kankán, **kánkaman ‘piña’ (LORIOT; LAURIAULT; DAY;; 1993)		1
 2421	k á/a n ( k a m a n )	609		pineapple	ShipiboKonibo	kánkaman		k á/a n k a m a n		None	Loriot1993	§163	SK kãkã ́, **kankán, **kánkaman ‘piña’ (LORIOT; LAURIAULT; DAY;; 1993)		1
-2422	k a n k á/a n ( - )	72		pineapple	Kapanawa	kankán		k a n k á/a n		None		§163	Kp kankán		None
-2423	k á/a - k a m ( a )	72		pineapple	Chakobo	kákama		k á/a k a m a		None		§163	Ch kákama, káka ‘piña’ (ZINGG;; 1998), kákama		None
-2424	k á/a - k a - ( - )	72		pineapple	Chakobo	káka		k á/a k a		None	Zingg1998	§163	Ch kákama, káka ‘piña’ (ZINGG;; 1998), kákama		None
-2425	k á/a - k a m ( a )	72		pineapple	Chakobo	kákama		k á/a k a m a		None		§163	Ch kákama, káka ‘piña’ (ZINGG;; 1998), kákama		None
-2426	k a - k a n ( - )	72		pineapple	Shanenawa	kakan		k a k a n		None		§163	Shan kakan		None
-2427	k a n k a n ( - )	72		pineapple	Katukina	kankan		k a n k a n		None		§163	Kat kankan		None
-2428	k ã - k ã - ( - )	72		pineapple	Amawaka	kãkã_I		k ã k ã		None		§163	A kãkã I		None
-2429	k ã - k ã - ( - )	72		pineapple	Kaxinawa	kãkã		k ã k ã		None		§163	Kn kãkã		None
-2430	k a n tʃ i - ( - )	72		pineapple	Korubo	kantʃi		k a n tʃ i		None		§163	Ko kantʃi		None
-2431	k a n tʃ i - ( - )	72		pineapple	Matis	kantʃi		k a n tʃ i		None		§163	Mt kantʃi		None
-2432	k a n tʃ i - ( - )	72		pineapple	Mayoruna	kantʃi		k a n tʃ i		None		§163	My kantʃi		None
+2422	k a n ( k á/a n - )	72		pineapple	Kapanawa	kankán		k a n k á/a n		None		§163	Kp kankán		None
+2423	k á/a - ( k a m a )	72		pineapple	Chakobo	kákama		k á/a k a m a		None		§163	Ch kákama, káka ‘piña’ (ZINGG;; 1998), kákama		None
+2424	k á/a - ( k a - - )	72		pineapple	Chakobo	káka		k á/a k a		None	Zingg1998	§163	Ch kákama, káka ‘piña’ (ZINGG;; 1998), kákama		None
+2425	k á/a - ( k a m a )	72		pineapple	Chakobo	kákama		k á/a k a m a		None		§163	Ch kákama, káka ‘piña’ (ZINGG;; 1998), kákama		None
+2426	k a - ( k a n - )	72		pineapple	Shanenawa	kakan		k a k a n		None		§163	Shan kakan		None
+2427	k a n ( k a n - )	72		pineapple	Katukina	kankan		k a n k a n		None		§163	Kat kankan		None
+2428	k ã - ( k ã - - )	72		pineapple	Amawaka	kãkã_I		k ã k ã		None		§163	A kãkã I		None
+2429	k ã - ( k ã - - )	72		pineapple	Kaxinawa	kãkã		k ã k ã		None		§163	Kn kãkã		None
+2430	k a n ( tʃ i - - )	72		pineapple	Korubo	kantʃi		k a n tʃ i		None		§163	Ko kantʃi		None
+2431	k a n ( tʃ i - - )	72		pineapple	Matis	kantʃi		k a n tʃ i		None		§163	Mt kantʃi		None
+2432	k a n ( tʃ i - - )	72		pineapple	Mayoruna	kantʃi		k a n tʃ i		None		§163	My kantʃi		None
 2433	( - - - - ) k a m a r ( - - - - - - - - )	73		jaguar	Proto-Panoan	kamar		k a m a r		None	Oliveira2014	§164	*kamar ‘onça’ :		None
 2434	( - - - - ) k a m õ - ( - - - - - - - - )	73		breeding, domestic animal	Kakataibo	kamõ		k a m õ		(sendo substituído pelo empréstimo SK, ʔotʃíti, que por sua vez é um empréstimo Kampa otʃiti, SHELL, [1965]		§164	Ksh kamõ ‘perro’ (sendo substituído pelo empréstimo SK;; ʔotʃíti;; que por sua vez é um empréstimo Kampa otʃiti;; SHELL;; [1965])		None
 2435	( - - - - ) k a m ã́/ã - ( - - - - - - - - )	73		jaguar	ShipiboKonibo	kamã́		k a m ã́/ã		None		§164	SK kamã́ ‘demonio;;  criatura parecida al tigre’, **ʔotʃíti ‘perro’		None
@@ -2707,7 +2707,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2709	( - - - - - ) k ɨ̃ t ( + ) i C/n ( - - )	92		type of pot	Proto-Panoan	kɨt̃_i[C]		k ɨ̃ t + i C/n		None	Oliveira2014	§181	*kɨt̃ i[C] ‘tipo de panela’ :		None
 2710	( m a n ɨ + ) k ɨ̃ t ( - ) i - ( - - )	92		type of pot	Kakataibo	manɨ_kɨ̃ti		m a n ɨ + k ɨ̃ t i		None		§181	Ksh manɨ kɨ̃ti ‘olla de metal para cocinar’		None
 2711	( - - - - - ) k ɨ̃ t ( + ) !í/i - ( - - )	92		type of pot	ShipiboKonibo	kɨt̃_í		k ɨ̃ t + !í/i		None		§181	SK kɨt̃ í		None
-2712	( - - - - - ) k ɨ n.t ( - ) !í/i - ( - - )	92		type of pot	Kapanawa	kɨntí		k ɨ n.t !í/i		None		§181	Kp kɨntí ‘olla para cocinar’		None
+2712	( - - - - - ) k ɨ !n.t/t ( - ) !í/i - ( - - )	92		type of pot	Kapanawa	kɨntí		k ɨ !n.t/t !í/i		None		§181	Kp kɨntí ‘olla para cocinar’		None
 2713	( - - - - - ) k ɨ t ( - ) i - ( - - )	92		type of pot	Chaninawa	kɨti		k ɨ t i		None		§181	Chan kɨti, kiti		None
 2714	( - - - - - ) k i t ( - ) i - ( - - )	92		type of pot	Chaninawa	kiti		k i t i		None		§181	Chan kɨti, kiti		None
 2715	( - - - - - ) k ɨ t ( - ) i n ( - - )	92		type of pot	Sharanawa	kɨtin		k ɨ t i n		None		§181	Shar kɨtin, kɨtinin ‘olla de barro’		None
@@ -2803,7 +2803,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2805	k ũ - ĩ - ( - - )	97		smoke	Poyanawa	kũĩ		k ũ ĩ		None		§186	Poy kũĩ ‘fumaça’		None
 2806	k õ ʔ ĩ - ( - - )	97		smoke	Amawaka	kõʔĩ		k õ ʔ ĩ		II		§186	A kõʔĩ II		None
 2807	k ũ - ĩ - ( - - )	97		smoke	Kaxinawa	kũĩ		k ũ ĩ		None		§186	Kn kũĩ		None
-2808	k ṍ/õ - ĩ - ( - - )	97		smoke	Marinawa	kṍĩ		k ṍ/õ ĩ		None		§186	M kṍĩ		None
+2808	k !ṍ/o ~ ĩ - ( - - )	97		smoke	Marinawa	kṍĩ		k !ṍ/o ~ ĩ		None		§186	M kṍĩ		None
 2809	kʷ a - i n ( - - )	97		smoke	Korubo	kwain		kʷ a i n		None		§186	Ko kwain ‘fumaça’		None
 2810	kʷ a - i n ( - - )	97		smoke	Matis	kuain		kʷ a i n		None		§186	Mt kuain ‘fumaça’		None
 2811	k o β i ( - ) rⁿ	98		to boil	Proto-Panoan	koβi[n]-		k o β i rⁿ		None	Oliveira2014	§187	*koβi[n]- ‘ferver’ :		None
@@ -2817,8 +2817,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2819	k o f ĩ ( - ) -	98		to boil	Marinawa	Kofĩ		k o f ĩ		None		§187	M Kofĩ		None
 2820	k o w i ( - - - - - - )	99		jaw	Proto-Panoan	talvez_kowi		k o w i		author unsure about reconstruction	Oliveira2014	§188	*kwi [talvez kowi] ‘mandíbula’ :		None
 2821	k u - ɨ ( b - !í/i - - - )	99		jaw	Kakataibo	kuɨbí		k u ɨ b !í/i		None	Shell1987	§188	Ksh kuɨbí ‘boca;;  lábios’ (SHELL;; 1987), kuɨni ‘barba;;  bigote’ (SHELL;; 1987), kwɨ- ‘mouth;; border;; lip(s);;  chin’ (ZARIQUIEY;; 2011)		None
-2822	kʷ - - ɨ ( - n i - - - )	99		beard	Kakataibo	kuɨni		kʷ ɨ n i		None	Shell1987	§188	Ksh kuɨbí ‘boca;;  lábios’ (SHELL;; 1987), kuɨni ‘barba;;  bigote’ (SHELL;; 1987), kwɨ- ‘mouth;; border;; lip(s);;  chin’ (ZARIQUIEY;; 2011)		None
-2823	kʷ - - ɨ ( - - - - - - )	99		jaw	Kakataibo	kwɨ-		kʷ ɨ		None	Zariquiey2011	§188	Ksh kuɨbí ‘boca;;  lábios’ (SHELL;; 1987), kuɨni ‘barba;;  bigote’ (SHELL;; 1987), kwɨ- ‘mouth;; border;; lip(s);;  chin’ (ZARIQUIEY;; 2011)		None
+2822	kʷ - - ɨ ( - n i - - - )	812		beard	Kakataibo	kuɨni		kʷ ɨ n i		None	Shell1987	§188	Ksh kuɨbí ‘boca;;  lábios’ (SHELL;; 1987), kuɨni ‘barba;;  bigote’ (SHELL;; 1987), kwɨ- ‘mouth;; border;; lip(s);;  chin’ (ZARIQUIEY;; 2011)		None
+2823	kʷ - - ɨ ( - - - - - - )	812		jaw	Kakataibo	kwɨ-		kʷ ɨ		None	Zariquiey2011	§188	Ksh kuɨbí ‘boca;;  lábios’ (SHELL;; 1987), kuɨni ‘barba;;  bigote’ (SHELL;; 1987), kwɨ- ‘mouth;; border;; lip(s);;  chin’ (ZARIQUIEY;; 2011)		None
 2824	k o - i ( - - - - - - )	99		jaw	ShipiboKonibo	koi		k o i		None		§188	SK koi ‘barbilla;;  mandíbula’		None
 2825	k u - i ( - - - - - - )	99		jaw	Marubo	kui		k u i		None	Anonby2010	§188	Mar kui ‘queixo’ (ANONBY; HOLBROOK;; 2010)		None
 2826	k o - i ( + ʂ a o - - )	99		jaw	Kapanawa	koi_ʂao		k o i + ʂ a o		None		§188	Kp koi ʂao		None
@@ -2957,18 +2957,18 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2959	( - - - - - ) k u r u ( - - )	112		night, dark	Yawanawa	kuru		k u r u		None		§198	Yaw kuru ‘escuro’		None
 2960	( - - - - - ) k u ɾ u ( - - )	112		ash, gray	Matis	kuɾu		k u ɾ u		None		§198	Mt kudu [kuɾu] ‘marrom;; pardo;; seco’		None
 2961	( - - - - - ) k u ɾ u ( - - )	112		ash, gray	Mayoruna	kuˈɾu		k u ɾ u		None		§198	My kudu [kuˈɾu] ‘gris’		None
-2962	- - k o ʂ n a ( - )	113		cedrela odorata	Proto-Panoan	[k]oʂna		k o ʂ n a		None	Oliveira2014	§199	*[k]oʂna ‘cedro’ :		None
-2963	- - k õ ʂ - !ã́/ã ( - )	113		cedrela odorata	Kakataibo	kõʂã́		k õ ʂ !ã́/ã		None		§199	Ksh kõʂã́		None
-2964	- - k õ ʂ - !ã́/ã ( - )	113		cedrela odorata	ShipiboKonibo	kõʂã́		k õ ʂ !ã́/ã		None		§199	SK kõʂã́		None
-2965	- - k o ʂ - !á/a ( n )	113		cedrela odorata	Kapanawa	koʂán		k o ʂ !á/a n		None		§199	Kp koʂán		None
-2966	ʃ a kʷ a ʂ - a ( - )	113		cedrela odorata	Kaxarari	ʃakwaˈʂa		ʃ a kʷ a ʂ a		None	Couto2005	§199	Kax ʃakuaˈʂa [ʃakwaˈʂa] (COUTO;; 2005)		None
-2967	- - k o ʂ - a ( - )	113		cedrela odorata	Yaminawa	koʂa		k o ʂ a		None		§199	Yam koʂa		None
-2968	- - k o ʂ - a ( - )	113		cedrela odorata	Sharanawa	koʂa		k o ʂ a		None		§199	Shar koʂa, koʂan ‘cedro’		None
-2969	- - k o ʂ - a ( n )	113		cedrela odorata	Sharanawa	koʂan		k o ʂ a n		None		§199	Shar koʂa, koʂan ‘cedro’		None
-2970	- - k u ʂ - a ( - )	113		cedrela odorata	Shanenawa	kuˈʂa		k u ʂ a		None		§199	Shan kuˈʂa		None
-2971	- - k õ x - ã ( - )	113		cedrela odorata	Amawaka	kõxã_I		k õ x ã		None		§199	A kõxã I		None
-2972	- - k u ʂ - a ( - )	113		cedrela odorata	Kaxinawa	kuʂa		k u ʂ a		None		§199	Kn kuʂa		None
-2973	- - k o ʂ - a ( - )	113		cedrela odorata	Marinawa	koʂa		k o ʂ a		None		§199	M koʂa		None
+2962	( - - ) k o ʂ n a ( - )	113		cedrela odorata	Proto-Panoan	[k]oʂna		k o ʂ n a		None	Oliveira2014	§199	*[k]oʂna ‘cedro’ :		None
+2963	( - - ) k õ ʂ - !ã́/ã ( - )	113		cedrela odorata	Kakataibo	kõʂã́		k õ ʂ !ã́/ã		None		§199	Ksh kõʂã́		None
+2964	( - - ) k õ ʂ - !ã́/ã ( - )	113		cedrela odorata	ShipiboKonibo	kõʂã́		k õ ʂ !ã́/ã		None		§199	SK kõʂã́		None
+2965	( - - ) k o ʂ - !á/a ( n )	113		cedrela odorata	Kapanawa	koʂán		k o ʂ !á/a n		None		§199	Kp koʂán		None
+2966	( ʃ a ) kʷ a ʂ - a ( - )	113		cedrela odorata	Kaxarari	ʃakwaˈʂa		ʃ a kʷ a ʂ a		None	Couto2005	§199	Kax ʃakuaˈʂa [ʃakwaˈʂa] (COUTO;; 2005)		None
+2967	( - - ) k o ʂ - a ( - )	113		cedrela odorata	Yaminawa	koʂa		k o ʂ a		None		§199	Yam koʂa		None
+2968	( - - ) k o ʂ - a ( - )	113		cedrela odorata	Sharanawa	koʂa		k o ʂ a		None		§199	Shar koʂa, koʂan ‘cedro’		None
+2969	( - - ) k o ʂ - a ( n )	113		cedrela odorata	Sharanawa	koʂan		k o ʂ a n		None		§199	Shar koʂa, koʂan ‘cedro’		None
+2970	( - - ) k u ʂ - a ( - )	113		cedrela odorata	Shanenawa	kuˈʂa		k u ʂ a		None		§199	Shan kuˈʂa		None
+2971	( - - ) k õ x - ã ( - )	113		cedrela odorata	Amawaka	kõxã_I		k õ x ã		None		§199	A kõxã I		None
+2972	( - - ) k u ʂ - a ( - )	113		cedrela odorata	Kaxinawa	kuʂa		k u ʂ a		None		§199	Kn kuʂa		None
+2973	( - - ) k o ʂ - a ( - )	113		cedrela odorata	Marinawa	koʂa		k o ʂ a		None		§199	M koʂa		None
 2974	k o ʂ o ( - )	116		cujubim	Proto-Panoan	koʂo		k o ʂ o		None	Oliveira2014	§200	*koʂo ‘cujubim’ :		None
 2975	k o ʂ o ( - )	116		cujubim	Kakataibo	koʂo		k o ʂ o		None		§200	Ksh koʂo		None
 2976	k o ʂ o ( - )	116		cujubim	ShipiboKonibo	koʂo		k o ʂ o		None		§200	SK koʂo		None
@@ -3059,7 +3059,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3061	m ã tʃ a rⁿ ( - - - )	122		animal horn	Proto-Panoan	mãtʃa[n]		m ã tʃ a rⁿ		None	Oliveira2014	§206	*mãtʃa[n] ‘chifre de animal’ :		None
 3062	m a t u - ( ʂ k a )	673		animal horn	Kakataibo	matuʂka		m a t u ʂ k a		None		§206	Ksh **matuʂka		1
 3063	m ã tʃ !ã́/ã - ( - - - )	122		animal horn	ShipiboKonibo	mãtʃã́		m ã tʃ !ã́/ã		None		§206	SK mãtʃã́		None
-3064	m a n.tʃ !á/a n ( - - - )	122		animal horn	Kapanawa	mantʃán		m a n.tʃ !á/a n		None		§206	Kp mantʃán		None
+3064	m a !n.tʃ/tʃ !á/a n ( - - - )	122		animal horn	Kapanawa	mantʃán		m a !n.tʃ/tʃ !á/a n		None		§206	Kp mantʃán		None
 3065	m ã ʃ ũ - ( - - - )	676		animal horn	Marubo	mãˈʃũ		m ã ʃ ũ		None	Anonby2010	§206	Mar **mãˈʃũ (ANONBY; HOLBROOK;; 2010)		1
 3066	m a ʂ a - ( ɦ u - )	675		animal horn	Kaxarari	maʂaˈɦu		m a ʂ a ɦ u		None		§206	Kax **maʂaˈhu [maʂaˈɦu] ‘chifre’		1
 3067	m a ʂ u - ( - - - )	678		animal horn	Shanenawa	maʂu		m a ʂ u		None		§206	Shan **maʂu		1
@@ -3121,7 +3121,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3123	m a ʃ i t e ( - - - )	125		headbelt, hat	Korubo	maʃite		m a ʃ i t e		None		§209	Ko maʃite ‘boné;; chapéu’		None
 3124	m a w e t e ( - - - )	618		headbelt, hat	Mayoruna	maˈwete		m a w e t e		None		§209	My **mauete [maˈwete]		1
 3125	m a k a ( - - - - - - )	128		rat	Proto-Panoan	maka		m a k a		None	Oliveira2014	§210	*maka ‘rato’ :		None
-3126	m a k ṍ ( - - - - - - )	128		rat	Kakataibo	makṍ		m a k ṍ		None		§210	Ksh makṍ ‘rata;;  ratón’		None
+3126	m a k !ṍ/o ( ~ - - - - - )	128		rat	Kakataibo	makṍ		m a k !ṍ/o ~		None		§210	Ksh makṍ ‘rata;;  ratón’		None
 3127	m a k a ( + ʂ o j a - )	128		rat	ShipiboKonibo	maka_ʂoya		m a k a + ʂ o j a		None		§210	SK maka ʂoya ‘rata del bosque’		None
 3128	m a k a ( - - - - - - )	128		rat	Kapanawa	maka		m a k a		None		§210	Kp maka		None
 3129	m a k a ( - - - - - - )	128		rat	Marubo	ˈmaka		m a k a		None	Anonby2010	§210	Mar ˈmaka (ANONBY; HOLBROOK;; 2010)		None
@@ -3189,7 +3189,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3191	m a n ( - ) ã - ( - - - - )	132		above	Amawaka	manã-		m a n ã		II		§214	A manã- II ‘encima;; espacio desmontado’		None
 3192	m ã n ( - ) ã - ( - - - - )	132		above	Kaxinawa	mãnã		m ã n ã		None		§214	Kn mãnã ‘colina’		None
 3193	m ã n ( - ) ã - ( k !í/i r !í/i )	132	1 2	above	Marinawa	mãnãkírí		m ã n ã k !í/i r !í/i		None		§214	M mãnãkírí ‘aguas arriba’		None
-3194	m a n ( n ) a n ( - - - - )	132		above	Mayoruna	mannan		m a n n a n		None		§214	My mannan ‘cima;; cumbre’		None
+3194	m a n ( n ) a n ( - - - - )	132	4 5	above	Mayoruna	mannan		m a n n a n		None		§214	My mannan ‘cima;; cumbre’		None
 3195	m a rⁿ ɨ	133		metal	Proto-Panoan	ma[n]ɨ		m a rⁿ ɨ		None	Oliveira2014	§215	*ma[n]ɨ ‘metal’ :		None
 3196	m a n ɨ	133		metal	Kakataibo	manɨ		m a n ɨ		None		§215	Ksh manɨ ‘hacha;; metal;; cosas de origen extranjero’		None
 3197	m a n ɨ	133		metal	Marubo	manɨ		m a n ɨ		None	Cesarino2008	§215	Mar manɨ ‘ferro’ (CESARINO;; 2008)		None
@@ -3806,20 +3806,20 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3810	( n ɨ ) n a n - ( - - )	183		to put inside, to dive	Korubo	nɨnan		n ɨ n a n		None		§260	Ko nɨnan ‘afogarse;; submergir em água’		None
 3811	( - - ) n a n - ( - - )	183		to put inside, to dive	Mayoruna	nan		n a n		None		§260	My nan ‘poner;; colocar;; echar (algo)’, nɨnan ‘poner en líquido;; poner en candela’		None
 3812	( n ɨ ) n a n - ( - - )	183		to put inside, to dive	Mayoruna	nɨnan		n ɨ n a n		None		§260	My nan ‘poner;; colocar;; echar (algo)’, nɨnan ‘poner en líquido;; poner en candela’		None
-3813	( - - - - - - ) rⁿ a p o ( - )	184		inside, in the center	Proto-Panoan	[n]apo		rⁿ a p o		None	Oliveira2014	§261	*[n]apo ‘dentro;;  no centro’ :		None
-3814	( - - - - - - ) n a p o ( - )	184		inside, in the center	Kakataibo	napo		n a p o		None		§261	Ksh napo		None
-3815	( - - - - - - ) n a p o ( - )	184		inside, in the center	ShipiboKonibo	napo		n a p o		None		§261	SK napo ‘médula;;  dentro de’		None
-3816	( - - - - - - ) n a p o ( - )	184		inside, in the center	Kapanawa	napo		n a p o		None	Loos1998	§261	Kp napo ‘centro’ (LOOS; LOOS;; 1998)		None
-3817	( - - - - - - ) n a k i ( - )	184		inside, in the center	Marubo	ˈnaki		n a k i		None		§261	Mar ˈnaki ‘em;;  dentro’		None
+3813	rⁿ a p o ( - )	184		inside, in the center	Proto-Panoan	[n]apo		rⁿ a p o		None	Oliveira2014	§261	*[n]apo ‘dentro;;  no centro’ :		None
+3814	n a p o ( - )	184		inside, in the center	Kakataibo	napo		n a p o		None		§261	Ksh napo		None
+3815	n a p o ( - )	184		inside, in the center	ShipiboKonibo	napo		n a p o		None		§261	SK napo ‘médula;;  dentro de’		None
+3816	n a p o ( - )	184		inside, in the center	Kapanawa	napo		n a p o		None	Loos1998	§261	Kp napo ‘centro’ (LOOS; LOOS;; 1998)		None
+3817	n a k i ( - )	184		inside, in the center	Marubo	ˈnaki		n a k i		None		§261	Mar ˈnaki ‘em;;  dentro’		None
 3818	( - - - - - - ) n a - - ( - )	647		inside, in the center	Yaminawa	na-		n a		None		§261	Yam na-, napo ‘centro’ (FAUST; LOOS;; 2002)		None
-3819	( - - - - - - ) n a p o ( - )	184		inside, in the center	Yaminawa	napo		n a p o		None	Faust2002	§261	Yam na-, napo ‘centro’ (FAUST; LOOS;; 2002)		None
-3820	( - - - - - - ) n a p o ( - )	184		inside, in the center	Sharanawa	napo		n a p o		None		§261	Shar napo, napon ‘tuétano;;  médula’		None
-3821	( - - - - - - ) n a p o ( n )	184		inside, in the center	Sharanawa	napon		n a p o n		None		§261	Shar napo, napon ‘tuétano;;  médula’		None
-3822	( - - - - - - ) d a p u ( - )	184		inside, in the center	Poyanawa	dapu		d a p u		None		§261	Poy dapu ‘tutano’		None
-3823	( n a + d e + ) n a k i ( - )	184		inside, in the center	Amawaka	na-_de_naki		n a + d e + n a k i		None		§261	A na- de naki, napɨɨ ‘en;; en el centro’		None
-3824	( - - - - - - ) n a p ɨ ( ɨ )	184		inside, in the center	Amawaka	napɨɨ		n a p ɨ ɨ		None		§261	A na- de naki, napɨɨ ‘en;; en el centro’		None
-3825	( - - - - - - ) n a p u ( - )	184		inside, in the center	Kaxinawa	napu		n a p u		None		§261	Kn napu ‘centro;; meollo;; médula’		None
-3826	( - - - - - - ) n a p i ( - )	184		inside, in the center	Mayoruna	naˈpi		n a p i		None		§261	My napi [naˈpi] ‘centro de una cosa;; corazón de un objeto;; cristalino (del ojo)’		None
+3819	n a p o ( - )	184		inside, in the center	Yaminawa	napo		n a p o		None	Faust2002	§261	Yam na-, napo ‘centro’ (FAUST; LOOS;; 2002)		None
+3820	n a p o ( - )	184		inside, in the center	Sharanawa	napo		n a p o		None		§261	Shar napo, napon ‘tuétano;;  médula’		None
+3821	n a p o ( n )	184		inside, in the center	Sharanawa	napon		n a p o n		None		§261	Shar napo, napon ‘tuétano;;  médula’		None
+3822	d a p u ( - )	184		inside, in the center	Poyanawa	dapu		d a p u		None		§261	Poy dapu ‘tutano’		None
+3823	n a	810		inside, in the center	Amawaka	na-_de_naki		n a		None		§261	A na- de naki, napɨɨ ‘en;; en el centro’		None
+3824	n a p ɨ ( ɨ )	184		inside, in the center	Amawaka	napɨɨ		n a p ɨ ɨ		None		§261	A na- de naki, napɨɨ ‘en;; en el centro’		None
+3825	n a p u ( - )	184		inside, in the center	Kaxinawa	napu		n a p u		None		§261	Kn napu ‘centro;; meollo;; médula’		None
+3826	n a p i ( - )	184		inside, in the center	Mayoruna	naˈpi		n a p i		None		§261	My napi [naˈpi] ‘centro de una cosa;; corazón de un objeto;; cristalino (del ojo)’		None
 3827	rⁿ a s i ( - - - - - )	185		to bathe, to take a bath	Proto-Panoan	[n]as[i]-		rⁿ a s i		None	Oliveira2014	§262	*[n]as[i]- ‘banhar-se;;  tomar banho’ :		None
 3828	n a ʃ i ( - - - - - )	185		to bathe, to take a bath	Kakataibo	naʃi-		n a ʃ i		None		§262	Ksh naʃi-		None
 3829	n a ʃ i ( - - - - - )	185		to bathe, to take a bath	ShipiboKonibo	naʃi-		n a ʃ i		None		§262	SK naʃi-		None
@@ -3885,7 +3885,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3889	n ã́/ã w a ( - + ) ɸ a - i	189		rainbow	Marinawa	nã́wa_ɸai		n ã́/ã w a + ɸ a i		None		§266	M nã́wa ɸai ‘arco iris’		None
 3890	n a w a ( - + ) b a - i	189		rainbow	Matis	nawa_bai		n a w a + b a i		nawa <<não índio>>, bai <<caminho>>		§266	Mt nawa bai (nawa <<não índio>>;; bai <<caminho>>)		None
 3891	rⁿ a w ɨ	190		abandoned rock	Proto-Panoan	[n]awɨ		rⁿ a w ɨ		None	Oliveira2014	§267	*[n]awɨ ‘capoeira;;  roça abandonada’ :		None
-3892	n a - ɨ	190		abandoned rock	Kakataibo	naɨ		n a ɨ		None		§267	Ksh naɨ ‘huerto o campo en actual uso’		None
+3892	n a - ɨ	190	8	abandoned rock	Kakataibo	naɨ		n a ɨ		None		§267	Ksh naɨ ‘huerto o campo en actual uso’		None
 3893	n !á/a w ɨ	190		abandoned rock	ShipiboKonibo	náwɨ		n !á/a w ɨ		None		§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
 3894	n a w ɨ	190		abandoned rock	ShipiboKonibo	nawɨ		n a w ɨ		None	Loriot1993	§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
 3895	n a w ɨ	190		abandoned rock	ShipiboKonibo	nawɨ		n a w ɨ		None		§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
@@ -4212,8 +4212,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4216	n o n o	218		to swim	Kaxinawa	nono-		n o n o		None		§292	Kn nono-		None
 4217	n ó/o n o	218		to swim	Marinawa	nóno		n ó/o n o		None		§292	M nóno ‘flotar’		None
 4218	r o r o m ( - - )	219		duck	Proto-Panoan	rorom		r o r o m		None	Oliveira2014	§293	*rorom ‘pato’ :		None
-4219	n o n ṍ - ( - - )	219		duck	Kakataibo	nonṍ		n o n ṍ		None		§293	Ksh nonṍ		None
-4220	n o n ṍ - ( - - )	219		duck	ShipiboKonibo	nonṍ		n o n ṍ		None		§293	SK nonṍ		None
+4219	n o n !ṍ/o ~ ( - - )	219		duck	Kakataibo	nonṍ		n o n !ṍ/o ~		None		§293	Ksh nonṍ		None
+4220	n o n !ṍ/o ~ ( - - )	219		duck	ShipiboKonibo	nonṍ		n o n !ṍ/o ~		None		§293	SK nonṍ		None
 4221	n o n ó/o n ( - - )	219		duck	Kapanawa	nonón		n o n ó/o n		None		§293	Kp nonón		None
 4222	n o n o m ( a - )	219		duck	Chakobo	noˈnoma		n o n o m a		None		§293	Ch noˈnoma, noˈno ‘pato’ (ZINGG;; 1998), nonóma		None
 4223	n o n o - ( - - )	219		duck	Chakobo	noˈno		n o n o		None	Zingg1998	§293	Ch noˈnoma, noˈno ‘pato’ (ZINGG;; 1998), nonóma		None
@@ -4227,7 +4227,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4231	n ũ n ũ - ( - - )	219		duck	Poyanawa	nũnũ		n ũ n ũ		None		§293	Poy nũnũ		None
 4232	n õ n õ - ( - - )	219		duck	Amawaka	nõnõ_I		n õ n õ		None		§293	A nõnõ I		None
 4233	n u n u - ( - - )	219		duck	Kaxinawa	nunu		n u n u		None		§293	Kn nunu		None
-4234	n ṍ/õ n ṍ - ( - - )	219		duck	Marinawa	nṍnṍ		n ṍ/õ n ṍ		None		§293	M nṍnṍ		None
+4234	n !ṍ/o ~ !ṍ/o ~ ( - - )	219		duck	Marinawa	nṍnṍ		n !ṍ/o ~ !ṍ/o ~		None		§293	M nṍnṍ		None
 4235	n u n u n ( - - )	219		duck	Yawanawa	nunun		n u n u n		None		§293	Yaw nunun		None
 4236	rⁿ õ - t i	220		canoe	Proto-Panoan	[n]õti		rⁿ õ t i		None	Oliveira2014	§294	*[n]õti ‘canoa’ :		None
 4237	n õ - t i	220		canoe	Kakataibo	nõti		n õ t i		None		§294	Ksh nõti		None
@@ -4335,7 +4335,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4339	- - w i n t i ( - - - )	229		heart	Katukina	winti		w i n t i		None		§301	Kat winti		None
 4340	h o w i - t i ( - - - )	229		heart	Amawaka	howiti		h o w i t i		II		§301	A howiti II		None
 4341	h u - i - t i ( - - - )	229		heart	Kaxinawa	huiti		h u i t i		None		§301	Kn huiti		None
-4342	- !ṍ/õ - i - t i ( - - - )	229		heart	Marinawa	ṍiti		!ṍ/õ i t i		None		§301	M ṍiti		None
+4342	- !ṍ/o ~ i - t i ( - - - )	229		heart	Marinawa	ṍiti		!ṍ/o ~ i t i		None		§301	M ṍiti		None
 4343	- ũ - i ~ t i ( - - - )	229		heart	Yawanawa	ũĩti		ũ i ~ t i		None		§301	Yaw ũĩti		None
 4344	- - w i n t e ( - - - )	229		heart	Korubo	winte		w i n t e		None		§301	Ko winte ‘coração’		None
 4345	- - w i n t e ( - - - )	229		heart	Matis	winte		w i n t e		None		§301	Mt winte ‘coração’		None
@@ -4488,7 +4488,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4492	p a β i - - - ( ɾ i ʃ - - - - - - )	239		hole of ear	Chakobo	paβiɾiʃ		p a β i ɾ i ʃ		None		§310	Ch paβiɾi- ‘mover las orejas para escuchar’, paβiɾiʃ ‘raspar(se) las orejas’, paβismahua ‘mover la oreja’ (ZINGG;; 1998)		None
 4493	p a β i - - - ( - - s m a h u a - )	239		hole of ear	Chakobo	paβismahua		p a β i s m a h u a		None	Zingg1998	§310	Ch paβiɾi- ‘mover las orejas para escuchar’, paβiɾiʃ ‘raspar(se) las orejas’, paβismahua ‘mover la oreja’ (ZINGG;; 1998)		None
 4494	p a ɸ i - k i ( - - - - - - - - - )	239		hole of ear	Sharanawa	paɸiki		p a ɸ i k i		None		§310	Shar paɸiki, paɸikin ‘oreja’		None
-4495	p a ɸ i - k - ( - - - i n - - - - )	239		hole of ear	Sharanawa	paɸikin		p a ɸ i k i n		None		§310	Shar paɸiki, paɸikin ‘oreja’		None
+4495	p a ɸ i - k i ( - - - - n - - - - )	239		hole of ear	Sharanawa	paɸikin		p a ɸ i k i n		None		§310	Shar paɸiki, paɸikin ‘oreja’		None
 4496	p a h i n k i ( - - - - - - - - - )	239		hole of ear	Shanenawa	pahinki		p a h i n k i		None		§310	Shan pahinki		None
 4497	p a β - - - i ( - - - - - - - - - )	239		deaf	Katukina	paβi		p a β i		None		§310	Kat paβi ‘brinco’		None
 4498	p a b ĩ - k i ( - - - - - - - - - )	239		hole of ear	Poyanawa	pabĩki		p a b ĩ k i		None		§310	Poy pabĩki		None
@@ -4595,7 +4595,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4602	p a d ã - ( - )	245		to deceive	Kaxinawa	padã		p a d ã		None		§316	Kn padã		None
 4603	p á/a r ã - ( - )	245		to deceive	Marinawa	párã		p á/a r ã		None		§316	M párã		None
 4604	p a ɽ o ( - - - - - )	246		river	Proto-Panoan	paɽo		p a ɽ o		None	Oliveira2014	§317	*paɽo ‘rio’ :		None
-4605	p a r ṍ/õ ( - p a p a )	246		river	Kakataibo	parṍpapa		p a r ṍ/õ p a p a		None		§317	Ksh parṍpapa ‘río grande;;  mar’		None
+4605	p a r !ṍ/o ( ~ p a p a )	246		river	Kakataibo	parṍpapa		p a r !ṍ/o ~ p a p a		None		§317	Ksh parṍpapa ‘río grande;;  mar’		None
 4606	p a r o ( - - - - - )	246		river	ShipiboKonibo	paro		p a r o		None		§317	SK paro ‘río’		None
 4607	p a r o ( - - - - - )	246		river	Kapanawa	paro		p a r o		None	Loos1998	§317	Kp paro ‘Ucayali’ (LOOS; LOOS;; 1998)		None
 4608	p a r o ( - - - - - )	246		river	Amawaka	paro_I		p a r o		None		§317	A paro I		None
@@ -4645,7 +4645,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4652	p ã t u -	251		deaf	Kaxinawa	pãtu		p ã t u		None		§322	Kn pãtu ‘sem orelha’, **pata ‘sordo’		None
 4653	p a t a -	663		deaf	Kaxinawa	pata		p a t a		None		§322	Kn pãtu ‘sem orelha’, **pata ‘sordo’		1
 4654	p á/a t ó/o -	251		deaf	Marinawa	pátó		p á/a t ó/o		None		§322	M pátó ‘sin oído’		None
-4655	p a n.d u d	251		deaf	Mayoruna	pan.ˈdud		p a n.d u d		None		§322	My pandud [pan.ˈdud] ‘persona o animal sin oreja o sin orejas;;  animal sin cuernos’		None
+4655	p a !n.d/t u d	251		deaf	Mayoruna	pan.ˈdud		p a !n.d/t u d		None		§322	My pandud [pan.ˈdud] ‘persona o animal sin oreja o sin orejas;;  animal sin cuernos’		None
 4656	p a ( - ) j a - - ( - - - )	252		to fan	Proto-Panoan	paya-		p a j a		None	Oliveira2014	§323	*paya- ‘abanar’ :		None
 4657	p a ( - ) j a - - ( - - - )	252		to fan	ShipiboKonibo	paya-		p a j a		None		§323	SK paya- ‘abanicar’		None
 4658	p a ( - ) j a t i ( - - - )	252		to fan	Kapanawa	payati		p a j a t i		None		§323	Kp payati ‘un abanico’		None
@@ -4821,17 +4821,17 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4829	p i ʃ i - ( - - - )	265		mat	Kaxinawa	piʃi		p i ʃ i		None		§335	Kn piʃi;		None
 4830	p !í/i ʃ i - ( - - - )	265		mat	Marinawa	píʃi		p !í/i ʃ i		None		§335	M píʃi		None
 4831	p i ʃ i n ( - - - )	265		mat	Yawanawa	piʃin		p i ʃ i n		None		§335	Yaw piʃin ‘esteira’		None
-4832	p i ( - - ) s t i a -	266		small	Proto-Panoan	pistia		p i s t i a		None	Oliveira2014	§336	*pistia ‘pequeno’ :		None
+4832	( - - - - ) p i s t i a -	266		small	Proto-Panoan	pistia		p i s t i a		None	Oliveira2014	§336	*pistia ‘pequeno’ :		None
 4833	p i ( - - ) ʃ k - á/a -	759		small	Kapanawa	piʃká		p i ʃ k á/a		None		§336	Kp **piʃká ‘pequeño’		1
-4834	p i ( - - ) s t i a -	266		small	Chakobo	pistia		p i s t i a		None		§336	Ch pistia ‘pequeño’		None
-4835	p i ( - - ) s t - ɛ -	266		small	Kaxarari	pisˈtɛ		p i s t ɛ		None	Couto2005	§336	Kax piste [pisˈtɛ] (COUTO;; 2005)		None
-4836	p i ( - - ) ʃ t - a -	266		many	Yaminawa	piʃta		p i ʃ t a		None	Eakin2008	§336	Yam piʃta ‘pequeño;;  poco’ (EAKEN;; 2008)		None
-4837	ɸ a ( k ɨ ) ʂ t - a -	266		small	Sharanawa	ɸakɨʂta		ɸ a k ɨ ʂ t a		None		§336	Shar ɸakɨʂta ‘pequeño;;  chico’		None
-4838	p i ( - - ) ʃ tʃ - a -	266		small	Katukina	piʃtʃa		p i ʃ tʃ a		None		§336	Kat piʃtʃa ‘pequeno’		None
-4839	p i ( - - ) ʃ t - a -	266		small	Amawaka	piʃta		p i ʃ t a		II		§336	A piʃta II ‘pequeño’		None
-4840	p i ( - - ) ʃ t - a -	266		small	Kaxinawa	-piʃta		p i ʃ t a		(por ejemplo, bakɨpíʃta <<niño pequeño>>		§336	Kn -piʃta ‘diminutivo’ (por ejemplo;; bakɨpíʃta <<niño pequeño>>)		None
-4841	ɸ á/a ( k ɨ ) ʃ t - á/a -	266		small	Marinawa	ɸákɨʃtá		ɸ á/a k ɨ ʃ t á/a		None		§336	M ɸákɨʃtá ‘niño pequeño’		None
-4842	p i ( - - ) s ts - ɨ k	266		small	Mayoruna	ˈpis.tsɨk		p i s ts ɨ k		None		§336	My pistsɨk [ˈpis.tsɨk] ‘pequeño;; chico;;  poco’		None
+4834	( - - - - ) p i s t i a -	266		small	Chakobo	pistia		p i s t i a		None		§336	Ch pistia ‘pequeño’		None
+4835	( - - - - ) p i s t - ɛ -	266		small	Kaxarari	pisˈtɛ		p i s t ɛ		None	Couto2005	§336	Kax piste [pisˈtɛ] (COUTO;; 2005)		None
+4836	( - - - - ) p i ʃ t - a -	266		many	Yaminawa	piʃta		p i ʃ t a		None	Eakin2008	§336	Yam piʃta ‘pequeño;;  poco’ (EAKEN;; 2008)		None
+4837	( ɸ a k ɨ ) - - ʂ t - a -	266		small	Sharanawa	ɸakɨʂta		ɸ a k ɨ ʂ t a		None		§336	Shar ɸakɨʂta ‘pequeño;;  chico’		None
+4838	( - - - - ) p i ʃ tʃ - a -	266		small	Katukina	piʃtʃa		p i ʃ tʃ a		None		§336	Kat piʃtʃa ‘pequeno’		None
+4839	( - - - - ) p i ʃ t - a -	266		small	Amawaka	piʃta		p i ʃ t a		II		§336	A piʃta II ‘pequeño’		None
+4840	( - - - - ) p i ʃ t - a -	266		small	Kaxinawa	-piʃta		p i ʃ t a		(por ejemplo, bakɨpíʃta <<niño pequeño>>		§336	Kn -piʃta ‘diminutivo’ (por ejemplo;; bakɨpíʃta <<niño pequeño>>)		None
+4841	( ɸ á/a k ɨ ) - - ʃ t - á/a -	266		small	Marinawa	ɸákɨʃtá		ɸ á/a k ɨ ʃ t á/a		None		§336	M ɸákɨʃtá ‘niño pequeño’		None
+4842	( - - - - ) p i s ts - ɨ k	266		small	Mayoruna	ˈpis.tsɨk		p i s ts ɨ k		None		§336	My pistsɨk [ˈpis.tsɨk] ‘pequeño;; chico;;  poco’		None
 4843	p i t i ( - - - )	267		food	Proto-Panoan	piti		p i t i		None	Oliveira2014	§337	*piti ‘comida (coisa de comer)’ :		None
 4844	p i t i ( - - - )	267		food	Kakataibo	piti		p i t i		None		§337	Ksh piti		None
 4845	p i t i ( - - - )	267		food	ShipiboKonibo	piti		p i t i		None		§337	SK piti ‘alimento de carne’		None
@@ -5163,27 +5163,27 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5171	r a n i ( - - )	290		body hair	Marinawa	rani		r a n i		None		§358	M rani		None
 5172	ɾ a n i ( - - )	290		hair	Yawanawa	ɾaˈni		ɾ a n i		None	Cabral2010	§358	Yaw rani [ɾaˈni] ‘pêlo’ (CABRAL; OLIVEIRA;; 2010)		None
 5173	ʃ a n i ( - - )	290		body hair	Korubo	ʃani		ʃ a n i		None		§358	Ko ʃani ‘pêlo pubiano’		None
-5174	ɽ a rⁿ ( - - - - ) t o ( - ) k o ( - - - )	291		knee	Proto-Panoan	ɽa[n]toko-		ɽ a rⁿ t o k o		None	Oliveira2014	§359	*ɽa[n]toko- ‘joelho’ :		None
-5175	r ã - ( - - - - ) t ũ ( - ) - - ( + t i )	291		knee	Kakataibo	rãtũ-ti		r ã t ũ + t i		None		§359	Ksh rãtũ-ti ‘estar cojo;;  estar mal de las rodillas y no poder andar bien’		None
-5176	r ã - ( - - - - ) t õ ( - ) k o ( - - - )	291		knee	ShipiboKonibo	rãtõko		r ã t õ k o		None		§359	SK rãtõko ‘rótula’, taɨ patṍko ‘tobillo’, **taʔɨ ‘pie’;;  etimologia 436		None
-5177	t a - ( ɨ + p a ) t !ṍ/õ ( - ) k o ( - - - )	291		ankle	ShipiboKonibo	taɨ_patṍko		t a ɨ + p a t !ṍ/õ k o		None		§359	SK rãtõko ‘rótula’, taɨ patṍko ‘tobillo’, **taʔɨ ‘pie’;;  etimologia 436		None
+5174	ɽ a rⁿ ( - - - - ) t o - k o ( - - - )	291		knee	Proto-Panoan	ɽa[n]toko-		ɽ a rⁿ t o k o		None	Oliveira2014	§359	*ɽa[n]toko- ‘joelho’ :		None
+5175	r ã - ( - - - - ) t ũ - - - ( + t i )	291		knee	Kakataibo	rãtũ-ti		r ã t ũ + t i		None		§359	Ksh rãtũ-ti ‘estar cojo;;  estar mal de las rodillas y no poder andar bien’		None
+5176	r ã - ( - - - - ) t õ - k o ( - - - )	291		knee	ShipiboKonibo	rãtõko		r ã t õ k o		None		§359	SK rãtõko ‘rótula’, taɨ patṍko ‘tobillo’, **taʔɨ ‘pie’;;  etimologia 436		None
+5177	t a ɨ ( + - p a ) t !ṍ/o ~ k o ( - - - )	291		ankle	ShipiboKonibo	taɨ_patṍko		t a ɨ + p a t !ṍ/o ~ k o		None		§359	SK rãtõko ‘rótula’, taɨ patṍko ‘tobillo’, **taʔɨ ‘pie’;;  etimologia 436		None
 5178	t a - ( - ) - - ʔ ɨ ( - ) - - ( - - - )	723		knee	ShipiboKonibo	taʔɨ		t a ʔ ɨ		,  etimologia 436		§359	SK rãtõko ‘rótula’, taɨ patṍko ‘tobillo’, **taʔɨ ‘pie’;;  etimologia 436		1
-5179	r a n ( - - - - ) t o ( n ) - - ( - - - )	291		knee	Kapanawa	ranton		r a n t o n		None		§359	Kp ranton ‘tarso (lo que sería la rodilla)’		None
+5179	r a n ( - - - - ) t o n - - ( - - - )	291		knee	Kapanawa	ranton		r a n t o n		None		§359	Kp ranton ‘tarso (lo que sería la rodilla)’		None
 5180	r a - ( - - p o ) t ó/o ( - ) - - ( - - - )	522		knee	Chakobo	rapotó		r a p o t ó/o		None		§359	Ch **rapotó ‘rodilla;; rótula’, **hopotó ‘tobillo’ (ver etimologia 345)		1
 5181	h o - ( - ) p o t !ó/o ( - ) - - ( - - - )	666		ankle	Chakobo	hopotó		h o p o t !ó/o		(ver etimologia 345		§359	Ch **rapotó ‘rodilla;; rótula’, **hopotó ‘tobillo’ (ver etimologia 345)		1
-5182	tʃ ɐ̃ - ( - - b u ) ɾ u ( - ) - - ( - - - )	291		knee	Kaxarari	tʃɐ̃buˈɾu		tʃ ɐ̃ b u ɾ u		None		§359	Kax tʃãburu [tʃɐ̃buˈɾu]		None
-5183	r a - ( - - - - ) t o ( - ) k o ( - - - )	291		knee	Chaninawa	ratoko		r a t o k o		None		§359	Chan ratoko		None
-5184	r a - ( - - - - ) t o ( - ) k o ( - - - )	291		knee	Sharanawa	ratoko		r a t o k o		None		§359	Shar ratoko, ratokonɨn		None
-5185	r a - ( - - - - ) t o ( - ) k o ( n ɨ n )	291		knee	Sharanawa	ratokonɨn		r a t o k o n ɨ n		None		§359	Shar ratoko, ratokonɨn		None
-5186	ɾ a - ( - - - - ) t u ( n ) k u ( - - - )	291		knee	Shanenawa	ɾatunku		ɾ a t u n k u		None		§359	Shan ɾatunku		None
-5187	r ã - ( - - - - ) t u ( h ) k u ( - - - )	291		knee	Poyanawa	rãtuhku		r ã t u h k u		None		§359	Poy rãtuhku		None
-5188	r ã - ( - - - - ) t õ ( - ) k o ( - - - )	291		knee	Amawaka	rãtõko		r ã t õ k o		II		§359	A rãtõko II		None
-5189	d ã - ( - - - - ) t u ( - ) k u ( - - - )	291		knee	Kaxinawa	dãtuku		d ã t u k u		None		§359	Kn dãtuku		None
-5190	r á/a - ( - - - - ) t o ( - ) k o ( - - - )	291		knee	Marinawa	rátoko		r á/a t o k o		None		§359	M rátoko		None
-5191	ɾ a - ( - - - - ) t u ( n ) k u ( - - - )	291		knee	Yawanawa	ɾatunku		ɾ a t u n k u		None		§359	Yaw ɾatunku		None
-5192	ɬ a n ( ɨ ʃ - - ) - - ( - ) - - ( - - - )	291		knee	Korubo	ɬanɨʃ		ɬ a n ɨ ʃ		None		§359	Ko ɬanɨʃ ‘joelho’		None
-5193	d a n ( - - b ɨ ) d u ( - ) - - ( - - - )	291		knee	Matis	danbɨdu		d a n b ɨ d u		None		§359	Mt danbɨdu ‘joelho’		None
-5194	d a n.n ( ɨ ʂ - - ) - - ( - ) - - ( - - - )	291		knee	Mayoruna	dannɨʂ		d a n.n ɨ ʂ		None		§359	My dannɨʂ ‘joelho’		None
+5182	tʃ ɐ̃ - ( - - b u ) ɾ u - - - ( - - - )	291		knee	Kaxarari	tʃɐ̃buˈɾu		tʃ ɐ̃ b u ɾ u		None		§359	Kax tʃãburu [tʃɐ̃buˈɾu]		None
+5183	r a - ( - - - - ) t o - k o ( - - - )	291		knee	Chaninawa	ratoko		r a t o k o		None		§359	Chan ratoko		None
+5184	r a - ( - - - - ) t o - k o ( - - - )	291		knee	Sharanawa	ratoko		r a t o k o		None		§359	Shar ratoko, ratokonɨn		None
+5185	r a - ( - - - - ) t o - k o ( n ɨ n )	291		knee	Sharanawa	ratokonɨn		r a t o k o n ɨ n		None		§359	Shar ratoko, ratokonɨn		None
+5186	ɾ a - ( - - - - ) t u n k u ( - - - )	291		knee	Shanenawa	ɾatunku		ɾ a t u n k u		None		§359	Shan ɾatunku		None
+5187	r ã - ( - - - - ) t u h k u ( - - - )	291		knee	Poyanawa	rãtuhku		r ã t u h k u		None		§359	Poy rãtuhku		None
+5188	r ã - ( - - - - ) t õ - k o ( - - - )	291		knee	Amawaka	rãtõko		r ã t õ k o		II		§359	A rãtõko II		None
+5189	d ã - ( - - - - ) t u - k u ( - - - )	291		knee	Kaxinawa	dãtuku		d ã t u k u		None		§359	Kn dãtuku		None
+5190	r á/a - ( - - - - ) t o - k o ( - - - )	291		knee	Marinawa	rátoko		r á/a t o k o		None		§359	M rátoko		None
+5191	ɾ a - ( - - - - ) t u n k u ( - - - )	291		knee	Yawanawa	ɾatunku		ɾ a t u n k u		None		§359	Yaw ɾatunku		None
+5192	ɬ a n ( ɨ ʃ - - ) - - - - - ( - - - )	291		knee	Korubo	ɬanɨʃ		ɬ a n ɨ ʃ		None		§359	Ko ɬanɨʃ ‘joelho’		None
+5193	d a n ( - - b ɨ ) d u - - - ( - - - )	291		knee	Matis	danbɨdu		d a n b ɨ d u		None		§359	Mt danbɨdu ‘joelho’		None
+5194	d a n.n ( ɨ ʂ - - ) - - - - - ( - - - )	291		knee	Mayoruna	dannɨʂ		d a n.n ɨ ʂ		None		§359	My dannɨʂ ‘joelho’		None
 5195	ɽ ɨ ʔ t ɨ ( - )	293		to kill	Proto-Panoan	ɽɨʔtɨ-		ɽ ɨ ʔ t ɨ		None	Oliveira2014	§360	*ɽɨʔtɨ- ‘matar’ :		None
 5196	r ɨ - - - ( - )	293		to kill	Kakataibo	rɨ-		r ɨ		None		§360	Ksh rɨ- ‘derribar;; echar por tierra;; matar’		None
 5197	r ɨ - t ɨ ( - )	293		to kill	ShipiboKonibo	rɨtɨ-		r ɨ t ɨ		None		§360	SK rɨtɨ-		None
@@ -5221,7 +5221,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5229	( - - - - - ) ɾ ɨ h ʊ ( - - - - - - )	294		tip, headwaters of river	Yawanawa	[ɾɨˈhʊ]		ɾ ɨ h ʊ		None	Cabral2010	§361	Yaw [ɾɨˈhʊ] ‘ponta’ (CABRAL; OLIVEIRA;; 2010)		None
 5230	( - - - - - ) d ɨ b u ( m i - - - - )	294		tip, headwaters of river	Matis	dɨbumi		d ɨ b u m i		None		§361	Mt dɨbumi ‘em direção à cabeceira do rio’		None
 5231	ɽ ɨ β o ( + ) k i ( - - - - - )	295		in front of, above the river	Proto-Panoan	ɽɨβo+ki		ɽ ɨ β o + k i		None	Oliveira2014	§362	*ɽɨβo+ki ‘para frente;;  para cima (no rio)’ :		None
-5232	r ɨ β o ( - ) m i ( - - - - - )	295		in front of, above the river	Kakataibo	rɨβomi		r ɨ β o m i		None		§362	Ksh rɨβomi		None
+5232	r ɨ β o ( - ) - - ( m i - - - )	295		in front of, above the river	Kakataibo	rɨβomi		r ɨ β o m i		None		§362	Ksh rɨβomi		None
 5233	r ɨ β o ( - ) k i ( - - - - - )	295		in front of, above the river	ShipiboKonibo	rɨβoki		r ɨ β o k i		None		§362	SK rɨβoki		None
 5234	r ɨ β o ( - ) k i ( - - - - - )	295		in front of, above the river	Kapanawa	rɨβoki		r ɨ β o k i		None		§362	Kp rɨβoki		None
 5235	m a d a ( - ) k i r i ( - - - - )	719		in front of, above the river	Chaninawa	madakiri		m a d a k i r i		None		§362	Chan **madakiri, **manakiri ‘águas arriba’		1
@@ -5233,7 +5233,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5241	r ɨ w o ( - ) k i ( - - - - - )	295		in front of, above the river	Amawaka	rɨwoki		r ɨ w o k i		II		§362	A rɨwoki II		None
 5242	m ã n ã ( - ) k i r i ( - - - - )	720		in front of, above the river	Kaxinawa	mãnãkiri		m ã n ã k i r i		None		§362	Kn **mãnãkiri		1
 5243	m !ã́/ã n ã ( - ) k !í/i r !í/i ( - - - - )	721		in front of, above the river	Marinawa	mã́nãkírí		m !ã́/ã n ã k !í/i r !í/i		etimologia 215		§362	M **mã́nãkírí (etimologia 215)		1
-5244	d ɨ b u ( - ) m i ( - - - - - )	295		tip, headwaters of river	Matis	dɨbumi		d ɨ b u m i		None		§362	Mt dɨbumi ‘em direção à cabeceira do rio’		None
+5244	d ɨ b u ( - ) - - ( m i - - - )	295		tip, headwaters of river	Matis	dɨbumi		d ɨ b u m i		None		§362	Mt dɨbumi ‘em direção à cabeceira do rio’		None
 5245	ɽ ɨ ( - - - + ) k i n i ( - - - )	296		nose hole, nostril	Proto-Panoan	ɽɨ+kini		ɽ ɨ + k i n i		None	Oliveira2014	§363	*ɽɨ+kini ‘buraco do nariz;;  narina’ :		None
 5246	r ɨ ( - - - - ) k !í/i - - ( - - - )	296		nose hole, nostril	Kakataibo	rɨkí		r ɨ k !í/i		None		§363	Ksh rɨkí		None
 5247	r ɨ ( - - - - ) k !í/i - - ( - - - )	296		nose hole, nostril	ShipiboKonibo	rɨkí		r ɨ k !í/i		None		§363	SK rɨkí		None
@@ -5406,7 +5406,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5414	r o m ɨ ( - )	308		tobacco	Kakataibo	romɨ		r o m ɨ		None		§374	Ksh romɨ		None
 5415	r o m ɨ ( - )	308		tobacco	ShipiboKonibo	romɨ		r o m ɨ		None		§374	SK romɨ		None
 5416	r o m ɨ ( - )	308		tobacco	Kapanawa	romɨ		r o m ɨ		None		§374	Kp romɨ		None
-5417	r u m.b ɨ ( - )	308		tobacco	Marubo	ˈrumbɨ		r u m.b ɨ		None	Anonby2010	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
+5417	r u !m.b/m ɨ ( - )	308		tobacco	Marubo	ˈrumbɨ		r u !m.b/m ɨ		None	Anonby2010	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
 5418	r o m ɨ ( - )	308		tobacco	Marubo	romɨ		r o m ɨ		None	Cesarino2008	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
 5419	ɾ ũ m ɯ ( - )	308		tobacco	Marubo	ɾū̃mɯ]̆		ɾ ũ m ɯ		None	Costa1992	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
 5420	r o m ɨ ( - )	308		tobacco	Chakobo	romɨ		r o m ɨ		None		§374	Ch romɨ		None
@@ -5540,7 +5540,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5548	ʃ i ʂ ( - - a - - k e t e )	319		chest (body-part prefix)	Matis	ʃiʂakete		ʃ i ʂ a k e t e		None		§384	Mt ʃiʂakete ‘pêlo peitoral’		None
 5549	ʃ i k ( + d i a d k i d - )	319		chest (body-part prefix)	Mayoruna	ʃik-_diadkid		ʃ i k + d i a d k i d		None		§384	My ʃik- diadkid ‘pecho’		None
 5550	ʃ i ( - ) k o rⁿ	320		species of plant	Proto-Panoan	ʃiko[n]		ʃ i k o rⁿ		None	Oliveira2014	§385	*ʃiko[n] ‘esp. de planta’ :		None
-5551	ʃ i ( - ) k ṍ -	320		species of plant	Kakataibo	ʃikṍ		ʃ i k ṍ		None		§385	Ksh ʃikṍ ‘plátano dulce’		None
+5551	ʃ i ( - ) k !ṍ/o ~	320		species of plant	Kakataibo	ʃikṍ		ʃ i k !ṍ/o ~		None		§385	Ksh ʃikṍ ‘plátano dulce’		None
 5552	ʃ i ( n ) k o n	320		species of plant	Kapanawa	ʃinkon		ʃ i n k o n		None	Loos1998	§385	Kp ʃinkon ‘plátano común’ (LOOS; LOOS;; 1998)		None
 5553	ʃ i ( - ) k o -	320		species of plant	Amawaka	ʃikoI		ʃ i k o		None		§385	A ʃikoI		None
 5554	ʃ i ( - ) k u -	320		species of plant	Kaxinawa	ʃiku		ʃ i k u		None		§385	Kn ʃiku		None
@@ -5845,7 +5845,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5853	( ʂ ɨ k i t o ) ʂ ɨ - m ɨ ( i )	344		to thresh the corn	Marinawa	ʂɨkitoʂɨmɨi		ʂ ɨ k i t o ʂ ɨ m ɨ i		None		§406	M ʂɨkitoʂɨmɨi		None
 5854	ʂ ɨ β o rⁿ	345		species of palm	Proto-Panoan	ʂɨβo[n]		ʂ ɨ β o rⁿ		None	Oliveira2014	§407	*ʂɨβo[n] ‘esp. de palmeira’ :		None
 5855	ʂ ɨ β i n	345		species of palm	Kakataibo	ʂɨβin		ʂ ɨ β i n		None		§407	Ksh ʂɨβin ‘esp. de palmera’ (SHELL;; 1987)’		None
-5856	ʂ ɨ β ṍ -	345		species of palm	ShipiboKonibo	ʂɨβṍ		ʂ ɨ β ṍ		None		§407	SK ʂɨβṍ		None
+5856	ʂ ɨ β !ṍ/o ~	345		species of palm	ShipiboKonibo	ʂɨβṍ		ʂ ɨ β !ṍ/o ~		None		§407	SK ʂɨβṍ		None
 5857	ʂ ɨ β ó/o n	345		species of palm	Kapanawa	ʂɨβón		ʂ ɨ β ó/o n		None		§407	Kp ʂɨβón		None
 5858	ʂ ɨ ɸ o -	345		species of palm	Sharanawa	ʂɨɸo		ʂ ɨ ɸ o		None		§407	Shar ʂɨɸo, ʂɨɸon ‘shapaja (esp. de árbol)’		None
 5859	ʂ ɨ ɸ o n	345		species of palm	Sharanawa	ʂɨɸon		ʂ ɨ ɸ o n		None		§407	Shar ʂɨɸo, ʂɨɸon ‘shapaja (esp. de árbol)’		None
@@ -6209,7 +6209,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 6217	ʂ o p a - ( - )	372		papaya	Sharanawa	ʂopa		ʂ o p a		None		§431	Shar ʂopa, ʂopan ‘papaya’		None
 6218	ʂ o p a - ( n )	372		papaya	Sharanawa	ʂopan		ʂ o p a n		None		§431	Shar ʂopa, ʂopan ‘papaya’		None
 6219	s u p a - ( - )	372		papaya	Shanenawa	supa		s u p a		None		§431	Shan supa ‘mamão’		None
-6220	ʂ ũ m.b a - ( - )	372		papaya	Katukina	ʂũmˈba		ʂ ũ m.b a		None	Barros1987	§431	Kat ʂũpa [ʂũmˈba] ‘mamão’ (BARROS;; 1987)		None
+6220	ʂ ũ !m.b/p a - ( - )	372		papaya	Katukina	ʂũmˈba		ʂ ũ !m.b/p a		None	Barros1987	§431	Kat ʂũpa [ʂũmˈba] ‘mamão’ (BARROS;; 1987)		None
 6221	x o p ã - ( - )	372		papaya	Amawaka	xopã		x o p ã		II		§431	A xopã II ‘clase de calabaza comestible’		None
 6222	ʂ u p ã - ( - )	372		papaya	Kaxinawa	ʂupã		ʂ u p ã		None		§431	Kn ʂupã		None
 6223	ʂ o p a - ( - )	372		papaya	Marinawa	ʂopa		ʂ o p a		None		§431	M ʂopa		None
@@ -6407,8 +6407,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 6415	t a p u ( - )	385		bridge, platform	Yawanawa	tapu		t a p u		None		§443	Yaw tapu ‘ponte’		None
 6416	t a p u ( - )	385		bridge, platform	Mayoruna	tapu		t a p u		None		§443	My tapu ‘barbacoa (para ahumar carne);; plataforma para esperar animales;; plataforma para cortar árboles arriba de sus aletas;; puente’		None
 6417	t a p o n ( - - - - )	386		root	Proto-Panoan	tapon		t a p o n		None	Oliveira2014	§444	*tapon ‘raiz’ :		None
-6418	t a p ṍ - ( - - - - )	386		root	Kakataibo	tapṍ		t a p ṍ		None		§444	Ksh tapṍ		None
-6419	t a p ṍ - ( - - - - )	386		root	ShipiboKonibo	tapṍ		t a p ṍ		None		§444	SK tapṍ		None
+6418	t a p !ṍ/o ~ ( - - - - )	386		root	Kakataibo	tapṍ		t a p !ṍ/o ~		None		§444	Ksh tapṍ		None
+6419	t a p !ṍ/o ~ ( - - - - )	386		root	ShipiboKonibo	tapṍ		t a p !ṍ/o ~		None		§444	SK tapṍ		None
 6420	t a p ó/o n ( - - - - )	386		root	Kapanawa	tapón		t a p ó/o n		None		§444	Kp tapón		None
 6421	t a p u n ( - - - - )	386		root	Marubo	taˈpun		t a p u n		None		§444	Mar taˈpun		None
 6422	t a p ó/o n ( o - - - )	386		root	Chakobo	tapóno		t a p ó/o n o		None		§444	Ch tapóno		None
@@ -6559,21 +6559,21 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 6567	t ɨ t ɨ - ( - - - - )	399		species of hawk	Kaxinawa	tɨtɨ		t ɨ t ɨ		None		§456	Kn tɨtɨ		None
 6568	t !ɨ́/ɨ t !ɨ́/ɨ - ( - - - - )	399		species of hawk	Marinawa	tɨ́t́_ɨ́́		t !ɨ́/ɨ t !ɨ́/ɨ		None		§456	M tɨ́t́ ɨ́́		None
 6569	tʃ i k i - - ( - + t e k + t e k )	614		species of hawk	Mayoruna	tʃiki_tek_tek		tʃ i k i + t e k + t e k		None		§456	My **tʃiki tek tek		1
-6570	t ɨ - t o rⁿ ( - - - )	400		adam's apple	Proto-Panoan	tɨto[n]		t ɨ t o rⁿ		None	Oliveira2014	§457	*tɨto[n] ‘pomo de adão’ :		None
-6571	t ɨ - t ṍ - ( - - - )	400		adam's apple	Kakataibo	tɨtṍ		t ɨ t ṍ		None		§457	Ksh tɨtṍ		None
-6572	t ɨ - t ṍ - ( - - - )	400		adam's apple	ShipiboKonibo	tɨtṍ		t ɨ t ṍ		None		§457	SK tɨtṍ		None
-6573	t ɨ - t !ó/o n ( - - - )	400		adam's apple	Kapanawa	tɨtón		t ɨ t !ó/o n		None		§457	Kp tɨtón		None
-6574	t ə̃ - t o - ( - - - )	400		adam's apple	Marubo	tə̃ˈto		t ə̃ t o		None	Cabral2010	§457	Mar tɨ̃to [tə̃ˈto] ~ [tə̃ˈtʊ] (CABRAL; OLIVEIRA;; 2010)		None
-6575	t ɨ - t o - ( - - - )	400		adam's apple	Chakobo	tɨto		t ɨ t o		None		§457	Ch tɨto ‘manzana de Adán’		None
+6570	t ɨ ( - ) t o rⁿ ( - - - )	400		adam's apple	Proto-Panoan	tɨto[n]		t ɨ t o rⁿ		None	Oliveira2014	§457	*tɨto[n] ‘pomo de adão’ :		None
+6571	t ɨ ( - ) t !ṍ/o ~ ( - - - )	400		adam's apple	Kakataibo	tɨtṍ		t ɨ t !ṍ/o ~		None		§457	Ksh tɨtṍ		None
+6572	t ɨ ( - ) t !ṍ/o ~ ( - - - )	400		adam's apple	ShipiboKonibo	tɨtṍ		t ɨ t !ṍ/o ~		None		§457	SK tɨtṍ		None
+6573	t ɨ ( - ) t !ó/o n ( - - - )	400		adam's apple	Kapanawa	tɨtón		t ɨ t !ó/o n		None		§457	Kp tɨtón		None
+6574	t ə̃ ( - ) t o - ( - - - )	400		adam's apple	Marubo	tə̃ˈto		t ə̃ t o		None	Cabral2010	§457	Mar tɨ̃to [tə̃ˈto] ~ [tə̃ˈtʊ] (CABRAL; OLIVEIRA;; 2010)		None
+6575	t ɨ ( - ) t o - ( - - - )	400		adam's apple	Chakobo	tɨto		t ɨ t o		None		§457	Ch tɨto ‘manzana de Adán’		None
 6576	t ɨ ( - ) - - ( b u ) ɾ ( u )	537		adam's apple	Kaxarari	tɨbuˈɾu		t ɨ b u ɾ u		None	Valenzuela2012	§457	Kax **tɨburu [tɨbuˈɾu] (VALENZUELA; OLIVEIRA;; 2012)		1
-6577	t ɨ - t o - ( k o - )	400		adam's apple	Sharanawa	tɨtoko		t ɨ t o k o		None		§457	Shar tɨtoko, tɨtokon ‘nuez de la garganta;;  manzana de Adán’		None
-6578	t ɨ - t o - ( k o n )	400		adam's apple	Sharanawa	tɨtokon		t ɨ t o k o n		None		§457	Shar tɨtoko, tɨtokon ‘nuez de la garganta;;  manzana de Adán’		None
-6579	t ɨ - t õ - ( - - - )	400		adam's apple	Amawaka	tɨtõ		t ɨ t õ		II		§457	A tɨtõ II ‘esófago’, tɨ́́ʃpí		None
+6577	t ɨ ( - ) t o - ( k o - )	400		adam's apple	Sharanawa	tɨtoko		t ɨ t o k o		None		§457	Shar tɨtoko, tɨtokon ‘nuez de la garganta;;  manzana de Adán’		None
+6578	t ɨ ( - ) t o - ( k o n )	400		adam's apple	Sharanawa	tɨtokon		t ɨ t o k o n		None		§457	Shar tɨtoko, tɨtokon ‘nuez de la garganta;;  manzana de Adán’		None
+6579	t ɨ ( - ) t õ - ( - - - )	400		adam's apple	Amawaka	tɨtõ		t ɨ t õ		II		§457	A tɨtõ II ‘esófago’, tɨ́́ʃpí		None
 6580	t !ɨ́/ɨ ( ʃ ) - - ( p !í/i ) - ( - )	809		adam's apple	Amawaka	tɨ́́ʃpí		t !ɨ́/ɨ ʃ p !í/i		None		§457	A tɨtõ II ‘esófago’, tɨ́́ʃpí		None
-6581	t ɨ - t u - ( k u - )	400		adam's apple	Kaxinawa	tɨtuku		t ɨ t u k u		None		§457	Kn tɨtuku ‘manzana de adán’		None
-6582	t !ɨ́/ɨ s t õ - ( - - - )	400		adam's apple	Marinawa	tɨ́ś_tõ		t !ɨ́/ɨ s t õ		None		§457	M tɨ́ś tõ		None
-6583	t ɨ k t u n ( - - - )	400		neck	Korubo	tɨktun		t ɨ k t u n		None		§457	Ko tɨktun ‘pescoço’		None
-6584	t ɨ - t u n ( - - - )	400		neck	Matis	tɨtun		t ɨ t u n		None		§457	Mt tɨtun ‘pescoço’		None
+6581	t ɨ ( - ) t u - ( k u - )	400		adam's apple	Kaxinawa	tɨtuku		t ɨ t u k u		None		§457	Kn tɨtuku ‘manzana de adán’		None
+6582	t !ɨ́/ɨ ( s ) t õ - ( - - - )	400		adam's apple	Marinawa	tɨ́ś_tõ		t !ɨ́/ɨ s t õ		None		§457	M tɨ́ś tõ		None
+6583	t ɨ ( k ) t u n ( - - - )	400		neck	Korubo	tɨktun		t ɨ k t u n		None		§457	Ko tɨktun ‘pescoço’		None
+6584	t ɨ ( - ) t u n ( - - - )	400		neck	Matis	tɨtun		t ɨ t u n		None		§457	Mt tɨtun ‘pescoço’		None
 6585	t ɨ ( - ) - o ( - - ) n ( - )	671		adam's apple	Mayoruna	tɨon		t ɨ o n		None		§457	My **tɨon ‘manzana de Adán’		1
 6586	t i	401		nominalizer for instruments	Proto-Panoan	-ti		t i		None	Oliveira2014	§458	*-ti ‘nominalizador de instrumento’ :		None
 6587	t i	401		nominalizer for instruments	Kakataibo	-ti		t i		None		§458	Ksh -ti		None
@@ -6786,8 +6786,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 6794	w a s ( - ) i ( n )	419		grass	Mayoruna	waˈsin		w a s i n		None		§474	My uasin [waˈsin] ‘pasto;;  hierba’, uesin [weˈsin] ‘hierba;;  pasto (pronúncia alternativa)’		None
 6795	w e s ( - ) i ( n )	419		grass	Mayoruna	weˈsin		w e s i n		None		§474	My uasin [waˈsin] ‘pasto;;  hierba’, uesin [weˈsin] ‘hierba;;  pasto (pronúncia alternativa)’		None
 6796	w a s rⁿ o rⁿ ( - )	420		spider web	Proto-Panoan	was[n]o[n]		w a s rⁿ o rⁿ		None	Oliveira2014	§475	*was[n]o[n] ‘teia de aranha’ :		None
-6797	β a s k ṍ - -	594		spider web	Kakataibo	βaskṍ		β a s k ṍ		None		§475	Ksh **βaskṍ ‘telaraña’		1
-6798	w a s n ṍ - ( - )	420		spider web	ShipiboKonibo	wasnṍ		w a s n ṍ		None		§475	SK wasnṍ ‘telaraña’		None
+6797	β a s k !ṍ/o ~	594		spider web	Kakataibo	βaskṍ		β a s k !ṍ/o ~		None		§475	Ksh **βaskṍ ‘telaraña’		1
+6798	w a s n !ṍ/o ~ ( - )	420		spider web	ShipiboKonibo	wasnṍ		w a s n !ṍ/o ~		None		§475	SK wasnṍ ‘telaraña’		None
 6799	w a s n õ - ( - )	420		species of spider	Marubo	wasnõ		w a s n õ		None	Cesarino2008	§475	Mar wasnõ ‘aranha’ (CESARINO;; 2008)		None
 6800	β a s n o n ( a )	420		spider web	Chakobo	βasnona		β a s n o n a		None		§475	Ch βasnona		None
 6801	w a s n õ - ( - )	420		spider web	Amawaka	wasnõ		w a s n õ		None		§475	A wasnõ ‘araña;;  telaraña’		None
@@ -6927,7 +6927,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 6935	( - - - - - ) - i p o k o	434		calf	Kakataibo	ipoko		i p o k o		None		§487	Ksh ipoko		None
 6936	( - - - - - ) w i p o k o	434		calf	ShipiboKonibo	wipoko		w i p o k o		None		§487	SK wipoko		None
 6937	( - - - - - ) w i p o k o	434		cinnamon, lower part of leg	Chakobo	wipoko		w i p o k o		None		§487	Ch wipoko ‘pantorrilla’, honí-wíko ‘pierna de hombre’		None
-6938	( h o n !í/i + ) w !í/i - - k o	434		calf	Chakobo	honí-wíko		h o n !í/i + w !í/i k o		None		§487	Ch wipoko ‘pantorrilla’, honí-wíko ‘pierna de hombre’		None
+6938	( h o n !í/i + ) w !í/i - - k o	811		calf	Chakobo	honí-wíko		h o n !í/i + w !í/i k o		None		§487	Ch wipoko ‘pantorrilla’, honí-wíko ‘pierna de hombre’		None
 6939	( - - - - - ) w i p o k o	434		calf	Amawaka	wipoko		w i p o k o		II		§487	A wipoko II		None
 6940	( - - - - - ) w i p u k u	434		cinnamon, lower part of leg	Matis	wipuku		w i p u k u		None		§487	Mt wipuku ‘perna’		None
 6941	w i s o	435		black	Proto-Panoan	wiso		w i s o		None	Oliveira2014	§488	*wiso ‘negro’ :		None
@@ -7074,7 +7074,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 7082	j ã t a n	445		afternoon	Proto-Panoan	yãtan		j ã t a n		None	Oliveira2014	§497	*yãtan ‘tarde’ :		None
 7083	- a t !ã́/ã -	445		afternoon	Kakataibo	atã́		a t !ã́/ã		None		§497	Ksh atã́		None
 7084	j ã t !ã́/ã -	445		afternoon	ShipiboKonibo	yãtã́		j ã t !ã́/ã		None		§497	SK yãtã́		None
-7085	j a n.t !á/a n	445		afternoon	Kapanawa	yantán		j a n.t !á/a n		None		§497	Kp yantán		None
+7085	j a !n.t/t !á/a n	445		afternoon	Kapanawa	yantán		j a !n.t/t !á/a n		None		§497	Kp yantán		None
 7086	j !á/a t a -	445		afternoon	Chakobo	yáta		j !á/a t a		None		§497	Ch yáta		None
 7087	l ə t ə -	648		day	Kaxarari	ləˈtə		l ə t ə		None	Couto2005	§497	Kax **lɨtɨ [ləˈtə] ‘dia’ (COUTO;; 2005)		1
 7088	j ã t a -	445		afternoon	Yaminawa	yãta		j ã t a		None		§497	Yam yãta ‘tarde’		None
