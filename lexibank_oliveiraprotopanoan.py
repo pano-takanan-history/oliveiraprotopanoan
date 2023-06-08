@@ -171,7 +171,7 @@ class Dataset(BaseDataset):
                 Segments=tokens,
                 Source=source,
                 Cognacy=cogid,
-                Alignment=alignment,
+                Alignment=" ".join(alignment),
                 Morphemes=morphemes,
                 Comment=comment,
                 ProtoSet=proto_set,
