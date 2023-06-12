@@ -20,26 +20,26 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
-![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
+![BIPA: 77%](https://img.shields.io/badge/BIPA-77%25-yellow.svg "BIPA: 77%")
+![CLTS SoundClass: 77%](https://img.shields.io/badge/CLTS%20SoundClass-77%25-yellow.svg "CLTS SoundClass: 77%")
 
 - **Varieties:** 20
 - **Concepts:** 466
-- **Lexemes:** 7,307
+- **Lexemes:** 7,306
 - **Sources:** 43
 - **Synonymy:** 1.23
-- **Cognacy:** 7,307 cognates in 813 cognate sets (295 singletons)
+- **Cognacy:** 7,306 cognates in 816 cognate sets (298 singletons)
 - **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
-- **Tokens:** 31,828
-- **Segments:** 139 (13 BIPA errors, 13 CLTS sound class errors, 126 CLTS modified)
-- **Inventory size (avg):** 36.25
+- **Tokens:** 31,680
+- **Segments:** 184 (43 BIPA errors, 43 CLTS sound class errors, 141 CLTS modified)
+- **Inventory size (avg):** 41.95
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 5893/7307 (80.65%)
+- Entries missing sources: 5892/7306 (80.65%)
 
 # Contributors
 
