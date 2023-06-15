@@ -17,6 +17,7 @@ setup(
     },
     install_requires=[
         "pylexibank>=3.0.0",
+        "pyedictor",
     ],
     extras_require={
         'test': [
