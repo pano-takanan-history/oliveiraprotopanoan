@@ -6,6 +6,8 @@ with open("metadata.json", encoding="utf-8") as fp:
 
 setup(
     name='lexibank_oliveiraprotopanoan',
+    description=metadata["title"],
+    license=metadata.get("license", ""),
     py_modules=['lexibank_oliveiraprotopanoan'],
     include_package_data=True,
     url=metadata.get("url",""),
@@ -17,10 +19,7 @@ setup(
     },
     install_requires=[
         "pylexibank>=3.0.0",
-        "cldfbench==1.13.0",
-        "pycldf==1.29.0",
-        "csvw==3.1.3",
-        "pyconcepticon==3.0.0",
+        "pyedictor",
     ],
     extras_require={
         'test': [
