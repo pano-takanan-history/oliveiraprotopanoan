@@ -2,10 +2,10 @@
     "by_language": {
         "Amawaka": {
             "bipa_errors": [
-                "a.n",
                 "~",
-                "i.n",
+                "a.n",
                 "\u0268.n",
+                "i.n",
                 "!\u00ed/i.n"
             ],
             "general_errors": 13,
@@ -435,10 +435,10 @@
                 ]
             },
             "sclass_errors": [
-                "a.n",
                 "~",
-                "i.n",
+                "a.n",
                 "\u0268.n",
+                "i.n",
                 "!\u00ed/i.n"
             ],
             "segments": {
@@ -495,13 +495,13 @@
         },
         "Chakobo": {
             "bipa_errors": [
-                "!i/i.n",
-                "a.n",
+                "!\u0268/\u0268.n",
                 "\u00e1/a.n",
+                "a.n",
+                "\u0268.n",
+                "!i/i.n",
                 "i.n",
                 "!a/a.n",
-                "!\u0268/\u0268.n",
-                "\u0268.n",
                 "!\u00ed/i.n"
             ],
             "general_errors": 16,
@@ -931,13 +931,13 @@
                 ]
             },
             "sclass_errors": [
-                "!i/i.n",
-                "a.n",
+                "!\u0268/\u0268.n",
                 "\u00e1/a.n",
+                "a.n",
+                "\u0268.n",
+                "!i/i.n",
                 "i.n",
                 "!a/a.n",
-                "!\u0268/\u0268.n",
-                "\u0268.n",
                 "!\u00ed/i.n"
             ],
             "segments": {
@@ -1457,8 +1457,8 @@
         },
         "Kakataibo": {
             "bipa_errors": [
-                "i.n",
-                "~"
+                "~",
+                "i.n"
             ],
             "general_errors": 15,
             "replacements": {
@@ -1887,8 +1887,8 @@
                 ]
             },
             "sclass_errors": [
-                "i.n",
-                "~"
+                "~",
+                "i.n"
             ],
             "segments": {
                 "!i/\u0129": 1,
@@ -1950,14 +1950,14 @@
         "Kapanawa": {
             "bipa_errors": [
                 "o.m",
-                "!\u0268\u0301/\u0268.n",
-                "a.n",
-                "\u00e1/a.n",
-                "i.n",
                 "~",
+                "\u00e1/a.n",
+                "a.n",
                 "\u0268.n",
-                "!\u00ed/i.n",
-                "\u00f3/o.n"
+                "\u00f3/o.n",
+                "i.n",
+                "!\u0268\u0301/\u0268.n",
+                "!\u00ed/i.n"
             ],
             "general_errors": 20,
             "replacements": {
@@ -2387,14 +2387,14 @@
             },
             "sclass_errors": [
                 "o.m",
-                "!\u0268\u0301/\u0268.n",
-                "a.n",
-                "\u00e1/a.n",
-                "i.n",
                 "~",
+                "\u00e1/a.n",
+                "a.n",
                 "\u0268.n",
-                "!\u00ed/i.n",
-                "\u00f3/o.n"
+                "\u00f3/o.n",
+                "i.n",
+                "!\u0268\u0301/\u0268.n",
+                "!\u00ed/i.n"
             ],
             "segments": {
                 "!/\u0294": 1,
@@ -2446,13 +2446,13 @@
         },
         "Katukina": {
             "bipa_errors": [
-                "!i/i.n",
                 "n.dz",
                 "a.n",
-                "i.n",
+                "\u0268.n",
                 "n.t\u0283",
                 "n.n",
-                "\u0268.n"
+                "!i/i.n",
+                "i.n"
             ],
             "general_errors": 14,
             "replacements": {
@@ -2881,13 +2881,13 @@
                 ]
             },
             "sclass_errors": [
-                "!i/i.n",
                 "n.dz",
                 "a.n",
-                "i.n",
+                "\u0268.n",
                 "n.t\u0283",
                 "n.n",
-                "\u0268.n"
+                "!i/i.n",
+                "i.n"
             ],
             "segments": {
                 "!i/i.n": 1,
@@ -2937,9 +2937,9 @@
         },
         "Kaxarari": {
             "bipa_errors": [
+                "n.j",
                 "a.n",
-                "a.l",
-                "n.j"
+                "a.l"
             ],
             "general_errors": 3,
             "replacements": {
@@ -3368,9 +3368,9 @@
                 ]
             },
             "sclass_errors": [
+                "n.j",
                 "a.n",
-                "a.l",
-                "n.j"
+                "a.l"
             ],
             "segments": {
                 "!\u00e3/\u0268": 1,
@@ -3900,13 +3900,13 @@
         },
         "Korubo": {
             "bipa_errors": [
-                "a.n",
-                "i.n",
-                "o.n",
-                "m.p",
-                "n.t",
                 "u.n",
-                "\u0268.n"
+                "a.n",
+                "\u0268.n",
+                "i.n",
+                "m.p",
+                "o.n",
+                "n.t"
             ],
             "general_errors": 8,
             "replacements": {
@@ -4335,13 +4335,13 @@
                 ]
             },
             "sclass_errors": [
-                "a.n",
-                "i.n",
-                "o.n",
-                "m.p",
-                "n.t",
                 "u.n",
-                "\u0268.n"
+                "a.n",
+                "\u0268.n",
+                "i.n",
+                "m.p",
+                "o.n",
+                "n.t"
             ],
             "segments": {
                 "+": 6,
@@ -4382,9 +4382,9 @@
         },
         "Marinawa": {
             "bipa_errors": [
-                "\u0268.n",
                 "~",
-                "s.s"
+                "s.s",
+                "\u0268.n"
             ],
             "general_errors": 11,
             "replacements": {
@@ -4813,9 +4813,9 @@
                 ]
             },
             "sclass_errors": [
-                "\u0268.n",
                 "~",
-                "s.s"
+                "s.s",
+                "\u0268.n"
             ],
             "segments": {
                 "!/\u0294": 1,
@@ -5370,14 +5370,14 @@
         },
         "Matis": {
             "bipa_errors": [
-                "a.n",
-                "!/u.m",
-                "i.n",
-                "o.n",
                 "u.m",
-                "n.d",
                 "u.n",
-                "\u0268.n"
+                "a.n",
+                "\u0268.n",
+                "n.d",
+                "i.n",
+                "!/u.m",
+                "o.n"
             ],
             "general_errors": 8,
             "replacements": {
@@ -5806,14 +5806,14 @@
                 ]
             },
             "sclass_errors": [
-                "a.n",
-                "!/u.m",
-                "i.n",
-                "o.n",
                 "u.m",
-                "n.d",
                 "u.n",
-                "\u0268.n"
+                "a.n",
+                "\u0268.n",
+                "n.d",
+                "i.n",
+                "!/u.m",
+                "o.n"
             ],
             "segments": {
                 "!/a": 1,
@@ -5853,14 +5853,14 @@
         },
         "Mayoruna": {
             "bipa_errors": [
-                "a.n",
-                "k.k",
-                "i.n",
-                "o.n",
                 "u.m",
-                "n.n",
                 "u.n",
-                "\u0268.n"
+                "a.n",
+                "\u0268.n",
+                "n.n",
+                "i.n",
+                "k.k",
+                "o.n"
             ],
             "general_errors": 11,
             "replacements": {
@@ -6289,14 +6289,14 @@
                 ]
             },
             "sclass_errors": [
-                "a.n",
-                "k.k",
-                "i.n",
-                "o.n",
                 "u.m",
-                "n.n",
                 "u.n",
-                "\u0268.n"
+                "a.n",
+                "\u0268.n",
+                "n.n",
+                "i.n",
+                "k.k",
+                "o.n"
             ],
             "segments": {
                 "!n.d/t": 1,
@@ -6348,9 +6348,9 @@
         "Poyanawa": {
             "bipa_errors": [
                 "~.d",
+                "~.v",
                 "~",
-                "u.h",
-                "~.v"
+                "u.h"
             ],
             "general_errors": 7,
             "replacements": {
@@ -6780,9 +6780,9 @@
             },
             "sclass_errors": [
                 "~.d",
+                "~.v",
                 "~",
-                "u.h",
-                "~.v"
+                "u.h"
             ],
             "segments": {
                 "!\u00e3/a": 5,
@@ -6825,13 +6825,13 @@
             "bipa_errors": [
                 "o.m",
                 "a.n",
-                "\u00e1/a.r\u207f",
-                "i.r",
-                "a.r\u207f",
                 "\u0268.n",
-                "a.r",
+                "\u0268.r\u207f",
                 "i.r\u207f",
-                "\u0268.r\u207f"
+                "i.r",
+                "\u00e1/a.r\u207f",
+                "a.r\u207f",
+                "a.r"
             ],
             "general_errors": 21,
             "replacements": {
@@ -7262,13 +7262,13 @@
             "sclass_errors": [
                 "o.m",
                 "a.n",
-                "\u00e1/a.r\u207f",
-                "i.r",
-                "a.r\u207f",
                 "\u0268.n",
-                "a.r",
+                "\u0268.r\u207f",
                 "i.r\u207f",
-                "\u0268.r\u207f"
+                "i.r",
+                "\u00e1/a.r\u207f",
+                "a.r\u207f",
+                "a.r"
             ],
             "segments": {
                 "!C/k": 1,
@@ -7322,10 +7322,10 @@
         "Shanenawa": {
             "bipa_errors": [
                 "a.n",
-                "i.n",
-                "n.t",
+                "\u0268.n",
                 "!ai.n/a.n",
-                "\u0268.n"
+                "i.n",
+                "n.t"
             ],
             "general_errors": 11,
             "replacements": {
@@ -7755,10 +7755,10 @@
             },
             "sclass_errors": [
                 "a.n",
-                "i.n",
-                "n.t",
+                "\u0268.n",
                 "!ai.n/a.n",
-                "\u0268.n"
+                "i.n",
+                "n.t"
             ],
             "segments": {
                 "!ai.n/a.n": 1,
@@ -7796,17 +7796,17 @@
         },
         "Sharanawa": {
             "bipa_errors": [
-                "!i/i.n",
-                "a.n",
-                "!ia.n/a.n",
                 "!ai/a.n",
-                "i.n",
                 "ai.n",
-                "!a/a.n",
-                "!aa.n/a.n",
+                "a.n",
+                "!ia.n/i.n",
                 "!ai.n/a.n",
                 "\u0268.n",
-                "!ia.n/i.n"
+                "!ia.n/a.n",
+                "!i/i.n",
+                "i.n",
+                "!a/a.n",
+                "!aa.n/a.n"
             ],
             "general_errors": 26,
             "replacements": {
@@ -8235,17 +8235,17 @@
                 ]
             },
             "sclass_errors": [
-                "!i/i.n",
-                "a.n",
-                "!ia.n/a.n",
                 "!ai/a.n",
-                "i.n",
                 "ai.n",
-                "!a/a.n",
-                "!aa.n/a.n",
+                "a.n",
+                "!ia.n/i.n",
                 "!ai.n/a.n",
                 "\u0268.n",
-                "!ia.n/i.n"
+                "!ia.n/a.n",
+                "!i/i.n",
+                "i.n",
+                "!a/a.n",
+                "!aa.n/a.n"
             ],
             "segments": {
                 "!a/a.n": 1,
@@ -8287,8 +8287,8 @@
         },
         "ShipiboKonibo": {
             "bipa_errors": [
-                "i.n",
                 "~",
+                "i.n",
                 "!i.m/i.n"
             ],
             "general_errors": 16,
@@ -8718,8 +8718,8 @@
                 ]
             },
             "sclass_errors": [
-                "i.n",
                 "~",
+                "i.n",
                 "!i.m/i.n"
             ],
             "segments": {
@@ -8774,8 +8774,8 @@
         "Yaminawa": {
             "bipa_errors": [
                 "~",
-                "i.n",
-                "!\u0129/i.n"
+                "!\u0129/i.n",
+                "i.n"
             ],
             "general_errors": 7,
             "replacements": {
@@ -9205,8 +9205,8 @@
             },
             "sclass_errors": [
                 "~",
-                "i.n",
-                "!\u0129/i.n"
+                "!\u0129/i.n",
+                "i.n"
             ],
             "segments": {
                 "!a/\u00e3": 1,
@@ -10433,49 +10433,49 @@
         ],
         "bad_words_count": 225,
         "bipa_errors": [
-            "!i/i.n",
-            "n.dz",
-            "\u00e1/a.r\u207f",
-            "ai.n",
-            "o.n",
-            "!\u0268/\u0268.n",
-            "n.t\u0283",
-            "s.s",
-            "!\u0129/i.n",
-            "o.m",
-            "!\u0268\u0301/\u0268.n",
-            "k.k",
-            "!/u.m",
-            "!a/a.n",
-            "u.m",
-            "a.l",
-            "a.r\u207f",
-            "u.n",
-            "u.h",
-            "!ia.n/i.n",
-            "\u00f3/o.n",
-            "a.n",
             "!ai/a.n",
+            "a.l",
+            "\u00e1/a.n",
+            "\u0268.r\u207f",
+            "!i.m/i.n",
+            "n.d",
+            "i.r\u207f",
+            "i.r",
+            "!i/i.n",
+            "!\u0268\u0301/\u0268.n",
+            "s.s",
+            "a.r\u207f",
+            "!aa.n/a.n",
+            "!\u0268/\u0268.n",
+            "o.m",
+            "n.dz",
+            "u.n",
             "~",
             "~.v",
-            "~.d",
-            "!aa.n/a.n",
-            "\u0268.n",
-            "!i.m/i.n",
-            "!ia.n/a.n",
-            "\u00e1/a.n",
-            "i.n",
+            "a.n",
+            "n.t\u0283",
             "m.p",
-            "i.r",
+            "k.k",
+            "!\u0129/i.n",
+            "!\u00ed/i.n",
+            "u.h",
+            "u.m",
+            "!ia.n/i.n",
+            "!ai.n/a.n",
+            "\u00f3/o.n",
+            "i.n",
+            "!a/a.n",
+            "!/u.m",
+            "\u00e1/a.r\u207f",
             "a.r",
             "n.t",
+            "ai.n",
+            "~.d",
+            "n.j",
+            "!ia.n/a.n",
+            "\u0268.n",
             "n.n",
-            "n.d",
-            "!ai.n/a.n",
-            "i.r\u207f",
-            "\u0268.r\u207f",
-            "!\u00ed/i.n",
-            "n.j"
+            "o.n"
         ],
         "general_errors": 229,
         "invalid_words": [],
@@ -10907,49 +10907,49 @@
             ]
         },
         "sclass_errors": [
-            "!i/i.n",
-            "n.dz",
-            "\u00e1/a.r\u207f",
-            "ai.n",
-            "o.n",
-            "!\u0268/\u0268.n",
-            "n.t\u0283",
-            "s.s",
-            "!\u0129/i.n",
-            "o.m",
-            "!\u0268\u0301/\u0268.n",
-            "k.k",
-            "!/u.m",
-            "!a/a.n",
-            "u.m",
-            "a.l",
-            "a.r\u207f",
-            "u.n",
-            "u.h",
-            "!ia.n/i.n",
-            "\u00f3/o.n",
-            "a.n",
             "!ai/a.n",
+            "a.l",
+            "\u00e1/a.n",
+            "\u0268.r\u207f",
+            "!i.m/i.n",
+            "n.d",
+            "i.r\u207f",
+            "i.r",
+            "!i/i.n",
+            "!\u0268\u0301/\u0268.n",
+            "s.s",
+            "a.r\u207f",
+            "!aa.n/a.n",
+            "!\u0268/\u0268.n",
+            "o.m",
+            "n.dz",
+            "u.n",
             "~",
             "~.v",
-            "~.d",
-            "!aa.n/a.n",
-            "\u0268.n",
-            "!i.m/i.n",
-            "!ia.n/a.n",
-            "\u00e1/a.n",
-            "i.n",
+            "a.n",
+            "n.t\u0283",
             "m.p",
-            "i.r",
+            "k.k",
+            "!\u0129/i.n",
+            "!\u00ed/i.n",
+            "u.h",
+            "u.m",
+            "!ia.n/i.n",
+            "!ai.n/a.n",
+            "\u00f3/o.n",
+            "i.n",
+            "!a/a.n",
+            "!/u.m",
+            "\u00e1/a.r\u207f",
             "a.r",
             "n.t",
+            "ai.n",
+            "~.d",
+            "n.j",
+            "!ia.n/a.n",
+            "\u0268.n",
             "n.n",
-            "n.d",
-            "!ai.n/a.n",
-            "i.r\u207f",
-            "\u0268.r\u207f",
-            "!\u00ed/i.n",
-            "n.j"
+            "o.n"
         ],
         "segments": {
             "!/a": 1,

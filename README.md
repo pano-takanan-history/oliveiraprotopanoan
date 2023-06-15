@@ -1,5 +1,7 @@
 # CLDF dataset derived from Oliveira's "Contribuições para a Reconstrução do Protopáno" from 2014
 
+[![CLDF validation](https://github.com/pano-tacanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -17,6 +19,7 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 ## Statistics
 
 
+[![CLDF validation](https://github.com/pano-tacanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
@@ -46,7 +49,7 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Oliveira, Sanderson  | | original collection and analysis of data | Author
-Frederic Blum | @tarotis | CLDF conversion | Other
+Frederic Blum | @Tarotis | CLDF conversion | Other
 Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other
 Johann-Mattis List | @LinguList| CLDF conversion | Other
 
