@@ -4,8 +4,8 @@
             "bipa_errors": [
                 "~",
                 "a.n",
-                "\u0268.n",
                 "i.n",
+                "\u0268.n",
                 "!\u00ed/i.n"
             ],
             "general_errors": 13,
@@ -437,8 +437,8 @@
             "sclass_errors": [
                 "~",
                 "a.n",
-                "\u0268.n",
                 "i.n",
+                "\u0268.n",
                 "!\u00ed/i.n"
             ],
             "segments": {
@@ -495,14 +495,14 @@
         },
         "Chakobo": {
             "bipa_errors": [
-                "!\u0268/\u0268.n",
                 "\u00e1/a.n",
                 "a.n",
-                "\u0268.n",
                 "!i/i.n",
                 "i.n",
-                "!a/a.n",
-                "!\u00ed/i.n"
+                "!\u0268/\u0268.n",
+                "\u0268.n",
+                "!\u00ed/i.n",
+                "!a/a.n"
             ],
             "general_errors": 16,
             "replacements": {
@@ -931,14 +931,14 @@
                 ]
             },
             "sclass_errors": [
-                "!\u0268/\u0268.n",
                 "\u00e1/a.n",
                 "a.n",
-                "\u0268.n",
                 "!i/i.n",
                 "i.n",
-                "!a/a.n",
-                "!\u00ed/i.n"
+                "!\u0268/\u0268.n",
+                "\u0268.n",
+                "!\u00ed/i.n",
+                "!a/a.n"
             ],
             "segments": {
                 "!/m": 1,
@@ -1457,8 +1457,8 @@
         },
         "Kakataibo": {
             "bipa_errors": [
-                "~",
-                "i.n"
+                "i.n",
+                "~"
             ],
             "general_errors": 15,
             "replacements": {
@@ -1887,8 +1887,8 @@
                 ]
             },
             "sclass_errors": [
-                "~",
-                "i.n"
+                "i.n",
+                "~"
             ],
             "segments": {
                 "!i/\u0129": 1,
@@ -1949,14 +1949,14 @@
         },
         "Kapanawa": {
             "bipa_errors": [
-                "o.m",
                 "~",
                 "\u00e1/a.n",
                 "a.n",
-                "\u0268.n",
-                "\u00f3/o.n",
-                "i.n",
                 "!\u0268\u0301/\u0268.n",
+                "o.m",
+                "i.n",
+                "\u00f3/o.n",
+                "\u0268.n",
                 "!\u00ed/i.n"
             ],
             "general_errors": 20,
@@ -2386,14 +2386,14 @@
                 ]
             },
             "sclass_errors": [
-                "o.m",
                 "~",
                 "\u00e1/a.n",
                 "a.n",
-                "\u0268.n",
-                "\u00f3/o.n",
-                "i.n",
                 "!\u0268\u0301/\u0268.n",
+                "o.m",
+                "i.n",
+                "\u00f3/o.n",
+                "\u0268.n",
                 "!\u00ed/i.n"
             ],
             "segments": {
@@ -2448,11 +2448,11 @@
             "bipa_errors": [
                 "n.dz",
                 "a.n",
-                "\u0268.n",
-                "n.t\u0283",
-                "n.n",
                 "!i/i.n",
-                "i.n"
+                "i.n",
+                "n.n",
+                "n.t\u0283",
+                "\u0268.n"
             ],
             "general_errors": 14,
             "replacements": {
@@ -2883,11 +2883,11 @@
             "sclass_errors": [
                 "n.dz",
                 "a.n",
-                "\u0268.n",
-                "n.t\u0283",
-                "n.n",
                 "!i/i.n",
-                "i.n"
+                "i.n",
+                "n.n",
+                "n.t\u0283",
+                "\u0268.n"
             ],
             "segments": {
                 "!i/i.n": 1,
@@ -2937,9 +2937,9 @@
         },
         "Kaxarari": {
             "bipa_errors": [
-                "n.j",
+                "a.l",
                 "a.n",
-                "a.l"
+                "n.j"
             ],
             "general_errors": 3,
             "replacements": {
@@ -3368,9 +3368,9 @@
                 ]
             },
             "sclass_errors": [
-                "n.j",
+                "a.l",
                 "a.n",
-                "a.l"
+                "n.j"
             ],
             "segments": {
                 "!\u00e3/\u0268": 1,
@@ -3421,8 +3421,8 @@
         },
         "Kaxinawa": {
             "bipa_errors": [
-                "~",
-                "i.n"
+                "i.n",
+                "~"
             ],
             "general_errors": 4,
             "replacements": {
@@ -3851,8 +3851,8 @@
                 ]
             },
             "sclass_errors": [
-                "~",
-                "i.n"
+                "i.n",
+                "~"
             ],
             "segments": {
                 "!\u00e1/a": 1,
@@ -3900,13 +3900,13 @@
         },
         "Korubo": {
             "bipa_errors": [
-                "u.n",
+                "n.t",
                 "a.n",
-                "\u0268.n",
                 "i.n",
-                "m.p",
+                "u.n",
                 "o.n",
-                "n.t"
+                "\u0268.n",
+                "m.p"
             ],
             "general_errors": 8,
             "replacements": {
@@ -4335,13 +4335,13 @@
                 ]
             },
             "sclass_errors": [
-                "u.n",
+                "n.t",
                 "a.n",
-                "\u0268.n",
                 "i.n",
-                "m.p",
+                "u.n",
                 "o.n",
-                "n.t"
+                "\u0268.n",
+                "m.p"
             ],
             "segments": {
                 "+": 6,
@@ -4382,9 +4382,9 @@
         },
         "Marinawa": {
             "bipa_errors": [
-                "~",
                 "s.s",
-                "\u0268.n"
+                "\u0268.n",
+                "~"
             ],
             "general_errors": 11,
             "replacements": {
@@ -4813,9 +4813,9 @@
                 ]
             },
             "sclass_errors": [
-                "~",
                 "s.s",
-                "\u0268.n"
+                "\u0268.n",
+                "~"
             ],
             "segments": {
                 "!/\u0294": 1,
@@ -4872,8 +4872,8 @@
         },
         "Marubo": {
             "bipa_errors": [
-                "~",
-                "n.d"
+                "n.d",
+                "~"
             ],
             "general_errors": 4,
             "replacements": {
@@ -5302,8 +5302,8 @@
                 ]
             },
             "sclass_errors": [
-                "~",
-                "n.d"
+                "n.d",
+                "~"
             ],
             "segments": {
                 "!m.b/m": 2,
@@ -5371,13 +5371,13 @@
         "Matis": {
             "bipa_errors": [
                 "u.m",
-                "u.n",
-                "a.n",
-                "\u0268.n",
                 "n.d",
+                "a.n",
                 "i.n",
+                "u.n",
                 "!/u.m",
-                "o.n"
+                "o.n",
+                "\u0268.n"
             ],
             "general_errors": 8,
             "replacements": {
@@ -5807,13 +5807,13 @@
             },
             "sclass_errors": [
                 "u.m",
-                "u.n",
-                "a.n",
-                "\u0268.n",
                 "n.d",
+                "a.n",
                 "i.n",
+                "u.n",
                 "!/u.m",
-                "o.n"
+                "o.n",
+                "\u0268.n"
             ],
             "segments": {
                 "!/a": 1,
@@ -5854,13 +5854,13 @@
         "Mayoruna": {
             "bipa_errors": [
                 "u.m",
-                "u.n",
                 "a.n",
-                "\u0268.n",
-                "n.n",
                 "i.n",
+                "u.n",
+                "n.n",
                 "k.k",
-                "o.n"
+                "o.n",
+                "\u0268.n"
             ],
             "general_errors": 11,
             "replacements": {
@@ -6290,13 +6290,13 @@
             },
             "sclass_errors": [
                 "u.m",
-                "u.n",
                 "a.n",
-                "\u0268.n",
-                "n.n",
                 "i.n",
+                "u.n",
+                "n.n",
                 "k.k",
-                "o.n"
+                "o.n",
+                "\u0268.n"
             ],
             "segments": {
                 "!n.d/t": 1,
@@ -6349,8 +6349,8 @@
             "bipa_errors": [
                 "~.d",
                 "~.v",
-                "~",
-                "u.h"
+                "u.h",
+                "~"
             ],
             "general_errors": 7,
             "replacements": {
@@ -6781,8 +6781,8 @@
             "sclass_errors": [
                 "~.d",
                 "~.v",
-                "~",
-                "u.h"
+                "u.h",
+                "~"
             ],
             "segments": {
                 "!\u00e3/a": 5,
@@ -6823,15 +6823,15 @@
         },
         "Proto-Panoan": {
             "bipa_errors": [
-                "o.m",
-                "a.n",
-                "\u0268.n",
-                "\u0268.r\u207f",
-                "i.r\u207f",
-                "i.r",
-                "\u00e1/a.r\u207f",
                 "a.r\u207f",
-                "a.r"
+                "i.r",
+                "a.n",
+                "o.m",
+                "a.r",
+                "\u00e1/a.r\u207f",
+                "\u0268.r\u207f",
+                "\u0268.n",
+                "i.r\u207f"
             ],
             "general_errors": 21,
             "replacements": {
@@ -7260,15 +7260,15 @@
                 ]
             },
             "sclass_errors": [
-                "o.m",
-                "a.n",
-                "\u0268.n",
-                "\u0268.r\u207f",
-                "i.r\u207f",
-                "i.r",
-                "\u00e1/a.r\u207f",
                 "a.r\u207f",
-                "a.r"
+                "i.r",
+                "a.n",
+                "o.m",
+                "a.r",
+                "\u00e1/a.r\u207f",
+                "\u0268.r\u207f",
+                "\u0268.n",
+                "i.r\u207f"
             ],
             "segments": {
                 "!C/k": 1,
@@ -7321,11 +7321,11 @@
         },
         "Shanenawa": {
             "bipa_errors": [
+                "n.t",
                 "a.n",
-                "\u0268.n",
                 "!ai.n/a.n",
                 "i.n",
-                "n.t"
+                "\u0268.n"
             ],
             "general_errors": 11,
             "replacements": {
@@ -7754,11 +7754,11 @@
                 ]
             },
             "sclass_errors": [
+                "n.t",
                 "a.n",
-                "\u0268.n",
                 "!ai.n/a.n",
                 "i.n",
-                "n.t"
+                "\u0268.n"
             ],
             "segments": {
                 "!ai.n/a.n": 1,
@@ -7796,17 +7796,17 @@
         },
         "Sharanawa": {
             "bipa_errors": [
-                "!ai/a.n",
-                "ai.n",
-                "a.n",
+                "!aa.n/a.n",
                 "!ia.n/i.n",
-                "!ai.n/a.n",
-                "\u0268.n",
-                "!ia.n/a.n",
+                "a.n",
+                "!ai/a.n",
                 "!i/i.n",
+                "!ai.n/a.n",
                 "i.n",
+                "!ia.n/a.n",
                 "!a/a.n",
-                "!aa.n/a.n"
+                "\u0268.n",
+                "ai.n"
             ],
             "general_errors": 26,
             "replacements": {
@@ -8235,17 +8235,17 @@
                 ]
             },
             "sclass_errors": [
-                "!ai/a.n",
-                "ai.n",
-                "a.n",
+                "!aa.n/a.n",
                 "!ia.n/i.n",
-                "!ai.n/a.n",
-                "\u0268.n",
-                "!ia.n/a.n",
+                "a.n",
+                "!ai/a.n",
                 "!i/i.n",
+                "!ai.n/a.n",
                 "i.n",
+                "!ia.n/a.n",
                 "!a/a.n",
-                "!aa.n/a.n"
+                "\u0268.n",
+                "ai.n"
             ],
             "segments": {
                 "!a/a.n": 1,
@@ -8287,9 +8287,9 @@
         },
         "ShipiboKonibo": {
             "bipa_errors": [
-                "~",
                 "i.n",
-                "!i.m/i.n"
+                "!i.m/i.n",
+                "~"
             ],
             "general_errors": 16,
             "replacements": {
@@ -8718,9 +8718,9 @@
                 ]
             },
             "sclass_errors": [
-                "~",
                 "i.n",
-                "!i.m/i.n"
+                "!i.m/i.n",
+                "~"
             ],
             "segments": {
                 "!i.m/i.n": 1,
@@ -8773,9 +8773,9 @@
         },
         "Yaminawa": {
             "bipa_errors": [
+                "i.n",
                 "~",
-                "!\u0129/i.n",
-                "i.n"
+                "!\u0129/i.n"
             ],
             "general_errors": 7,
             "replacements": {
@@ -9204,9 +9204,9 @@
                 ]
             },
             "sclass_errors": [
+                "i.n",
                 "~",
-                "!\u0129/i.n",
-                "i.n"
+                "!\u0129/i.n"
             ],
             "segments": {
                 "!a/\u00e3": 1,
@@ -9254,10 +9254,10 @@
         },
         "Yawanawa": {
             "bipa_errors": [
-                "~",
-                "i.n",
+                "!ia.n/a.n",
                 "a.n",
-                "!ia.n/a.n"
+                "i.n",
+                "~"
             ],
             "general_errors": 13,
             "replacements": {
@@ -9686,10 +9686,10 @@
                 ]
             },
             "sclass_errors": [
-                "~",
-                "i.n",
+                "!ia.n/a.n",
                 "a.n",
-                "!ia.n/a.n"
+                "i.n",
+                "~"
             ],
             "segments": {
                 "!ia.n/a.n": 1,
@@ -9731,751 +9731,751 @@
     "stats": {
         "bad_words": [
             [
-                "Amawaka-capivara-1",
+                "Amawaka-14_lago-1",
                 "Amawaka",
-                "capivara",
-                "\u0294am\u0268n",
-                "\u0294 a m <s> \u0268.n </s>"
-            ],
-            [
-                "Amawaka-dar-2",
-                "Amawaka",
-                "dar",
-                "\u0294inan-k\u00edn",
-                "\u0294 i n <s> a.n </s> + k !\u00ed/i n"
-            ],
-            [
-                "Amawaka-dordoer-1",
-                "Amawaka",
-                "dordoer",
-                "\u0294\u00edsin",
-                "\u0294 !\u00ed/i s <s> i.n </s>"
-            ],
-            [
-                "Amawaka-dordoer-2",
-                "Amawaka",
-                "dordoer",
-                "\u0294\u00edsin\u00edn",
-                "\u0294 !\u00ed/i s <s> i.n </s> !\u00ed/i n"
-            ],
-            [
-                "Amawaka-lago-1",
-                "Amawaka",
-                "lago",
+                "14_lago",
                 "\u0294\u00ed\u0303yan",
                 "\u0294 \u00ed\u0303/\u0129 j <s> a.n </s>"
             ],
             [
-                "Amawaka-mulheresposa-1",
+                "Amawaka-22_dar-2",
                 "Amawaka",
-                "mulheresposa",
-                "\u0294a\u00edn",
-                "\u0294 a <s> !\u00ed/i.n </s>"
+                "22_dar",
+                "\u0294inan-k\u00edn",
+                "\u0294 i n <s> a.n </s> + k !\u00ed/i n"
             ],
             [
-                "Amawaka-mulheresposa-2",
+                "Amawaka-25_dordoer-1",
                 "Amawaka",
-                "mulheresposa",
-                "\u0294\u00e1in\u00ed",
-                "\u0294 !\u00e1/a <s> i.n </s> !\u00ed/i"
+                "25_dordoer",
+                "\u0294\u00edsin",
+                "\u0294 !\u00ed/i s <s> i.n </s>"
             ],
             [
-                "Amawaka-uruburei-1",
+                "Amawaka-25_dordoer-2",
                 "Amawaka",
-                "uruburei",
+                "25_dordoer",
+                "\u0294\u00edsin\u00edn",
+                "\u0294 !\u00ed/i s <s> i.n </s> !\u00ed/i n"
+            ],
+            [
+                "Amawaka-2_capivara-1",
+                "Amawaka",
+                "2_capivara",
+                "\u0294am\u0268n",
+                "\u0294 a m <s> \u0268.n </s>"
+            ],
+            [
+                "Amawaka-30_uruburei-1",
+                "Amawaka",
+                "30_uruburei",
                 "\u0294\u00ed\u0283min",
                 "\u0294 !\u00ed/i \u0283 m <s> i.n </s>"
             ],
             [
-                "Chakobo-capivara-1",
+                "Amawaka-9_mulheresposa-1",
+                "Amawaka",
+                "9_mulheresposa",
+                "\u0294a\u00edn",
+                "\u0294 a <s> !\u00ed/i.n </s>"
+            ],
+            [
+                "Amawaka-9_mulheresposa-2",
+                "Amawaka",
+                "9_mulheresposa",
+                "\u0294\u00e1in\u00ed",
+                "\u0294 !\u00e1/a <s> i.n </s> !\u00ed/i"
+            ],
+            [
+                "Chakobo-2_capivara-1",
                 "Chakobo",
-                "capivara",
+                "2_capivara",
                 "am\u0268no",
                 "a m <s> \u0268.n </s> o"
             ],
             [
-                "Chakobo-capivara-2",
+                "Chakobo-2_capivara-2",
                 "Chakobo",
-                "capivara",
+                "2_capivara",
                 "am\u0268",
                 "a m <s> !\u0268/\u0268.n </s>"
             ],
             [
-                "Chakobo-mulheresposa-1",
+                "Chakobo-51_mutumdaespdafamcracidae-1",
                 "Chakobo",
-                "mulheresposa",
-                "\u0294a\u02c8wini",
-                "\u0294 a w <s> i.n </s> i"
-            ],
-            [
-                "Chakobo-mulheresposa-2",
-                "Chakobo",
-                "mulheresposa",
-                "aw\u00ed",
-                "!/\u0294 a w <s> !\u00ed/i.n </s>"
-            ],
-            [
-                "Chakobo-mutumdaespdafamcracidae-1",
-                "Chakobo",
-                "mutumdaespdafamcracidae",
+                "51_mutumdaespdafamcracidae",
                 "has\u00edni",
                 "h a s <s> !\u00ed/i.n </s> i"
             ],
             [
-                "Chakobo-mutumdaespdafamcracidae-2",
+                "Chakobo-51_mutumdaespdafamcracidae-2",
                 "Chakobo",
-                "mutumdaespdafamcracidae",
+                "51_mutumdaespdafamcracidae",
                 "ha\u02c8sini",
                 "h a s <s> i.n </s> i"
             ],
             [
-                "Chakobo-mutumdaespdafamcracidae-3",
+                "Chakobo-51_mutumdaespdafamcracidae-3",
                 "Chakobo",
-                "mutumdaespdafamcracidae",
+                "51_mutumdaespdafamcracidae",
                 "ha\u02c8si",
                 "h a s <s> !i/i.n </s>"
             ],
             [
-                "Chaninawa-olhar-1",
+                "Chakobo-9_mulheresposa-1",
+                "Chakobo",
+                "9_mulheresposa",
+                "\u0294a\u02c8wini",
+                "\u0294 a w <s> i.n </s> i"
+            ],
+            [
+                "Chakobo-9_mulheresposa-2",
+                "Chakobo",
+                "9_mulheresposa",
+                "aw\u00ed",
+                "!/\u0294 a w <s> !\u00ed/i.n </s>"
+            ],
+            [
+                "Chaninawa-35_olhar-1",
                 "Chaninawa",
-                "olhar",
+                "35_olhar",
                 "oin",
                 "o <s> i.n </s>"
             ],
             [
-                "Kapanawa-aguafrescalitliquidonovo-1",
+                "Kapanawa-14_lago-1",
                 "Kapanawa",
-                "aguafrescalitliquidonovo",
-                "\u0294ompa",
-                "\u0294 <s> o.m </s> p a"
-            ],
-            [
-                "Kapanawa-capivara-1",
-                "Kapanawa",
-                "capivara",
-                "\u0294a\u02c8m\u0268n",
-                "\u0294 a m <s> \u0268.n </s>"
-            ],
-            [
-                "Kapanawa-conheceraprender-1",
-                "Kapanawa",
-                "conheceraprender",
-                "\u0294on\u00e1n-",
-                "\u0294 o n <s> \u00e1/a.n </s>"
-            ],
-            [
-                "Kapanawa-dar-1",
-                "Kapanawa",
-                "dar",
-                "\u0294in\u00e1n",
-                "\u0294 i n <s> \u00e1/a.n </s>"
-            ],
-            [
-                "Kapanawa-dordoer-1",
-                "Kapanawa",
-                "dordoer",
-                "\u0294is\u00edn-",
-                "\u0294 i s <s> !\u00ed/i.n </s>"
-            ],
-            [
-                "Kapanawa-lago-1",
-                "Kapanawa",
-                "lago",
+                "14_lago",
                 "\u0294i\u00e1n",
                 "\u0294 i <s> \u00e1/a.n </s>"
             ],
             [
-                "Kapanawa-mulheresposa-1",
+                "Kapanawa-22_dar-1",
                 "Kapanawa",
-                "mulheresposa",
-                "\u0294a\u02c8win",
-                "\u0294 a w <s> i.n </s>"
+                "22_dar",
+                "\u0294in\u00e1n",
+                "\u0294 i n <s> \u00e1/a.n </s>"
             ],
             [
-                "Kapanawa-mutumdaespdafamcracidae-1",
+                "Kapanawa-25_dordoer-1",
                 "Kapanawa",
-                "mutumdaespdafamcracidae",
-                "has\u00edn",
-                "h a s <s> !\u00ed/i.n </s>"
+                "25_dordoer",
+                "\u0294is\u00edn-",
+                "\u0294 i s <s> !\u00ed/i.n </s>"
             ],
             [
-                "Kapanawa-rir-1",
+                "Kapanawa-2_capivara-1",
                 "Kapanawa",
-                "rir",
-                "\u0294os\u00e1n-",
-                "\u0294 o s <s> \u00e1/a.n </s>"
+                "2_capivara",
+                "\u0294a\u02c8m\u0268n",
+                "\u0294 a m <s> \u0268.n </s>"
             ],
             [
-                "Kapanawa-tipodeveneno-1",
+                "Kapanawa-30_uruburei-1",
                 "Kapanawa",
-                "tipodeveneno",
-                "\u0294a\u02c8\u0282an-",
-                "\u0294 a \u0282 <s> a.n </s>"
-            ],
-            [
-                "Kapanawa-uruburei-1",
-                "Kapanawa",
-                "uruburei",
+                "30_uruburei",
                 "\u0294i\u0283m\u00edn",
                 "\u0294 i \u0283 m <s> !\u00ed/i.n </s>"
             ],
             [
-                "Kapanawa-vomitar-1",
+                "Kapanawa-37_conheceraprender-1",
                 "Kapanawa",
-                "vomitar",
+                "37_conheceraprender",
+                "\u0294on\u00e1n-",
+                "\u0294 o n <s> \u00e1/a.n </s>"
+            ],
+            [
+                "Kapanawa-38_aguafrescalitliquidonovo-1",
+                "Kapanawa",
+                "38_aguafrescalitliquidonovo",
+                "\u0294ompa",
+                "\u0294 <s> o.m </s> p a"
+            ],
+            [
+                "Kapanawa-39_rir-1",
+                "Kapanawa",
+                "39_rir",
+                "\u0294os\u00e1n-",
+                "\u0294 o s <s> \u00e1/a.n </s>"
+            ],
+            [
+                "Kapanawa-49_vomitar-1",
+                "Kapanawa",
+                "49_vomitar",
                 "han\u00e1n-",
                 "h a n <s> \u00e1/a.n </s>"
             ],
             [
-                "Katukina-capivara-1",
-                "Katukina",
-                "capivara",
-                "am\u0268n",
-                "a m <s> \u0268.n </s>"
+                "Kapanawa-51_mutumdaespdafamcracidae-1",
+                "Kapanawa",
+                "51_mutumdaespdafamcracidae",
+                "has\u00edn",
+                "h a s <s> !\u00ed/i.n </s>"
             ],
             [
-                "Katukina-dordoer-1",
+                "Kapanawa-6_tipodeveneno-1",
+                "Kapanawa",
+                "6_tipodeveneno",
+                "\u0294a\u02c8\u0282an-",
+                "\u0294 a \u0282 <s> a.n </s>"
+            ],
+            [
+                "Kapanawa-9_mulheresposa-1",
+                "Kapanawa",
+                "9_mulheresposa",
+                "\u0294a\u02c8win",
+                "\u0294 a w <s> i.n </s>"
+            ],
+            [
+                "Katukina-14_lago-1",
                 "Katukina",
-                "dordoer",
+                "14_lago",
+                "ian",
+                "i <s> a.n </s>"
+            ],
+            [
+                "Katukina-25_dordoer-1",
+                "Katukina",
+                "25_dordoer",
                 "isinai",
                 "i s <s> i.n </s> a i"
             ],
             [
-                "Katukina-dordoer-2",
+                "Katukina-25_dordoer-2",
                 "Katukina",
-                "dordoer",
+                "25_dordoer",
                 "isin-nai",
                 "i s <s> i.n </s> + n a i"
             ],
             [
-                "Katukina-lago-1",
+                "Katukina-2_capivara-1",
                 "Katukina",
-                "lago",
-                "ian",
-                "i <s> a.n </s>"
-            ],
-            [
-                "Katukina-mutumdaespdafamcracidae-1",
-                "Katukina",
-                "mutumdaespdafamcracidae",
-                "ansin",
-                "<s> a.n </s> s <s> i.n </s>"
-            ],
-            [
-                "Katukina-olhar-1",
-                "Katukina",
-                "olhar",
-                "uin-nai",
-                "u <s> i.n </s> + n a i"
-            ],
-            [
-                "Kaxarari-lago-1",
-                "Kaxarari",
-                "lago",
-                "ia\u02c8n\u0268",
-                "i <s> a.n </s> \u0268"
-            ],
-            [
-                "Kaxinawa-dordoer-1",
-                "Kaxinawa",
-                "dordoer",
-                "isinkiki",
-                "i s <s> i.n </s> k i k i"
-            ],
-            [
-                "Korubo-conheceraprender-1",
-                "Korubo",
-                "conheceraprender",
-                "unan",
-                "u n <s> a.n </s>"
-            ],
-            [
-                "Korubo-lago-1",
-                "Korubo",
-                "lago",
-                "t\u0283an",
-                "t\u0283 <s> a.n </s>"
-            ],
-            [
-                "Korubo-mulheresposa-1",
-                "Korubo",
-                "mulheresposa",
-                "awin",
-                "a w <s> i.n </s>"
-            ],
-            [
-                "Marinawa-capivara-2",
-                "Marinawa",
-                "capivara",
-                "\u02c8\u0294am\u0268no",
-                "\u0294 a m <s> \u0268.n </s> o"
-            ],
-            [
-                "Matis-aguafrescalitliquidonovo-1",
-                "Matis",
-                "aguafrescalitliquidonovo",
-                "uma",
-                "<s> u.m </s> a"
-            ],
-            [
-                "Matis-lago-1",
-                "Matis",
-                "lago",
-                "t\u0283an",
-                "t\u0283 <s> a.n </s>"
-            ],
-            [
-                "Matis-mulheresposa-1",
-                "Matis",
-                "mulheresposa",
-                "awin",
-                "a w <s> i.n </s>"
-            ],
-            [
-                "Matis-novo-1",
-                "Matis",
-                "novo",
-                "pa\u0283a",
-                "<s> !/u.m </s> !/a p a \u0283 a"
-            ],
-            [
-                "Matis-subir-1",
-                "Matis",
-                "subir",
-                "indo-kin",
-                "i <s> n.d </s> o + k i n"
-            ],
-            [
-                "Mayoruna-aguafrescalitliquidonovo-1",
-                "Mayoruna",
-                "aguafrescalitliquidonovo",
-                "uma",
-                "<s> u.m </s> a"
-            ],
-            [
-                "Mayoruna-conheceraprender-1",
-                "Mayoruna",
-                "conheceraprender",
-                "unan",
-                "u n <s> a.n </s>"
-            ],
-            [
-                "Mayoruna-lago-1",
-                "Mayoruna",
-                "lago",
-                "t\u0283i\u02c8na",
-                "t\u0283 <s> i.n </s> a"
-            ],
-            [
-                "Mayoruna-mulheresposa-1",
-                "Mayoruna",
-                "mulheresposa",
-                "awin",
-                "a w <s> i.n </s>"
-            ],
-            [
-                "Poyanawa-lingua-1",
-                "Poyanawa",
-                "lingua",
-                "\u00e3da",
-                "!\u00e3/a <s> ~.d </s> a"
-            ],
-            [
-                "Poyanawa-nome-1",
-                "Poyanawa",
-                "nome",
-                "\u00e3d\u0268",
-                "!\u00e3/a <s> ~.d </s> \u0268"
-            ],
-            [
-                "Proto-Panoan-aguafrescalitliquidonovo-1",
-                "Proto-Panoan",
-                "aguafrescalitliquidonovo",
-                "\u0294oma-pa\u0282a",
-                "\u0294 <s> o.m </s> a + p a \u0282 a"
-            ],
-            [
-                "Proto-Panoan-capivara-1",
-                "Proto-Panoan",
-                "capivara",
-                "\u0294am\u0268[n]",
-                "\u0294 a m <s> \u0268.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-conheceraprender-1",
-                "Proto-Panoan",
-                "conheceraprender",
-                "\u0294o[n]a[n]-",
-                "\u0294 o r\u207f <s> a.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-dar-1",
-                "Proto-Panoan",
-                "dar",
-                "\u0294inar-",
-                "\u0294 i n <s> a.r </s>"
-            ],
-            [
-                "Proto-Panoan-dordoer-1",
-                "Proto-Panoan",
-                "dordoer",
-                "\u0294\u0129sir-",
-                "\u0294 \u0129 s <s> i.r </s>"
-            ],
-            [
-                "Proto-Panoan-lago-1",
-                "Proto-Panoan",
-                "lago",
-                "\u0294ian",
-                "\u0294 i <s> a.n </s>"
-            ],
-            [
-                "Proto-Panoan-mulheresposa-1",
-                "Proto-Panoan",
-                "mulheresposa",
-                "\u0294awi[n]",
-                "\u0294 a w <s> i.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-mutumdaespdafamcracidae-1",
-                "Proto-Panoan",
-                "mutumdaespdafamcracidae",
-                "h\u00e3si[n]",
-                "h \u00e3 s <s> i.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-olhar-1",
-                "Proto-Panoan",
-                "olhar",
-                "\u0294oi[n]-",
-                "\u0294 o <s> i.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-rir-1",
-                "Proto-Panoan",
-                "rir",
-                "\u0294osa[n]-",
-                "\u0294 o s <s> a.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-tipodeveneno-1",
-                "Proto-Panoan",
-                "tipodeveneno",
-                "\u0294a\u0282[an]-",
-                "\u0294 a \u0282 <s> a.n </s>"
-            ],
-            [
-                "Proto-Panoan-uruburei-1",
-                "Proto-Panoan",
-                "uruburei",
-                "\u0294i\u0283mi[n]",
-                "\u0294 i \u0283 m <s> i.r\u207f </s>"
-            ],
-            [
-                "Proto-Panoan-vomitar-1",
-                "Proto-Panoan",
-                "vomitar",
-                "ha[n]a[n]-",
-                "h a r\u207f <s> a.r\u207f </s>"
-            ],
-            [
-                "Shanenawa-capivara-1",
-                "Shanenawa",
-                "capivara",
-                "aman",
-                "a m <s> a.n </s>"
-            ],
-            [
-                "Shanenawa-dar-1",
-                "Shanenawa",
-                "dar",
-                "inan",
-                "i n <s> a.n </s>"
-            ],
-            [
-                "Shanenawa-dordoer-1",
-                "Shanenawa",
-                "dordoer",
-                "isin",
-                "i s <s> i.n </s>"
-            ],
-            [
-                "Shanenawa-lago-1",
-                "Shanenawa",
-                "lago",
-                "yan",
-                "j <s> a.n </s>"
-            ],
-            [
-                "Shanenawa-mulheresposa-1",
-                "Shanenawa",
-                "mulheresposa",
-                "awin",
-                "a w <s> i.n </s>"
-            ],
-            [
-                "Shanenawa-mutumdaespdafamcracidae-1",
-                "Shanenawa",
-                "mutumdaespdafamcracidae",
-                "a\u0282in",
-                "a \u0282 <s> i.n </s>"
-            ],
-            [
-                "Shanenawa-olhar-1",
-                "Shanenawa",
-                "olhar",
-                "uin",
-                "u <s> i.n </s>"
-            ],
-            [
-                "Shanenawa-vomitar-1",
-                "Shanenawa",
-                "vomitar",
-                "anain",
-                "a n <s> !ai.n/a.n </s>"
-            ],
-            [
-                "Sharanawa-capivara-1",
-                "Sharanawa",
-                "capivara",
+                "2_capivara",
                 "am\u0268n",
                 "a m <s> \u0268.n </s>"
             ],
             [
-                "Sharanawa-conheceraprender-1",
-                "Sharanawa",
-                "conheceraprender",
-                "onain",
-                "o n <s> !ai.n/a.n </s>"
+                "Katukina-35_olhar-1",
+                "Katukina",
+                "35_olhar",
+                "uin-nai",
+                "u <s> i.n </s> + n a i"
             ],
             [
-                "Sharanawa-conheceraprender-2",
-                "Sharanawa",
-                "conheceraprender",
-                "onaan",
-                "o n <s> !aa.n/a.n </s>"
+                "Katukina-51_mutumdaespdafamcracidae-1",
+                "Katukina",
+                "51_mutumdaespdafamcracidae",
+                "ansin",
+                "<s> a.n </s> s <s> i.n </s>"
             ],
             [
-                "Sharanawa-dar-1",
-                "Sharanawa",
-                "dar",
-                "inain",
-                "i n <s> ai.n </s>"
+                "Kaxarari-14_lago-1",
+                "Kaxarari",
+                "14_lago",
+                "ia\u02c8n\u0268",
+                "i <s> a.n </s> \u0268"
             ],
             [
-                "Sharanawa-dar-2",
-                "Sharanawa",
-                "dar",
-                "inaan",
+                "Kaxinawa-25_dordoer-1",
+                "Kaxinawa",
+                "25_dordoer",
+                "isinkiki",
+                "i s <s> i.n </s> k i k i"
+            ],
+            [
+                "Korubo-14_lago-1",
+                "Korubo",
+                "14_lago",
+                "t\u0283an",
+                "t\u0283 <s> a.n </s>"
+            ],
+            [
+                "Korubo-37_conheceraprender-1",
+                "Korubo",
+                "37_conheceraprender",
+                "unan",
+                "u n <s> a.n </s>"
+            ],
+            [
+                "Korubo-9_mulheresposa-1",
+                "Korubo",
+                "9_mulheresposa",
+                "awin",
+                "a w <s> i.n </s>"
+            ],
+            [
+                "Marinawa-2_capivara-2",
+                "Marinawa",
+                "2_capivara",
+                "\u02c8\u0294am\u0268no",
+                "\u0294 a m <s> \u0268.n </s> o"
+            ],
+            [
+                "Matis-14_lago-1",
+                "Matis",
+                "14_lago",
+                "t\u0283an",
+                "t\u0283 <s> a.n </s>"
+            ],
+            [
+                "Matis-20_subir-1",
+                "Matis",
+                "20_subir",
+                "indo-kin",
+                "i <s> n.d </s> o + k i n"
+            ],
+            [
+                "Matis-38_aguafrescalitliquidonovo-1",
+                "Matis",
+                "38_aguafrescalitliquidonovo",
+                "uma",
+                "<s> u.m </s> a"
+            ],
+            [
+                "Matis-73_novo-1",
+                "Matis",
+                "73_novo",
+                "pa\u0283a",
+                "<s> !/u.m </s> !/a p a \u0283 a"
+            ],
+            [
+                "Matis-9_mulheresposa-1",
+                "Matis",
+                "9_mulheresposa",
+                "awin",
+                "a w <s> i.n </s>"
+            ],
+            [
+                "Mayoruna-14_lago-1",
+                "Mayoruna",
+                "14_lago",
+                "t\u0283i\u02c8na",
+                "t\u0283 <s> i.n </s> a"
+            ],
+            [
+                "Mayoruna-37_conheceraprender-1",
+                "Mayoruna",
+                "37_conheceraprender",
+                "unan",
+                "u n <s> a.n </s>"
+            ],
+            [
+                "Mayoruna-38_aguafrescalitliquidonovo-1",
+                "Mayoruna",
+                "38_aguafrescalitliquidonovo",
+                "uma",
+                "<s> u.m </s> a"
+            ],
+            [
+                "Mayoruna-9_mulheresposa-1",
+                "Mayoruna",
+                "9_mulheresposa",
+                "awin",
+                "a w <s> i.n </s>"
+            ],
+            [
+                "Poyanawa-48_lingua-1",
+                "Poyanawa",
+                "48_lingua",
+                "\u00e3da",
+                "!\u00e3/a <s> ~.d </s> a"
+            ],
+            [
+                "Poyanawa-50_nome-1",
+                "Poyanawa",
+                "50_nome",
+                "\u00e3d\u0268",
+                "!\u00e3/a <s> ~.d </s> \u0268"
+            ],
+            [
+                "Proto-Panoan-14_lago-1",
+                "Proto-Panoan",
+                "14_lago",
+                "\u0294ian",
+                "\u0294 i <s> a.n </s>"
+            ],
+            [
+                "Proto-Panoan-22_dar-1",
+                "Proto-Panoan",
+                "22_dar",
+                "\u0294inar-",
+                "\u0294 i n <s> a.r </s>"
+            ],
+            [
+                "Proto-Panoan-25_dordoer-1",
+                "Proto-Panoan",
+                "25_dordoer",
+                "\u0294\u0129sir-",
+                "\u0294 \u0129 s <s> i.r </s>"
+            ],
+            [
+                "Proto-Panoan-2_capivara-1",
+                "Proto-Panoan",
+                "2_capivara",
+                "\u0294am\u0268[n]",
+                "\u0294 a m <s> \u0268.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-30_uruburei-1",
+                "Proto-Panoan",
+                "30_uruburei",
+                "\u0294i\u0283mi[n]",
+                "\u0294 i \u0283 m <s> i.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-35_olhar-1",
+                "Proto-Panoan",
+                "35_olhar",
+                "\u0294oi[n]-",
+                "\u0294 o <s> i.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-37_conheceraprender-1",
+                "Proto-Panoan",
+                "37_conheceraprender",
+                "\u0294o[n]a[n]-",
+                "\u0294 o r\u207f <s> a.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-38_aguafrescalitliquidonovo-1",
+                "Proto-Panoan",
+                "38_aguafrescalitliquidonovo",
+                "\u0294oma-pa\u0282a",
+                "\u0294 <s> o.m </s> a + p a \u0282 a"
+            ],
+            [
+                "Proto-Panoan-39_rir-1",
+                "Proto-Panoan",
+                "39_rir",
+                "\u0294osa[n]-",
+                "\u0294 o s <s> a.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-49_vomitar-1",
+                "Proto-Panoan",
+                "49_vomitar",
+                "ha[n]a[n]-",
+                "h a r\u207f <s> a.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-51_mutumdaespdafamcracidae-1",
+                "Proto-Panoan",
+                "51_mutumdaespdafamcracidae",
+                "h\u00e3si[n]",
+                "h \u00e3 s <s> i.r\u207f </s>"
+            ],
+            [
+                "Proto-Panoan-6_tipodeveneno-1",
+                "Proto-Panoan",
+                "6_tipodeveneno",
+                "\u0294a\u0282[an]-",
+                "\u0294 a \u0282 <s> a.n </s>"
+            ],
+            [
+                "Proto-Panoan-9_mulheresposa-1",
+                "Proto-Panoan",
+                "9_mulheresposa",
+                "\u0294awi[n]",
+                "\u0294 a w <s> i.r\u207f </s>"
+            ],
+            [
+                "Shanenawa-14_lago-1",
+                "Shanenawa",
+                "14_lago",
+                "yan",
+                "j <s> a.n </s>"
+            ],
+            [
+                "Shanenawa-22_dar-1",
+                "Shanenawa",
+                "22_dar",
+                "inan",
                 "i n <s> a.n </s>"
             ],
             [
-                "Sharanawa-dordoer-1",
-                "Sharanawa",
-                "dordoer",
+                "Shanenawa-25_dordoer-1",
+                "Shanenawa",
+                "25_dordoer",
                 "isin",
                 "i s <s> i.n </s>"
             ],
             [
-                "Sharanawa-dordoer-2",
-                "Sharanawa",
-                "dordoer",
-                "isian",
-                "i s <s> !ia.n/i.n </s>"
-            ],
-            [
-                "Sharanawa-lago-1",
-                "Sharanawa",
-                "lago",
-                "ian",
-                "i <s> a.n </s>"
-            ],
-            [
-                "Sharanawa-mutumdaespdafamcracidae-1",
-                "Sharanawa",
-                "mutumdaespdafamcracidae",
-                "asin",
-                "a s <s> i.n </s>"
-            ],
-            [
-                "Sharanawa-mutumdaespdafamcracidae-2",
-                "Sharanawa",
-                "mutumdaespdafamcracidae",
-                "asipan",
-                "a s <s> !i/i.n </s> p <s> a.n </s>"
-            ],
-            [
-                "Sharanawa-olhar-1",
-                "Sharanawa",
-                "olhar",
-                "oin",
-                "o <s> i.n </s>"
-            ],
-            [
-                "Sharanawa-olhar-2",
-                "Sharanawa",
-                "olhar",
-                "oian",
-                "o <s> !ia.n/a.n </s>"
-            ],
-            [
-                "Sharanawa-rir-1",
-                "Sharanawa",
-                "rir",
-                "osain",
-                "o s <s> !ai/a.n </s>"
-            ],
-            [
-                "Sharanawa-rir-2",
-                "Sharanawa",
-                "rir",
-                "osaan",
-                "o s <s> !aa.n/a.n </s>"
-            ],
-            [
-                "Sharanawa-tipodeveneno-1",
-                "Sharanawa",
-                "tipodeveneno",
-                "a\u0282ain",
-                "a \u0282 <s> !ai.n/a.n </s>"
-            ],
-            [
-                "Sharanawa-tipodeveneno-2",
-                "Sharanawa",
-                "tipodeveneno",
-                "a\u0282aan",
-                "a \u0282 <s> a.n </s>"
-            ],
-            [
-                "Sharanawa-uruburei-1",
-                "Sharanawa",
-                "uruburei",
-                "i\u0283min",
-                "i \u0283 m <s> i.n </s>"
-            ],
-            [
-                "Sharanawa-uruburei-2",
-                "Sharanawa",
-                "uruburei",
-                "i\u0283minon",
-                "i \u0283 m <s> i.n </s> o n"
-            ],
-            [
-                "Sharanawa-vomitar-1",
-                "Sharanawa",
-                "vomitar",
-                "anain",
-                "a n <s> !ai.n/a.n </s>"
-            ],
-            [
-                "Yawanawa-capivara-1",
-                "Yawanawa",
-                "capivara",
+                "Shanenawa-2_capivara-1",
+                "Shanenawa",
+                "2_capivara",
                 "aman",
                 "a m <s> a.n </s>"
             ],
             [
-                "Yawanawa-dordoer-1",
-                "Yawanawa",
-                "dordoer",
-                "isin",
-                "i s <s> i.n </s>"
-            ],
-            [
-                "Yawanawa-lago-1",
-                "Yawanawa",
-                "lago",
-                "ian",
-                "i <s> a.n </s>"
-            ],
-            [
-                "Yawanawa-mulheresposa-1",
-                "Yawanawa",
-                "mulheresposa",
-                "auin",
-                "a w <s> i.n </s>"
-            ],
-            [
-                "Yawanawa-olhar-1",
-                "Yawanawa",
-                "olhar",
-                "uian",
-                "u <s> !ia.n/a.n </s>"
-            ],
-            [
-                "Yawanawa-olhar-2",
-                "Yawanawa",
-                "olhar",
+                "Shanenawa-35_olhar-1",
+                "Shanenawa",
+                "35_olhar",
                 "uin",
                 "u <s> i.n </s>"
             ],
             [
-                "Yawanawa-rir-1",
+                "Shanenawa-49_vomitar-1",
+                "Shanenawa",
+                "49_vomitar",
+                "anain",
+                "a n <s> !ai.n/a.n </s>"
+            ],
+            [
+                "Shanenawa-51_mutumdaespdafamcracidae-1",
+                "Shanenawa",
+                "51_mutumdaespdafamcracidae",
+                "a\u0282in",
+                "a \u0282 <s> i.n </s>"
+            ],
+            [
+                "Shanenawa-9_mulheresposa-1",
+                "Shanenawa",
+                "9_mulheresposa",
+                "awin",
+                "a w <s> i.n </s>"
+            ],
+            [
+                "Sharanawa-14_lago-1",
+                "Sharanawa",
+                "14_lago",
+                "ian",
+                "i <s> a.n </s>"
+            ],
+            [
+                "Sharanawa-22_dar-1",
+                "Sharanawa",
+                "22_dar",
+                "inain",
+                "i n <s> ai.n </s>"
+            ],
+            [
+                "Sharanawa-22_dar-2",
+                "Sharanawa",
+                "22_dar",
+                "inaan",
+                "i n <s> a.n </s>"
+            ],
+            [
+                "Sharanawa-25_dordoer-1",
+                "Sharanawa",
+                "25_dordoer",
+                "isin",
+                "i s <s> i.n </s>"
+            ],
+            [
+                "Sharanawa-25_dordoer-2",
+                "Sharanawa",
+                "25_dordoer",
+                "isian",
+                "i s <s> !ia.n/i.n </s>"
+            ],
+            [
+                "Sharanawa-2_capivara-1",
+                "Sharanawa",
+                "2_capivara",
+                "am\u0268n",
+                "a m <s> \u0268.n </s>"
+            ],
+            [
+                "Sharanawa-30_uruburei-1",
+                "Sharanawa",
+                "30_uruburei",
+                "i\u0283min",
+                "i \u0283 m <s> i.n </s>"
+            ],
+            [
+                "Sharanawa-30_uruburei-2",
+                "Sharanawa",
+                "30_uruburei",
+                "i\u0283minon",
+                "i \u0283 m <s> i.n </s> o n"
+            ],
+            [
+                "Sharanawa-35_olhar-1",
+                "Sharanawa",
+                "35_olhar",
+                "oin",
+                "o <s> i.n </s>"
+            ],
+            [
+                "Sharanawa-35_olhar-2",
+                "Sharanawa",
+                "35_olhar",
+                "oian",
+                "o <s> !ia.n/a.n </s>"
+            ],
+            [
+                "Sharanawa-37_conheceraprender-1",
+                "Sharanawa",
+                "37_conheceraprender",
+                "onain",
+                "o n <s> !ai.n/a.n </s>"
+            ],
+            [
+                "Sharanawa-37_conheceraprender-2",
+                "Sharanawa",
+                "37_conheceraprender",
+                "onaan",
+                "o n <s> !aa.n/a.n </s>"
+            ],
+            [
+                "Sharanawa-39_rir-1",
+                "Sharanawa",
+                "39_rir",
+                "osain",
+                "o s <s> !ai/a.n </s>"
+            ],
+            [
+                "Sharanawa-39_rir-2",
+                "Sharanawa",
+                "39_rir",
+                "osaan",
+                "o s <s> !aa.n/a.n </s>"
+            ],
+            [
+                "Sharanawa-49_vomitar-1",
+                "Sharanawa",
+                "49_vomitar",
+                "anain",
+                "a n <s> !ai.n/a.n </s>"
+            ],
+            [
+                "Sharanawa-51_mutumdaespdafamcracidae-1",
+                "Sharanawa",
+                "51_mutumdaespdafamcracidae",
+                "asin",
+                "a s <s> i.n </s>"
+            ],
+            [
+                "Sharanawa-51_mutumdaespdafamcracidae-2",
+                "Sharanawa",
+                "51_mutumdaespdafamcracidae",
+                "asipan",
+                "a s <s> !i/i.n </s> p <s> a.n </s>"
+            ],
+            [
+                "Sharanawa-6_tipodeveneno-1",
+                "Sharanawa",
+                "6_tipodeveneno",
+                "a\u0282ain",
+                "a \u0282 <s> !ai.n/a.n </s>"
+            ],
+            [
+                "Sharanawa-6_tipodeveneno-2",
+                "Sharanawa",
+                "6_tipodeveneno",
+                "a\u0282aan",
+                "a \u0282 <s> a.n </s>"
+            ],
+            [
+                "Yawanawa-14_lago-1",
                 "Yawanawa",
-                "rir",
+                "14_lago",
+                "ian",
+                "i <s> a.n </s>"
+            ],
+            [
+                "Yawanawa-25_dordoer-1",
+                "Yawanawa",
+                "25_dordoer",
+                "isin",
+                "i s <s> i.n </s>"
+            ],
+            [
+                "Yawanawa-2_capivara-1",
+                "Yawanawa",
+                "2_capivara",
+                "aman",
+                "a m <s> a.n </s>"
+            ],
+            [
+                "Yawanawa-35_olhar-1",
+                "Yawanawa",
+                "35_olhar",
+                "uian",
+                "u <s> !ia.n/a.n </s>"
+            ],
+            [
+                "Yawanawa-35_olhar-2",
+                "Yawanawa",
+                "35_olhar",
+                "uin",
+                "u <s> i.n </s>"
+            ],
+            [
+                "Yawanawa-39_rir-1",
+                "Yawanawa",
+                "39_rir",
                 "u\u0283an",
                 "u \u0283 <s> a.n </s>"
             ],
             [
-                "Yawanawa-tipodeveneno-1",
+                "Yawanawa-49_vomitar-1",
                 "Yawanawa",
-                "tipodeveneno",
+                "49_vomitar",
+                "anan",
+                "a n <s> a.n </s>"
+            ],
+            [
+                "Yawanawa-6_tipodeveneno-1",
+                "Yawanawa",
+                "6_tipodeveneno",
                 "a\u0283an",
                 "a \u0283 <s> a.n </s>"
             ],
             [
-                "Yawanawa-vomitar-1",
+                "Yawanawa-9_mulheresposa-1",
                 "Yawanawa",
-                "vomitar",
-                "anan",
-                "a n <s> a.n </s>"
+                "9_mulheresposa",
+                "auin",
+                "a w <s> i.n </s>"
             ]
         ],
         "bad_words_count": 225,
         "bipa_errors": [
-            "!ai/a.n",
-            "a.l",
-            "\u00e1/a.n",
-            "\u0268.r\u207f",
-            "!i.m/i.n",
-            "n.d",
-            "i.r\u207f",
-            "i.r",
-            "!i/i.n",
-            "!\u0268\u0301/\u0268.n",
-            "s.s",
-            "a.r\u207f",
-            "!aa.n/a.n",
-            "!\u0268/\u0268.n",
-            "o.m",
-            "n.dz",
-            "u.n",
-            "~",
             "~.v",
-            "a.n",
-            "n.t\u0283",
-            "m.p",
-            "k.k",
-            "!\u0129/i.n",
-            "!\u00ed/i.n",
-            "u.h",
-            "u.m",
-            "!ia.n/i.n",
-            "!ai.n/a.n",
-            "\u00f3/o.n",
-            "i.n",
-            "!a/a.n",
-            "!/u.m",
-            "\u00e1/a.r\u207f",
-            "a.r",
+            "!aa.n/a.n",
             "n.t",
-            "ai.n",
-            "~.d",
-            "n.j",
+            "i.r",
+            "\u00f3/o.n",
             "!ia.n/a.n",
+            "!\u0268/\u0268.n",
+            "!a/a.n",
+            "!\u00ed/i.n",
+            "i.r\u207f",
+            "u.m",
+            "~",
+            "\u00e1/a.n",
+            "a.n",
+            "!ai/a.n",
+            "o.m",
+            "u.n",
             "\u0268.n",
+            "ai.n",
+            "a.l",
+            "u.h",
+            "!ia.n/i.n",
+            "a.r\u207f",
+            "!i.m/i.n",
+            "!i/i.n",
+            "!/u.m",
+            "k.k",
+            "o.n",
+            "!\u0129/i.n",
+            "s.s",
+            "n.dz",
+            "n.d",
+            "!\u0268\u0301/\u0268.n",
+            "!ai.n/a.n",
+            "i.n",
             "n.n",
-            "o.n"
+            "a.r",
+            "\u00e1/a.r\u207f",
+            "\u0268.r\u207f",
+            "~.d",
+            "n.t\u0283",
+            "n.j",
+            "m.p"
         ],
         "general_errors": 229,
         "invalid_words": [],
@@ -10907,49 +10907,49 @@
             ]
         },
         "sclass_errors": [
-            "!ai/a.n",
-            "a.l",
-            "\u00e1/a.n",
-            "\u0268.r\u207f",
-            "!i.m/i.n",
-            "n.d",
-            "i.r\u207f",
-            "i.r",
-            "!i/i.n",
-            "!\u0268\u0301/\u0268.n",
-            "s.s",
-            "a.r\u207f",
-            "!aa.n/a.n",
-            "!\u0268/\u0268.n",
-            "o.m",
-            "n.dz",
-            "u.n",
-            "~",
             "~.v",
-            "a.n",
-            "n.t\u0283",
-            "m.p",
-            "k.k",
-            "!\u0129/i.n",
-            "!\u00ed/i.n",
-            "u.h",
-            "u.m",
-            "!ia.n/i.n",
-            "!ai.n/a.n",
-            "\u00f3/o.n",
-            "i.n",
-            "!a/a.n",
-            "!/u.m",
-            "\u00e1/a.r\u207f",
-            "a.r",
+            "!aa.n/a.n",
             "n.t",
-            "ai.n",
-            "~.d",
-            "n.j",
+            "i.r",
+            "\u00f3/o.n",
             "!ia.n/a.n",
+            "!\u0268/\u0268.n",
+            "!a/a.n",
+            "!\u00ed/i.n",
+            "i.r\u207f",
+            "u.m",
+            "~",
+            "\u00e1/a.n",
+            "a.n",
+            "!ai/a.n",
+            "o.m",
+            "u.n",
             "\u0268.n",
+            "ai.n",
+            "a.l",
+            "u.h",
+            "!ia.n/i.n",
+            "a.r\u207f",
+            "!i.m/i.n",
+            "!i/i.n",
+            "!/u.m",
+            "k.k",
+            "o.n",
+            "!\u0129/i.n",
+            "s.s",
+            "n.dz",
+            "n.d",
+            "!\u0268\u0301/\u0268.n",
+            "!ai.n/a.n",
+            "i.n",
             "n.n",
-            "o.n"
+            "a.r",
+            "\u00e1/a.r\u207f",
+            "\u0268.r\u207f",
+            "~.d",
+            "n.t\u0283",
+            "n.j",
+            "m.p"
         ],
         "segments": {
             "!/a": 1,

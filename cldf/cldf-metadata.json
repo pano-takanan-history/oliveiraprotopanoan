@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "4714e5c",
+            "dc:created": "241eacb",
             "dc:title": "Repository"
         },
         {
@@ -256,7 +256,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 466,
+            "dc:extent": 470,
             "tableSchema": {
                 "columns": [
                     {

@@ -1,467 +1,471 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Proto_Concept,Proto_ID,Original_Concept
-fazermatar,"to make, to kill",,,,§1,"fazer, matar"
-macaxeiramandioca,"manioc, cassava",925,CASSAVA,,§2,"macaxeira, mandioca"
-capivara,cabybara,314,CAPYBARA,,§3,capivara
-grande,big,1202,BIG,,§4,grande
-sufixodeconcordanciadointransitivo,intransitive suffix of concordance,,,,§6,sufixo de concordância do intransitivo
-tipodeveneno,type of venom,,,,§7,tipo de veneno
-mulheresposa,"woman, wife",,,,§9,"mulher, esposa"
-tragar,to devour,,,,§10,tragar
-yo,I,1209,I,,§11,yo
-piolho,louse,1392,LOUSE,,§13,piolho
-lago,lake,624,LAKE,,§14,lago
-dono,owner,1036,OWNER,,§15,dono
-quentecalor,"hot, heat",,,,§17,"quente, calor"
-abracarsegurarnosbracos,"embrace, hold in arms",928,EMBRACE,,§18,"abraçar, segurar nos braços"
-seguirllevandoenlosbrazos,keep holding in arms,,,,§18a,seguir llevando en los brazos
-subir,to go up,705,GO UP (ASCEND),,§18b,subir
-criacaoanimaldomestico,"breeding, domestic animal",,,,§19,"criação, animal doméstico"
-dar,to give,1447,GIVE,,§20,dar
-espdeonca,species of jaguar,,,,§21,esp. de onça
-espdepeixeespdafamloricariidae,species of fish (Loricariidae),,,,§22,esp. de peixe (esp. da fam. Loricariidae)
-dordoer,"pain, to hurt",,,,§23,"dor, doer"
-japuespdepassarodafamicteridae,japu (bird of fam. Icteridae),,,,§24,japu (esp. de pássaro da fam. Icteridae)
-macacopretoespdemacacodafamatelidae,black monkey,,,,§25,macaco preto (esp. de macaco da fam Atelidae)
-muito,many,1198,MANY,,§27,muito
-uruburei,urubu rei,,,,§28,urubu rei
-pesado,heavy,1210,HEAVY,,§29,pesado
-arraia,stingray,1910,STINGRAY,,§30,arraia
-espdecarrapato,species of tick,,,,§31,esp. de carrapato
-chuva,rain,658,RAIN (PRECIPITATION),,§32,chuva
-olhar,to look,1819,LOOK,,§33,olhar
-tossir,to cough,879,COUGH,,§34,tossir
-conheceraprender,to learn,504,LEARN,,§35,"conhecer, aprender"
-aguafrescalitliquidonovo,fresh water,,,,§36,água fresca (lit. líquido novo)
-rir,to laugh,1355,LAUGH,,§37,rir
-dormir,to sleep,1585,SLEEP,,§38,dormir
-lua,moon,1313,MOON,,§39,lua
-sombra,shade,1388,SHADE,,§40,sombra
-chuparsugar,to suck,1421,SUCK,,§41,"chupar, sugar"
-eleesse,he,1211,HE,,§42,"ele, esse"
-espdegarca,species of heron,,,,§44,esp. de garça
-pisar,to step,2065,STEP (VERB),,§45,pisar
-lingua,tongue,1205,TONGUE,,§46,língua
-vomitar,to vomit,1278,VOMIT,,§47,vomitar
-nome,name,1405,NAME,,§48,nome
-mutumdaespdafamcracidae,curassow,315,CURASSOW,,§49,mutum (da esp. da fam. Cracidae)
-abertura,opening,,,,§50,abertura
-essetanto,that much,,,,§51,esse tanto
-3apessoadoplural,third person plural,,,,§52,3a pessoa do plural
-queoque,what,1236,WHAT,,§53,"que, o que"
-seusuadeledela,"his, her, of him, of her",2092,HIS OR HER,,§54,"seu, sua, dele, dela"
-caminhopicada,"way, path",2252,PATH,,§55,"caminho, picada"
-noiteescuro,"night, dark",,,,§56,"noite, escuro"
-tela,cloth,1616,CLOTH,,§57,tela
-rocado,swidden field for agriculture,429,SWIDDEN FIELD,,§58,roçado
-filhocrianca,child,1304,CHILD (YOUNG HUMAN),,§59,"filho, criança"
-espuma,foam,1768,FOAM,,§60,espuma
-plantar,to plant,1486,PLANT (SOMETHING),,§61,plantar
-sol,sun,1343,SUN,,§62,sol
-ovo,egg,744,EGG,,§63,ovo
-cochichar,to whisper,55,WHISPER,,§64,cochichar
-doce,sweet,717,SWEET,,§65,doce
-espdepeixe,species of fish,,,,§66,esp. de peixe
-papagaioespdafampsittacidae,parrot,882,PARROT,,§67,papagaio (esp. da fam. Psittacidae)
-trazerbuscar,"to bring, to search",,,,§69,"trazer, buscar"
-novo,new,1231,NEW,,§71,novo
-esquecerperder,"to forget, to lose",,,,§72,"esquecer, perder"
-lagrima,tear,1651,TEAR (OF EYE),,§73,lágrima
-ondas,waves,978,WAVE,,§74,ondas
-testacara,"forehead, face",,,,§75,"testa, cara"
-maridomacho,"husband, man",,,,§76,"marido, macho"
-varon,man,2106,MALE PERSON,,§77,varón
-espdearvoredafamphyllanthaceae,species of tree (Phyllanthaceae),,,,§78,esp. de árvore (da fam. Phyllanthaceae)
-olho,eye,1248,EYE,,§79,olho
-cortar,to cut,1432,CUT,,§80,cortar
-sobrancelhas,eyebrow,1173,EYEBROW,,§81,sobrancelhas
-finoraso,"thin, fine",2308,THIN,,§84,"fino, raso"
-sopacaldo,"soup, broth",1547,SOUP,,§85,"sopa, caldo"
-rostocara,face,1560,FACE,,§86,"rosto, cara"
-pegar,to catch,702,CATCH,,§87,pegar
-pelecouro,"skin, leather",3326,LEATHER OR HIDE,,§88,"pele, couro"
-carapana,mosquito,1509,MOSQUITO,,§90,carapanã
-fruto,fruit,1507,FRUIT,,§91,fruto
-marimbondocaba,"marimbondo, caba",,,,§92,"marimbondo, caba"
-buritimauritiaviniferamart,miriti palm,3811,MIRITI PALM,,§93,buriti (Mauritia vinifera Mart.)
-goiaba,guava,,,,§94,goiaba
-pluralizador,pluralizer,,,,§95,pluralizador
-espdepicapaudafampicidae,species of picapau (Picidae),,,,§96,esp. de picapau (da fam. Picidae)
-tipodecaixa,type of box,,,,§97,tipo de caixa
-espdepalmeira,species of palm,,,,§98,esp. de palmeira
-tocotronco,tree stump,241,TREE STUMP,,§99,"toco, tronco"
-espdepeixedafampimelodidae,species of fish (Pimelididae),,,,§100,esp. de peixe (da fam. Pimelodidae)
-ceradeabeja,bee wax,1931,BEESWAX,,§101,cera de abeja
-arbolpequenocuyacortezaseusaparahacersogas,species of tree with special use of bark,,,,§103,arbol pequeño cuya corteza se usa para hacer sogas
-espdeabelha,species of bee,,,,§104,esp. de abelha
-pelocabelo,hair,1040,HAIR,,§105,"pelo, cabelo"
-insecto,insect,620,INSECT,,§106,insecto
-espdelontra,species of otter,,,,§107,esp. de lontra
-sentarsentarse,to sit,1416,SIT,,§109,sentar (sentar-se)
-solucosolucar,"hiccough, to hiccup",162,HICCOUGH,,§111,"soluço, soluçar"
-cigarra,cicada,2353,CICADA,,§112,cigarra
-carvaobrasa,"amber, coal",1188,CHARCOAL,,§113,"carvão, brasa"
-brasa,amber,,,,§114,brasa
-quem,who,1235,WHO,,§115,quem
-pegaragarrarcomamao,"to catch, to graph with one's hand",855,SEIZE,,§116,"pegar, agarrar com a mão"
-picardaragulhadaferrarinjetarfurar,"poke, pierce, inject, drill",,,,§117,"picar, dar agulhada, ferrar, injetar, furar"
-amassarbatergolpear,"knead, hit, strike",,,,§118,"amassar, bater, golpear"
-mentir,to lie,601,LIE (MISLEAD),,§119,mentir
-espdemolusco,species of mollusc,,,,§120,esp. de molusco
-grilogafanhoto,grasshopper,607,GRASSHOPPER,,§121,"grilo, gafanhoto"
-martimpescardor,martim pescardor,,,,§122,martim pescardor
-espdeveado,species of deer,,,,§123,esp. de veado
-fogo,fire,221,FIRE,,§124,fogo
-cinzalitpopoeiradefogo,fire powder,,,,§125,cinza (lit. pó (poeira) de fogo)
-guiarumacanoaportras,to drive from behind,,,,§126,guiar (uma canoa) por trás
-parteposterior,back part,2323,BACK (PART),,§127,parte posterior
-lavarlavarse,"to wash, to wash oneself",1453,WASH,,§128,"lavar, lavar-se"
-telaroupa,"cloth, clothes",1895,CLOTHES,,§129,"tela, roupa"
-duroforte,"hard, strong",1884,HARD,,§130,"duro, forte"
-liquidoagua,"liquid, water",58,LIQUID,,§131,"líquido, água"
-tigredeaguanutria,otter,15,OTTER,,§132,"tigre de agua, nutria"
-deixarlargar,"to leave, to go away",1752,LEAVE,,§133,"deixar, largar"
-bilharqueimar,to burn,2102,BURN,,§135,"bilhar, queimar"
-semente,seed,714,SEED,,§136,semente
-entrar,to enter,749,ENTER,,§137,entrar
-espdeformiga,species of ant,,,,§138,esp. de formiga
-sangue,blood,946,BLOOD,,§140,sangue
-rabo,tail,1220,TAIL,,§141,rabo
-verolhar,"to see, to look",1409,SEE,,§142,"ver, olhar"
-clasedehormiga,class of ant,,,,§143,clase de hormiga
-urinarurina,"urine, to urinate",,,,§144,"urinar, urina"
-espdearvoreetambemseufruto,species of tree and it's fruit,,,,§145,esp. de árvore e também seu fruto
-arvoregenpaugen,"tree, stick",,,,§146,"árvore (gen.), pau (gen.)"
-ouvirescutarentender,"to hear, to listen, to understand",1408,HEAR,,§147,"ouvir, escutar, entender"
-bordalabios,"edge, lips",,,,§148,"borda, lábios"
-jacuespdepassaro,jacu (species of bird),437,GUAN,,§149,jacu (esp. de pássaro)
-desejar,to desire,2117,DESIRE,,§150,desejar
-chamar,to call,1084,CALL,,§151,chamar
-tipodebanco,type of bank,,,,§152,tipo de banco
-desenharpintar,"to design, to paint",,,,§153,"desenhar, pintar"
-barba,beard,678,BEARD,,§154,barba
-pontaextremo,"tip, end point",2992,TIP (OF OBJECT),,§155,"ponta, extremo"
-ensartar,to string together,,,,§156,ensartar
-labios,lips,478,LIP,,§157,lábios
-espdearara,species of arara,,,,§159,esp. de arara
-costas,back,1291,BACK,,§160,costas
-parente,relatives,1644,RELATIVES,,§161,parente
-tipodecesto,type of basket,,,,§162,tipo de cesto
-abacaxi,pineapple,2440,PINEAPPLE,,§163,abacaxi
-espdecobra,species of snake,,,,§165,esp. de cobra
-relampago,lightning,1654,LIGHTNING,,§167,relâmpago
-arco,bow,994,BOW,,§168,arco
-quatipuru,squirrel,1628,SQUIRREL,,§169,quatipuru
-jacare,caiman,2438,CAIMAN,,§170,jacaré
-cara,yam,410,YAM,,§171,cará
-lenha,firewood,10,FIREWOOD,,§172,lenha
-querer,to want,1784,WANT,,§173,querer
-costasprefixopartedocorpo,back (body-part prefix),,,,§175,costas (prefixo parte do corpo)
-costurar,to sew,1457,SEW,,§176,costurar
-vasilhaprato,"bowl, plate",,,,§177,"vasilha, prato"
-pedacocaco,"piece, shard",594,PIECE,,§179,"pedaço, caco"
-grossoespesso,thick,1244,THICK,,§180,"grosso, espesso"
-tipodepanela,type of pot,,,,§181,tipo de panela
-terminaracabar,"to finish, to end",1766,FINISH,,§182,"terminar, acabar"
-sufixolocativoablativo,locative ablative suffix,,,,§183,sufixo locativo ablativo
-buracoorificio,hole,1667,HOLE,,§184,"buraco, orifício"
-coxa,thigh,471,UPPER LEG (THIGH),,§185,coxa
-ferver,to boil,792,BOIL (OF LIQUID),,§187,ferver
-mandibula,jaw,798,JAW,,§188,mandíbula
-irmaodamae,maternal aunt,2693,MATERNAL AUNT (MOTHER'S SISTER),,§189,irmão da mãe
-vagalume,firefly,206,FIREFLY,,§190,vaga-lume
-ingeriralimentosmoles,ingest soft food,,,,§192,ingerir alimentos moles
-luciernaga,bat,1793,BAT,,§193,luciérnaga
-nambu,tinamou,3921,TINAMOU,,§194,nambu
-espdefungo,species of funghi,,,,§195,esp. de fungo
-pus,pus,1808,PUS,,§196,pus
-valor,value,,,,§197,valor
-cinzaacinzentado,"ash, gray",646,ASH,,§198,"cinza, acinzentado"
-cedro,cedrela odorata,3929,BRAZILIAN CEDAR,,§199,cedro
-cujubim,cujubim,,,,§200,cujubim
-sufixoverbalcausativo,verbal causative suffix,,,,§201,sufixo verbal causativo
-morrocolina,hill,614,HILL,,§202,"morro, colina"
-frio,cold,1287,COLD,,§204,frio
-chifredeanimal,animal horn,1393,HORN (ANATOMY),,§206,chifre de animal
-naterraporterra,on earth,,,,§208,"na terra, por terra"
-enterrar,to bury,1719,BURY,,§209a,enterrar
-faixaparaacabecachapeu,"headbelt, hat",2130,HEADGEAR,,§209,"faixa para a cabeça, chapéu"
-rato,rat,1490,RAT,,§210,rato
-esperar,to wait,1590,WAIT (FOR),,§213,esperar
-sobreencimaacima,above,1741,ABOVE,,§214,"sobre, encima, acima"
-metal,metal,2244,METAL,,§215,metal
-banana,banana,868,BANANA,,§216,banana
-sentirsaudade,to feel longing,2328,MISS (SOMEBODY),,§217,sentir saudade
-subirummorro,ascend,705,GO UP (ASCEND),,§218,subir (um morro)
-camarao,shrimp,2349,SHRIMP,,§219,camarão
-barropoeira,"clay, dust",,,,§221,"barro, poeira"
-espdeplanta,species of plant,,,,§222,esp. de planta
-cutiaespderoedor,cutia (species of rodent),313,AGOUTI,,§223,cutia (esp. de roedor)
-espdecabaca,species of gourd,,,,§224,esp. de cabaça
-areia,sand,671,SAND,,§225,areia
-pedra,stone,857,STONE,,§226,pedra
-urucumaarvoreeoseufruto,achiote,349,ACHIOTE,,§227,urucum (a árvore e o seu fruto)
-encimacume,atop,57,ATOP,,§228,"encima, cume"
-cortarocabelo,to cut hair,2155,CUT (WITH SCISSORS),,§229,cortar o cabelo
-golpearacabeca,to hit oneself's head,,,,§231,golpear a cabeça
-morrer,to die,1494,DIE,,§232,morrer
-torcergirarmoveremcirculos,"to twist, to turn, to move in circles",3199,TWIST (AROUND),,§234,"torcer, girar, mover em círculos"
-tocarmexercomamaotatear,"to touch, to stir with a hand, to grope",1892,TOUCH,,§235,"tocar, mexer com a mão, tatear"
-molharmolhado,"to wet, wet",,,,§236,"molhar, molhado"
-mao,hand,1277,HAND,,§237,mão
-unhadamao,fingernail,1258,FINGERNAIL,,§238,unha da mão
-maodireita,right hand,2183,RIGHT HAND,,§240,mão direita
-encontrarprocurar,to meet,1831,MEET,,§241,"encontrar, procurar"
-engatinhar,to crawl,96,CRAWL,,§242,engatinhar
-dedo,finger,1303,FINGER,,§243,dedo
-barreirocanama,clay pit,,,,§244,"barreiro, canamã"
-tuvoce,you (sg.),1215,THOU,,§245,"tu, você"
-vocesvos,you (pl.),1213,YOU,,§246a,"vocês, vós"
-pamonha,pamonha,,,,§247,pamonha
-anzol,fishhook,1074,FISHHOOK,,§248,anzol
-venenoamargo,"poison, bitter",,,,§249,"veneno, amargo"
-espinho,thorn,124,THORN,,§250,espinho
-ninho,nest,539,NEST,,§251,ninho
-ceu,sky,1732,SKY,,§253,céu
-espdemosquito,species of mosquito,,,,§254,esp. de mosquito
-cupim,termite,883,TERMITE,,§255,cupim
-sonar,dream,2374,DREAM,,§256,soñar
-abaixoembaixosob,"below, under",1485,BELOW OR UNDER,,§257,"abaixo, embaixo, sob"
-carne,meat,634,MEAT,,§258,carne
-jenipapo,genipa,3920,GENIPA,,§259,jenipapo
-colocardentrosubmergir,"to put inside, to dive",,,,§260,"colocar dentro, submergir"
-dentronocentro,"inside, in the center",1606,INSIDE,,§261,"dentro, no centro"
-banharsetomarbanho,"to bathe, to take a bath",138,BATHE,,§262,"banhar-se, tomar banho"
-largo,wide,1243,WIDE,,§263,largo
-morder,to bite,1403,BITE,,§264,morder
-estrangeiro,stranger,791,STRANGER,,§265,estrangeiro
-arcoiris,rainbow,1733,RAINBOW,,§266,arco íris
-capoeirarocaabandonada,abandoned rock,,,,§267,"capoeira, roça abandonada"
-jacamimespdepassaro,jacamim (species of bord),,,,§268,jacamim (esp. de pássaro)
-unirjuntar,"to join, to gather",7,GATHER,,§269,"unir, juntar"
-amarrar,to tie,1917,TIE,,§270,amarrar
-espdepassaro,species of bird,,,,§271,esp. de pássaro
-dia,day,1225,DAY (NOT NIGHT),,§272,día
-ficarempe,to stand,1442,STAND,,§273,ficar em pé
-matafloresta,forest,420,FOREST,,§274,"mata, floresta"
-brisa,breeze,,,,§275,brisa
-lacraiaescorpiao,"centipede, scorpion",,,,§276,"lacraia, escorpião"
-escurtarouvir,"to listen, to hear",1408,HEAR,,§277,"escurtar, ouvir"
-arrastar,to drag,2030,DRAG,,§278,arrastar
-suar,to sweat,126,SWEAT (PERSPIRE),,§279,suar
-unclear,unclear,,,,§280,unclear
-aborrecerse,to get bored,,,,§281,aborrecer-se
-vento,wind,960,WIND,,§282,vento
-nosnos,we,1212,WE,,§283,"nós, nos"
-profundo,deep,1593,DEEP,,§284,profundo
-espdecaramujo,species of snail,,,,§285,esp. de caramujo
-minhoca,earthworm,2350,EARTHWORM,,§286,minhoca
-gostosodelicioso,"tasty, delicious",1813,TASTY,,§288,"gostoso, delicioso"
-amargostar,"to love, to like",923,LOVE,,§289,"amar, gostar"
-apagar,to extinguish,127,EXTINGUISH,,§290,apagar
-nadar,to swim,1439,SWIM,,§291,nadar
-pato,duck,1360,DUCK,,§293,pato
-canoa,canoe,1970,CANOE,,§294,canoa
-voar,to fly,1441,FLY (MOVE THROUGH AIR),,§295,voar
-virchegar,"to come, to arrive",1387,ARRIVE,,§296,"vir, chegar"
-flor,flower,239,FLOWER,,§297,flor
-garraunha,claw,72,CLAW,,§298,"garra, unha"
-falavozpalavra,voice,1363,VOICE,,§299,"fala, voz, palavra"
-respirar,to breathe,1407,BREATHE,,§300,respirar
-coracao,heart,1223,HEART,,§301,coração
-esconder,to hide,602,HIDE (CONCEAL),,§302,esconder
-homemhumano,human,683,PERSON,,§303,"homem, humano"
-espdequeixadaporcodomato,species of pig,,,,§304,esp. de queixada (porco do mato)
-vermelho,red,156,RED,,§305,vermelho
-branco,white,1335,WHITE,,§306,branco
-lavar,to wash,1453,WASH,,§307,lavar
-embebedarsebebadoembriagado,"to get drunk, drunk",,,,§308,"embebedar-se, bêbado, embriagado"
-surdo,deaf,996,DEAF,,§309,surdo
-ouvido,hole of ear,3891,EARHOLE,,§310,ouvido
-espdetabocabambu,species of bamboo,,,,§311,esp. de taboca (bambu)
-espdetatu,species of armadillo,,,,§313,esp. de tatu
-enfeitedeorelhabrinco,"ear ornament, earring",770,EARRING,,§314,"enfeite de orelha, brinco"
-pai,father,1217,FATHER,,§315,pai
-enganar,to deceive,3230,DECEIVE,,§316,enganar
-rio,river,666,RIVER,,§317,rio
-amarelo,yellow,1424,YELLOW,,§319,amarelo
-novofrescocru,"new, fresh, raw",,,,§320,"novo, fresco, cru"
-ramadelarbol,branch of tree,1531,BRANCH,,§321,rama del árbol
-abanar,to fan,360,FAN (ACTION),,§323,abanar
-podre,rotten,1728,ROTTEN,,§324,podre
-asapena,"wing, feather",,,,§325,"asa, pena"
-comer,to eat,1336,EAT,,§326,comer
-sobrinhofilhodairma,nephew,1063,NEPHEW,,§327,"sobrinho, filho da irmã"
-flecha,arrow,977,ARROW,,§328,flecha
-periquito,parakeet,886,PARAKEET,,§329,periquito
-beijaflor,hummingbird,1589,HUMMINGBIRD,,§330,beija-flor
-espdetucano,species of tucan,,,,§331,esp. de tucano
-fedidofedor,"bad smell, stench",3704,ODOR (SMELL),,§332,"fedido, fedor"
-bolsapequena,small bag,,,,§334,bolsa pequena
-esteira,mat,195,MAT,,§335,esteira
-pequeno,small,1246,SMALL,,§336,pequeno
-comidacoisadecomer,food,256,FOOD,,§337,comida (coisa de comer)
-fezes,faeces,675,FAECES (EXCREMENT),,§338,fezes
-espdetuberculoinhame,species of tubercole,,,,§339,esp. de tubérculo (inhame?)
-irmaouirmaodosexooposto,sibling of the other sex,,,,§340,irmã ou irmão do sexo oposto
-intestinobarriga,"intestines, belly",,,,§341,"intestino, barriga"
-veia,vein,1924,VEIN,,§342,veia
-espdecoruja,species of owl,,,,§343,esp. de coruja
-espdepreguica,species of sloth,,,,§344,esp. de preguiça
-tornozelo,ankle,803,ANKLE,,§345,tornozelo
-jogarabandonar,"to play, to abandon",,,,§346,"jogar, abandonar"
-poeira,dust,2,DUST,,§347,poeira
-braco,arm,1673,ARM,,§348,braço
-agora,now,1376,NOW,,§349,agora
-remediomedicinatradicional,medicine,1372,MEDICINE,,§350,"remédio, medicina tradicional"
-termedoassustarse,"to fear, to be afraid",1419,FEAR (BE AFRAID),,§351,"ter medo, assustar-se"
-dois,two,1498,TWO,,§352,dois
-envergonharsetervergonha,"to be ashamed, to feel ashamed",1894,ASHAMED,,§353,"envergonhar-se, ter vergonha"
-rotulajoelho,"kneecap, knee",1371,KNEE,,§354,"rótula, joelho"
-deitarse,to lie down,215,LIE DOWN,,§356,deitar-se
-cobrirenvolver,"to cover, to embrace",761,COVER,,§357,"cobrir, envolver"
-pelodocorpo,body hair,189,HAIR (BODY),,§358,pelo do corpo
-joelho,knee,1371,KNEE,,§359,joelho
-matar,to kill,1417,KILL,,§360,matar
-pontacabeceiradorio,"tip, headwaters of river",2672,HEADWATERS,,§361,"ponta, cabeceira do rio"
-parafrenteparacimanorio,"in front of, above the river",,,,§362,"para frente, para cima (no rio)"
-buracodonariznarina,"nose hole, nostril",1178,NOSTRIL,,§363,"buraco do nariz, narina"
-moer,to grind,1033,GRIND,,§364,moer
-septonasal,nasal septum,,,,§365,septo nasal
-tombar,to fall,1280,FALL,,§366,tombar
-instrumentomusical,music instrument,,,,§367,instrumento musical
-igualdomesmojeitotambem,"same, of the same way, also",200,SAME,,§368,"igual, do mesmo jeito, também"
-espdemacaco,species of monkey,,,,§369,esp. de macaco
-fiocorda,"thread, rope",,,,§370,"fio, corda"
-fio,thread,1161,THREAD,,§371,fio
-guaribaespdemacacomonoaullador,"guariba (species of monkey), howler monkey",433,HOWLER MONKEY,,§372,"guariba (esp. de macaco), mono aullador"
-machado,axe,677,AXE,,§373,machado
-tabaco,tobacco,974,TOBACCO,,§374,tabaco
-cobra,snake,730,SNAKE,,§375,cobra
-fazerdietajejum,"to make a diet, to fast",3331,FASTING,,§376,"fazer dieta, jejum"
-levantarsuspender,"to lift, to suspend",,,,§377,"levantar, suspender"
-vestirroupa,to wear clothes,976,WEAR,,§380,vestir roupa
-bravo,brave,3,BRAVE,,§381,bravo
-quati,coati,2389,COATI (COATIMUNDI),,§382,quati
-bombonito,"good, well",1035,GOOD,,§383,"bom, bonito"
-peitoprefixopartedocorpo,chest (body-part prefix),,,,§384,peito (prefixo parte do corpo)
-espdearanha,species of spider,,,,§386,esp. de aranha
-pensar,to think,1415,THINK (REFLECT),,§387,pensar
-piumespdemosca,pium (species of fly),,,,§389,pium (esp.demosca)
-macacosagui,sagui monkey,,,,§390,macaco sagui
-claridade,clarity,,,,§391,claridade
-tamandua,anteater,181,ANTEATER,,§392,tamanduá
-bocejar,to yawn,1028,YAWN,,§394,bocejar
-cascadearvorepele,"bark of tree, skin",,,,§395,"casca de árvore, pele"
-quente,hot,1286,HOT,,§396,quente
-cunhadaesposaprimacruzada,"sister-in-law, wife, cross-cousin",,,,§397,"cunhada, esposa, prima cruzada"
-osso,bone,1394,BONE,,§398,osso
-algodao,cotton,1850,COTTON,,§399,algodão
-pilaopedra,"pestle, stone",857,STONE,,§400,"pilão, pedra"
-jabuti,jabuti,3949,RED-FOOTED TORTOISE,,§403,jabuti
-canadeacucar,sugar cane,146,SUGAR CANE,,§404,cana de açúcar
-debulharomilho,to thresh the corn,,,,§406,debulhar o milho
-espdelagartixa,species of lizard,,,,§408,esp. de lagartixa
-milho,maize,506,MAIZE,,§409,milho
-espdelagarta,species of caterpillar,,,,§410,esp. de lagarta
-espdearvore,species of tree,,,,§411,esp. de árvore
-gorduraoleo,"fat, oil",323,FAT (ORGANIC SUBSTANCE),,§412,"gordura, óleo"
-velho,old,1229,OLD,,§413,velho
-dentebicodeave,"tooth, beak of bird",,,,§414,"dente, bico (de ave)"
-urubu,vulture,1185,VULTURE,,§415,urubu
-cheirar,to smell,1586,SMELL (PERCEIVE),,§416,cheirar
-tetofeitodepalha,roof made of straw,769,ROOF,,§417,teto (feito de palha)
-benefactivo,benefactive,,,,§418,benefactivo
-sufixodeconcordanciatransitiva,transitive concordance suffix,,,,§419,sufixo de concordancia transitiva
-assar,to roast,1962,ROAST (SOMETHING),,§420,assar
-agulha,needle,1382,NEEDLE (FOR SEWING),,§421,agulha
-cocarcoceira,"itch, to itch",148,ITCH,,§422,"coçar, coceira"
-gordo,fat,1279,FAT (OBESE),,§423,gordo
-casa,house,1252,HOUSE,,§424,casa
-descascar,to peel,275,PEEL,,§425,descascar
-espdetucanogrande,species of large tucan,,,,§426,esp. de tucano grande
-pelarsemudardepele,"to peel oneself, to change skin",,,,§428,"pelar-se, mudar de pele"
-seiosleite,"breasts, milk",2129,BREAST OR MILK,,§429,"seios, leite"
-verdenaomaduro,"green, unripe",1958,UNRIPE,,§430,"verde, nãomaduro"
-vello,fur,580,FUR,,§432,vello
-meninamoca,young woman,77,YOUNG WOMAN,,§434,"menina, moça"
-pe,foot,1301,FOOT,,§436,pé
-tapiricasatemporaria,"tapiri, temporary home",,,,§437,"tapiri, casa temporária"
-figado,liver,1224,LIVER,,§438,fígado
-amendoim,groundnut,595,GROUNDNUT (PEANUT),,§439,amendoim
-bochecha,cheek,1730,CHEEK,,§440,bochecha
-probar,to try,1812,TRY,,§441,probar
-ponteplataforma,"bridge, platform",1011,BRIDGE,,§443,"ponte, plataforma"
-raiz,root,670,ROOT,,§444,raiz
-pauvelhopaupodre,"old stick, rotten stick",,,,§445,"pau velho, pau podre"
-rodar,to run,1519,RUN,,§446,rodar
-roupa,clothes,1895,CLOTHES,,§447,roupa
-sal,salt,1274,SALT,,§449,sal
-pauzadaamontoadodetroncoquedescenorio,branches that hang into the river,,,,§450,pauzada (amontoado de tronco que desce no rio)
-tabocautilizadaparafazerflechas,bamboo used for making arrows,,,,§451,taboca utilizada para fazer flechas
-quebrar,to break,680,BREAK (DESTROY OR GET DESTROYED),,§452,quebrar
-zarabatana,blowgun,432,BLOWGUN,,§453,zarabatana
-broto,sprout,3358,SPROUT (SHOOT),,§454,broto
-pescoco,neck,1333,NECK,,§455,pescoço
-espdegaviao,species of hawk,,,,§456,esp. de gavião
-pomodeadao,adam's apple,802,ADAM'S APPLE,,§457,pomo de adão
-nominalizadordeinstrumento,nominalizer for instruments,,,,§458,nominalizador de instrumento
-batergolpear,"to hit, to strike",1433,HIT,,§459,"bater, golpear"
-espingarda,shotgun,3948,SHOTGUN,,§460,espingarda
-coador,colander,,,,§461,coador
-engravidardaraluz,"to impregnate, to give birth",,,,§462,"engravidar, dar a luz"
-espderaousapo,species of frog,,,,§463,esp. de rã ou sapo
-azulescuro,dark blue,,,,§464,azul escuro
-verruga,wart,2665,WART,,§465,verruga
-fazer,to do,813,DO,,§466,fazer
-chacra,field,212,FIELD,,§467,chacra
-aguario,"water, river",,,,§468,"água, rio"
-pupunha,peach palm,3919,PEACH PALM,,§470,pupunha
-espdeabobora,species of pumpkin,,,,§471,esp. de abóbora
-varrerciscar,to sweep,230,SWEEP,,§473,"varrer, ciscar"
-erva,grass,606,GRASS,,§474,erva
-teiadearanha,spider web,1065,SPIDER WEB,,§475,teia de aranha
-sufixoverbalimperativo,verbal imperative suffix,,,,§477,sufixo verbal imperativo
-igarape,igarapé,,,,§478,igarapé (?)
-outro,other,197,OTHER,,§479,outro
-umnumeral,one,1493,ONE,,§480,um (numeral)
-canelaparteinferiordaperna,"cinnamon, lower part of leg",,,,§481,"canela, parte inferior da perna"
-cheiro,smell,3704,ODOR (SMELL),,§482,cheiro
-remar,to row,1849,ROW,,§483a,remar
-remo,oar,3137,OAR,,§483b,remo
-llorar,to cry,1839,CRY,,§484,llorar
-bordunabastao,stick,1295,STICK,,§485,"borduna, bastão"
-passar,to pass by,558,PASS BY,,§486,passar
-pantorrilha,calf,498,CALF OF LEG,,§487,pantorrilha
-negro,black,163,BLACK,,§488,negro
-estrela,star,1430,STAR,,§489,estrela
-comempossede,"with, in possession of",1340,WITH,,§490,"com, em posse de"
-cidadeassentamento,"city, settlement",1391,TOWN,,§492,"cidade, assentamento"
-sufixonegativo,negative suffix,,,,§493,sufixo negativo
-escuronoite,"dark, night",,,,§494,"escuro, noite"
-peixe,fish,227,FISH,,§496,peixe
-tarde,afternoon,1807,AFTERNOON,,§497,tarde
-dizerfalar,"to say, to speak",1458,SAY,,§500,"dizer, falar"
-animal,animal,619,ANIMAL,,§501,animal
-calorquente,"heat, hot",,,,§502,"calor, quente"
-terfebreesquentarse,"to have fever, to heat up (reflexive)",,,,§502a,"ter febre, esquentar-se"
-feiticeiro,sorcerer,823,SORCERER,,§503,feiticeiro
-espdepimenta,species of pepper,,,,§504,esp. de pimenta
-perguntar,to ask,1309,ASK (INQUIRE),,§505,perguntar
-fiolinhacorda,"thread, line, rope",,,,§507,"fio, linha, corda"
-roubar,to steal,713,STEAL,,§508,roubar
-gentecorpohumano,"person, human body",683,PERSON,,§509,"gente, corpo humano"
-crescer,to grow,479,GROW,,§510,crescer
-espirito,ghost,1175,GHOST,,§511,espírito
-mulhervelha,"woman, old woman",,,,§512,"mulher, velha"
-tenermiedo,to fear,,,,1,tener miedo
-tapir,tapir,,,0,§8,tapir
-jaguar,species of jaguar,,,0,§21,jaguar
-surubim,surubim,,,0,§68,surubim
-comitative,comitative,,,0,§70,comitative
-head,head,,,0,§108,head
-smoke,smoke,,,0,§186,smoke
-earth,earth,,,0,§207,earth
-piranha,piranha,,,0,§212,piranha
-paca,cutia (species of rodent),,,0,§223,paca
-chest,chest (body-part prefix),,,0,§384,chest
-papaya,papaya,,,0,§431,papaya
+0_fazermatar,"to make, to kill",,,,§1,"fazer, matar"
+1_macaxeiramandioca,"manioc, cassava",925,CASSAVA,,§2,"macaxeira, mandioca"
+2_capivara,cabybara,314,CAPYBARA,,§3,capivara
+5_sufixodeconcordanciadointransitivo,intransitive suffix of concordance,,,,§6,sufixo de concordância do intransitivo
+6_tipodeveneno,type of venom,,,,§7,tipo de veneno
+9_mulheresposa,"woman, wife",,,,§9a,"mulher, esposa"
+10_tragar,to devour,,,,§10,tragar
+11_yo,I,1209,I,,§11,yo
+12_grande,big,1202,BIG,,§12,grande
+13_piolho,louse,1392,LOUSE,,§13,piolho
+14_lago,lake,624,LAKE,,§14,lago
+15_dono,owner,1036,OWNER,,§15,dono
+17_quentecalor,"hot, heat",,,,§17,"quente, calor"
+18_abracarsegurarnosbracos,"embrace, hold in arms",928,EMBRACE,,§18,"abraçar, segurar nos braços"
+19_seguirllevandoenlosbrazos,keep holding in arms,,,,§18a,seguir llevando en los brazos
+20_subir,to go up,705,GO UP (ASCEND),,§18b,subir
+21_criacaoanimaldomestico,"breeding, domestic animal",,,,§19,"criação, animal doméstico"
+22_dar,to give,1447,GIVE,,§20,dar
+23_espdeonca,species of jaguar,,,,§21,esp. de onça
+24_espdepeixeespdafamloricariidae,species of fish (Loricariidae),,,,§22,esp. de peixe (esp. da fam. Loricariidae)
+25_dordoer,"pain, to hurt",,,,§23,"dor, doer"
+26_japuespdepassarodafamicteridae,japu (bird of fam. Icteridae),,,,§24,japu (esp. de pássaro da fam. Icteridae)
+27_macacopretoespdemacacodafamatelidae,black monkey,,,,§25,macaco preto (esp. de macaco da fam Atelidae)
+29_muito,many,1198,MANY,,§27,muito
+30_uruburei,urubu rei,,,,§28,urubu rei
+31_pesado,heavy,1210,HEAVY,,§29,pesado
+32_arraia,stingray,1910,STINGRAY,,§30,arraia
+34_chuva,rain,658,RAIN (PRECIPITATION),,§32,chuva
+35_olhar,to look,1819,LOOK,,§33,olhar
+36_tossir,to cough,879,COUGH,,§34,tossir
+37_conheceraprender,to learn,504,LEARN,,§35,"conhecer, aprender"
+38_aguafrescalitliquidonovo,fresh water,,,,§36,água fresca (lit. líquido novo)
+39_rir,to laugh,1355,LAUGH,,§37,rir
+40_dormir,to sleep,1585,SLEEP,,§38,dormir
+41_lua,moon,1313,MOON,,§39,lua
+42_sombra,shade,1388,SHADE,,§40,sombra
+43_chuparsugar,to suck,1421,SUCK,,§41,"chupar, sugar"
+44_eleesse,he,1211,HE,,§42,"ele, esse"
+47_pisar,to step,2065,STEP (VERB),,§45,pisar
+48_lingua,tongue,1205,TONGUE,,§46,língua
+49_vomitar,to vomit,1278,VOMIT,,§47,vomitar
+50_nome,name,1405,NAME,,§48,nome
+51_mutumdaespdafamcracidae,curassow,315,CURASSOW,,§49,mutum (da esp. da fam. Cracidae)
+52_abertura,opening,,,,§50,abertura
+53_essetanto,that much,,,,§51,esse tanto
+54_3apessoadoplural,third person plural,,,,§52,3a pessoa do plural
+55_queoque,what,1236,WHAT,,§53,"que, o que"
+56_seusuadeledela,"his, her, of him, of her",2092,HIS OR HER,,§54,"seu, sua, dele, dela"
+57_caminhopicada,"way, path",2252,PATH,,§55,"caminho, picada"
+58_noiteescuro,"night, dark",,,,§56,"noite, escuro"
+59_tela,cloth,1616,CLOTH,,§57,tela
+60_rocado,swidden field for agriculture,429,SWIDDEN FIELD,,§58,roçado
+61_filhocrianca,child,1304,CHILD (YOUNG HUMAN),,§59,"filho, criança"
+62_espuma,foam,1768,FOAM,,§60,espuma
+63_plantar,to plant,1486,PLANT (SOMETHING),,§61,plantar
+64_sol,sun,1343,SUN,,§62,sol
+65_ovo,egg,744,EGG,,§63,ovo
+66_cochichar,to whisper,55,WHISPER,,§64,cochichar
+67_doce,sweet,717,SWEET,,§65,doce
+69_papagaioespdafampsittacidae,parrot,882,PARROT,,§67,papagaio (esp. da fam. Psittacidae)
+71_trazerbuscar,"to bring, to search",,,,§69,"trazer, buscar"
+73_novo,new,1231,NEW,,§71,novo
+74_esquecerperder,"to forget, to lose",,,,§72,"esquecer, perder"
+75_lagrima,tear,1651,TEAR (OF EYE),,§73,lágrima
+76_ondas,waves,978,WAVE,,§74,ondas
+77_testacara,"forehead, face",,,,§75,"testa, cara"
+78_maridomacho,"husband, man",,,,§76,"marido, macho"
+79_varon,man,2106,MALE PERSON,,§77,varón
+80_espdearvoredafamphyllanthaceae,species of tree (Phyllanthaceae),,,,§78,esp. de árvore (da fam. Phyllanthaceae)
+81_olho,eye,1248,EYE,,§79,olho
+84_sobrancelhas,eyebrow,1173,EYEBROW,,§82,sobrancelhas
+86_finoraso,"thin, fine",2308,THIN,,§84,"fino, raso"
+87_sopacaldo,"soup, broth",1547,SOUP,,§85,"sopa, caldo"
+88_rostocara,face,1560,FACE,,§86,"rosto, cara"
+89_pegar,to catch,702,CATCH,,§87,pegar
+90_pelecouro,"skin, leather",3326,LEATHER OR HIDE,,§88,"pele, couro"
+91_espdegarca,species of heron,,,,§89,esp. de garça
+92_carapana,mosquito,1509,MOSQUITO,,§90,carapanã
+93_fruto,fruit,1507,FRUIT,,§91,fruto
+95_buritimauritiaviniferamart,miriti palm,3811,MIRITI PALM,,§93,buriti (Mauritia vinifera Mart.)
+96_goiaba,guava,,,,§94,goiaba
+97_pluralizador,pluralizer,,,,§95,pluralizador
+98_espdepicapaudafampicidae,species of picapau (Picidae),,,,§96,esp. de picapau (da fam. Picidae)
+99_tipodecaixa,type of box,,,,§97,tipo de caixa
+101_tocotronco,tree stump,241,TREE STUMP,,§99,"toco, tronco"
+102_espdepeixedafampimelodidae,species of fish (Pimelididae),,,,§100,esp. de peixe (da fam. Pimelodidae)
+103_ceradeabeja,bee wax,1931,BEESWAX,,§101,cera de abeja
+105_arbolpequenocuyacortezaseusaparahacersogas,species of tree with special use of bark,,,,§103,arbol pequeño cuya corteza se usa para hacer sogas
+106_espdeabelha,species of bee,,,,§104,esp. de abelha
+107_pelocabelo,hair,1040,HAIR,,§105,"pelo, cabelo"
+108_insecto,insect,620,INSECT,,§106,insecto
+109_espdelontra,species of otter,,,,§107,esp. de lontra
+111_sentarsentarse,to sit,1416,SIT,,§109,sentar (sentar-se)
+113_solucosolucar,"hiccough, to hiccup",162,HICCOUGH,,§111,"soluço, soluçar"
+114_cigarra,cicada,2353,CICADA,,§112,cigarra
+115_carvaobrasa,"amber, coal",1188,CHARCOAL,,§113,"carvão, brasa"
+116_brasa,amber,,,,§114,brasa
+117_quem,who,1235,WHO,,§115,quem
+118_pegaragarrarcomamao,"to catch, to graph with one's hand",855,SEIZE,,§116,"pegar, agarrar com a mão"
+119_picardaragulhadaferrarinjetarfurar,"poke, pierce, inject, drill",,,,§117,"picar, dar agulhada, ferrar, injetar, furar"
+120_amassarbatergolpear,"knead, hit, strike",,,,§118,"amassar, bater, golpear"
+121_mentir,to lie,601,LIE (MISLEAD),,§119,mentir
+122_espdemolusco,species of mollusc,,,,§120,esp. de molusco
+123_grilogafanhoto,grasshopper,607,GRASSHOPPER,,§121,"grilo, gafanhoto"
+124_martimpescardor,martim pescardor,,,,§122,martim pescardor
+125_espdeveado,species of deer,,,,§123,esp. de veado
+126_fogo,fire,221,FIRE,,§124,fogo
+127_cinzalitpopoeiradefogo,fire powder,,,,§125,cinza (lit. pó (poeira) de fogo)
+128_guiarumacanoaportras,to drive from behind,,,,§126,guiar (uma canoa) por trás
+129_parteposterior,back part,2323,BACK (PART),,§127,parte posterior
+130_lavarlavarse,"to wash, to wash oneself",1453,WASH,,§128,"lavar, lavar-se"
+131_telaroupa,"cloth, clothes",1895,CLOTHES,,§129,"tela, roupa"
+133_liquidoagua,"liquid, water",58,LIQUID,,§131,"líquido, água"
+134_tigredeaguanutria,otter,15,OTTER,,§132,"tigre de agua, nutria"
+135_deixarlargar,"to leave, to go away",1752,LEAVE,,§133,"deixar, largar"
+137_bilharqueimar,to burn,2102,BURN,,§135,"bilhar, queimar"
+138_semente,seed,714,SEED,,§136,semente
+139_entrar,to enter,749,ENTER,,§137,entrar
+142_sangue,blood,946,BLOOD,,§140,sangue
+143_rabo,tail,1220,TAIL,,§141,rabo
+144_verolhar,"to see, to look",1409,SEE,,§142,"ver, olhar"
+145_clasedehormiga,class of ant,,,,§143,clase de hormiga
+146_urinarurina,"urine, to urinate",,,,§144,"urinar, urina"
+147_espdearvoreetambemseufruto,species of tree and it's fruit,,,,§145,esp. de árvore e também seu fruto
+148_arvoregenpaugen,"tree, stick",,,,§146,"árvore (gen.), pau (gen.)"
+149_ouvirescutarentender,"to hear, to listen, to understand",1408,HEAR,,§147,"ouvir, escutar, entender"
+150_bordalabios,"edge, lips",,,,§148,"borda, lábios"
+151_jacuespdepassaro,jacu (species of bird),437,GUAN,,§149,jacu (esp. de pássaro)
+152_desejar,to desire,2117,DESIRE,,§150,desejar
+153_chamar,to call,1084,CALL,,§151,chamar
+154_tipodebanco,type of bank,,,,§152,tipo de banco
+155_desenharpintar,"to design, to paint",,,,§153,"desenhar, pintar"
+157_pontaextremo,"tip, end point",2992,TIP (OF OBJECT),,§155,"ponta, extremo"
+158_ensartar,to string together,,,,§156,ensartar
+159_labios,lips,478,LIP,,§157,lábios
+160_barba,beard,678,BEARD,,§158,barba
+162_costas,back,1291,BACK,,§160,costas
+163_parente,relatives,1644,RELATIVES,,§161,parente
+164_tipodecesto,type of basket,,,,§162,tipo de cesto
+165_abacaxi,pineapple,2440,PINEAPPLE,,§163,abacaxi
+167_espdecobra,species of snake,,,,§165,esp. de cobra
+168_espdearara,species of arara,,,,§166,esp. de arara
+169_relampago,lightning,1654,LIGHTNING,,§167,relâmpago
+170_arco,bow,994,BOW,,§168,arco
+171_quatipuru,squirrel,1628,SQUIRREL,,§169,quatipuru
+172_jacare,caiman,2438,CAIMAN,,§170,jacaré
+173_cara,yam,410,YAM,,§171,cará
+174_lenha,firewood,10,FIREWOOD,,§172,lenha
+175_querer,to want,1784,WANT,,§173,querer
+177_costasprefixopartedocorpo,back (body-part prefix),,,,§175,costas (prefixo parte do corpo)
+178_costurar,to sew,1457,SEW,,§176,costurar
+179_vasilhaprato,"bowl, plate",,,,§177,"vasilha, prato"
+180_duroforte,"hard, strong",1884,HARD,,§178,"duro, forte"
+181_pedacocaco,"piece, shard",594,PIECE,,§179,"pedaço, caco"
+182_grossoespesso,thick,1244,THICK,,§180,"grosso, espesso"
+183_tipodepanela,type of pot,,,,§181,tipo de panela
+184_terminaracabar,"to finish, to end",1766,FINISH,,§182,"terminar, acabar"
+185_sufixolocativoablativo,locative ablative suffix,,,,§183,sufixo locativo ablativo
+186_buracoorificio,hole,1667,HOLE,,§184,"buraco, orifício"
+187_coxa,thigh,471,UPPER LEG (THIGH),,§185,coxa
+189_ferver,to boil,792,BOIL (OF LIQUID),,§187,ferver
+190_mandibula,jaw,798,JAW,,§188,mandíbula
+191_irmaodamae,maternal aunt,2693,MATERNAL AUNT (MOTHER'S SISTER),,§189,irmão da mãe
+192_vagalume,firefly,206,FIREFLY,,§190,vaga-lume
+193_irmaodamae,maternal uncle,2692,MATERNAL UNCLE (MOTHER'S BROTHER),,§191,irmão da mãe
+194_ingeriralimentosmoles,ingest soft food,,,,§192,ingerir alimentos moles
+195_luciernaga,bat,1793,BAT,,§193,luciérnaga
+196_nambu,tinamou,3921,TINAMOU,,§194,nambu
+197_espdefungo,species of funghi,,,,§195,esp. de fungo
+198_pus,pus,1808,PUS,,§196,pus
+199_valor,value,,,,§197,valor
+200_cinzaacinzentado,"ash, gray",646,ASH,,§198,"cinza, acinzentado"
+201_cedro,cedrela odorata,3929,BRAZILIAN CEDAR,,§199,cedro
+202_cujubim,cujubim,,,,§200,cujubim
+203_sufixoverbalcausativo,verbal causative suffix,,,,§201,sufixo verbal causativo
+204_morrocolina,hill,614,HILL,,§202,"morro, colina"
+206_frio,cold,1287,COLD,,§204,frio
+210_naterraporterra,on earth,,,,§208,"na terra, por terra"
+211_enterrar,to bury,1719,BURY,,§209a,enterrar
+212_faixaparaacabecachapeu,"headbelt, hat",2130,HEADGEAR,,§209,"faixa para a cabeça, chapéu"
+216_esperar,to wait,1590,WAIT (FOR),,§213,esperar
+217_sobreencimaacima,above,1741,ABOVE,,§214,"sobre, encima, acima"
+218_metal,metal,2244,METAL,,§215,metal
+220_sentirsaudade,to feel longing,2328,MISS (SOMEBODY),,§217,sentir saudade
+221_subirummorro,ascend,705,GO UP (ASCEND),,§218,subir (um morro)
+222_camarao,shrimp,2349,SHRIMP,,§219,camarão
+224_barropoeira,"clay, dust",,,,§221,"barro, poeira"
+226_cutiaespderoedor,cutia (species of rodent),313,AGOUTI,,§223,cutia (esp. de roedor)
+228_areia,sand,671,SAND,,§225,areia
+229_pedra,stone,857,STONE,,§226,pedra
+230_urucumaarvoreeoseufruto,achiote,349,ACHIOTE,,§227,urucum (a árvore e o seu fruto)
+231_encimacume,atop,57,ATOP,,§228,"encima, cume"
+232_cortarocabelo,to cut hair,2155,CUT (WITH SCISSORS),,§229,cortar o cabelo
+233_chifredeanimal,animal horn,1393,HORN (ANATOMY),,§230,chifre de animal
+234_golpearacabeca,to hit oneself's head,,,,§231,golpear a cabeça
+235_morrer,to die,1494,DIE,,§232,morrer
+236_espdeformiga,species of ant,,,,§233,esp. de formiga
+237_torcergirarmoveremcirculos,"to twist, to turn, to move in circles",3199,TWIST (AROUND),,§234,"torcer, girar, mover em círculos"
+238_tocarmexercomamaotatear,"to touch, to stir with a hand, to grope",1892,TOUCH,,§235,"tocar, mexer com a mão, tatear"
+239_molharmolhado,"to wet, wet",,,,§236,"molhar, molhado"
+241_unhadamao,fingernail,1258,FINGERNAIL,,§238,unha da mão
+242_mao,hand,1277,HAND,,§239,mão
+243_maodireita,right hand,2183,RIGHT HAND,,§240,mão direita
+244_encontrarprocurar,to meet,1831,MEET,,§241,"encontrar, procurar"
+245_engatinhar,to crawl,96,CRAWL,,§242,engatinhar
+246_dedo,finger,1303,FINGER,,§243,dedo
+247_barreirocanama,clay pit,,,,§244,"barreiro, canamã"
+248_tuvoce,you (sg.),1215,THOU,,§245,"tu, você"
+249_vocesvos,you (pl.),1213,YOU,,§246a,"vocês, vós"
+250_pamonha,pamonha,,,,§247,pamonha
+251_anzol,fishhook,1074,FISHHOOK,,§248,anzol
+252_venenoamargo,"poison, bitter",,,,§249,"veneno, amargo"
+253_espinho,thorn,124,THORN,,§250,espinho
+254_ninho,nest,539,NEST,,§251,ninho
+256_ceu,sky,1732,SKY,,§253,céu
+257_espdemosquito,species of mosquito,,,,§254,esp. de mosquito
+258_cupim,termite,883,TERMITE,,§255,cupim
+259_sonar,dream,2374,DREAM,,§256,soñar
+260_abaixoembaixosob,"below, under",1485,BELOW OR UNDER,,§257,"abaixo, embaixo, sob"
+261_carne,meat,634,MEAT,,§258,carne
+262_jenipapo,genipa,3920,GENIPA,,§259,jenipapo
+263_colocardentrosubmergir,"to put inside, to dive",,,,§260,"colocar dentro, submergir"
+264_dentronocentro,"inside, in the center",1606,INSIDE,,§261,"dentro, no centro"
+265_banharsetomarbanho,"to bathe, to take a bath",138,BATHE,,§262,"banhar-se, tomar banho"
+266_largo,wide,1243,WIDE,,§263,largo
+267_morder,to bite,1403,BITE,,§264,morder
+268_estrangeiro,stranger,791,STRANGER,,§265,estrangeiro
+269_arcoiris,rainbow,1733,RAINBOW,,§266,arco íris
+270_capoeirarocaabandonada,abandoned rock,,,,§267,"capoeira, roça abandonada"
+271_jacamimespdepassaro,jacamim (species of bord),,,,§268,jacamim (esp. de pássaro)
+272_unirjuntar,"to join, to gather",7,GATHER,,§269,"unir, juntar"
+273_amarrar,to tie,1917,TIE,,§270,amarrar
+274_espdepassaro,species of bird,,,,§271,esp. de pássaro
+275_dia,day,1225,DAY (NOT NIGHT),,§272,día
+276_ficarempe,to stand,1442,STAND,,§273,ficar em pé
+277_matafloresta,forest,420,FOREST,,§274,"mata, floresta"
+278_brisa,breeze,,,,§275,brisa
+279_lacraiaescorpiao,"centipede, scorpion",,,,§276,"lacraia, escorpião"
+280_escurtarouvir,"to listen, to hear",1408,HEAR,,§277,"escurtar, ouvir"
+281_arrastar,to drag,2030,DRAG,,§278,arrastar
+282_suar,to sweat,126,SWEAT (PERSPIRE),,§279,suar
+283_unclear,unclear,,,,§280,unclear
+284_aborrecerse,to get bored,,,,§281,aborrecer-se
+285_vento,wind,960,WIND,,§282,vento
+286_nosnos,we,1212,WE,,§283,"nós, nos"
+287_profundo,deep,1593,DEEP,,§284,profundo
+289_minhoca,earthworm,2350,EARTHWORM,,§286,minhoca
+290_espdecaramujo,species of snail,,,,§287,esp. de caramujo
+291_gostosodelicioso,"tasty, delicious",1813,TASTY,,§288,"gostoso, delicioso"
+292_amargostar,"to love, to like",923,LOVE,,§289,"amar, gostar"
+293_apagar,to extinguish,127,EXTINGUISH,,§290,apagar
+295_nadar,to swim,1439,SWIM,,§292,nadar
+296_pato,duck,1360,DUCK,,§293,pato
+297_canoa,canoe,1970,CANOE,,§294,canoa
+298_voar,to fly,1441,FLY (MOVE THROUGH AIR),,§295,voar
+299_virchegar,"to come, to arrive",1387,ARRIVE,,§296,"vir, chegar"
+300_flor,flower,239,FLOWER,,§297,flor
+301_garraunha,claw,72,CLAW,,§298,"garra, unha"
+302_falavozpalavra,voice,1363,VOICE,,§299,"fala, voz, palavra"
+303_respirar,to breathe,1407,BREATHE,,§300,respirar
+304_coracao,heart,1223,HEART,,§301,coração
+305_esconder,to hide,602,HIDE (CONCEAL),,§302,esconder
+306_homemhumano,human,683,PERSON,,§303,"homem, humano"
+308_vermelho,red,156,RED,,§305,vermelho
+309_branco,white,1335,WHITE,,§306,branco
+310_lavar,to wash,1453,WASH,,§307,lavar
+311_embebedarsebebadoembriagado,"to get drunk, drunk",,,,§308,"embebedar-se, bêbado, embriagado"
+313_ouvido,hole of ear,3891,EARHOLE,,§310,ouvido
+314_espdetabocabambu,species of bamboo,,,,§311,esp. de taboca (bambu)
+317_enfeitedeorelhabrinco,"ear ornament, earring",770,EARRING,,§314,"enfeite de orelha, brinco"
+318_pai,father,1217,FATHER,,§315,pai
+319_enganar,to deceive,3230,DECEIVE,,§316,enganar
+320_rio,river,666,RIVER,,§317,rio
+321_amarelo,yellow,1424,YELLOW,,§319,amarelo
+322_novofrescocru,"new, fresh, raw",,,,§320,"novo, fresco, cru"
+323_ramadelarbol,branch of tree,1531,BRANCH,,§321,rama del árbol
+324_surdo,deaf,996,DEAF,,§322,surdo
+325_abanar,to fan,360,FAN (ACTION),,§323,abanar
+326_podre,rotten,1728,ROTTEN,,§324,podre
+327_asapena,"wing, feather",,,,§325,"asa, pena"
+328_comer,to eat,1336,EAT,,§326,comer
+329_sobrinhofilhodairma,nephew,1063,NEPHEW,,§327,"sobrinho, filho da irmã"
+330_flecha,arrow,977,ARROW,,§328,flecha
+331_periquito,parakeet,886,PARAKEET,,§329,periquito
+332_beijaflor,hummingbird,1589,HUMMINGBIRD,,§330,beija-flor
+333_espdetucano,species of tucan,,,,§331,esp. de tucano
+334_fedidofedor,"bad smell, stench",3704,ODOR (SMELL),,§332,"fedido, fedor"
+335_espdecobra,species of cobra,,,,§333,esp. de cobra
+336_bolsapequena,small bag,,,,§334,bolsa pequena
+337_esteira,mat,195,MAT,,§335,esteira
+339_comidacoisadecomer,food,256,FOOD,,§337,comida (coisa de comer)
+340_fezes,faeces,675,FAECES (EXCREMENT),,§338,fezes
+341_espdetuberculoinhame,species of tubercole,,,,§339,esp. de tubérculo (inhame?)
+342_irmaouirmaodosexooposto,sibling of the other sex,,,,§340,irmã ou irmão do sexo oposto
+343_intestinobarriga,"intestines, belly",,,,§341,"intestino, barriga"
+344_veia,vein,1924,VEIN,,§342,veia
+345_espdecoruja,species of owl,,,,§343,esp. de coruja
+346_espdepreguica,species of sloth,,,,§344,esp. de preguiça
+347_tornozelo,ankle,803,ANKLE,,§345,tornozelo
+348_jogarabandonar,"to play, to abandon",,,,§346,"jogar, abandonar"
+349_poeira,dust,2,DUST,,§347,poeira
+350_braco,arm,1673,ARM,,§348,braço
+351_agora,now,1376,NOW,,§349,agora
+352_remediomedicinatradicional,medicine,1372,MEDICINE,,§350,"remédio, medicina tradicional"
+353_termedoassustarse,"to fear, to be afraid",1419,FEAR (BE AFRAID),,§351,"ter medo, assustar-se"
+354_dois,two,1498,TWO,,§352,dois
+355_envergonharsetervergonha,"to be ashamed, to feel ashamed",1894,ASHAMED,,§353,"envergonhar-se, ter vergonha"
+356_rotulajoelho,"kneecap, knee",1371,KNEE,,§354,"rótula, joelho"
+358_deitarse,to lie down,215,LIE DOWN,,§356,deitar-se
+359_cobrirenvolver,"to cover, to embrace",761,COVER,,§357,"cobrir, envolver"
+360_pelodocorpo,body hair,189,HAIR (BODY),,§358,pelo do corpo
+361_joelho,knee,1371,KNEE,,§359,joelho
+362_matar,to kill,1417,KILL,,§360,matar
+363_pontacabeceiradorio,"tip, headwaters of river",2672,HEADWATERS,,§361,"ponta, cabeceira do rio"
+364_parafrenteparacimanorio,"in front of, above the river",,,,§362,"para frente, para cima (no rio)"
+365_buracodonariznarina,"nose hole, nostril",1178,NOSTRIL,,§363,"buraco do nariz, narina"
+366_moer,to grind,1033,GRIND,,§364,moer
+367_septonasal,nasal septum,,,,§365,septo nasal
+368_tombar,to fall,1280,FALL,,§366,tombar
+369_instrumentomusical,music instrument,,,,§367,instrumento musical
+370_igualdomesmojeitotambem,"same, of the same way, also",200,SAME,,§368,"igual, do mesmo jeito, também"
+372_fiocorda,"thread, rope",,,,§370,"fio, corda"
+373_fio,thread,1161,THREAD,,§371,fio
+374_guaribaespdemacacomonoaullador,"guariba (species of monkey), howler monkey",433,HOWLER MONKEY,,§372,"guariba (esp. de macaco), mono aullador"
+376_tabaco,tobacco,974,TOBACCO,,§374,tabaco
+377_cobra,snake,730,SNAKE,,§375,cobra
+378_fazerdietajejum,"to make a diet, to fast",3331,FASTING,,§376,"fazer dieta, jejum"
+379_levantarsuspender,"to lift, to suspend",,,,§377,"levantar, suspender"
+382_vestirroupa,to wear clothes,976,WEAR,,§380,vestir roupa
+383_bravo,brave,3,BRAVE,,§381,bravo
+384_quati,coati,2389,COATI (COATIMUNDI),,§382,quati
+385_bombonito,"good, well",1035,GOOD,,§383,"bom, bonito"
+386_peitoprefixopartedocorpo,chest (body-part prefix),,,,§384,peito (prefixo parte do corpo)
+387_espdeplanta,species of plant,,,,§385,esp. de planta
+388_espdearanha,species of spider,,,,§386,esp. de aranha
+389_pensar,to think,1415,THINK (REFLECT),,§387,pensar
+391_piumespdemosca,pium (species of fly),,,,§389,pium (esp.demosca)
+392_macacosagui,sagui monkey,,,,§390,macaco sagui
+393_claridade,clarity,,,,§391,claridade
+394_tamandua,anteater,181,ANTEATER,,§392,tamanduá
+395_cortar,to cut,1432,CUT,,§393,cortar
+396_bocejar,to yawn,1028,YAWN,,§394,bocejar
+397_cascadearvorepele,"bark of tree, skin",,,,§395,"casca de árvore, pele"
+398_quente,hot,1286,HOT,,§396,quente
+399_cunhadaesposaprimacruzada,"sister-in-law, wife, cross-cousin",,,,§397,"cunhada, esposa, prima cruzada"
+400_osso,bone,1394,BONE,,§398,osso
+402_pilaopedra,"pestle, stone",857,STONE,,§400,"pilão, pedra"
+403_espdecabaca,species of gourd,,,,§401,esp. de cabaça
+404_espdearara,species of macaw,,,,§402,esp. de arara
+405_jabuti,jabuti,3949,RED-FOOTED TORTOISE,,§403,jabuti
+406_canadeacucar,sugar cane,146,SUGAR CANE,,§404,cana de açúcar
+407_tragar,to swallow,897,SWALLOW,,§405,tragar
+408_debulharomilho,to thresh the corn,,,,§406,debulhar o milho
+410_espdelagartixa,species of lizard,,,,§408,esp. de lagartixa
+411_milho,maize,506,MAIZE,,§409,milho
+412_espdelagarta,species of caterpillar,,,,§410,esp. de lagarta
+413_espdearvore,species of tree,,,,§411,esp. de árvore
+414_gorduraoleo,"fat, oil",323,FAT (ORGANIC SUBSTANCE),,§412,"gordura, óleo"
+415_velho,old,1229,OLD,,§413,velho
+416_dentebicodeave,"tooth, beak of bird",,,,§414,"dente, bico (de ave)"
+417_urubu,vulture,1185,VULTURE,,§415,urubu
+418_cheirar,to smell,1586,SMELL (PERCEIVE),,§416,cheirar
+419_tetofeitodepalha,roof made of straw,769,ROOF,,§417,teto (feito de palha)
+420_benefactivo,benefactive,,,,§418,benefactivo
+421_sufixodeconcordanciatransitiva,transitive concordance suffix,,,,§419,sufixo de concordancia transitiva
+422_assar,to roast,1962,ROAST (SOMETHING),,§420,assar
+423_agulha,needle,1382,NEEDLE (FOR SEWING),,§421,agulha
+424_cocarcoceira,"itch, to itch",148,ITCH,,§422,"coçar, coceira"
+425_gordo,fat,1279,FAT (OBESE),,§423,gordo
+426_casa,house,1252,HOUSE,,§424,casa
+427_descascar,to peel,275,PEEL,,§425,descascar
+428_espdetucanogrande,species of large tucan,,,,§426,esp. de tucano grande
+429_pequeno,small,1246,SMALL,,§427,pequeno
+430_pelarsemudardepele,"to peel oneself, to change skin",,,,§428,"pelar-se, mudar de pele"
+431_seiosleite,"breasts, milk",2129,BREAST OR MILK,,§429,"seios, leite"
+432_verdenaomaduro,"green, unripe",1958,UNRIPE,,§430,"verde, nãomaduro"
+434_vello,fur,580,FUR,,§432,vello
+436_meninamoca,young woman,77,YOUNG WOMAN,,§434,"menina, moça"
+437_rato,rat,1490,RAT,,§435,rato
+438_pe,foot,1301,FOOT,,§436,pé
+439_tapiricasatemporaria,"tapiri, temporary home",,,,§437,"tapiri, casa temporária"
+440_figado,liver,1224,LIVER,,§438,fígado
+441_amendoim,groundnut,595,GROUNDNUT (PEANUT),,§439,amendoim
+442_bochecha,cheek,1730,CHEEK,,§440,bochecha
+443_probar,to try,1812,TRY,,§441,probar
+444_espdepalmeira,species of palm,,,,§442,esp. de palmeira
+445_ponteplataforma,"bridge, platform",1011,BRIDGE,,§443,"ponte, plataforma"
+446_raiz,root,670,ROOT,,§444,raiz
+447_pauvelhopaupodre,"old stick, rotten stick",,,,§445,"pau velho, pau podre"
+448_rodar,to run,1519,RUN,,§446,rodar
+449_roupa,clothes,1895,CLOTHES,,§447,roupa
+451_sal,salt,1274,SALT,,§449,sal
+452_pauzadaamontoadodetroncoquedescenorio,branches that hang into the river,,,,§450,pauzada (amontoado de tronco que desce no rio)
+453_tabocautilizadaparafazerflechas,bamboo used for making arrows,,,,§451,taboca utilizada para fazer flechas
+454_quebrar,to break,680,BREAK (DESTROY OR GET DESTROYED),,§452,quebrar
+455_zarabatana,blowgun,432,BLOWGUN,,§453,zarabatana
+456_broto,sprout,3358,SPROUT (SHOOT),,§454,broto
+457_pescoco,neck,1333,NECK,,§455,pescoço
+458_espdegaviao,species of hawk,,,,§456,esp. de gavião
+459_pomodeadao,adam's apple,802,ADAM'S APPLE,,§457,pomo de adão
+460_nominalizadordeinstrumento,nominalizer for instruments,,,,§458,nominalizador de instrumento
+461_batergolpear,"to hit, to strike",1433,HIT,,§459,"bater, golpear"
+462_espingarda,shotgun,3948,SHOTGUN,,§460,espingarda
+463_coador,colander,,,,§461,coador
+464_engravidardaraluz,"to impregnate, to give birth",,,,§462,"engravidar, dar a luz"
+465_espderaousapo,species of frog,,,,§463,esp. de rã ou sapo
+466_azulescuro,dark blue,,,,§464,azul escuro
+467_verruga,wart,2665,WART,,§465,verruga
+468_fazer,to do,813,DO,,§466,fazer
+469_chacra,field,212,FIELD,,§467,chacra
+470_aguario,"water, river",,,,§468,"água, rio"
+472_pupunha,peach palm,3919,PEACH PALM,,§470,pupunha
+473_espdeabobora,species of pumpkin,,,,§471,esp. de abóbora
+474_espdemacaco,species of monkey,,,,§472,esp. de macaco
+475_varrerciscar,to sweep,230,SWEEP,,§473,"varrer, ciscar"
+476_erva,grass,606,GRASS,,§474,erva
+477_teiadearanha,spider web,1065,SPIDER WEB,,§475,teia de aranha
+478_algodao,cotton,1850,COTTON,,§476,algodão
+479_sufixoverbalimperativo,verbal imperative suffix,,,,§477,sufixo verbal imperativo
+480_igarape,igarapé,,,,§478,igarapé (?)
+481_outro,other,197,OTHER,,§479,outro
+482_umnumeral,one,1493,ONE,,§480,um (numeral)
+483_canelaparteinferiordaperna,"cinnamon, lower part of leg",,,,§481,"canela, parte inferior da perna"
+484_cheiro,smell,3704,ODOR (SMELL),,§482,cheiro
+485_remar,to row,1849,ROW,,§483a,remar
+486_remo,oar,3137,OAR,,§483b,remo
+487_llorar,to cry,1839,CRY,,§484,llorar
+488_bordunabastao,stick,1295,STICK,,§485,"borduna, bastão"
+489_passar,to pass by,558,PASS BY,,§486,passar
+490_pantorrilha,calf,498,CALF OF LEG,,§487,pantorrilha
+491_negro,black,163,BLACK,,§488,negro
+492_estrela,star,1430,STAR,,§489,estrela
+493_comempossede,"with, in possession of",1340,WITH,,§490,"com, em posse de"
+494_espdecarrapato,species of tick,,,,§491,esp. de carrapato
+495_cidadeassentamento,"city, settlement",1391,TOWN,,§492,"cidade, assentamento"
+496_sufixonegativo,negative suffix,,,,§493,sufixo negativo
+497_escuronoite,"dark, night",,,,§494,"escuro, noite"
+498_machado,axe,677,AXE,,§495,machado
+499_peixe,fish,227,FISH,,§496,peixe
+500_tarde,afternoon,1807,AFTERNOON,,§497,tarde
+501_espdequeixadaporcodomato,species of pig,,,,§498,esp. de queixada (porco do mato)
+502_espdetatu,species of armadillo,,,,§499,esp. de tatu
+503_dizerfalar,"to say, to speak",1458,SAY,,§500,"dizer, falar"
+504_animal,animal,619,ANIMAL,,§501,animal
+505_calorquente,"heat, hot",,,,§502,"calor, quente"
+506_terfebreesquentarse,"to have fever, to heat up (reflexive)",,,,§502a,"ter febre, esquentar-se"
+507_feiticeiro,sorcerer,823,SORCERER,,§503,feiticeiro
+508_espdepimenta,species of pepper,,,,§504,esp. de pimenta
+509_perguntar,to ask,1309,ASK (INQUIRE),,§505,perguntar
+510_espdepeixe,species of fish,,,,§506,esp. de peixe
+511_fiolinhacorda,"thread, line, rope",,,,§507,"fio, linha, corda"
+512_roubar,to steal,713,STEAL,,§508,roubar
+513_gentecorpohumano,"person, human body",683,PERSON,,§509,"gente, corpo humano"
+514_crescer,to grow,479,GROW,,§510,crescer
+515_espirito,ghost,1175,GHOST,,§511,espírito
+516_mulhervelha,"woman, old woman",,,,§512,"mulher, velha"
+517_tenermiedo,to fear,,,,1,tener miedo
+26_tapir,tapir,,,0,§8,tapir
+86_jaguar,species of jaguar,,,0,§21,jaguar
+329_comitative,comitative,,,0,§70,comitative
+472_surubim,species of fish (Pimelididae),,,0,§100,surubim
+503_head,head,,,0,§108,head
+869_smoke,smoke,,,0,§186,smoke
+965_earth,earth,,,0,§207,earth
+990_piranha,piranha,,,0,§212,piranha
+1040_paca,cutia (species of rodent),,,0,§223,paca
+1490_marimbondocaba,species of cobra,,,0,§333,"marimbondo, caba"
+1741_chest,chest (body-part prefix),,,0,§384,chest
+1746_banana,species of plant,,,0,§385,banana
+1947_papaya,papaya,,,0,§431,papaya
