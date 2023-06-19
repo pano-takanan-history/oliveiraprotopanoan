@@ -206,107 +206,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------------|:-------------|:-------------------------|:-----------|:-----------------------------------|
-| Amawaka-capivara-1 | Amawaka | capivara | ʔamɨn | ʔ a m <s> ɨ.n </s> |
-| Amawaka-dar-2 | Amawaka | dar | ʔinan-kín | ʔ i n <s> a.n </s> + k !í/i n |
-| Amawaka-dordoer-1 | Amawaka | dordoer | ʔísin | ʔ !í/i s <s> i.n </s> |
-| Amawaka-dordoer-2 | Amawaka | dordoer | ʔísinín | ʔ !í/i s <s> i.n </s> !í/i n |
-| Amawaka-lago-1 | Amawaka | lago | ʔí̃yan | ʔ í̃/ĩ j <s> a.n </s> |
-| Amawaka-mulheresposa-1 | Amawaka | mulheresposa | ʔaín | ʔ a <s> !í/i.n </s> |
-| Amawaka-mulheresposa-2 | Amawaka | mulheresposa | ʔáiní | ʔ !á/a <s> i.n </s> !í/i |
-| Amawaka-uruburei-1 | Amawaka | uruburei | ʔíʃmin | ʔ !í/i ʃ m <s> i.n </s> |
-| Chakobo-capivara-1 | Chakobo | capivara | amɨno | a m <s> ɨ.n </s> o |
-| Chakobo-capivara-2 | Chakobo | capivara | amɨ | a m <s> !ɨ/ɨ.n </s> |
-| Chakobo-mulheresposa-1 | Chakobo | mulheresposa | ʔaˈwini | ʔ a w <s> i.n </s> i |
-| Chakobo-mulheresposa-2 | Chakobo | mulheresposa | awí | !/ʔ a w <s> !í/i.n </s> |
-| Chakobo-mutumdaespdafamcracidae-1 | Chakobo | mutumdaespdafamcracidae | hasíni | h a s <s> !í/i.n </s> i |
-| Chakobo-mutumdaespdafamcracidae-2 | Chakobo | mutumdaespdafamcracidae | haˈsini | h a s <s> i.n </s> i |
-| Chakobo-mutumdaespdafamcracidae-3 | Chakobo | mutumdaespdafamcracidae | haˈsi | h a s <s> !i/i.n </s> |
-| Chaninawa-olhar-1 | Chaninawa | olhar | oin | o <s> i.n </s> |
-| Kapanawa-aguafrescalitliquidonovo-1 | Kapanawa | aguafrescalitliquidonovo | ʔompa | ʔ <s> o.m </s> p a |
-| Kapanawa-capivara-1 | Kapanawa | capivara | ʔaˈmɨn | ʔ a m <s> ɨ.n </s> |
-| Kapanawa-conheceraprender-1 | Kapanawa | conheceraprender | ʔonán- | ʔ o n <s> á/a.n </s> |
-| Kapanawa-dar-1 | Kapanawa | dar | ʔinán | ʔ i n <s> á/a.n </s> |
-| Kapanawa-dordoer-1 | Kapanawa | dordoer | ʔisín- | ʔ i s <s> !í/i.n </s> |
-| Kapanawa-lago-1 | Kapanawa | lago | ʔián | ʔ i <s> á/a.n </s> |
-| Kapanawa-mulheresposa-1 | Kapanawa | mulheresposa | ʔaˈwin | ʔ a w <s> i.n </s> |
-| Kapanawa-mutumdaespdafamcracidae-1 | Kapanawa | mutumdaespdafamcracidae | hasín | h a s <s> !í/i.n </s> |
-| Kapanawa-rir-1 | Kapanawa | rir | ʔosán- | ʔ o s <s> á/a.n </s> |
-| Kapanawa-tipodeveneno-1 | Kapanawa | tipodeveneno | ʔaˈʂan- | ʔ a ʂ <s> a.n </s> |
-| Kapanawa-uruburei-1 | Kapanawa | uruburei | ʔiʃmín | ʔ i ʃ m <s> !í/i.n </s> |
-| Kapanawa-vomitar-1 | Kapanawa | vomitar | hanán- | h a n <s> á/a.n </s> |
-| Katukina-capivara-1 | Katukina | capivara | amɨn | a m <s> ɨ.n </s> |
-| Katukina-dordoer-1 | Katukina | dordoer | isinai | i s <s> i.n </s> a i |
-| Katukina-dordoer-2 | Katukina | dordoer | isin-nai | i s <s> i.n </s> + n a i |
-| Katukina-lago-1 | Katukina | lago | ian | i <s> a.n </s> |
-| Katukina-mutumdaespdafamcracidae-1 | Katukina | mutumdaespdafamcracidae | ansin | <s> a.n </s> s <s> i.n </s> |
-| Katukina-olhar-1 | Katukina | olhar | uin-nai | u <s> i.n </s> + n a i |
-| Kaxarari-lago-1 | Kaxarari | lago | iaˈnɨ | i <s> a.n </s> ɨ |
-| Kaxinawa-dordoer-1 | Kaxinawa | dordoer | isinkiki | i s <s> i.n </s> k i k i |
-| Korubo-conheceraprender-1 | Korubo | conheceraprender | unan | u n <s> a.n </s> |
-| Korubo-lago-1 | Korubo | lago | tʃan | tʃ <s> a.n </s> |
-| Korubo-mulheresposa-1 | Korubo | mulheresposa | awin | a w <s> i.n </s> |
-| Marinawa-capivara-2 | Marinawa | capivara | ˈʔamɨno | ʔ a m <s> ɨ.n </s> o |
-| Matis-aguafrescalitliquidonovo-1 | Matis | aguafrescalitliquidonovo | uma | <s> u.m </s> a |
-| Matis-lago-1 | Matis | lago | tʃan | tʃ <s> a.n </s> |
-| Matis-mulheresposa-1 | Matis | mulheresposa | awin | a w <s> i.n </s> |
-| Matis-novo-1 | Matis | novo | paʃa | <s> !/u.m </s> !/a p a ʃ a |
-| Matis-subir-1 | Matis | subir | indo-kin | i <s> n.d </s> o + k i n |
-| Mayoruna-aguafrescalitliquidonovo-1 | Mayoruna | aguafrescalitliquidonovo | uma | <s> u.m </s> a |
-| Mayoruna-conheceraprender-1 | Mayoruna | conheceraprender | unan | u n <s> a.n </s> |
-| Mayoruna-lago-1 | Mayoruna | lago | tʃiˈna | tʃ <s> i.n </s> a |
-| Mayoruna-mulheresposa-1 | Mayoruna | mulheresposa | awin | a w <s> i.n </s> |
-| Poyanawa-lingua-1 | Poyanawa | lingua | ãda | !ã/a <s> ~.d </s> a |
-| Poyanawa-nome-1 | Poyanawa | nome | ãdɨ | !ã/a <s> ~.d </s> ɨ |
-| Proto-Panoan-aguafrescalitliquidonovo-1 | Proto-Panoan | aguafrescalitliquidonovo | ʔoma-paʂa | ʔ <s> o.m </s> a + p a ʂ a |
-| Proto-Panoan-capivara-1 | Proto-Panoan | capivara | ʔamɨ[n] | ʔ a m <s> ɨ.rⁿ </s> |
-| Proto-Panoan-conheceraprender-1 | Proto-Panoan | conheceraprender | ʔo[n]a[n]- | ʔ o rⁿ <s> a.rⁿ </s> |
-| Proto-Panoan-dar-1 | Proto-Panoan | dar | ʔinar- | ʔ i n <s> a.r </s> |
-| Proto-Panoan-dordoer-1 | Proto-Panoan | dordoer | ʔĩsir- | ʔ ĩ s <s> i.r </s> |
-| Proto-Panoan-lago-1 | Proto-Panoan | lago | ʔian | ʔ i <s> a.n </s> |
-| Proto-Panoan-mulheresposa-1 | Proto-Panoan | mulheresposa | ʔawi[n] | ʔ a w <s> i.rⁿ </s> |
-| Proto-Panoan-mutumdaespdafamcracidae-1 | Proto-Panoan | mutumdaespdafamcracidae | hãsi[n] | h ã s <s> i.rⁿ </s> |
-| Proto-Panoan-olhar-1 | Proto-Panoan | olhar | ʔoi[n]- | ʔ o <s> i.rⁿ </s> |
-| Proto-Panoan-rir-1 | Proto-Panoan | rir | ʔosa[n]- | ʔ o s <s> a.rⁿ </s> |
-| Proto-Panoan-tipodeveneno-1 | Proto-Panoan | tipodeveneno | ʔaʂ[an]- | ʔ a ʂ <s> a.n </s> |
-| Proto-Panoan-uruburei-1 | Proto-Panoan | uruburei | ʔiʃmi[n] | ʔ i ʃ m <s> i.rⁿ </s> |
-| Proto-Panoan-vomitar-1 | Proto-Panoan | vomitar | ha[n]a[n]- | h a rⁿ <s> a.rⁿ </s> |
-| Shanenawa-capivara-1 | Shanenawa | capivara | aman | a m <s> a.n </s> |
-| Shanenawa-dar-1 | Shanenawa | dar | inan | i n <s> a.n </s> |
-| Shanenawa-dordoer-1 | Shanenawa | dordoer | isin | i s <s> i.n </s> |
-| Shanenawa-lago-1 | Shanenawa | lago | yan | j <s> a.n </s> |
-| Shanenawa-mulheresposa-1 | Shanenawa | mulheresposa | awin | a w <s> i.n </s> |
-| Shanenawa-mutumdaespdafamcracidae-1 | Shanenawa | mutumdaespdafamcracidae | aʂin | a ʂ <s> i.n </s> |
-| Shanenawa-olhar-1 | Shanenawa | olhar | uin | u <s> i.n </s> |
-| Shanenawa-vomitar-1 | Shanenawa | vomitar | anain | a n <s> !ai.n/a.n </s> |
-| Sharanawa-capivara-1 | Sharanawa | capivara | amɨn | a m <s> ɨ.n </s> |
-| Sharanawa-conheceraprender-1 | Sharanawa | conheceraprender | onain | o n <s> !ai.n/a.n </s> |
-| Sharanawa-conheceraprender-2 | Sharanawa | conheceraprender | onaan | o n <s> !aa.n/a.n </s> |
-| Sharanawa-dar-1 | Sharanawa | dar | inain | i n <s> ai.n </s> |
-| Sharanawa-dar-2 | Sharanawa | dar | inaan | i n <s> a.n </s> |
-| Sharanawa-dordoer-1 | Sharanawa | dordoer | isin | i s <s> i.n </s> |
-| Sharanawa-dordoer-2 | Sharanawa | dordoer | isian | i s <s> !ia.n/i.n </s> |
-| Sharanawa-lago-1 | Sharanawa | lago | ian | i <s> a.n </s> |
-| Sharanawa-mutumdaespdafamcracidae-1 | Sharanawa | mutumdaespdafamcracidae | asin | a s <s> i.n </s> |
-| Sharanawa-mutumdaespdafamcracidae-2 | Sharanawa | mutumdaespdafamcracidae | asipan | a s <s> !i/i.n </s> p <s> a.n </s> |
-| Sharanawa-olhar-1 | Sharanawa | olhar | oin | o <s> i.n </s> |
-| Sharanawa-olhar-2 | Sharanawa | olhar | oian | o <s> !ia.n/a.n </s> |
-| Sharanawa-rir-1 | Sharanawa | rir | osain | o s <s> !ai/a.n </s> |
-| Sharanawa-rir-2 | Sharanawa | rir | osaan | o s <s> !aa.n/a.n </s> |
-| Sharanawa-tipodeveneno-1 | Sharanawa | tipodeveneno | aʂain | a ʂ <s> !ai.n/a.n </s> |
-| Sharanawa-tipodeveneno-2 | Sharanawa | tipodeveneno | aʂaan | a ʂ <s> a.n </s> |
-| Sharanawa-uruburei-1 | Sharanawa | uruburei | iʃmin | i ʃ m <s> i.n </s> |
-| Sharanawa-uruburei-2 | Sharanawa | uruburei | iʃminon | i ʃ m <s> i.n </s> o n |
-| Sharanawa-vomitar-1 | Sharanawa | vomitar | anain | a n <s> !ai.n/a.n </s> |
-| Yawanawa-capivara-1 | Yawanawa | capivara | aman | a m <s> a.n </s> |
-| Yawanawa-dordoer-1 | Yawanawa | dordoer | isin | i s <s> i.n </s> |
-| Yawanawa-lago-1 | Yawanawa | lago | ian | i <s> a.n </s> |
-| Yawanawa-mulheresposa-1 | Yawanawa | mulheresposa | auin | a w <s> i.n </s> |
-| Yawanawa-olhar-1 | Yawanawa | olhar | uian | u <s> !ia.n/a.n </s> |
-| Yawanawa-olhar-2 | Yawanawa | olhar | uin | u <s> i.n </s> |
-| Yawanawa-rir-1 | Yawanawa | rir | uʃan | u ʃ <s> a.n </s> |
-| Yawanawa-tipodeveneno-1 | Yawanawa | tipodeveneno | aʃan | a ʃ <s> a.n </s> |
-| Yawanawa-vomitar-1 | Yawanawa | vomitar | anan | a n <s> a.n </s> |
+|:-------------------------------------------|:-------------|:----------------------------|:-----------|:-----------------------------------|
+| Amawaka-14_lago-1 | Amawaka | 14_lago | ʔí̃yan | ʔ í̃/ĩ j <s> a.n </s> |
+| Amawaka-22_dar-2 | Amawaka | 22_dar | ʔinan-kín | ʔ i n <s> a.n </s> + k !í/i n |
+| Amawaka-25_dordoer-1 | Amawaka | 25_dordoer | ʔísin | ʔ !í/i s <s> i.n </s> |
+| Amawaka-25_dordoer-2 | Amawaka | 25_dordoer | ʔísinín | ʔ !í/i s <s> i.n </s> !í/i n |
+| Amawaka-2_capivara-1 | Amawaka | 2_capivara | ʔamɨn | ʔ a m <s> ɨ.n </s> |
+| Amawaka-30_uruburei-1 | Amawaka | 30_uruburei | ʔíʃmin | ʔ !í/i ʃ m <s> i.n </s> |
+| Amawaka-9_mulheresposa-1 | Amawaka | 9_mulheresposa | ʔaín | ʔ a <s> !í/i.n </s> |
+| Amawaka-9_mulheresposa-2 | Amawaka | 9_mulheresposa | ʔáiní | ʔ !á/a <s> i.n </s> !í/i |
+| Chakobo-2_capivara-1 | Chakobo | 2_capivara | amɨno | a m <s> ɨ.n </s> o |
+| Chakobo-2_capivara-2 | Chakobo | 2_capivara | amɨ | a m <s> !ɨ/ɨ.n </s> |
+| Chakobo-51_mutumdaespdafamcracidae-1 | Chakobo | 51_mutumdaespdafamcracidae | hasíni | h a s <s> !í/i.n </s> i |
+| Chakobo-51_mutumdaespdafamcracidae-2 | Chakobo | 51_mutumdaespdafamcracidae | haˈsini | h a s <s> i.n </s> i |
+| Chakobo-51_mutumdaespdafamcracidae-3 | Chakobo | 51_mutumdaespdafamcracidae | haˈsi | h a s <s> !i/i.n </s> |
+| Chakobo-9_mulheresposa-1 | Chakobo | 9_mulheresposa | ʔaˈwini | ʔ a w <s> i.n </s> i |
+| Chakobo-9_mulheresposa-2 | Chakobo | 9_mulheresposa | awí | !/ʔ a w <s> !í/i.n </s> |
+| Chaninawa-35_olhar-1 | Chaninawa | 35_olhar | oin | o <s> i.n </s> |
+| Kapanawa-14_lago-1 | Kapanawa | 14_lago | ʔián | ʔ i <s> á/a.n </s> |
+| Kapanawa-22_dar-1 | Kapanawa | 22_dar | ʔinán | ʔ i n <s> á/a.n </s> |
+| Kapanawa-25_dordoer-1 | Kapanawa | 25_dordoer | ʔisín- | ʔ i s <s> !í/i.n </s> |
+| Kapanawa-2_capivara-1 | Kapanawa | 2_capivara | ʔaˈmɨn | ʔ a m <s> ɨ.n </s> |
+| Kapanawa-30_uruburei-1 | Kapanawa | 30_uruburei | ʔiʃmín | ʔ i ʃ m <s> !í/i.n </s> |
+| Kapanawa-37_conheceraprender-1 | Kapanawa | 37_conheceraprender | ʔonán- | ʔ o n <s> á/a.n </s> |
+| Kapanawa-38_aguafrescalitliquidonovo-1 | Kapanawa | 38_aguafrescalitliquidonovo | ʔompa | ʔ <s> o.m </s> p a |
+| Kapanawa-39_rir-1 | Kapanawa | 39_rir | ʔosán- | ʔ o s <s> á/a.n </s> |
+| Kapanawa-49_vomitar-1 | Kapanawa | 49_vomitar | hanán- | h a n <s> á/a.n </s> |
+| Kapanawa-51_mutumdaespdafamcracidae-1 | Kapanawa | 51_mutumdaespdafamcracidae | hasín | h a s <s> !í/i.n </s> |
+| Kapanawa-6_tipodeveneno-1 | Kapanawa | 6_tipodeveneno | ʔaˈʂan- | ʔ a ʂ <s> a.n </s> |
+| Kapanawa-9_mulheresposa-1 | Kapanawa | 9_mulheresposa | ʔaˈwin | ʔ a w <s> i.n </s> |
+| Katukina-14_lago-1 | Katukina | 14_lago | ian | i <s> a.n </s> |
+| Katukina-25_dordoer-1 | Katukina | 25_dordoer | isinai | i s <s> i.n </s> a i |
+| Katukina-25_dordoer-2 | Katukina | 25_dordoer | isin-nai | i s <s> i.n </s> + n a i |
+| Katukina-2_capivara-1 | Katukina | 2_capivara | amɨn | a m <s> ɨ.n </s> |
+| Katukina-35_olhar-1 | Katukina | 35_olhar | uin-nai | u <s> i.n </s> + n a i |
+| Katukina-51_mutumdaespdafamcracidae-1 | Katukina | 51_mutumdaespdafamcracidae | ansin | <s> a.n </s> s <s> i.n </s> |
+| Kaxarari-14_lago-1 | Kaxarari | 14_lago | iaˈnɨ | i <s> a.n </s> ɨ |
+| Kaxinawa-25_dordoer-1 | Kaxinawa | 25_dordoer | isinkiki | i s <s> i.n </s> k i k i |
+| Korubo-14_lago-1 | Korubo | 14_lago | tʃan | tʃ <s> a.n </s> |
+| Korubo-37_conheceraprender-1 | Korubo | 37_conheceraprender | unan | u n <s> a.n </s> |
+| Korubo-9_mulheresposa-1 | Korubo | 9_mulheresposa | awin | a w <s> i.n </s> |
+| Marinawa-2_capivara-2 | Marinawa | 2_capivara | ˈʔamɨno | ʔ a m <s> ɨ.n </s> o |
+| Matis-14_lago-1 | Matis | 14_lago | tʃan | tʃ <s> a.n </s> |
+| Matis-20_subir-1 | Matis | 20_subir | indo-kin | i <s> n.d </s> o + k i n |
+| Matis-38_aguafrescalitliquidonovo-1 | Matis | 38_aguafrescalitliquidonovo | uma | <s> u.m </s> a |
+| Matis-73_novo-1 | Matis | 73_novo | paʃa | <s> !/u.m </s> !/a p a ʃ a |
+| Matis-9_mulheresposa-1 | Matis | 9_mulheresposa | awin | a w <s> i.n </s> |
+| Mayoruna-14_lago-1 | Mayoruna | 14_lago | tʃiˈna | tʃ <s> i.n </s> a |
+| Mayoruna-37_conheceraprender-1 | Mayoruna | 37_conheceraprender | unan | u n <s> a.n </s> |
+| Mayoruna-38_aguafrescalitliquidonovo-1 | Mayoruna | 38_aguafrescalitliquidonovo | uma | <s> u.m </s> a |
+| Mayoruna-9_mulheresposa-1 | Mayoruna | 9_mulheresposa | awin | a w <s> i.n </s> |
+| Poyanawa-48_lingua-1 | Poyanawa | 48_lingua | ãda | !ã/a <s> ~.d </s> a |
+| Poyanawa-50_nome-1 | Poyanawa | 50_nome | ãdɨ | !ã/a <s> ~.d </s> ɨ |
+| Proto-Panoan-14_lago-1 | Proto-Panoan | 14_lago | ʔian | ʔ i <s> a.n </s> |
+| Proto-Panoan-22_dar-1 | Proto-Panoan | 22_dar | ʔinar- | ʔ i n <s> a.r </s> |
+| Proto-Panoan-25_dordoer-1 | Proto-Panoan | 25_dordoer | ʔĩsir- | ʔ ĩ s <s> i.r </s> |
+| Proto-Panoan-2_capivara-1 | Proto-Panoan | 2_capivara | ʔamɨ[n] | ʔ a m <s> ɨ.rⁿ </s> |
+| Proto-Panoan-30_uruburei-1 | Proto-Panoan | 30_uruburei | ʔiʃmi[n] | ʔ i ʃ m <s> i.rⁿ </s> |
+| Proto-Panoan-35_olhar-1 | Proto-Panoan | 35_olhar | ʔoi[n]- | ʔ o <s> i.rⁿ </s> |
+| Proto-Panoan-37_conheceraprender-1 | Proto-Panoan | 37_conheceraprender | ʔo[n]a[n]- | ʔ o rⁿ <s> a.rⁿ </s> |
+| Proto-Panoan-38_aguafrescalitliquidonovo-1 | Proto-Panoan | 38_aguafrescalitliquidonovo | ʔoma-paʂa | ʔ <s> o.m </s> a + p a ʂ a |
+| Proto-Panoan-39_rir-1 | Proto-Panoan | 39_rir | ʔosa[n]- | ʔ o s <s> a.rⁿ </s> |
+| Proto-Panoan-49_vomitar-1 | Proto-Panoan | 49_vomitar | ha[n]a[n]- | h a rⁿ <s> a.rⁿ </s> |
+| Proto-Panoan-51_mutumdaespdafamcracidae-1 | Proto-Panoan | 51_mutumdaespdafamcracidae | hãsi[n] | h ã s <s> i.rⁿ </s> |
+| Proto-Panoan-6_tipodeveneno-1 | Proto-Panoan | 6_tipodeveneno | ʔaʂ[an]- | ʔ a ʂ <s> a.n </s> |
+| Proto-Panoan-9_mulheresposa-1 | Proto-Panoan | 9_mulheresposa | ʔawi[n] | ʔ a w <s> i.rⁿ </s> |
+| Shanenawa-14_lago-1 | Shanenawa | 14_lago | yan | j <s> a.n </s> |
+| Shanenawa-22_dar-1 | Shanenawa | 22_dar | inan | i n <s> a.n </s> |
+| Shanenawa-25_dordoer-1 | Shanenawa | 25_dordoer | isin | i s <s> i.n </s> |
+| Shanenawa-2_capivara-1 | Shanenawa | 2_capivara | aman | a m <s> a.n </s> |
+| Shanenawa-35_olhar-1 | Shanenawa | 35_olhar | uin | u <s> i.n </s> |
+| Shanenawa-49_vomitar-1 | Shanenawa | 49_vomitar | anain | a n <s> !ai.n/a.n </s> |
+| Shanenawa-51_mutumdaespdafamcracidae-1 | Shanenawa | 51_mutumdaespdafamcracidae | aʂin | a ʂ <s> i.n </s> |
+| Shanenawa-9_mulheresposa-1 | Shanenawa | 9_mulheresposa | awin | a w <s> i.n </s> |
+| Sharanawa-14_lago-1 | Sharanawa | 14_lago | ian | i <s> a.n </s> |
+| Sharanawa-22_dar-1 | Sharanawa | 22_dar | inain | i n <s> ai.n </s> |
+| Sharanawa-22_dar-2 | Sharanawa | 22_dar | inaan | i n <s> a.n </s> |
+| Sharanawa-25_dordoer-1 | Sharanawa | 25_dordoer | isin | i s <s> i.n </s> |
+| Sharanawa-25_dordoer-2 | Sharanawa | 25_dordoer | isian | i s <s> !ia.n/i.n </s> |
+| Sharanawa-2_capivara-1 | Sharanawa | 2_capivara | amɨn | a m <s> ɨ.n </s> |
+| Sharanawa-30_uruburei-1 | Sharanawa | 30_uruburei | iʃmin | i ʃ m <s> i.n </s> |
+| Sharanawa-30_uruburei-2 | Sharanawa | 30_uruburei | iʃminon | i ʃ m <s> i.n </s> o n |
+| Sharanawa-35_olhar-1 | Sharanawa | 35_olhar | oin | o <s> i.n </s> |
+| Sharanawa-35_olhar-2 | Sharanawa | 35_olhar | oian | o <s> !ia.n/a.n </s> |
+| Sharanawa-37_conheceraprender-1 | Sharanawa | 37_conheceraprender | onain | o n <s> !ai.n/a.n </s> |
+| Sharanawa-37_conheceraprender-2 | Sharanawa | 37_conheceraprender | onaan | o n <s> !aa.n/a.n </s> |
+| Sharanawa-39_rir-1 | Sharanawa | 39_rir | osain | o s <s> !ai/a.n </s> |
+| Sharanawa-39_rir-2 | Sharanawa | 39_rir | osaan | o s <s> !aa.n/a.n </s> |
+| Sharanawa-49_vomitar-1 | Sharanawa | 49_vomitar | anain | a n <s> !ai.n/a.n </s> |
+| Sharanawa-51_mutumdaespdafamcracidae-1 | Sharanawa | 51_mutumdaespdafamcracidae | asin | a s <s> i.n </s> |
+| Sharanawa-51_mutumdaespdafamcracidae-2 | Sharanawa | 51_mutumdaespdafamcracidae | asipan | a s <s> !i/i.n </s> p <s> a.n </s> |
+| Sharanawa-6_tipodeveneno-1 | Sharanawa | 6_tipodeveneno | aʂain | a ʂ <s> !ai.n/a.n </s> |
+| Sharanawa-6_tipodeveneno-2 | Sharanawa | 6_tipodeveneno | aʂaan | a ʂ <s> a.n </s> |
+| Yawanawa-14_lago-1 | Yawanawa | 14_lago | ian | i <s> a.n </s> |
+| Yawanawa-25_dordoer-1 | Yawanawa | 25_dordoer | isin | i s <s> i.n </s> |
+| Yawanawa-2_capivara-1 | Yawanawa | 2_capivara | aman | a m <s> a.n </s> |
+| Yawanawa-35_olhar-1 | Yawanawa | 35_olhar | uian | u <s> !ia.n/a.n </s> |
+| Yawanawa-35_olhar-2 | Yawanawa | 35_olhar | uin | u <s> i.n </s> |
+| Yawanawa-39_rir-1 | Yawanawa | 39_rir | uʃan | u ʃ <s> a.n </s> |
+| Yawanawa-49_vomitar-1 | Yawanawa | 49_vomitar | anan | a n <s> a.n </s> |
+| Yawanawa-6_tipodeveneno-1 | Yawanawa | 6_tipodeveneno | aʃan | a ʃ <s> a.n </s> |
+| Yawanawa-9_mulheresposa-1 | Yawanawa | 9_mulheresposa | auin | a w <s> i.n </s> |
 
 (100 rows)
 

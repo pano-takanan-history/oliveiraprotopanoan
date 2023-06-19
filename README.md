@@ -21,13 +21,13 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 
 [![CLDF validation](https://github.com/pano-tacanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
+![Concepticon: 66%](https://img.shields.io/badge/Concepticon-66%25-orange.svg "Concepticon: 66%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
 ![BIPA: 77%](https://img.shields.io/badge/BIPA-77%25-yellow.svg "BIPA: 77%")
 ![CLTS SoundClass: 77%](https://img.shields.io/badge/CLTS%20SoundClass-77%25-yellow.svg "CLTS SoundClass: 77%")
 
 - **Varieties:** 20
-- **Concepts:** 466
+- **Concepts:** 470
 - **Lexemes:** 7,306
 - **Sources:** 43
 - **Synonymy:** 1.23

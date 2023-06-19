@@ -87,8 +87,8 @@ class Dataset(BaseDataset):
             dicts=True
             )
 
-        for concept in proto_list:
-            idx = slug(concept["GLOSS"])
+        for e, concept in enumerate(proto_list):
+            idx = str(e) + "_" + slug(concept["GLOSS"])
             args.writer.add_concept(
                 ID=idx,
                 Name=concept["ENGLISH"],
@@ -108,8 +108,8 @@ class Dataset(BaseDataset):
             dicts=True
             )
 
-        for concept in other_concepts:
-            idx = slug(concept["GLOSS"])
+        for e, concept in enumerate(other_concepts):
+            idx = str(e) + "_" + slug(concept["GLOSS"])
             args.writer.add_concept(
                 ID=idx,
                 Original_Concept=concept["GLOSS"],
