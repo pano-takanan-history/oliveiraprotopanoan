@@ -7,33 +7,33 @@
 |:----------|-------------:|:-------|:------------------|
 | a | 5124 | ✓ | ✓ |
 | i | 3586 | ✓ | ✓ |
-| n | 2567 | ✓ | ✓ |
+| n | 2582 | ✓ | ✓ |
 | ɨ | 2261 | ✓ | ✓ |
 | o | 2254 | ✓ | ✓ |
-| k | 1848 | ✓ | ✓ |
-| m | 1181 | ✓ | ✓ |
+| k | 1855 | ✓ | ✓ |
+| m | 1191 | ✓ | ✓ |
 | ʂ | 1178 | ✓ | ✓ |
-| t | 1166 | ✓ | ✓ |
-| p | 1148 | ✓ | ✓ |
+| t | 1167 | ✓ | ✓ |
+| p | 1153 | ✓ | ✓ |
 | u | 1007 | ✓ | ✓ |
 | w | 659 | ✓ | ✓ |
 | s | 644 | ✓ | ✓ |
-| β | 588 | ✓ | ✓ |
+| β | 589 | ✓ | ✓ |
 | ʔ | 539 | ✓ | ✓ |
 | ʃ | 512 | ✓ | ✓ |
-| ~ | 485 | ? | ? |
+| ~ | 505 | ? | ? |
 | r | 471 | ✓ | ✓ |
 | !á/a | 421 | ✓ | ✓ |
-| j | 410 | ✓ | ✓ |
-| tʃ | 407 | ✓ | ✓ |
+| j | 411 | ✓ | ✓ |
+| tʃ | 408 | ✓ | ✓ |
 | h | 355 | ✓ | ✓ |
 | ɸ | 338 | ✓ | ✓ |
 | + | 337 | ✓ | ✓ |
 | ts | 288 | ✓ | ✓ |
 | !í/i | 265 | ✓ | ✓ |
-| b | 246 | ✓ | ✓ |
+| b | 256 | ✓ | ✓ |
 | !ó/o | 226 | ✓ | ✓ |
-| d | 207 | ✓ | ✓ |
+| d | 218 | ✓ | ✓ |
 | ɾ | 154 | ✓ | ✓ |
 | !ɨ́/ɨ | 136 | ✓ | ✓ |
 | rⁿ | 129 | ✓ | ✓ |
@@ -44,7 +44,7 @@
 | !ĩ/i | 66 | ✓ | ✓ |
 | ɽ | 54 | ✓ | ✓ |
 | !õ/o | 43 | ✓ | ✓ |
-| v | 39 | ✓ | ✓ |
+| v | 40 | ✓ | ✓ |
 | l | 35 | ✓ | ✓ |
 | ɔ | 33 | ✓ | ✓ |
 | f | 32 | ✓ | ✓ |
@@ -61,7 +61,6 @@
 | !ã́/a | 11 | ✓ | ✓ |
 | ʈʂ | 11 | ✓ | ✓ |
 | !j/i | 10 | ✓ | ✓ |
-| ~.d | 9 | ? | ? |
 | !w/o | 8 | ✓ | ✓ |
 | c | 8 | ✓ | ✓ |
 | !/ʔ | 7 | ✓ | ✓ |
@@ -74,31 +73,26 @@
 | !ă/a | 5 | ✓ | ✓ |
 | !ī/i | 5 | ✓ | ✓ |
 | C/n | 5 | ✓ | ✓ |
-| m.b | 5 | ? | ? |
-| ~.b | 5 | ? | ? |
+| j/i | 5 | ✓ | ✓ |
 | ʊ | 5 | ✓ | ✓ |
 | !aa/a | 4 | ✓ | ✓ |
 | !ā/a | 4 | ✓ | ✓ |
 | á/a | 4 | ✓ | ✓ |
 | ĩ/i | 4 | ✓ | ✓ |
+| ŋ | 4 | ✓ | ✓ |
 | ɛ | 4 | ✓ | ✓ |
 | ∼ | 4 | ✓ | ✓ |
 | !ia/a | 3 | ✓ | ✓ |
 | !é/e | 3 | ✓ | ✓ |
 | !ɐ̃/ɐ | 3 | ✓ | ✓ |
 | !ɨ/i | 3 | ✓ | ✓ |
-| m.p | 3 | ? | ? |
 | ã | 3 | ✓ | ✓ |
 | !/m | 2 | ✓ | ✓ |
 | !/n | 2 | ✓ | ✓ |
-| !i.j/i | 2 | ✓ | ✓ |
+| !i | 2 | ? | ? |
+| !n | 2 | ? | ? |
 | !ɐ̃/a | 2 | ✓ | ✓ |
 | !ə̃/ə | 2 | ✓ | ✓ |
-| n.d | 2 | ? | ? |
-| n.k | 2 | ? | ? |
-| n.n | 2 | ? | ? |
-| ~.n | 2 | ? | ? |
-| ŋ.k | 2 | ? | ? |
 | ɨ́ | 2 | ✓ | ✓ |
 | ɨ̃ | 2 | ✓ | ✓ |
 | !/a | 1 | ✓ | ✓ |
@@ -108,25 +102,23 @@
 | !i/ɨ | 1 | ✓ | ✓ |
 | !ia/i | 1 | ✓ | ✓ |
 | !j/w | 1 | ✓ | ✓ |
-| !m.p/p | 1 | ✓ | ✓ |
+| !m | 1 | ? | ? |
 | !m/b | 1 | ✓ | ✓ |
-| !n.d/t | 1 | ✓ | ✓ |
-| !n.t/t | 1 | ✓ | ✓ |
 | !o/i | 1 | ✓ | ✓ |
 | !o/ɨ | 1 | ✓ | ✓ |
 | !s/ʃ | 1 | ✓ | ✓ |
 | !sh/ʂ | 1 | ✓ | ✓ |
-| !u.a/a | 1 | ✓ | ✓ |
+| !u | 1 | ? | ? |
 | !w/β | 1 | ✓ | ✓ |
 | !á̃/a | 1 | ✓ | ✓ |
 | !ã/ɨ | 1 | ✓ | ✓ |
 | !ç/n | 1 | ✓ | ✓ |
-| !í.j/i | 1 | ✓ | ✓ |
+| !í | 1 | ? | ? |
 | !í/ɨ | 1 | ✓ | ✓ |
-| !í̃.j/i | 1 | ✓ | ✓ |
+| !í̃ | 1 | ? | ? |
 | !ó̃/o | 1 | ✓ | ✓ |
 | !õi/oi | 1 | ✓ | ✓ |
-| !ĩ.j/i | 1 | ✓ | ✓ |
+| !ĩ | 1 | ? | ? |
 | !ū/u | 1 | ✓ | ✓ |
 | !ɐɐ/ɐ | 1 | ✓ | ✓ |
 | !ə/ɨ | 1 | ✓ | ✓ |
@@ -140,24 +132,17 @@
 | !ɯ̆/ɯ | 1 | ✓ | ✓ |
 | !ẽ/e | 1 | ✓ | ✓ |
 | C/k | 1 | ✓ | ✓ |
+| a/a | 1 | ✓ | ✓ |
+| d/t | 1 | ✓ | ✓ |
+| dz | 1 | ✓ | ✓ |
 | g | 1 | ✓ | ✓ |
 | hʷ | 1 | ✓ | ✓ |
-| k.k | 1 | ? | ? |
-| m.~ | 1 | ? | ? |
-| m.β | 1 | ? | ? |
-| n.dz | 1 | ? | ? |
-| n.j | 1 | ? | ? |
-| n.p | 1 | ? | ? |
-| n.t | 1 | ? | ? |
-| n.tʃ | 1 | ? | ? |
+| p/p | 1 | ✓ | ✓ |
+| t/t | 1 | ✓ | ✓ |
 | tʂ | 1 | ✓ | ✓ |
-| ~.k | 1 | ? | ? |
-| ~.v | 1 | ? | ? |
-| ~.ŋ | 1 | ? | ? |
 | ç/n | 1 | ✓ | ✓ |
 | í̃/i | 1 | ✓ | ✓ |
 | ó/o | 1 | ✓ | ✓ |
-| ŋ | 1 | ✓ | ✓ |
 | ũ/u | 1 | ✓ | ✓ |
 | ɜ | 1 | ✓ | ✓ |
 | ɞ | 1 | ✓ | ✓ |
@@ -165,9 +150,9 @@
 | ɨ̃ɨ/ɨ | 1 | ✓ | ✓ |
 | ʐ | 1 | ✓ | ✓ |
 | ʒ | 1 | ✓ | ✓ |
-| ̃.p | 1 | ? | ? |
+| ̃ | 1 | ? | ? |
 
-(161 rows)
+(146 rows)
 
 
 
@@ -183,8 +168,11 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------------------|:--------------|:----------------------------------|:----------|:------------------------------|
-| Amawaka-14_lago-2 | Amawaka | 14_lago | ĩyã_I | !/ʔ !ĩ.j/i a <s> ~ </s> |
+|:---------------------------------------------|:--------------|:----------------------------------|:----------|:---------------------------------|
+| Amawaka-13_piolho-1 | Amawaka | 13_piolho | ʔíya | ʔ <s> !í </s> j/i a |
+| Amawaka-13_piolho-2 | Amawaka | 13_piolho | iyá_I | <s> !i </s> j/i !á/a |
+| Amawaka-14_lago-1 | Amawaka | 14_lago | ʔí̃yan | ʔ <s> !í̃ </s> j/i a n |
+| Amawaka-14_lago-2 | Amawaka | 14_lago | ĩyã_I | !/ʔ <s> !ĩ </s> j/i a <s> ~ </s> |
 | Amawaka-22_dar-1 | Amawaka | 22_dar | inã- | i n a <s> ~ </s> |
 | Amawaka-25_dordoer-3 | Amawaka | 25_dordoer | isĩ-_I | !/ʔ i s i <s> ~ </s> |
 | Amawaka-30_uruburei-2 | Amawaka | 30_uruburei | iʃmĩ | i ʃ m i <s> ~ </s> |
@@ -205,12 +193,12 @@
 | Kakataibo-37_conheceraprender-1 | Kakataibo | 37_conheceraprender | ʔonã́ | ʔ o n !á/a <s> ~ </s> |
 | Kakataibo-38_aguafrescalitliquidonovo-1 | Kakataibo | 38_aguafrescalitliquidonovo | ʔõpáʂ | ʔ o <s> ~ </s> p á/a ʂ |
 | Kakataibo-39_rir-1 | Kakataibo | 39_rir | ʔosã́- | ʔ o s !á/a <s> ~ </s> |
-| Kakataibo-472_surubim-1 | Kakataibo | 472_surubim | βaĩ | β a i <s> ~ </s> |
 | Kakataibo-510_espdepeixe-1 | Kakataibo | 510_espdepeixe | βatṍ | β a t !ó/o <s> ~ </s> |
 | Kakataibo-51_mutumdaespdafamcracidae-1 | Kakataibo | 51_mutumdaespdafamcracidae | asĩ_o_ãsĩ | a s i <s> ~ </s> |
 | Kakataibo-52_abertura-1 | Kakataibo | 52_abertura | ãʂaβa | a <s> ~ </s> ʂ a β a |
 | Kakataibo-56_seusuadeledela-1 | Kakataibo | 56_seusuadeledela | aĩ | a i <s> ~ </s> |
 | Kakataibo-6_tipodeveneno-1 | Kakataibo | 6_tipodeveneno | ʔaˈʂã- | ʔ a ʂ a <s> ~ </s> |
+| Kaxarari-13_piolho-1 | Kaxarari | 13_piolho | iˈya | <s> !i </s> j/i a |
 | Kaxinawa-14_lago-1 | Kaxinawa | 14_lago | ĩã | !ĩ/i a <s> ~ </s> |
 | Kaxinawa-22_dar-1 | Kaxinawa | 22_dar | inã- | i n a <s> ~ </s> |
 | Kaxinawa-2_capivara-1 | Kaxinawa | 2_capivara | amɨ̃ | a m ɨ <s> ~ </s> |
@@ -251,9 +239,8 @@
 | Marubo-9_mulheresposa-1 | Marubo | 9_mulheresposa | aĩ | a i <s> ~ </s> |
 | Marubo-9_mulheresposa-2 | Marubo | 9_mulheresposa | aˈĩ | a i <s> ~ </s> |
 | Marubo-9_mulheresposa-3 | Marubo | 9_mulheresposa | aˈĩvɞ | a i <s> ~ </s> v ɞ |
-| Matis-20_subir-1 | Matis | 20_subir | indo-kin | i <s> n.d </s> o + k i n |
-| Poyanawa-48_lingua-1 | Poyanawa | 48_lingua | ãda | a <s> ~.d </s> a |
-| Poyanawa-50_nome-1 | Poyanawa | 50_nome | ãdɨ | a <s> ~.d </s> ɨ |
+| Poyanawa-48_lingua-1 | Poyanawa | 48_lingua | ãda | a <s> ~ </s> d a |
+| Poyanawa-50_nome-1 | Poyanawa | 50_nome | ãdɨ | a <s> ~ </s> d ɨ |
 | Poyanawa-51_mutumdaespdafamcracidae-1 | Poyanawa | 51_mutumdaespdafamcracidae | ãsĩ | a <s> ~ </s> s i <s> ~ </s> |
 | Poyanawa-9_mulheresposa-1 | Poyanawa | 9_mulheresposa | awĩ | a w i <s> ~ </s> |
 | Proto-Panoan-51_mutumdaespdafamcracidae-1 | Proto-Panoan | 51_mutumdaespdafamcracidae | hãsi[n] | h a <s> ~ </s> s i rⁿ |
@@ -267,7 +254,6 @@
 | ShipiboKonibo-37_conheceraprender-1 | ShipiboKonibo | 37_conheceraprender | ʔonã́ | ʔ o n !á/a <s> ~ </s> |
 | ShipiboKonibo-38_aguafrescalitliquidonovo-1 | ShipiboKonibo | 38_aguafrescalitliquidonovo | ʔõpáʂ | ʔ o <s> ~ </s> p !á/a ʂ |
 | ShipiboKonibo-39_rir-1 | ShipiboKonibo | 39_rir | ʔosã́ | ʔ o s !á/a <s> ~ </s> |
-| ShipiboKonibo-472_surubim-1 | ShipiboKonibo | 472_surubim | βawĩ | β a w i <s> ~ </s> |
 | ShipiboKonibo-510_espdepeixe-1 | ShipiboKonibo | 510_espdepeixe | βatṍ | β a t !ó/o <s> ~ </s> |
 | ShipiboKonibo-51_mutumdaespdafamcracidae-1 | ShipiboKonibo | 51_mutumdaespdafamcracidae | hasĩ | h a s i <s> ~ </s> |
 | ShipiboKonibo-52_abertura-1 | ShipiboKonibo | 52_abertura | hãʂβá | h a <s> ~ </s> ʂ β !á/a |
@@ -283,7 +269,6 @@
 | Yaminawa-56_seusuadeledela-1 | Yaminawa | 56_seusuadeledela | aɸɨ̃ | a ɸ ɨ <s> ~ </s> |
 | Yaminawa-6_tipodeveneno-1 | Yaminawa | 6_tipodeveneno | aʂã- | a ʂ a <s> ~ </s> |
 | Yaminawa-9_mulheresposa-1 | Yaminawa | 9_mulheresposa | aɸĩ | a ɸ i <s> ~ </s> |
-| Yawanawa-48_lingua-1 | Yawanawa | 48_lingua | anna | a <s> n.n </s> a |
 
 (100 rows)
 

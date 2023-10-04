@@ -13,8 +13,8 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://repositorio.unb.br/handle/10482/17129
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/pano-tacanan-history/oliveiraprotopanoan
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-tacanan-history/oliveiraprotopanoan/tree/e11c938">pano-tacanan-history/oliveiraprotopanoan e11c938</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.11.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-tacanan-history/oliveiraprotopanoan/tree/a2d6b70">pano-tacanan-history/oliveiraprotopanoan a2d6b70</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.11.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | oliveiraprotopanoan
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -50,6 +50,7 @@ Name/Property | Datatype | Description
 `ConceptInSource` | `string` | 
 `ProtoSet` | `string` | 
 `EntryInSource` | `string` | 
+`GroupedSounds` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 

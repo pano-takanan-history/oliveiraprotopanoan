@@ -22,9 +22,9 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 [![CLDF validation](https://github.com/pano-tacanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 66%](https://img.shields.io/badge/Concepticon-66%25-orange.svg "Concepticon: 66%")
-![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 86%](https://img.shields.io/badge/BIPA-86%25-yellowgreen.svg "BIPA: 86%")
-![CLTS SoundClass: 86%](https://img.shields.io/badge/CLTS%20SoundClass-86%25-yellowgreen.svg "CLTS SoundClass: 86%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 94%](https://img.shields.io/badge/BIPA-94%25-green.svg "BIPA: 94%")
+![CLTS SoundClass: 94%](https://img.shields.io/badge/CLTS%20SoundClass-94%25-green.svg "CLTS SoundClass: 94%")
 
 - **Varieties:** 20
 - **Concepts:** 470
@@ -34,15 +34,9 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 - **Cognacy:** 7,305 cognates in 833 cognate sets (312 singletons)
 - **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
-- **Tokens:** 32,243
-- **Segments:** 161 (22 BIPA errors, 22 CLTS sound class errors, 139 CLTS modified)
-- **Inventory size (avg):** 37.90
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 5892/7305 (80.66%)
+- **Tokens:** 32,296
+- **Segments:** 146 (9 BIPA errors, 9 CLTS sound class errors, 137 CLTS modified)
+- **Inventory size (avg):** 37.15
 
 # Contributors
 

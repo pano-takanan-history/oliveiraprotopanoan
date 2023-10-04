@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "e11c938",
+            "dc:created": "a2d6b70",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.4"
+            "dc:description": "3.11.5"
         },
         {
             "dc:title": "python-packages",
@@ -148,6 +148,10 @@
                     {
                         "datatype": "string",
                         "name": "EntryInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [

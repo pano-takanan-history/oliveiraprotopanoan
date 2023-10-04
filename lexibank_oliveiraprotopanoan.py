@@ -10,6 +10,14 @@ from pylexibank import FormSpec
 from pyedictor import fetch
 
 
+def unmerge(sequence):
+    out = []
+    for tok in sequence:
+        out += tok.split('.')
+
+    return out
+
+
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
@@ -31,6 +39,7 @@ class CustomLexeme(Lexeme):
     ConceptInSource = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -122,7 +131,16 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        args.writer.add_languages(lookup_factory="NameInSource")
+        languages = {}
+        sources = defaultdict()
+        for language in self.languages:
+            args.writer.add_language(
+                    ID=language["ID"],
+                    Name=language["Name"],
+                    Glottocode=language["Glottocode"]
+                    )
+            languages[language["ID"]] = language["Name"]
+            sources[language["ID"]] = language["Sources"]
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
@@ -168,8 +186,9 @@ class Dataset(BaseDataset):
                 Language_ID=language,
                 Form=form.strip(),
                 Value=value.strip() or form.strip(),
-                Segments=tokens,
-                Source=source,
+                Segments=unmerge(tokens),
+                GroupedSounds=tokens,
+                Source="Oliveira2014" if source == "" else source,
                 Cognacy=cogid,
                 Alignment=" ".join(alignment),
                 Morphemes=morphemes,
