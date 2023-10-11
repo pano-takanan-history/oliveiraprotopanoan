@@ -210,14 +210,14 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 210	ʔ i a	35		louse	Kapanawa	ʔia		ʔ i a		None		§13	Kp ʔia ‘pulga’		None
 211	- i a	35		louse	Marubo	ˈia		i a		None	Costa1992	§13	Mar ˈia ‘piolho’ (COSTA;; 1992)		None
 212	ʔ i a	35		louse	Chakobo	ʔia		ʔ i a		None		§13	Ch ʔia ‘piojo’		None
-213	- !i.j/i a	35		louse	Kaxarari	iˈya		!i.j/i a		None	Lanes2005; Couto2005	§13	Kax iˈya (LANES;; 2005; COUTO;; 2005)		None
+213	- !ij/i a	35		louse	Kaxarari	iˈya		!ij/i a		None	Lanes2005; Couto2005	§13	Kax iˈya (LANES;; 2005; COUTO;; 2005)		None
 214	- i a	35		louse	Chaninawa	ia		i a		None		§13	Chan ia		None
 215	- i a	35		louse	Sharanawa	ia		i a		None		§13	Shar ia		None
 216	- i a	35		louse	Shanenawa	ia		i a		None		§13	Shan ia		None
 217	- i a	35		louse	Katukina	ia		i a		None		§13	Kat ia		None
 218	- i a	35		louse	Poyanawa	ia		i a		None		§13	Poy ia		None
-219	ʔ !í.j/i a	35		louse	Amawaka	ʔíya		ʔ !í.j/i a		None	Hyde1980	§13	A ʔíya (HYDE;; 1980), iyá I ‘piojo’		None
-220	- !i.j/i !á/a	818		louse	Amawaka	iyá_I		!i.j/i !á/a		None		§13	A ʔíya (HYDE;; 1980), iyá I ‘piojo’		None
+219	ʔ !í/i.j a	35		louse	Amawaka	ʔíya		ʔ !í/i.j a		None	Hyde1980	§13	A ʔíya (HYDE;; 1980), iyá I ‘piojo’		None
+220	i j !á/a	818		louse	Amawaka	iyá_I		i j !á/a		None		§13	A ʔíya (HYDE;; 1980), iyá I ‘piojo’		None
 221	- i a	35		louse	Kaxinawa	ia		i a		None		§13	Kn ia ‘piojo;;  pulga’		None
 222	- i a	35		louse	Marinawa	ia		i a		None		§13	M ia ‘piojo;;  pulga’		None
 223	- i a	35		louse	Yawanawa	ia		i a		None		§13	Yaw ia		None
@@ -235,8 +235,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 235	- i a n ( - - )	46		lake	Sharanawa	ian		i a n		None		§14	Shar ian		None
 236	- !j/i a n ( - - )	46		lake	Shanenawa	yan		!j/i a n		None		§14	Shan yan		None
 237	- i a n ( - - )	46		lake	Katukina	ian		i a n		None		§14	Kat ian		None
-238	ʔ !í̃.j/i a n ( - - )	46		lake	Amawaka	ʔí̃yan		ʔ !í̃.j/i a n		<hínyan>, HYDE, 1980		§14	A ʔí̃yan (<hínyan>;; HYDE;; 1980), ĩyã I		None
-239	!/ʔ !ĩ.j/i a ~ ( - - )	819		lake	Amawaka	ĩyã_I		!/ʔ !ĩ.j/i a ~		None		§14	A ʔí̃yan (<hínyan>;; HYDE;; 1980), ĩyã I		None
+238	ʔ !í̃j/i a n ( - - )	46		lake	Amawaka	ʔí̃yan		ʔ !í̃j/i a n		<hínyan>, HYDE, 1980		§14	A ʔí̃yan (<hínyan>;; HYDE;; 1980), ĩyã I		None
+239	!/ʔ !ĩj/i a ~ ( - - )	819		lake	Amawaka	ĩyã_I		!/ʔ !ĩj/i a ~		None		§14	A ʔí̃yan (<hínyan>;; HYDE;; 1980), ĩyã I		None
 240	- !ĩ/i a ~ ( - - )	46		lake	Kaxinawa	ĩã		!ĩ/i a ~		None		§14	Kn ĩã		None
 241	- !ĩ/i a ~ ( - - )	46		lake	Marinawa	ĩã		!ĩ/i a ~		None		§14	M ĩã		None
 242	- i a n ( - - )	46		lake	Yawanawa	ian		i a n		None		§14	Yaw ian		None
@@ -339,7 +339,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 339	- !ĩ/i n a ~ ( - - - - )	115		to give	Marubo	ĩnã-		!ĩ/i n a ~		None	Kennell1978	§20	Mar ĩnã- ‘dar’ (KENNELL;; 1978)		None
 340	ʔ i n !ia/a - ( - - - - )	115		to give	Chakobo	ʔinia-		ʔ i n !ia/a		None	Zingg1998	§20	Ch ʔinia- ‘vender;; regalar;;  repartir’ (ZINGG;; 1998), ʔina- ‘dar’		None
 341	ʔ i n a - ( - - - - )	115		to give	Chakobo	ʔina-		ʔ i n a		None		§20	Ch ʔinia- ‘vender;; regalar;;  repartir’ (ZINGG;; 1998), ʔina- ‘dar’		None
-342	- j - a l ( i - - - )	115		to give	Kaxarari	yali		j a l i		None	Valenzuela2012	§20	Kax yali ‘dar’ (VALENZUELA; OLIVEIRA;; 2012)		None
+342	- - j a l ( i - - - )	115		to give	Kaxarari	yali		j a l i		None	Valenzuela2012	§20	Kax yali ‘dar’ (VALENZUELA; OLIVEIRA;; 2012)		None
 343	- i n a ~ ( - - - - )	115		to give	Yaminawa	inã-		i n a ~		None	Faust2002	§20	Yam inã- ‘dar’ (FAUST; LOOS;; 2002)		None
 344	- i n !ai/a - ( - - - - )	115		to give	Chaninawa	inai		i n !ai/a		None		§20	Chan inai		None
 345	- i n !ai/a n ( - - - - )	115		to give	Sharanawa	inain		i n !ai/a n		None		§20	Shar inain, inaan ‘dar;;  pagar’		None
@@ -1642,12 +1642,12 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1643	β !õ/o p a	9		insect	Proto-Panoan	βõpa		β !õ/o p a		None	Oliveira2014	§106	*βõpa ‘**insecto’ :		None
 1644	β !õ/o p a	9		insect	Kakataibo	βõpa		β !õ/o p a		None		§106	Ksh βõpa ‘clase de escarabajo’		None
 1645	b !õ/o p a	9		insect	ShipiboKonibo	bõpa		b !õ/o p a		None		§106	SK bõpa		None
-1646	β o !m.p/p a	9		insect	Kapanawa	βompa		β o !m.p/p a		None		§106	Kp βompa		None
+1646	β o m.p a	9		insect	Kapanawa	βompa		β o m.p a		None		§106	Kp βompa		None
 1647	β o p a	9		insect	Chakobo	ˈβopa		β o p a		None	Zingg1998	§106	Ch ˈβopa ‘diversas clases de insecto;;  el piojo grande’ (ZINGG;; 1998), βopa ‘clase de escarabajo’		None
 1648	β o p a	9		insect	Chakobo	βopa		β o p a		None		§106	Ch ˈβopa ‘diversas clases de insecto;;  el piojo grande’ (ZINGG;; 1998), βopa ‘clase de escarabajo’		None
 1649	w !õ/o p !á/a	9		insect	Amawaka	wõpá_I		w !õ/o p !á/a		None		§106	A wõpá I ‘clase de avispa’		None
 1650	ɸ o p a	9		insect	Marinawa	ɸopa		ɸ o p a		None		§106	M ɸopa		None
-1651	v o ̃.p a	725		manioc, cassava	Marubo	võpa		v o ̃.p a		None		§106	Mar **võpa ‘nome próprio’		1
+1651	v o ∼.p a	725		manioc, cassava	Marubo	võpa		v o ∼.p a		None		§106	Mar **võpa ‘nome próprio’		1
 1652	β o m.p a	706		genipa	Korubo	βompa		β o m.p a		None		§106	Ko **βompa ‘nome próprio’		1
 1653	( - - - - - ) β !õ/o ( - ) s i m ( - )	10		species of otter	Proto-Panoan	βõsi[m]		β !õ/o s i m		None	Oliveira2014	§107	*βõsi[m] ‘esp. de lontra’ :		None
 1654	( - - - - - ) β !õ/o ( - ) s i m ( e )	10		species of otter	Kakataibo	βõsime		β !õ/o s i m e		None		§107	Ksh βõsime		None
@@ -2706,7 +2706,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 2709	( - - - - - ) k !ɨ̃/ɨ t ( + ) i C/n ( - - )	92		type of pot	Proto-Panoan	kɨt̃_i[C]		k !ɨ̃/ɨ t + i C/n		None	Oliveira2014	§181	*kɨt̃ i[C] ‘tipo de panela’ :		None
 2710	( m a n ɨ + ) k !ɨ̃/ɨ t ( - ) i - ( - - )	92		type of pot	Kakataibo	manɨ_kɨ̃ti		m a n ɨ + k !ɨ̃/ɨ t i		None		§181	Ksh manɨ kɨ̃ti ‘olla de metal para cocinar’		None
 2711	( - - - - - ) k !ɨ̃/ɨ t ( + ) !í/i - ( - - )	92		type of pot	ShipiboKonibo	kɨt̃_í		k !ɨ̃/ɨ t + !í/i		None		§181	SK kɨt̃ í		None
-2712	( - - - - - ) k ɨ !n.t/t ( - ) !í/i - ( - - )	92		type of pot	Kapanawa	kɨntí		k ɨ !n.t/t !í/i		None		§181	Kp kɨntí ‘olla para cocinar’		None
+2712	( - - - - - ) k ɨ n.t ( - ) !í/i - ( - - )	92		type of pot	Kapanawa	kɨntí		k ɨ n.t !í/i		None		§181	Kp kɨntí ‘olla para cocinar’		None
 2713	( - - - - - ) k ɨ t ( - ) i - ( - - )	92		type of pot	Chaninawa	kɨti		k ɨ t i		None		§181	Chan kɨti, kiti		None
 2714	( - - - - - ) k i t ( - ) i - ( - - )	92		type of pot	Chaninawa	kiti		k i t i		None		§181	Chan kɨti, kiti		None
 2715	( - - - - - ) k ɨ t ( - ) i n ( - - )	92		type of pot	Sharanawa	kɨtin		k ɨ t i n		None		§181	Shar kɨtin, kɨtinin ‘olla de barro’		None
@@ -3186,8 +3186,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3189	m a n ( - ) a n ( u n - - )	132		above	Sharanawa	mananun		m a n a n u n		None		§214	Shar mananun ‘encima;; manaon;; encima;; arriba;; más alto;;  más arriba’		None
 3190	m a n ( - ) a - ( u n - - )	132		above	Shanenawa	manaun		m a n a u n		None		§214	Shan manaun ‘em cima’		None
 3191	m a n ( - ) a ~ ( - - - - )	132		above	Amawaka	manã-		m a n a ~		II		§214	A manã- II ‘encima;; espacio desmontado’		None
-3192	m a ~.n ( - ) a ~ ( - - - - )	132		above	Kaxinawa	mãnã		m a ~.n a ~		None		§214	Kn mãnã ‘colina’		None
-3193	m a ~.n ( - ) a ~ ( k !í/i r !í/i )	132	1 2	above	Marinawa	mãnãkírí		m a ~.n a ~ k !í/i r !í/i		None		§214	M mãnãkírí ‘aguas arriba’		None
+3192	m a n ( - ) a ~ ( - - - - )	132		above	Kaxinawa	mãnã		m a n a ~		None		§214	Kn mãnã ‘colina’		None
+3193	m a n ( - ) a ~ ( k !í/i r !í/i )	132	1 2	above	Marinawa	mãnãkírí		m a n a ~ k !í/i r !í/i		None		§214	M mãnãkírí ‘aguas arriba’		None
 3194	m a n ( n ) a n ( - - - - )	132	4 5	above	Mayoruna	mannan		m a n n a n		None		§214	My mannan ‘cima;; cumbre’		None
 3195	m a rⁿ ɨ	133		metal	Proto-Panoan	ma[n]ɨ		m a rⁿ ɨ		None	Oliveira2014	§215	*ma[n]ɨ ‘metal’ :		None
 3196	m a n ɨ	133		metal	Kakataibo	manɨ		m a n ɨ		None		§215	Ksh manɨ ‘hacha;; metal;; cosas de origen extranjero’		None
@@ -3843,7 +3843,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3848	n a ʂ β !á/a ( - )	186		wide	ShipiboKonibo	naʂβá		n a ʂ β !á/a		None		§263	SK naʂβá ‘ancho y plano;;  como el río’		None
 3849	n a ʂ β !á/a ( - )	186		wide	Kapanawa	naʂβá		n a ʂ β !á/a		None		§263	Kp naʂβá ‘ancho y plano’		None
 3850	n a ʂ ɸ a ( - )	186		wide	Sharanawa	naʂɸa		n a ʂ ɸ a		None		§263	Shar naʂɸa ‘ancho’		None
-3851	- a - ʂ - f !u.a/a ( - - - )	449		tongue	Shanenawa	aʂfua		a ʂ f !u.a/a		None		§263	Shan aʂfua ‘boca’		None
+3851	- a - ʂ - f !ua/a ( - - - )	449		tongue	Shanenawa	aʂfua		a ʂ f !ua/a		None		§263	Shan aʂfua ‘boca’		None
 3852	- a - ʂ - β a ( - - - )	449		tongue	Yawanawa	aʂβa		a ʂ β a		None		§263	Yaw aʂβa ‘boca’		None
 3853	d a h β a ( - )	186		wide	Poyanawa	dahβa		d a h β a		None		§263	Poy dahβa ‘barriga’		None
 3854	n a x w a ( a )	186		wide	Amawaka	naxwaa_I		n a x w a a		None		§263	A naxwaa I ‘hueco;;  abierto’		None
@@ -4405,7 +4405,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4410	( - - ) - o ( - ) ʃ i - ( - + n i p a )	233		red	Chaninawa	oʃi_nipa		o ʃ i + n i p a		None		§305	Chan oʂi, oʃi nipa		None
 4411	( - - ) - o ( - ) ʃ i n ( - - - - - - )	233		red	Sharanawa	oʃin		o ʃ i n		None		§305	Shar oʃin		None
 4412	( - - ) - u ( - ) ʂ i n ( - - - - - - )	233		red	Shanenawa	uʂin		u ʂ i n		None	Ribeiro2005	§305	Shan uʂin (RIBEIRO; CÂNDIDO;; 2008)		None
-4413	( - - ) - o ( ~.ŋ ) ʒ i ʔ ( - - - - - - )	233		red	Katukina	õŋˈʒiʔ		o ~.ŋ ʒ i ʔ		None	Barros1987	§305	Kat ũʃi [õŋˈʒiʔ] (BARROS;; 1987)		None
+4413	( - - ) - o ( ŋ ) ʒ i ʔ ( - - - - - - )	233		red	Katukina	õŋˈʒiʔ		o ŋ ʒ i ʔ		None	Barros1987	§305	Kat ũʃi [õŋˈʒiʔ] (BARROS;; 1987)		None
 4414	( w i ) - - ( - ) ʃ i - ( - - - - - - )	233		red	Amawaka	wiʃi_I		w i ʃ i		None		§305	A wiʃi I ‘rojo’		None
 4415	( - - ) h u ( - ) ʃ i - ( - - - - - - )	233		red	Kaxinawa	huʃi		h u ʃ i		None		§305	Kn huʃi ‘rojo;; maduro’		None
 4416	( - - ) - !ó/o ( - ) ʃ i - ( - - - - - - )	233		red	Marinawa	óʃi		!ó/o ʃ i		None		§305	M óʃi		None
@@ -4644,7 +4644,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 4652	p !ã/a t u -	251		deaf	Kaxinawa	pãtu		p !ã/a t u		None		§322	Kn pãtu ‘sem orelha’, **pata ‘sordo’		None
 4653	p a t a -	663		deaf	Kaxinawa	pata		p a t a		None		§322	Kn pãtu ‘sem orelha’, **pata ‘sordo’		1
 4654	p !á/a t !ó/o -	251		deaf	Marinawa	pátó		p !á/a t !ó/o		None		§322	M pátó ‘sin oído’		None
-4655	p a !n.d/t u d	251		deaf	Mayoruna	pan.ˈdud		p a !n.d/t u d		None		§322	My pandud [pan.ˈdud] ‘persona o animal sin oreja o sin orejas;;  animal sin cuernos’		None
+4655	p a n.d u d	251		deaf	Mayoruna	pan.ˈdud		p a n.d u d		None		§322	My pandud [pan.ˈdud] ‘persona o animal sin oreja o sin orejas;;  animal sin cuernos’		None
 4656	p a ( - ) j a ( - - - - - )	252		to fan	Proto-Panoan	paya-		p a j a		None	Oliveira2014	§323	*paya- ‘abanar’ :		None
 4657	p a ( - ) j a ( - - - - - )	252		to fan	ShipiboKonibo	paya-		p a j a		None		§323	SK paya- ‘abanicar’		None
 4658	p a ( - ) j a ( t i - - - )	252		to fan	Kapanawa	payati		p a j a t i		None		§323	Kp payati ‘un abanico’		None
