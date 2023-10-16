@@ -2,6 +2,7 @@ from collections import defaultdict
 import pathlib
 import attr
 from clldutils.misc import slug
+from clldutils.markup import add_markdown_text
 from lingpy import Wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
@@ -54,6 +55,11 @@ class Dataset(BaseDataset):
             replacements=[(" ", "_")],
             first_form_only=True
             )
+
+    def cmd_readme(self, args):
+        return add_markdown_text(BaseDataset.cmd_readme(self, args),
+                                 "- the article in which we describe the digitization and creation of alignments: \n > Frederic Blum and Carlos Barrientos, “A New Dataset with Phonological Reconstructions in CLDF,” in Computer-Assisted Language Comparison in Practice, 21/06/2023, https://calc.hypotheses.org/6142.",
+                                 section='How to cite')
 
     def cmd_download(self, _):
         print("updating ...")

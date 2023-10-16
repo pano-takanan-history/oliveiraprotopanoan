@@ -9,6 +9,9 @@ If you use these data please cite
   > Oliveira, Sanderson Castro Soares de (2014). Contribuições para a reconstrução do Protopáno. Universidade de Brasília, Brasília, 2014.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
+- the article in which we describe the digitization and creation of alignments: 
+ > Frederic Blum and Carlos Barrientos, “A New Dataset with Phonological Reconstructions in CLDF,” in Computer-Assisted Language Comparison in Practice, 21/06/2023, https://calc.hypotheses.org/6142.
+
 ## Description
 
 
