@@ -58,7 +58,7 @@ class Dataset(BaseDataset):
 
     def cmd_readme(self, args):
         return add_markdown_text(BaseDataset.cmd_readme(self, args),
-                                 "- the article in which we describe the digitization and creation of alignments: \n  > Frederic Blum and Carlos Barrientos, “A New Dataset with Phonological Reconstructions in CLDF,” in Computer-Assisted Language Comparison in Practice, 21/06/2023, https://calc.hypotheses.org/6142.",
+                                 "- the article in which we describe the digitization and creation of alignments: \n  > Blum, Frederic and Barrientos, Carlos. 2023. “A New Dataset with Phonological Reconstructions in CLDF,” in Computer-Assisted Language Comparison in Practice, 21/06/2023, https://calc.hypotheses.org/6142.",
                                  section='How to cite')
 
     def cmd_download(self, _):
