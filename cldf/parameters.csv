@@ -421,7 +421,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Proto_Concept,Proto_ID,Original_Concept
 480_igarape,igarapé,,,,§478,igarapé (?)
 481_outro,other,197,OTHER,,§479,outro
 482_umnumeral,one,1493,ONE,,§480,um (numeral)
-483_canelaparteinferiordaperna,"cinnamon, lower part of leg",,,,§481,"canela, parte inferior da perna"
+483_parteinferiordaperna,lower part of leg,,,,§481,parte inferior da perna
 484_cheiro,smell,3704,ODOR (SMELL),,§482,cheiro
 485_remar,to row,1849,ROW,,§483a,remar
 486_remo,oar,3137,OAR,,§483b,remo
