@@ -45,10 +45,10 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Oliveira, Sanderson  | | original collection and analysis of data | Author
-Frederic Blum | @Tarotis | CLDF conversion | Other
-Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other
-Johann-Mattis List | @LinguList| CLDF conversion | Other
+Oliveira, Sanderson  | | original collection and analysis of data | Author |
+Frederic Blum | @FredericBlum | CLDF conversion | Other |
+Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other |
+Johann-Mattis List | @LinguList| CLDF conversion | Other |
 
 
 
