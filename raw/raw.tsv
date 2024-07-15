@@ -562,7 +562,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 562	- o !ia/a n ( - - - - )	259		to look	Sharanawa	oian		o !ia/a n		None		§33	Shar oin, oian ‘ver;; mirar’		None
 563	- !ĩ/i !ĩ/i ( - ) - ( - - - - )	564		to look	Amawaka	ĩĩ-		!ĩ/i !ĩ/i		None		§33	A **ĩĩ-, **ʔiin-ʔí (HYDE;; 1980)		1
 564	ʔ i i ( - ) n ( + ʔ !í/i - )	565		to look	Amawaka	ʔiin-ʔí		ʔ i i n + ʔ !í/i		None	Hyde1980	§33	A **ĩĩ-, **ʔiin-ʔí (HYDE;; 1980)		1
-565	- !ũ/u i ∼ ( - - - - )	259		to look	Kaxinawa	ũĩ-		!ũ/u i ∼		None		§33	Kn ũĩ-		None
+565	- !ũ/u i ∼ ( - - - - )	259		to look	Kaxinawa	ũĩ-		↓ũ/u i ∼		None		§33	Kn ũĩ-		None
 566	- !ṍ/o i ∼ ( - - - - )	259		to look	Marinawa	ṍĩ		!ṍ/o i ∼		None		§33	M ṍĩ ‘ver’		None
 567	- u i n ( + n a i )	259		to look	Katukina	uin-nai		u i n + n a i		None		§33	Kat uin-nai ‘ver’		None
 568	- u i n ( - - - - )	259		to look	Shanenawa	uin		u i n		None		§33	Shan uin ‘olhar’		None
@@ -1443,24 +1443,24 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 1444	ɸ i ( i n m a n )	507		mosquito	Sharanawa	ɸiinman		ɸ i i n m a n		None		§90	Shar ɸiin, ɸiinman ‘zancudo’		None
 1445	b i ( - u ʂ - - )	507		mosquito	Matis	biuʂ		b i u ʂ		None		§90	Mt biuʂ ‘mosquito;;  carapanã’		None
 1446	b i ( - u ʂ - - )	507		mosquito	Mayoruna	biuʂ		b i u ʂ		None		§90	My biuʂ ‘mosquito;;  zancudo’		None
-1447	( - - ) β i m i ( - )	508		fruit	Proto-Panoan	βimi		β i m i		None	Oliveira2014	§91	*βimi ‘fruto’		None
-1448	( - - ) β i m i ( - )	508		fruit	Kakataibo	βimi		β i m i		None		§91	Ksh βimi		None
-1449	( - - ) β i m i ( - )	508		fruit	ShipiboKonibo	βimi		β i m i		None		§91	SK βimi		None
-1450	( - - ) β i m i ( - )	508		fruit	Kapanawa	βimi		β i m i		None		§91	Kp βimi		None
-1451	( - - ) v i m i ( - )	508		fruit	Marubo	ˈvimi		v i m i		None		§91	Mar vimi [ˈvimi ~ ˈvĩmbi] ‘fruta’		None
-1452	( - - ) β i m i ( - )	508		fruit	Chakobo	βimi		β i m i		None		§91	Ch βimi ‘fruto’		None
-1453	( - - ) b i m i ( - )	508		fruit	Kaxarari	biˈmi		b i m i		None		§91	Kax biˈmi		None
-1454	( - - ) ɸ i m i ( - )	508		fruit	Yaminawa	ɸimi		ɸ i m i		None	Faust2002	§91	Yam ɸimi ‘fruto’ (FAUST; LOOS;; 2002)		None
-1455	( - - ) ɸ i b i ( - )	508		fruit	Chaninawa	ɸibi		ɸ i b i		None		§91	Chan ɸibi, huibi ‘fruta’		None
-1456	( h u ) - i b i ( - )	508		fruit	Chaninawa	huibi		h u i b i		None		§91	Chan ɸibi, huibi ‘fruta’		None
-1457	( - - ) ɸ i m i ( - )	508		fruit	Sharanawa	ɸimi		ɸ i m i		None		§91	Shar ɸimi, ɸimin ‘fruto’		None
-1458	( - - ) ɸ i m i ( n )	508		fruit	Sharanawa	ɸimin		ɸ i m i n		None		§91	Shar ɸimi, ɸimin ‘fruto’		None
-1459	( - - ) f i m i ( - )	508		fruit	Shanenawa	fimi		f i m i		None		§91	Shan fimi		None
-1460	( - - ) β i m i ( - )	508		fruit	Katukina	βimi		β i m i		None		§91	Kat βimi		None
-1461	( - - ) w i m i ( - )	508		fruit	Amawaka	wimi		w i m i		None		§91	A wimi		None
-1462	( - - ) b i m i ( - )	508		fruit	Kaxinawa	bimi_I		b i m i		None		§91	Kn bimi I		None
-1463	( - - ) ɸ i m i ( - )	508		fruit	Marinawa	ɸimi		ɸ i m i		None		§91	M ɸimi		None
-1464	( - - ) β i m i ( - )	508		fruit	Yawanawa	βimi		β i m i		None		§91	Yaw βimi		None
+1447	β i m i ( - )	508		fruit	Proto-Panoan	βimi		β i m i		None	Oliveira2014	§91	*βimi ‘fruto’		None
+1448	β i m i ( - )	508		fruit	Kakataibo	βimi		β i m i		None		§91	Ksh βimi		None
+1449	β i m i ( - )	508		fruit	ShipiboKonibo	βimi		β i m i		None		§91	SK βimi		None
+1450	β i m i ( - )	508		fruit	Kapanawa	βimi		β i m i		None		§91	Kp βimi		None
+1451	v i m i ( - )	508		fruit	Marubo	ˈvimi		v i m i		None		§91	Mar vimi [ˈvimi ~ ˈvĩmbi] ‘fruta’		None
+1452	β i m i ( - )	508		fruit	Chakobo	βimi		β i m i		None		§91	Ch βimi ‘fruto’		None
+1453	b i m i ( - )	508		fruit	Kaxarari	biˈmi		b i m i		None		§91	Kax biˈmi		None
+1454	ɸ i m i ( - )	508		fruit	Yaminawa	ɸimi		ɸ i m i		None	Faust2002	§91	Yam ɸimi ‘fruto’ (FAUST; LOOS;; 2002)		None
+1455	ɸ i b i ( - )	508		fruit	Chaninawa	ɸibi		ɸ i b i		None		§91	Chan ɸibi, huibi ‘fruta’		None
+1456	!hu/ɸ i b i ( - )	508		fruit	Chaninawa	huibi		!hu/ɸ i b i		None		§91	Chan ɸibi, huibi ‘fruta’		None
+1457	ɸ i m i ( - )	508		fruit	Sharanawa	ɸimi		ɸ i m i		None		§91	Shar ɸimi, ɸimin ‘fruto’		None
+1458	ɸ i m i ( n )	508		fruit	Sharanawa	ɸimin		ɸ i m i n		None		§91	Shar ɸimi, ɸimin ‘fruto’		None
+1459	f i m i ( - )	508		fruit	Shanenawa	fimi		f i m i		None		§91	Shan fimi		None
+1460	β i m i ( - )	508		fruit	Katukina	βimi		β i m i		None		§91	Kat βimi		None
+1461	w i m i ( - )	508		fruit	Amawaka	wimi		w i m i		None		§91	A wimi		None
+1462	b i m i ( - )	508		fruit	Kaxinawa	bimi_I		b i m i		None		§91	Kn bimi I		None
+1463	ɸ i m i ( - )	508		fruit	Marinawa	ɸimi		ɸ i m i		None		§91	M ɸimi		None
+1464	β i m i ( - )	508		fruit	Yawanawa	βimi		β i m i		None		§91	Yaw βimi		None
 1465	β i r a ( - )	509		marimbondo, caba	Proto-Panoan	βira		β i r a		None	Oliveira2014	§92	*βira ‘marimbondo;;  caba’		None
 1466	β i n a ( - )	509		marimbondo, caba	Kakataibo	βina		β i n a		None		§92	Ksh βina		None
 1467	β i n a ( - )	509		marimbondo, caba	ShipiboKonibo	βina		β i n a		None		§92	SK βina		None
@@ -3364,17 +3364,17 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3367	m a x ɨ	146		achiote	Amawaka	maxɨ		m a x ɨ		II		§227	A maxɨ II		None
 3368	m a ʂ ɨ	146		achiote	Kaxinawa	maʂɨ		m a ʂ ɨ		None		§227	Kn maʂɨ		None
 3369	m !á/a ʂ !ɨ́/ɨ	146		achiote	Marinawa	máʂɨ́		m !á/a ʂ !ɨ́/ɨ		None		§227	M máʂɨ́		None
-3370	m a ʂ k a t ( - - - - - )	147		atop	Proto-Panoan	maʂka[t]		m a ʂ k a t		None	Oliveira2014	§228	*maʂka[t] ‘encima;;  cume’ :		None
+3370	m a ʂ k a t ( - - - - - )	147		atop, peak	Proto-Panoan	maʂka[t]		m a ʂ k a t		None	Oliveira2014	§228	*maʂka[t] ‘encima;;  cume’ :		None
 3371	m a ʂ k !á/a - ( - - - - - )	147		head	Kakataibo	maʂká		m a ʂ k !á/a		None		§228	Ksh maʂká ‘cabeza’		None
-3372	m a ʂ k !á/a - ( - - - - - )	147		atop	ShipiboKonibo	maʂká		m a ʂ k !á/a		None		§228	SK maʂká ‘el punto más alto;; como el pico de uma montaña;; caballete del techo de uma casa’		None
-3373	m a ʃ - - - ( - - - - - )	626		atop	Kapanawa	maʃ-		m a ʃ		None		§228	Kp **maʃ- ‘encima de;; de la cabeza’		1
-3374	m a ʂ k !á/a tʃ ( - a - - - )	147		atop	Chakobo	maʂkátʃa		m a ʂ k !á/a tʃ a		None		§228	Ch maʂkátʃa		None
-3375	m a ʂ k a - ( n a n - - )	147		atop	Sharanawa	maʂkanan		m a ʂ k a n a n		None		§228	Shar maʂkanan, maʂkananun ‘encima’		None
-3376	m a ʂ k a - ( n a n u n )	147		atop	Sharanawa	maʂkananun		m a ʂ k a n a n u n		None		§228	Shar maʂkanan, maʂkananun ‘encima’		None
-3377	m !á/a x k a - ( - a - - - )	147		atop	Amawaka	máxkaa		m !á/a x k a a		None	Hyde1980	§228	A máxkaa ‘al lado de;; encima de’ (HYDE;; 1980), maxka ‘a un nível alto;; pero colidando con algo’		None
-3378	m a x k a - ( - - - - - )	147		atop	Amawaka	maxka		m a x k a		None		§228	A máxkaa ‘al lado de;; encima de’ (HYDE;; 1980), maxka ‘a un nível alto;; pero colidando con algo’		None
-3379	m a ʂ k a - ( - - - - - )	147		atop	Kaxinawa	maʂka		m a ʂ k a		None		§228	Kn maʂka ‘cima;; pico;; punto más alto’		None
-3380	m a ʂ k a d ( - - - - - )	147		atop	Mayoruna	maʂˈkad		m a ʂ k a d		None		§228	My maʂkad [maʂˈkad] ‘isla temporal, tierra firme (altura) plana’		None
+3372	m a ʂ k !á/a - ( - - - - - )	147		atop, peak	ShipiboKonibo	maʂká		m a ʂ k !á/a		None		§228	SK maʂká ‘el punto más alto;; como el pico de uma montaña;; caballete del techo de uma casa’		None
+3373	m a ʃ - - - ( - - - - - )	626		atop, peak	Kapanawa	maʃ-		m a ʃ		None		§228	Kp **maʃ- ‘encima de;; de la cabeza’		1
+3374	m a ʂ k !á/a tʃ ( - a - - - )	147		atop, peak	Chakobo	maʂkátʃa		m a ʂ k !á/a tʃ a		None		§228	Ch maʂkátʃa		None
+3375	m a ʂ k a - ( n a n - - )	147		atop, peak	Sharanawa	maʂkanan		m a ʂ k a n a n		None		§228	Shar maʂkanan, maʂkananun ‘encima’		None
+3376	m a ʂ k a - ( n a n u n )	147		atop, peak	Sharanawa	maʂkananun		m a ʂ k a n a n u n		None		§228	Shar maʂkanan, maʂkananun ‘encima’		None
+3377	m !á/a x k a - ( - a - - - )	147		atop, peak	Amawaka	máxkaa		m !á/a x k a a		None	Hyde1980	§228	A máxkaa ‘al lado de;; encima de’ (HYDE;; 1980), maxka ‘a un nível alto;; pero colidando con algo’		None
+3378	m a x k a - ( - - - - - )	147		atop, peak	Amawaka	maxka		m a x k a		None		§228	A máxkaa ‘al lado de;; encima de’ (HYDE;; 1980), maxka ‘a un nível alto;; pero colidando con algo’		None
+3379	m a ʂ k a - ( - - - - - )	147		atop, peak	Kaxinawa	maʂka		m a ʂ k a		None		§228	Kn maʂka ‘cima;; pico;; punto más alto’		None
+3380	m a ʂ k a d ( - - - - - )	147		atop, peak	Mayoruna	maʂˈkad		m a ʂ k a d		None		§228	My maʂkad [maʂˈkad] ‘isla temporal, tierra firme (altura) plana’		None
 3382	m a ʂ k o ɽ ( - )	148		to cut hair	Proto-Panoan	maʂkoɽ-		m a ʂ k o ɽ		None	Oliveira2014	§229	*maʂkoɽ- ‘cortar o cabelo’ :		None
 3383	m a ʂ k o - ( - )	148		to cut hair	Kakataibo	maʂko-		m a ʂ k o		None		§229	Ksh maʂko- ‘dar un corte de pelo’		None
 3384	m a ʂ k o - ( - )	148		to cut hair	ShipiboKonibo	maʂko-		m a ʂ k o		None		§229	SK maʂko- ‘cortar el pelo’, maʂkoɾo- ‘dar un corte de pelo;;  sacar todo el pelo’		None
@@ -3403,18 +3403,18 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3408	m a n ʃ u ( n - - - )	150		animal horn	Yawanawa	manʃun		m a n ʃ u n		None		§230	Yaw manʃun		None
 3409	m a - ʂ o ( - - - - )	150		head	Matis	maʂo		m a ʂ o		None		§230	Mt maʂo ‘cabeça’		None
 3410	m a - ʂ u ( - k u d )	150		animal horn	Mayoruna	maˈʂukud		m a ʂ u k u d		None		§230	My maʂukud [maˈʂukud] ‘caspa’		None
-3411	m a t a s ( - - - - - - )	151		to hit oneself's head	Proto-Panoan	matas		m a t a s		None	Oliveira2014	§231	*matas ‘golpear a cabeça’ :		None
-3412	m a t !á/a s ( - - - - - - )	151		to hit oneself's head	Kakataibo	matás-		m a t !á/a s		None		§231	Ksh matás- ‘clavar (con martillo)’		None
-3413	m a t !á/a s ( - - - - - - )	151		to hit oneself's head	ShipiboKonibo	matás-		m a t !á/a s		None		§231	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’		None
-3414	- - t a s ( - - - - - - )	628		to hit oneself's head	ShipiboKonibo	tas		t a s		None		§231	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’		None
-3415	- - t a s ( a - - - - - )	629		to hit oneself's head	ShipiboKonibo	tasa-		t a s a		None		§231	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’		None
-3416	m a t a s ( + k i n - - )	151		to hit oneself's head	Kapanawa	matas-kin		m a t a s + k i n		None	Loos1998	§231	Kp matas-kin ‘golpear la cabeza;;  pegar en la cabeza’ (LOOS; LOOS;; 1998)		None
-3417	m a t a x ( - k i n - - )	151		to hit oneself's head	Chakobo	mataxkin		m a t a x k i n		None	Montag1981c	§231	Ch mataxkin ‘golpear a otro en;;  tirar algo contra la cabeza’ (MONTAG;; 1981)		None
-3418	m a t a ʂ ( - - - - - - )	151		to hit oneself's head	Yaminawa	ma-taʂ		m a t a ʂ		None	Faust2002	§231	Yam ma-taʂ ‘cabeza-golpear’ (FAUST; LOOS;; 1998)		None
-3419	m a t a s ( - - - - - - )	151		to hit oneself's head	Amawaka	matas-		m a t a s		II		§231	A matas- II		None
-3420	m a t a s ( + - a - k - )	151		to hit oneself's head	Kaxinawa	matas_ak		m a t a s + a k		None	Hyde1980	§231	Kn matas ak ‘golpear dos piedras sobre la cabeza de los niños para que sean valientes y tengan corazones fuertes’ (HYDE;; 1980)		None
-3421	m a t ɨ ʃ ( + - a n t e )	151		to hit oneself's head	Korubo	matɨʃ-ante		m a t ɨ ʃ + a n t e		None		§231	Ko matɨʃ-ante ‘tesoura’		None
-3422	m a t a s ( - - - - - - )	151		to hit oneself's head	Mayoruna	maˈtas		m a t a s		None		§231	My matas [maˈtas] ‘cortar cabello’		None
+3411	m a t a s ( - - - - - - )	151		to hit (one's) head	Proto-Panoan	matas		m a t a s		None	Oliveira2014	§231	*matas ‘golpear a cabeça’ :		None
+3412	m a t !á/a s ( - - - - - - )	151		to hit (one's) head	Kakataibo	matás-		m a t !á/a s		None		§231	Ksh matás- ‘clavar (con martillo)’		None
+3413	m a t !á/a s ( - - - - - - )	151		to hit (one's) head	ShipiboKonibo	matás-		m a t !á/a s		None		§231	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’		None
+3414	- - t a s ( - - - - - - )	628		to hit (one's) head	ShipiboKonibo	tas		t a s		None		§231	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’		None
+3415	- - t a s ( a - - - - - )	629		to hit (one's) head	ShipiboKonibo	tasa-		t a s a		None		§231	SK matás- ‘machacar o meter (como clavo o poste en el suelo)’, tas ‘ruido al gopear’, tasa- ‘clavar juntos’		None
+3416	m a t a s ( + k i n - - )	151		to hit (one's) head	Kapanawa	matas-kin		m a t a s + k i n		None	Loos1998	§231	Kp matas-kin ‘golpear la cabeza;;  pegar en la cabeza’ (LOOS; LOOS;; 1998)		None
+3417	m a t a x ( - k i n - - )	151		to hit (one's) head	Chakobo	mataxkin		m a t a x k i n		None	Montag1981c	§231	Ch mataxkin ‘golpear a otro en;;  tirar algo contra la cabeza’ (MONTAG;; 1981)		None
+3418	m a t a ʂ ( - - - - - - )	151		to hit (one's) head	Yaminawa	ma-taʂ		m a t a ʂ		None	Faust2002	§231	Yam ma-taʂ ‘cabeza-golpear’ (FAUST; LOOS;; 1998)		None
+3419	m a t a s ( - - - - - - )	151		to hit (one's) head	Amawaka	matas-		m a t a s		II		§231	A matas- II		None
+3420	m a t a s ( + - a - k - )	151		to hit (one's) head	Kaxinawa	matas_ak		m a t a s + a k		None	Hyde1980	§231	Kn matas ak ‘golpear dos piedras sobre la cabeza de los niños para que sean valientes y tengan corazones fuertes’ (HYDE;; 1980)		None
+3421	m a t ɨ ʃ ( + - a n t e )	151		to hit (one's) head	Korubo	matɨʃ-ante		m a t ɨ ʃ + a n t e		None		§231	Ko matɨʃ-ante ‘tesoura’		None
+3422	m a t a s ( - - - - - - )	151		to hit (one's) head	Mayoruna	maˈtas		m a t a s		None		§231	My matas [maˈtas] ‘cortar cabello’		None
 3423	m a w a	152		to die	Proto-Panoan	mawa-		m a w a		None	Oliveira2014	§232	*mawa- ‘morrer’ :		None
 3424	m a w a	152		to die	ShipiboKonibo	mawa-		m a w a		None		§232	SK mawa-		None
 3425	m a w a	152		to die	Kapanawa	mawa-		m a w a		None		§232	Kp mawa-		None
@@ -3855,21 +3855,21 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3860	- - t ɨ ʂ ( a )	187		to bite	Chakobo	tɨʂa-		t ɨ ʂ a		None		§264	Ch tɨʂa-		None
 3861	n a t ɨ x ( - )	187		to bite	Amawaka	natɨx-_I		n a t ɨ x		None		§264	A natɨx- I		None
 3862	n a t ɨ ʂ ( - )	187		to bite	Kaxinawa	natɨʂ-		n a t ɨ ʂ		None		§264	Kn natɨʂ-		None
-3863	rⁿ a w a	188		stranger	Proto-Panoan	[n]awa		rⁿ a w a		None	Oliveira2014	§265	*[n]awa ‘estrangeiro’ :		None
-3864	n ɔ - ɔ	188		stranger	Kakataibo	nɔɔ		n ɔ ɔ		None		§265	Ksh nɔɔ ‘enemigo;;  extraño’		None
-3865	n a w a	188		stranger	ShipiboKonibo	nawa		n a w a		None		§265	SK nawa ‘forastero;; bárbaro;;  extranjero’		None
-3866	n a w a	188		stranger	Kapanawa	nawa		n a w a		None		§265	Kp nawa ‘extranjero;;  salvaje’		None
-3867	n a w a	188		stranger	Marubo	nawa		n a w a		None	Cesarino2008	§265	Mar nawa ‘estrangeiro’ (CESARINO;; 2008)		None
-3868	d a w a	188		stranger	Chaninawa	dawa		d a w a		None		§265	Chan dawa ‘mestizo’		None
-3869	n a w a	188		stranger	Sharanawa	nawa		n a w a		None		§265	Shar nawa ‘extranjero;; mestizo’		None
-3870	n a w a	188		stranger	Shanenawa	nawa		n a w a		None		§265	Shan nawa ‘homem branco’		None
-3871	d a w a	188		stranger	Poyanawa	dawa		d a w a		None		§265	Poy dawa ‘estrangeiro;;  civilizado’		None
-3872	n a - a	188		stranger	Amawaka	naa_I		n a a		None		§265	A naa I ‘gente que usa ropa’		None
-3873	n a w a	188		stranger	Kaxinawa	nawa		n a w a		None		§265	Kn nawa ‘gente;; extranjero;; extraño’		None
-3874	n a w a	188		stranger	Marinawa	nawa		n a w a		None		§265	M nawa		None
+3863	rⁿ a w a	188		foreigner	Proto-Panoan	[n]awa		rⁿ a w a		None	Oliveira2014	§265	*[n]awa ‘estrangeiro’ :		None
+3864	n ɔ - ɔ	188		foreigner	Kakataibo	nɔɔ		n ɔ ɔ		None		§265	Ksh nɔɔ ‘enemigo;;  extraño’		None
+3865	n a w a	188		foreigner	ShipiboKonibo	nawa		n a w a		None		§265	SK nawa ‘forastero;; bárbaro;;  extranjero’		None
+3866	n a w a	188		foreigner	Kapanawa	nawa		n a w a		None		§265	Kp nawa ‘extranjero;;  salvaje’		None
+3867	n a w a	188		foreigner	Marubo	nawa		n a w a		None	Cesarino2008	§265	Mar nawa ‘estrangeiro’ (CESARINO;; 2008)		None
+3868	d a w a	188		foreigner	Chaninawa	dawa		d a w a		None		§265	Chan dawa ‘mestizo’		None
+3869	n a w a	188		foreigner	Sharanawa	nawa		n a w a		None		§265	Shar nawa ‘extranjero;; mestizo’		None
+3870	n a w a	188		foreigner	Shanenawa	nawa		n a w a		None		§265	Shan nawa ‘homem branco’		None
+3871	d a w a	188		foreigner	Poyanawa	dawa		d a w a		None		§265	Poy dawa ‘estrangeiro;;  civilizado’		None
+3872	n a - a	188		foreigner	Amawaka	naa_I		n a a		None		§265	A naa I ‘gente que usa ropa’		None
+3873	n a w a	188		foreigner	Kaxinawa	nawa		n a w a		None		§265	Kn nawa ‘gente;; extranjero;; extraño’		None
+3874	n a w a	188		foreigner	Marinawa	nawa		n a w a		None		§265	M nawa		None
 3875	n a w a	188		white	Yawanawa	naua		n a w a		None		§265	Yaw naua ‘branco’, nawa ‘povo’ (SOUZA;; 2013)		None
-3876	n a w a	188		stranger	Yawanawa	nawa		n a w a		None	Souza2013	§265	Yaw naua ‘branco’, nawa ‘povo’ (SOUZA;; 2013)		None
-3877	n a w a	188		stranger	Matis	nawa		n a w a		None		§265	Mt nawa ‘não índio’		None
+3876	n a w a	188		foreigner	Yawanawa	nawa		n a w a		None	Souza2013	§265	Yaw naua ‘branco’, nawa ‘povo’ (SOUZA;; 2013)		None
+3877	n a w a	188		foreigner	Matis	nawa		n a w a		None		§265	Mt nawa ‘não índio’		None
 3878	rⁿ a w a ( - + ) β a ʔ i	189		rainbow	Proto-Panoan	[n]awa_βaʔi		rⁿ a w a + β a ʔ i		None	Oliveira2014	§266	*[n]awa βaʔi ‘arco íris’ :		None
 3879	n ɔ - ɔ ( - - ) β a - i	189		rainbow	Kakataibo	nɔɔβai		n ɔ ɔ β a i		None		§266	Ksh nɔɔβai, nɔɔ́́βai		None
 3880	n ɔ - !ɔ́/ɔ ( - - ) β a - i	189		rainbow	Kakataibo	nɔɔ́́βai		n ɔ !ɔ́/ɔ β a i		None		§266	Ksh nɔɔβai, nɔɔ́́βai		None
@@ -3883,19 +3883,19 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 3888	n a w a ( - + ) b a - i	189		rainbow	Kaxinawa	nawa_bai		n a w a + b a i		None		§266	Kn nawa bai		None
 3889	n !ã́/a w a ( - + ) ɸ a - i	189		rainbow	Marinawa	nã́wa_ɸai		n !ã́/a w a + ɸ a i		None		§266	M nã́wa ɸai ‘arco iris’		None
 3890	n a w a ( - + ) b a - i	189		rainbow	Matis	nawa_bai		n a w a + b a i		nawa <<não índio>>, bai <<caminho>>		§266	Mt nawa bai (nawa <<não índio>>;; bai <<caminho>>)		None
-3891	rⁿ a w ɨ	190		abandoned rock	Proto-Panoan	[n]awɨ		rⁿ a w ɨ		None	Oliveira2014	§267	*[n]awɨ ‘capoeira;;  roça abandonada’ :		None
-3892	n a - ɨ	190	8	abandoned rock	Kakataibo	naɨ		n a ɨ		None		§267	Ksh naɨ ‘huerto o campo en actual uso’		None
-3893	n !á/a w ɨ	190		abandoned rock	ShipiboKonibo	náwɨ		n !á/a w ɨ		None		§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
-3894	n a w ɨ	190		abandoned rock	ShipiboKonibo	nawɨ		n a w ɨ		None	Loriot1993	§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
-3895	n a w ɨ	190		abandoned rock	ShipiboKonibo	nawɨ		n a w ɨ		None		§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
-3896	n a w ɨ	190		abandoned rock	Kapanawa	nawɨ		n a w ɨ		None		§267	Kp nawɨ ‘huerto abandonado o campo en su segundo cultivo’		None
-3897	n a w ɨ	190	1	abandoned rock	Chakobo	nawɨ		n a w ɨ		None	Zingg1998	§267	Ch nawɨ ‘monte limpio’ (ZINGG;; 1998)		None
-3898	n a w ɨ	190		abandoned rock	Sharanawa	nawɨ		n a w ɨ		None		§267	Shar nawɨ ‘denso;;  tupido (vegetación de una chacra abandonada)’		None
-3899	n a - ɨ	190	1	abandoned rock	Amawaka	naɨ_I		n a ɨ		None		§267	A naɨ I ‘hierbas malas;;  huerto o campo abandonado’		None
-3900	n a w ɨ	190		abandoned rock	Kaxinawa	nawɨ-		n a w ɨ		None		§267	Kn nawɨ- ‘limpiar el área alrededor de las casas’		None
-3901	n a w ɨ	190		abandoned rock	Marinawa	nawɨ		n a w ɨ		None		§267	M nawɨ ‘huerto o campo viejo abandonado’		None
-3902	n a w ɨ	190		abandoned rock	Yawanawa	nauɨ		n a w ɨ		None		§267	Yaw nauɨ ‘fumo’		None
-3903	n a w ɨ	190		abandoned rock	Matis	nawɨ		n a w ɨ		None		§267	Mt nawɨ ‘mato’		None
+3891	rⁿ a w ɨ	190		abandoned field	Proto-Panoan	[n]awɨ		rⁿ a w ɨ		None	Oliveira2014	§267	*[n]awɨ ‘capoeira;;  roça abandonada’ :		None
+3892	n a - ɨ	190	8	abandoned field	Kakataibo	naɨ		n a ɨ		None		§267	Ksh naɨ ‘huerto o campo en actual uso’		None
+3893	n !á/a w ɨ	190		abandoned field	ShipiboKonibo	náwɨ		n !á/a w ɨ		None		§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
+3894	n a w ɨ	190		abandoned field	ShipiboKonibo	nawɨ		n a w ɨ		None	Loriot1993	§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
+3895	n a w ɨ	190		abandoned field	ShipiboKonibo	nawɨ		n a w ɨ		None		§267	SK náwɨ, nawɨ ‘purma’ (LORIOT; LAURIAULT; DAY;; 1993), nawɨ		None
+3896	n a w ɨ	190		abandoned field	Kapanawa	nawɨ		n a w ɨ		None		§267	Kp nawɨ ‘huerto abandonado o campo en su segundo cultivo’		None
+3897	n a w ɨ	190	1	abandoned field	Chakobo	nawɨ		n a w ɨ		None	Zingg1998	§267	Ch nawɨ ‘monte limpio’ (ZINGG;; 1998)		None
+3898	n a w ɨ	190		abandoned field	Sharanawa	nawɨ		n a w ɨ		None		§267	Shar nawɨ ‘denso;;  tupido (vegetación de una chacra abandonada)’		None
+3899	n a - ɨ	190	1	abandoned field	Amawaka	naɨ_I		n a ɨ		None		§267	A naɨ I ‘hierbas malas;;  huerto o campo abandonado’		None
+3900	n a w ɨ	190		abandoned field	Kaxinawa	nawɨ-		n a w ɨ		None		§267	Kn nawɨ- ‘limpiar el área alrededor de las casas’		None
+3901	n a w ɨ	190		abandoned field	Marinawa	nawɨ		n a w ɨ		None		§267	M nawɨ ‘huerto o campo viejo abandonado’		None
+3902	n a w ɨ	190		abandoned field	Yawanawa	nauɨ		n a w ɨ		None		§267	Yaw nauɨ ‘fumo’		None
+3903	n a w ɨ	190		abandoned field	Matis	nawɨ		n a w ɨ		None		§267	Mt nawɨ ‘mato’		None
 3904	rⁿ ɨ a ( - - )	191		jacamim (species of bord)	Proto-Panoan	[n]ɨa		rⁿ ɨ a		None	Oliveira2014	§268	*[n]ɨa ‘jacamim (esp. de pássaro)’ :		None
 3905	n ɨ a ( - - )	191		jacamim (species of bord)	Kakataibo	nɨa		n ɨ a		None		§268	Ksh nɨa		None
 3906	n ɨ a ( - - )	191		jacamim (species of bord)	ShipiboKonibo	nɨa		n ɨ a		None		§268	SK nɨa		None
@@ -5054,7 +5054,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5063	r a ʔ ( - - ) t ɨ ( - )	283		to fear, to be afraid	Kapanawa	raʔtɨ-		r a ʔ t ɨ		None		§351	Kp raʔtɨ-		None
 5064	r a - ( - - ) t ɨ ( - )	283		to fear, to be afraid	Chakobo	ratɨ-		r a t ɨ		None		§351	Ch ratɨ-		None
 5065	tʃ a k ɨ ( - ) t a j a ( - )	559		to fear, to be afraid	Kaxarari	tʃakɨtaˈja		tʃ a k ɨ t a j a		None	Lanes2005	§351	Kax **tʃakɨtaya [tʃakɨtaˈja] ‘ter medo’ (LANES;; 2005)		1
-5066	r a - ( - - ) t ɨ ( - )	283		to fear	Yaminawa	ratɨ		r a t ɨ		None		§351	Yam ratɨ ‘temer’		None
+5066	r a - ( - - ) t ɨ ( - )	283		to fear, to be afraid	Yaminawa	ratɨ		r a t ɨ		None		§351	Yam ratɨ ‘temer’		None
 5067	r a - ( - - ) t ɨ ( - )	283		to fear, to be afraid	Chaninawa	ratɨ-		r a t ɨ		None		§351	Chan ratɨ-		None
 5068	r a - ( - - ) t ɨ ( i )	283		to fear, to be afraid	Sharanawa	ratɨi		r a t ɨ i		None		§351	Shar ratɨi, ratɨa ‘temer;; tener miedo;; asustarse’		None
 5069	r a - ( - - ) t ɨ ( a )	283		to fear, to be afraid	Sharanawa	ratɨa		r a t ɨ a		None		§351	Shar ratɨi, ratɨa ‘temer;; tener miedo;; asustarse’		None
@@ -5107,20 +5107,20 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5116	tʃ !ɐ̃/ɐ b u ɾ u - -	286		kneecap, knee	Kaxarari	tʃɐ̃buˈɾu		tʃ !ɐ̃/ɐ b u ɾ u		None		§354	Kax tʃãburu [tʃɐ̃buˈɾu]		None
 5117	ɾ a β ɨ ʂ o ʔ -	286		kneecap, knee	Katukina	ɾaβɨˈʂoʔ		ɾ a β ɨ ʂ o ʔ		None	Cabral2010	§354	Kat raβɨʂo [ɾaβɨˈʂoʔ] (CABRAL; OLIVEIRA;; 2010)		None
 5118	r a w o x - k o	286		kneecap, knee	Amawaka	rawoxko		r a w o x k o		II		§354	A rawoxko II		None
-5119	ɽ a kʷ ɨ - ( - - - - - - )	287		to fear	Proto-Panoan	ɽakwɨ-		ɽ a kʷ ɨ		None	Oliveira2014	§355	*ɽakwɨ- ‘temer’ :		None
-5120	r a kʷ !ɨ́/ɨ - ( - - - - - - )	287		to fear	Kakataibo	rakwɨ́́		r a kʷ !ɨ́/ɨ		None		§355	Ksh rakwɨ́́ ‘temer’		None
-5121	r a k !ɨ́/ɨ - ( - - - - - - )	287		to fear	ShipiboKonibo	rakɨ́́		r a k !ɨ́/ɨ		None		§355	SK rakɨ́́		None
-5122	r a k !ɨ́/ɨ - ( - - - - - - )	287		to fear	Kapanawa	rakɨ́́		r a k !ɨ́/ɨ		None		§355	Kp rakɨ́́		None
-5123	r a k ɨ - ( - - a - - - )	287		to fear	Marubo	raˈkɨa		r a k ɨ a		None	Anonby2010	§355	Mar raˈkɨa (ANONBY; HOLBROOK;; 2010)		None
-5124	r a k ɨ - ( - - - - - - )	287		to fear	Chakobo	rakɨ-		r a k ɨ		None		§355	Ch rakɨ-		None
+5119	ɽ a kʷ ɨ - ( - - - - - - )	287		to fear, to be afraid	Proto-Panoan	ɽakwɨ-		ɽ a kʷ ɨ		None	Oliveira2014	§355	*ɽakwɨ- ‘temer’ :		None
+5120	r a kʷ !ɨ́/ɨ - ( - - - - - - )	287		to fear, to be afraid	Kakataibo	rakwɨ́́		r a kʷ !ɨ́/ɨ		None		§355	Ksh rakwɨ́́ ‘temer’		None
+5121	r a k !ɨ́/ɨ - ( - - - - - - )	287		to fear, to be afraid	ShipiboKonibo	rakɨ́́		r a k !ɨ́/ɨ		None		§355	SK rakɨ́́		None
+5122	r a k !ɨ́/ɨ - ( - - - - - - )	287		to fear, to be afraid	Kapanawa	rakɨ́́		r a k !ɨ́/ɨ		None		§355	Kp rakɨ́́		None
+5123	r a k ɨ - ( - - a - - - )	287		to fear, to be afraid	Marubo	raˈkɨa		r a k ɨ a		None	Anonby2010	§355	Mar raˈkɨa (ANONBY; HOLBROOK;; 2010)		None
+5124	r a k ɨ - ( - - - - - - )	287		to fear, to be afraid	Chakobo	rakɨ-		r a k ɨ		None		§355	Ch rakɨ-		None
 5125	tʃ a k ɨ t ( - - a j a - )	287		to fear, to be afraid	Kaxarari	tʃakɨtaˈja		tʃ a k ɨ t a j a		None	Lanes2005	§355	Kax tʃakɨtaya [tʃakɨtaˈja] ‘ter medo’ (LANES;; 2005)		None
-5126	r a k ɨ - ( + t i - - - )	287		to fear	Katukina	rakɨ-ti		r a k ɨ + t i		None		§355	Kat rakɨ-ti ‘medo’		None
-5127	r a k ɨ - ( - - - - - - )	287		to fear	Amawaka	rakɨ-_I		r a k ɨ		None		§355	A rakɨ- I		None
-5128	d a k ɨ - ( - - - - - - )	287		to fear	Kaxinawa	dakɨ-		d a k ɨ		None		§355	Kn dakɨ- ‘estar asombrado;;  avergonzado’		None
-5129	r !á/a k ɨ - ( - - - - - - )	287		to fear	Marinawa	rákɨ		r !á/a k ɨ		None		§355	M rákɨ		None
+5126	r a k ɨ - ( + t i - - - )	287		to fear, to be afraid	Katukina	rakɨ-ti		r a k ɨ + t i		None		§355	Kat rakɨ-ti ‘medo’		None
+5127	r a k ɨ - ( - - - - - - )	287		to fear, to be afraid	Amawaka	rakɨ-_I		r a k ɨ		None		§355	A rakɨ- I		None
+5128	d a k ɨ - ( - - - - - - )	287		to fear, to be afraid	Kaxinawa	dakɨ-		d a k ɨ		None		§355	Kn dakɨ- ‘estar asombrado;;  avergonzado’		None
+5129	r !á/a k ɨ - ( - - - - - - )	287		to fear, to be afraid	Marinawa	rákɨ		r !á/a k ɨ		None		§355	M rákɨ		None
 5130	ɬ a kʷ ɨ t ( - - - - - - )	287		to fear, to be afraid	Korubo	ɬakwɨt		ɬ a kʷ ɨ t		None		§355	Ko ɬakwɨt ‘ter medo’		None
 5131	d a k u d ( - - + k i n )	287		to fear, to be afraid	Matis	dakud-kin		d a k u d + k i n		None		§355	Mt dakud-kin ‘ter medo’		None
-5132	d a kʷ ɨ d ( - - - - - - )	287		to fear	Mayoruna	dakwɨd		d a kʷ ɨ d		None		§355	My dakwɨd ‘tener miedo;;  tener verguenza’		None
+5132	d a kʷ ɨ d ( - - - - - - )	287		to fear, to be afraid	Mayoruna	dakwɨd		d a kʷ ɨ d		None		§355	My dakwɨd ‘tener miedo;;  tener verguenza’		None
 5133	ɽ a k a ( - - - - - - )	288		to lie down	Proto-Panoan	ɽaka-		ɽ a k a		None	Oliveira2014	§356	*ɽaka- ‘deitar-se’ :		None
 5134	r a k a ( - - - - - - )	288		to lie down	Kakataibo	raka		r a k a		None		§356	Ksh raka		None
 5135	r a k a ( - - - - - - )	288		to lie down	ShipiboKonibo	raka-		r a k a		None		§356	SK raka-		None
@@ -5405,12 +5405,12 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5414	r o m ɨ ( - )	308		tobacco	Kakataibo	romɨ		r o m ɨ		None		§374	Ksh romɨ		None
 5415	r o m ɨ ( - )	308		tobacco	ShipiboKonibo	romɨ		r o m ɨ		None		§374	SK romɨ		None
 5416	r o m ɨ ( - )	308		tobacco	Kapanawa	romɨ		r o m ɨ		None		§374	Kp romɨ		None
-5417	r u m.b ɨ ( - )	817		tobacco	Marubo	ˈrumbɨ		r u m.b ɨ		None	Anonby2010	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
+5417	r u m.b ɨ ( - )	834		tobacco	Marubo	ˈrumbɨ		r u m.b ɨ		None	Anonby2010	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
 5418	r o m ɨ ( - )	308		tobacco	Marubo	romɨ		r o m ɨ		None	Cesarino2008	§374	Mar ˈrumbɨ ‘tabaco’ (ANONBY; HOLBROOK;; 2010), romɨ ‘tabaco’ (CESARINO;; 2008), ɾomɨ [ɾū̃mɯ]̆ ‘fumo’ (COSTA;; 1992)		None
 5420	r o m ɨ ( - )	308		tobacco	Chakobo	romɨ		r o m ɨ		None		§374	Ch romɨ		None
 5421	r o m ɨ ( - )	308		tobacco	Sharanawa	romɨ		r o m ɨ		None		§374	Shar romɨ, romɨn ‘tabaco’		None
 5422	r o m ɨ ( n )	308		tobacco	Sharanawa	romɨn		r o m ɨ n		None		§374	Shar romɨ, romɨn ‘tabaco’		None
-5423	ɾ u m ɨ ( - )	308		abandoned rock	Katukina	ɾumɨ		ɾ u m ɨ		None		§374	Kat ɾumɨ ‘fumo’		None
+5423	ɾ u m ɨ ( - )	308		tobacco	Katukina	ɾumɨ		ɾ u m ɨ		None		§374	Kat ɾumɨ ‘fumo’		None
 5424	r o m ɨ ( - )	308		tobacco	Amawaka	romɨ		r o m ɨ		II		§374	A romɨ II		None
 5425	d u m ɨ ( - )	308		tobacco	Kaxinawa	dumɨ		d u m ɨ		None		§374	Kn dumɨ		None
 5426	r o m ɨ ( - )	308		tobacco	Marinawa	romɨ		r o m ɨ		None		§374	M romɨ		None
@@ -5483,7 +5483,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5493	s a w ɨ - ( - - - )	315		to wear clothes	Katukina	sawɨ		s a w ɨ		None		§380	Kat sawɨ		None
 5494	s a - ɨ - ( - - - )	315		to wear clothes	Amawaka	saɨ-		s a ɨ		None		§380	A saɨ- ‘ponerse ropa’		None
 5495	s a w ɨ - ( - - - )	315		to wear clothes	Kaxinawa	sawɨ-		s a w ɨ		None		§380	Kn sawɨ-		None
-5496	s !á/a w !ɨ́/ɨ - ( - - - )	315		stranger	Marinawa	sáwɨ́́		s !á/a w !ɨ́/ɨ		None		§380	M sáwɨ́́ ‘gente que usa ropa’		None
+5496	s !á/a w !ɨ́/ɨ - ( - - - )	315		foreigner	Marinawa	sáwɨ́́		s !á/a w !ɨ́/ɨ		None		§380	M sáwɨ́́ ‘gente que usa ropa’		None
 5497	s a w e d ( - - - )	315		to wear clothes	Mayoruna	sa.ˈwed		s a w e d		None		§380	My saued [sa.ˈwed] ‘meter varias cosas’		None
 5498	s i rⁿ a ( - - - - - )	316		brave	Proto-Panoan	si[n]a		s i rⁿ a		None	Oliveira2014	§381	*si[n]a ‘bravo’ :		None
 5499	s i n !á/a ( - - - - - )	316		brave	Kakataibo	siná		s i n !á/a		None		§381	Ksh siná ‘feroz’		None
@@ -5517,16 +5517,16 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 5527	ʃ i ʃ i ( - - )	317		coati	Yawanawa	ʃiʃi		ʃ i ʃ i		None		§382	Yaw ʃiʃi ‘quati’		None
 5528	s i s e ( - - )	317		coati	Matis	sise		s i s e		None		§382	Mt sise ‘quati;;  lat. nasua nasua’		None
 5529	s i s e ( - - )	317		coati	Mayoruna	sise		s i s e		(pronunciación alternativa de tsise		§382	My sise ‘coati;;  lat. nasua nasua’ (pronunciación alternativa de tsise)		None
-5530	ʃ a ɽ a ( - - - - )	318		good, well	Proto-Panoan	ʃaɽa		ʃ a ɽ a		None	Oliveira2014	§383	*ʃaɽa ‘bom;;  bonito’ :		None
-5531	ʃ a r a ( - - - - )	318		good, well	Yaminawa	ʃara		ʃ a r a		None	Eakin2008	§383	Yam ʃara ‘bueno;; bonito;;  mucho’ (EAKEN;; 2008)		None
-5532	ʃ a r a ( - - - - )	318		good, well	Chaninawa	ʃara		ʃ a r a		None		§383	Chan ʃara ‘bueno’		None
-5533	ʃ a r a ( - - - - )	318		good, well	Sharanawa	ʃara		ʃ a r a		None		§383	Shar ʃara ‘bueno;; lindo;; bonito’		None
-5534	ʂ a ɾ a ( k a p a )	318		good, well	Shanenawa	ʂaɾakapa		ʂ a ɾ a k a p a		None		§383	Shan ʂaɾakapa ‘bom;; bonito’		None
-5535	ʃ a r a ( - - - - )	318		good, well	Amawaka	ʃara_I		ʃ a r a		None		§383	A ʃara I		None
-5536	ʃ a r a ( - - - - )	318		good, well	Kaxinawa	-ʃara		ʃ a r a		None		§383	Kn -ʃara ‘bien’, ʃarabu ‘útil’ (-bu <<colectivo>>;; juego 96)		None
-5537	ʃ a r a ( - - b u )	318		good, well	Kaxinawa	ʃarabu		ʃ a r a b u		(-bu <<colectivo>>, juego 96		§383	Kn -ʃara ‘bien’, ʃarabu ‘útil’ (-bu <<colectivo>>;; juego 96)		None
-5538	ʂ !á/a r a ( - - - - )	318		good, well	Marinawa	ʂára		ʂ !á/a r a		None		§383	M ʂára ‘bueno’		None
-5539	ʃ a ɾ a ( k a p a )	318		good, well	Yawanawa	ʃaɾakapa		ʃ a ɾ a k a p a		None		§383	Yaw ʃaɾakapa ‘bom;; bonito’		None
+5530	ʃ a ɽ a ( - - - - )	318		good, beautiful	Proto-Panoan	ʃaɽa		ʃ a ɽ a		None	Oliveira2014	§383	*ʃaɽa ‘bom;;  bonito’ :		None
+5531	ʃ a r a ( - - - - )	318		good, beautiful	Yaminawa	ʃara		ʃ a r a		None	Eakin2008	§383	Yam ʃara ‘bueno;; bonito;;  mucho’ (EAKEN;; 2008)		None
+5532	ʃ a r a ( - - - - )	318		good, beautiful	Chaninawa	ʃara		ʃ a r a		None		§383	Chan ʃara ‘bueno’		None
+5533	ʃ a r a ( - - - - )	318		good, beautiful	Sharanawa	ʃara		ʃ a r a		None		§383	Shar ʃara ‘bueno;; lindo;; bonito’		None
+5534	ʂ a ɾ a ( k a p a )	318		good, beautiful	Shanenawa	ʂaɾakapa		ʂ a ɾ a k a p a		None		§383	Shan ʂaɾakapa ‘bom;; bonito’		None
+5535	ʃ a r a ( - - - - )	318		good, beautiful	Amawaka	ʃara_I		ʃ a r a		None		§383	A ʃara I		None
+5536	ʃ a r a ( - - - - )	318		good, beautiful	Kaxinawa	-ʃara		ʃ a r a		None		§383	Kn -ʃara ‘bien’, ʃarabu ‘útil’ (-bu <<colectivo>>;; juego 96)		None
+5537	ʃ a r a ( - - b u )	318		good, beautiful	Kaxinawa	ʃarabu		ʃ a r a b u		(-bu <<colectivo>>, juego 96		§383	Kn -ʃara ‘bien’, ʃarabu ‘útil’ (-bu <<colectivo>>;; juego 96)		None
+5538	ʂ !á/a r a ( - - - - )	318		good, beautiful	Marinawa	ʂára		ʂ !á/a r a		None		§383	M ʂára ‘bueno’		None
+5539	ʃ a ɾ a ( k a p a )	318		good, beautiful	Yawanawa	ʃaɾakapa		ʃ a ɾ a k a p a		None		§383	Yaw ʃaɾakapa ‘bom;; bonito’		None
 5540	ʃ i k ( - - - - - - - - - )	319		chest (body-part prefix)	Proto-Panoan	ʃik		ʃ i k		None	Oliveira2014	§384	*ʃik ‘peito (prefixo parte do corpo)’ :		None
 5541	ʃ i - ( + - - - - k a n - )	319		chest (body-part prefix)	Kakataibo	ʃiˈkan		ʃ i + k a n		None		§384	Ksh ʃiˈkan, ʃi- ‘chest’ (ZARIQUIEY;; 2011), ʃiká		None
 5542	ʃ i - ( - - - - - - - - - )	319		chest (body-part prefix)	Kakataibo	ʃi-		ʃ i		None	Zariquiey2011	§384	Ksh ʃiˈkan, ʃi- ‘chest’ (ZARIQUIEY;; 2011), ʃiká		None
@@ -6898,17 +6898,17 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 6908	w i n ( - - - - - - - - )	431		to cry	Korubo	win-		w i n		None		§484	Ko win- ‘chorar’		None
 6909	w i n ( - - - - + k i n )	431		to cry	Matis	win-_kin		w i n + k i n		None		§484	Mt win- kin ‘chorar’		None
 6910	w i n ( - - - - - - - - )	431		to cry	Mayoruna	win		w i n		None		§484	My uin [win] ‘llorar’		None
-6911	w i n o ( - )	432		stick	Proto-Panoan	wino		w i n o		None	Oliveira2014	§485	*wino ‘borduna;;  bastão’ :		None
-6912	- i n o ( - )	432		stick	Kakataibo	ino		i n o		None		§485	Ksh ino		None
-6913	w i n o ( - )	432		stick	ShipiboKonibo	wino		w i n o		None		§485	SK wino		None
-6914	w i n o ( - )	432		stick	Kapanawa	wino		w i n o		None		§485	Kp wino		None
-6915	w i n o ( - )	432		stick	Marubo	ˈwino		w i n o		None	Cabral2010	§485	Mar wino [ˈwino] ~ [ˈwĩndʊ] ‘pau dos velhos e do pajé’ (CABRAL; OLIVEIRA;; 2010), wino ‘cajado de pupunheira’ (CESARINO;; 2008)		None
-6916	w i n o ( - )	432		stick	Marubo	wino		w i n o		None	Cesarino2008	§485	Mar wino [ˈwino] ~ [ˈwĩndʊ] ‘pau dos velhos e do pajé’ (CABRAL; OLIVEIRA;; 2010), wino ‘cajado de pupunheira’ (CESARINO;; 2008)		None
-6917	ɸ i n o ( - )	432		stick	Sharanawa	ɸino		ɸ i n o		None		§485	Shar ɸino, ɸinon ‘macana;;  garrote’		None
-6918	ɸ i n o ( n )	432		stick	Sharanawa	ɸinon		ɸ i n o n		None		§485	Shar ɸino, ɸinon ‘macana;;  garrote’		None
-6919	w i n o ( - )	432		stick	Amawaka	wino_I		w i n o		None		§485	A wino I		None
-6920	b i n u ( - )	432		stick	Kaxinawa	binu		b i n u		None		§485	Kn binu		None
-6921	ɸ i n o ( - )	432		stick	Marinawa	ɸino		ɸ i n o		None		§485	M ɸino		None
+6911	w i n o ( - )	432		borduna, walking stick	Proto-Panoan	wino		w i n o		None	Oliveira2014	§485	*wino ‘borduna;;  bastão’ :		None
+6912	- i n o ( - )	432		borduna, walking stick	Kakataibo	ino		i n o		None		§485	Ksh ino		None
+6913	w i n o ( - )	432		borduna, walking stick	ShipiboKonibo	wino		w i n o		None		§485	SK wino		None
+6914	w i n o ( - )	432		borduna, walking stick	Kapanawa	wino		w i n o		None		§485	Kp wino		None
+6915	w i n o ( - )	432		borduna, walking stick	Marubo	ˈwino		w i n o		None	Cabral2010	§485	Mar wino [ˈwino] ~ [ˈwĩndʊ] ‘pau dos velhos e do pajé’ (CABRAL; OLIVEIRA;; 2010), wino ‘cajado de pupunheira’ (CESARINO;; 2008)		None
+6916	w i n o ( - )	432		borduna, walking stick	Marubo	wino		w i n o		None	Cesarino2008	§485	Mar wino [ˈwino] ~ [ˈwĩndʊ] ‘pau dos velhos e do pajé’ (CABRAL; OLIVEIRA;; 2010), wino ‘cajado de pupunheira’ (CESARINO;; 2008)		None
+6917	ɸ i n o ( - )	432		borduna, walking stick	Sharanawa	ɸino		ɸ i n o		None		§485	Shar ɸino, ɸinon ‘macana;;  garrote’		None
+6918	ɸ i n o ( n )	432		borduna, walking stick	Sharanawa	ɸinon		ɸ i n o n		None		§485	Shar ɸino, ɸinon ‘macana;;  garrote’		None
+6919	w i n o ( - )	432		borduna, walking stick	Amawaka	wino_I		w i n o		None		§485	A wino I		None
+6920	b i n u ( - )	432		borduna, walking stick	Kaxinawa	binu		b i n u		None		§485	Kn binu		None
+6921	ɸ i n o ( - )	432		borduna, walking stick	Marinawa	ɸino		ɸ i n o		None		§485	M ɸino		None
 6922	w i rⁿ o ( - - - - - - )	433		to pass by	Proto-Panoan	wi[n]o-		w i rⁿ o		None	Oliveira2014	§486	*wi[n]o- ‘passar’ :		None
 6923	- i n o ( - - - - - - )	433		to pass by	Kakataibo	ino		i n o		None		§486	Ksh ino		None
 6924	w i n o ( - - - - - - )	433		to pass by	ShipiboKonibo	wino-		w i n o		None		§486	SK wino-		None
@@ -7237,28 +7237,28 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	MORPHEMES	COMMENT	S
 7247	j u m ɨ ts u ( - )	459		to steal	Kaxinawa	yumɨtsu-		j u m ɨ ts u		None		§508	Kn yumɨtsu- ‘robar’		None
 7248	j !ó/o m ɨ ts o ( - )	459		to steal	Marinawa	yómɨtso		j !ó/o m ɨ ts o		None		§508	M yómɨtso ‘ladrón’, yómɨtso-		None
 7249	j !ó/o m ɨ ts o ( - )	459		to steal	Marinawa	yómɨtso-		j !ó/o m ɨ ts o		None		§508	M yómɨtso ‘ladrón’, yómɨtso-		None
-7250	j o ɽ a ( - )	460		person, human body	Proto-Panoan	yoɽa		j o ɽ a		None	Oliveira2014	§509	*yoɽa ‘gente;;  corpo humano’ :		None
-7251	- - r a ( - )	746		person, human body	Kakataibo	ra-		r a		None		§509	Ksh **ra- ‘body;; flesh;;  skin’		1
-7252	j o r a ( - )	460		person, human body	ShipiboKonibo	yora		j o r a		None		§509	SK yora		None
-7253	j o r a ( - )	460		person, human body	Kapanawa	yora		j o r a		None		§509	Kp yora ‘cuerpo;;  gente’		None
+7250	j o ɽ a ( - )	460		people, human body	Proto-Panoan	yoɽa		j o ɽ a		None	Oliveira2014	§509	*yoɽa ‘gente;;  corpo humano’ :		None
+7251	- - r a ( - )	746		people, human body	Kakataibo	ra-		r a		None		§509	Ksh **ra- ‘body;; flesh;;  skin’		1
+7252	j o r a ( - )	460		people, human body	ShipiboKonibo	yora		j o r a		None		§509	SK yora		None
+7253	j o r a ( - )	460		people, human body	Kapanawa	yora		j o r a		None		§509	Kp yora ‘cuerpo;;  gente’		None
 7254	j o r a ( - )	460		shade	Marubo	ˈyora		j o r a		None	Anonby2010	§509	Mar ˈyora ‘gente’ (ANONBY; HOLBROOK;; 2010), yora ‘pessoa;;  corpo’ (CESARINO;; 2008)		None
-7255	j o r a ( - )	460		person, human body	Marubo	yora		j o r a		None	Cesarino2008	§509	Mar ˈyora ‘gente’ (ANONBY; HOLBROOK;; 2010), yora ‘pessoa;;  corpo’ (CESARINO;; 2008)		None
-7256	j o r a ( - )	460		person, human body	Chakobo	ˈyora		j o r a		None		§509	Ch ˈyora ‘cuerpo;;  persona’		None
-7257	j o r a ( - )	460		person, human body	Yaminawa	yora		j o r a		None		§509	Yam yora, yorã ‘cuerpo;; gente;;  persona del mismo grupo étnico’		None
-7258	j o r a ( ∼ )	460		person, human body	Yaminawa	yorã		j o r a ∼		None		§509	Yam yora, yorã ‘cuerpo;; gente;;  persona del mismo grupo étnico’		None
-7259	j u ɾ a ( - )	460		person, human body	Chaninawa	yuɾa		j u ɾ a		None		§509	Chan yuɾa, yora		None
-7260	j o r a ( - )	460		person, human body	Chaninawa	yora		j o r a		None		§509	Chan yuɾa, yora		None
-7261	j o r a ( - )	460		person, human body	Sharanawa	yora		j o r a		None		§509	Shar yora, yoran ‘cuerpo;; gente;;  paisano’		None
-7262	j o r a ( n )	460		person, human body	Sharanawa	yoran		j o r a n		None		§509	Shar yora, yoran ‘cuerpo;; gente;;  paisano’		None
-7263	j u ɾ a ( - )	460		person, human body	Shanenawa	yuɾa		j u ɾ a		None		§509	Shan yuɾa ‘pessoa’		None
-7264	j u r a ( - )	460		person, human body	Katukina	yura		j u r a		None		§509	Kat yura ‘corpo humano’		None
-7265	j o r a ( - )	460		person, human body	Amawaka	yora		j o r a		II		§509	A yora II		None
-7266	j u r a ( - )	460		person, human body	Kaxinawa	yura		j u r a		None		§509	Kn yura ‘cuerpo’		None
-7267	j !ó/o r !á/a ( - )	460		person, human body	Marinawa	yórá		j !ó/o r !á/a		None		§509	M yórá		None
+7255	j o r a ( - )	460		people, human body	Marubo	yora		j o r a		None	Cesarino2008	§509	Mar ˈyora ‘gente’ (ANONBY; HOLBROOK;; 2010), yora ‘pessoa;;  corpo’ (CESARINO;; 2008)		None
+7256	j o r a ( - )	460		people, human body	Chakobo	ˈyora		j o r a		None		§509	Ch ˈyora ‘cuerpo;;  persona’		None
+7257	j o r a ( - )	460		people, human body	Yaminawa	yora		j o r a		None		§509	Yam yora, yorã ‘cuerpo;; gente;;  persona del mismo grupo étnico’		None
+7258	j o r a ( ∼ )	460		people, human body	Yaminawa	yorã		j o r a ∼		None		§509	Yam yora, yorã ‘cuerpo;; gente;;  persona del mismo grupo étnico’		None
+7259	j u ɾ a ( - )	460		people, human body	Chaninawa	yuɾa		j u ɾ a		None		§509	Chan yuɾa, yora		None
+7260	j o r a ( - )	460		people, human body	Chaninawa	yora		j o r a		None		§509	Chan yuɾa, yora		None
+7261	j o r a ( - )	460		people, human body	Sharanawa	yora		j o r a		None		§509	Shar yora, yoran ‘cuerpo;; gente;;  paisano’		None
+7262	j o r a ( n )	460		people, human body	Sharanawa	yoran		j o r a n		None		§509	Shar yora, yoran ‘cuerpo;; gente;;  paisano’		None
+7263	j u ɾ a ( - )	460		people, human body	Shanenawa	yuɾa		j u ɾ a		None		§509	Shan yuɾa ‘pessoa’		None
+7264	j u r a ( - )	460		people, human body	Katukina	yura		j u r a		None		§509	Kat yura ‘corpo humano’		None
+7265	j o r a ( - )	460		people, human body	Amawaka	yora		j o r a		II		§509	A yora II		None
+7266	j u r a ( - )	460		people, human body	Kaxinawa	yura		j u r a		None		§509	Kn yura ‘cuerpo’		None
+7267	j !ó/o r !á/a ( - )	460		people, human body	Marinawa	yórá		j !ó/o r !á/a		None		§509	M yórá		None
 7268	j u ɾ a ( - )	460		shade	Yawanawa	iuɾa		j u ɾ a		None		§509	Yaw iuɾa ‘gente’		None
-7269	ɬ a ɬ a ( - )	747		person, human body	Korubo	ɬaɬa		ɬ a ɬ a		None		§509	Ko **ɬaɬa ‘hombre’		1
-7270	d a d a ( - )	748		person, human body	Matis	dada		d a d a		None		§509	Mt **dada ‘corpo;;  homem’		1
-7271	d a r a ( - )	749		person, human body	Mayoruna	daˈra		d a r a		None		§509	My **dada [daˈra] ‘cuerpo;;  torso;;  hombre desconocido’		1
+7269	ɬ a ɬ a ( - )	747		people, human body	Korubo	ɬaɬa		ɬ a ɬ a		None		§509	Ko **ɬaɬa ‘hombre’		1
+7270	d a d a ( - )	748		people, human body	Matis	dada		d a d a		None		§509	Mt **dada ‘corpo;;  homem’		1
+7271	d a r a ( - )	749		people, human body	Mayoruna	daˈra		d a r a		None		§509	My **dada [daˈra] ‘cuerpo;;  torso;;  hombre desconocido’		1
 7272	j o o s i ( - - - - - )	462		to grow	Proto-Panoan	yo[o]si		j o o s i		None	Oliveira2014	§510	*yo[o]si ‘crescer’ :		None
 7273	- u - s i ( - - - - - )	462		to grow	Kakataibo	usi		u s i		None		§510	Ksh usi ‘antecesores’		None
 7274	j o - s i ( - - - - - )	462		to grow	ShipiboKonibo	yosi		j o s i		None		§510	SK yosi		None

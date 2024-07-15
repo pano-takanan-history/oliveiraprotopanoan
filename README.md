@@ -19,6 +19,9 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://repositorio.unb.br/handle/10482/17129
 
+
+Conceptlists in Concepticon:
+- [Oliveira-2014-517](https://concepticon.clld.org/contributions/Oliveira-2014-517)
 ## Statistics
 
 
@@ -29,26 +32,26 @@ Available online at https://repositorio.unb.br/handle/10482/17129
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 20
-- **Concepts:** 470
+- **Varieties:** 20 (linked to 18 different Glottocodes)
+- **Concepts:** 469 (linked to 302 different Concepticon concept sets)
 - **Lexemes:** 7,305
 - **Sources:** 43
 - **Synonymy:** 1.23
-- **Cognacy:** 7,305 cognates in 833 cognate sets (312 singletons)
+- **Cognacy:** 7,305 cognates in 834 cognate sets (314 singletons)
 - **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
-- **Tokens:** 32,289
-- **Segments:** 136 (0 BIPA errors, 0 CLTS sound class errors, 136 CLTS modified)
-- **Inventory size (avg):** 36.40
+- **Tokens:** 32,288
+- **Segments:** 138 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
+- **Inventory size (avg):** 36.45
 
 # Contributors
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Oliveira, Sanderson  | | original collection and analysis of data | Author |
-Frederic Blum | @FredericBlum | CLDF conversion | Other |
-Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other |
-Johann-Mattis List | @LinguList| CLDF conversion | Other |
+Frederic Blum | @FredericBlum | CLDF conversion | Editor |
+Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Editor |
+Johann-Mattis List | @LinguList| CLDF conversion | Editor |
 
 
 
