@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/oliveiraprotopanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2.0-1-g3b85e07",
+            "dc:created": "v1.2.0-2-gf83d66a",
             "dc:title": "Repository"
         },
         {
