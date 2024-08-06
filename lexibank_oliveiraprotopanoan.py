@@ -46,6 +46,7 @@ class CustomLexeme(Lexeme):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "oliveiraprotopanoan"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     language_class = CustomLanguage
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
@@ -95,26 +96,19 @@ class Dataset(BaseDataset):
         concepts = defaultdict()
         proto_concepts = defaultdict()
 
-        # Proto Concepts: New
-        proto_list = self.etc_dir.read_csv(
-            "proto_concepts.tsv",
-            delimiter="\t",
-            dicts=True
-            )
-
-        for e, concept in enumerate(proto_list):
-            idx = str(e) + "_" + slug(concept["GLOSS"])
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["ENGLISH"],
-                Original_Concept=concept["GLOSS"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                Proto_ID=concept["PROTO_ID"]
+                Name=concept.english,
+                Original_Concept=concept.gloss,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                Proto_ID=concept.attributes["proto_id"]
                 )
 
-            concepts[concept["ENGLISH"]] = idx
-            proto_concepts[concept["PROTO_ID"]] = concept["ENGLISH"]
+            concepts[concept.english] = idx
+            proto_concepts[concept.attributes["proto_id"]] = concept.english
 
         # Other Concepts
         other_concepts = self.etc_dir.read_csv(
