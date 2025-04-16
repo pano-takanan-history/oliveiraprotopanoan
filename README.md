@@ -1,6 +1,6 @@
 # CLDF dataset derived from Oliveira's "Contribuições para a Reconstrução do Protopáno" from 2014
 
-[![CLDF validation](https://github.com/pano-tacanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/pano-takanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-takanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -25,7 +25,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/pano-tacanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/pano-takanan-history/oliveiraprotopanoan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-takanan-history/oliveiraprotopanoan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 66%](https://img.shields.io/badge/Concepticon-66%25-orange.svg "Concepticon: 66%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

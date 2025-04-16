@@ -8,7 +8,6 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
-from pyedictor import fetch
 
 
 def unmerge(sequence):
@@ -61,32 +60,6 @@ class Dataset(BaseDataset):
         return add_markdown_text(BaseDataset.cmd_readme(self, args),
                                  "- the article in which we describe the digitization and creation of alignments: \n  > Blum, Frederic and Barrientos, Carlos. 2023. “A New Dataset with Phonological Reconstructions in CLDF,” in Computer-Assisted Language Comparison in Practice, 21/06/2023, https://calc.hypotheses.org/6142.",
                                  section='How to cite')
-
-    def cmd_download(self, _):
-        print("updating ...")
-        with open(self.raw_dir.joinpath("raw.tsv"), "w", encoding="utf-8") as f:
-            f.write(
-                fetch(
-                    "oliveiraprotopanoan",
-                    columns=[
-                        "ALIGNMENT",
-                        "COGID",
-                        "COGIDS",
-                        "CONCEPT",
-                        "DOCULECT",
-                        "FORM",
-                        "VALUE",
-                        "TOKENS",
-                        "MORPHEMES",
-                        "COMMENT",
-                        "SOURCE",
-                        "PROTO_SET",
-                        "ENTRY_IN_SOURCE",
-                        "CONCEPT_IN_SOURCE",
-                        "UNCERTAIN_COGNACY"
-                    ],
-                )
-            )
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
